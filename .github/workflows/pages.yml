@@ -1,9 +1,13 @@
 # Build and deploy this instance's 浪尖雷达 / Breaker Delta site.
 # This repo holds DATA only. The generator lives in the engine repo
-# (daiyanze/breaker-delta); CI checks it out, overlays this repo's data
-# onto the engine tree, builds, and deploys the result to this repo's
-# GitHub Pages: https://daiyanze.github.io/breaker-delta-data/
+# (daiyanze/breaker-delta); CI checks it out, builds the Node CLI bundle,
+# and builds this repo's data with it. Deploys to this repo's GitHub Pages:
+# https://daiyanze.github.io/breaker-delta-data/
 # Requires Pages enabled in this repo's Settings (Source: GitHub Actions).
+#
+# 2026-11-15: build switched from Python (python -m radar.publish) to the
+# Node CLI bundle (@breaker-delta/cli). Rollback: restore the setup-python
+# + overlay + `python -m radar.publish` steps from git history.
 name: pages
 
 on:
@@ -35,30 +39,27 @@ jobs:
           repository: daiyanze/breaker-delta
           ref: main
           path: engine
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-node@v4
         with:
-          python-version: "3.12"
-      - name: Overlay instance data onto the engine tree
-        run: |
-          cp -r editions/. engine/editions/
-          mkdir -p engine/state
-          cp -r state/. engine/state/
-          cp seen-topics.md track-record.md engine/
-          # Instance config is optional: the engine falls back to its
-          # config.example.* when neither file exists in this repo.
-          for f in config.yaml config.json; do
-            if [ -f "$f" ]; then cp "$f" engine/; fi
-          done
-      - name: Generate site
+          node-version: "22"
+      - name: Build the Breaker Delta CLI bundle
         working-directory: engine
+        run: |
+          npm ci
+          npm run bundle
+      - name: Generate site
         env:
           TS_BASE_URL: https://daiyanze.github.io/breaker-delta-data/
           TS_DATA_REPO: daiyanze/breaker-delta-data
-        run: python -m radar.publish
+        run: >-
+          node engine/apps/cli/dist/breaker-delta.mjs
+          --data-dir "$GITHUB_WORKSPACE"
+          --root-dir "$GITHUB_WORKSPACE/engine"
+          publish --out "$GITHUB_WORKSPACE/site"
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: engine/site
+          path: site
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
