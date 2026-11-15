@@ -15,7 +15,7 @@
 | `seen-topics.md` | 台账的人读版，和上面的 JSON 对应 |
 | `track-record.md` | 战绩台账：已发布期次的 🔥必看 / 👀关注 逐条登记，D+14 到期复核；站点「🏆 战绩」页由它在构建时生成 |
 | `config.yaml` / `config.json` | （可选）个人配置：关键词静音/加权/提醒、每源开关等。放了就覆盖引擎的示例配置，不放则用引擎的 `config.example.*` |
-| `.github/ISSUE_TEMPLATE/seed.md` | 投苗模板 |
+| `.github/ISSUE_TEMPLATE/echo.md` | 投波模板 |
 
 ## 投苗
 
