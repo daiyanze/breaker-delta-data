@@ -1,0 +1,415 @@
+{
+  "topics": [
+    {
+      "name": "Nvidia 董事会拟罢免黄仁勋",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "sources": [
+        "WSJ",
+        "Hacker News",
+        "Reddit"
+      ],
+      "history": [
+        {
+          "date": "2026-11-12",
+          "grade": "must"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-12"
+      }
+    },
+    {
+      "name": "DeepSeek dsh-superagent + V4.1-Flash-1017",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "sources": [
+        "GitHub",
+        "Hugging Face"
+      ],
+      "history": [
+        {
+          "date": "2026-11-12",
+          "grade": "must"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-12"
+      }
+    },
+    {
+      "name": "United 航空禁 AI agent 订票",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "sources": [
+        "Google News",
+        "Hacker News"
+      ],
+      "history": [
+        {
+          "date": "2026-11-12",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-12"
+      }
+    },
+    {
+      "name": "Anthropic IPO",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
+      "sources": [
+        "Reddit",
+        "Google News"
+      ],
+      "history": [
+        {
+          "date": "2026-11-12",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-12"
+      }
+    },
+    {
+      "name": "Gemini Decisions API",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "sources": [
+        "blog.google",
+        "Hacker News"
+      ],
+      "history": [
+        {
+          "date": "2026-11-12",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-12"
+      }
+    },
+    {
+      "name": "craft-anything",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "sources": [
+        "GitHub"
+      ],
+      "history": [
+        {
+          "date": "2026-11-12",
+          "grade": "seed"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-12"
+      }
+    },
+    {
+      "name": "unslop",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "sources": [
+        "GitHub"
+      ],
+      "history": [
+        {
+          "date": "2026-11-12",
+          "grade": "seed"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-12"
+      }
+    },
+    {
+      "name": "Agent skills 集群",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "sources": [
+        "GitHub",
+        "Hacker News"
+      ],
+      "history": [
+        {
+          "date": "2026-11-12",
+          "grade": "seed"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-12"
+      }
+    },
+    {
+      "name": "Qwen4-Max Preview + Qwen Code 1.0",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "sources": [
+        "Reddit"
+      ],
+      "history": [
+        {
+          "date": "2026-11-12",
+          "grade": "must"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-12"
+      }
+    },
+    {
+      "name": "Claude Fable 5.2 / Mythos 5.2",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "sources": [
+        "Reddit"
+      ],
+      "history": [
+        {
+          "date": "2026-11-12",
+          "grade": "must"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-12"
+      }
+    },
+    {
+      "name": "Gemini 4 Carbon",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
+      "sources": [
+        "Google News"
+      ],
+      "history": [
+        {
+          "date": "2026-11-12",
+          "grade": "must"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-12"
+      }
+    },
+    {
+      "name": "Gemini Robotics 2.5 + AlphaGenome 2",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "sources": [
+        "Google News"
+      ],
+      "history": [
+        {
+          "date": "2026-11-12",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-12"
+      }
+    },
+    {
+      "name": "Google 48 个 AI Agent 发现玛雅金字塔",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "sources": [
+        "Hacker News"
+      ],
+      "history": [
+        {
+          "date": "2026-11-12",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-12"
+      }
+    },
+    {
+      "name": "AWS 官方 AWS 模拟器",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "sources": [
+        "Hacker News"
+      ],
+      "history": [
+        {
+          "date": "2026-11-12",
+          "grade": "seed"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-12"
+      }
+    },
+    {
+      "name": "Meta Muse Ember",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "sources": [
+        "Product Hunt",
+        "Reddit"
+      ],
+      "history": [
+        {
+          "date": "2026-11-12",
+          "grade": "seed"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-12"
+      }
+    },
+    {
+      "name": "meta/astryx",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
+      "sources": [
+        "GitHub"
+      ],
+      "history": [
+        {
+          "date": "2026-11-12",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-12"
+      }
+    },
+    {
+      "name": "MiniMax H3-Image",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
+      "sources": [
+        "Hugging Face",
+        "Product Hunt",
+        "Reddit"
+      ],
+      "history": [
+        {
+          "date": "2026-11-12",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-12"
+      }
+    },
+    {
+      "name": "Apple 本地 AI Mac 应用 Llamalook",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
+      "sources": [
+        "Hacker News",
+        "Reddit"
+      ],
+      "history": [
+        {
+          "date": "2026-11-12",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-12"
+      }
+    },
+    {
+      "name": "Nod by n8n",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
+      "sources": [
+        "Product Hunt"
+      ],
+      "history": [
+        {
+          "date": "2026-11-12",
+          "grade": "seed"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-12"
+      }
+    },
+    {
+      "name": "Tether BotPsy-0.8B",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "sources": [
+        "Hugging Face"
+      ],
+      "history": [
+        {
+          "date": "2026-11-12",
+          "grade": "seed"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-12"
+      }
+    }
+  ]
+}

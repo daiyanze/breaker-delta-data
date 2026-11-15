@@ -1,0 +1,64 @@
+# Build and deploy this instance's 浪尖雷达 / Breaker Delta site.
+# This repo holds DATA only. The generator lives in the engine repo
+# (daiyanze/breaker-delta); CI checks it out, overlays this repo's data
+# onto the engine tree, builds, and deploys the result to this repo's
+# GitHub Pages: https://daiyanze.github.io/breaker-delta-data/
+# Requires Pages enabled in this repo's Settings (Source: GitHub Actions).
+name: pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out data repo
+        uses: actions/checkout@v4
+      - name: Check out engine repo
+        uses: actions/checkout@v4
+        with:
+          repository: daiyanze/breaker-delta
+          ref: main
+          path: engine
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Overlay instance data onto the engine tree
+        run: |
+          cp -r editions/. engine/editions/
+          mkdir -p engine/state
+          cp -r state/. engine/state/
+          cp seen-topics.md track-record.md engine/
+          # Instance config is optional: the engine falls back to its
+          # config.example.* when neither file exists in this repo.
+          for f in config.yaml config.json; do
+            if [ -f "$f" ]; then cp "$f" engine/; fi
+          done
+      - name: Generate site
+        working-directory: engine
+        env:
+          TS_BASE_URL: https://daiyanze.github.io/breaker-delta-data/
+          TS_DATA_REPO: daiyanze/breaker-delta-data
+        run: python -m radar.publish
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: engine/site
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
