@@ -1,28 +1,6 @@
 {
   "topics": [
     {
-      "name": "Nvidia 董事会拟罢免黄仁勋",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "sources": [
-        "WSJ",
-        "Hacker News",
-        "Reddit"
-      ],
-      "history": [
-        {
-          "date": "2026-11-12",
-          "grade": "must"
-        }
-      ],
-      "review": {
-        "due": null,
-        "result": null,
-        "checked_on": null,
-        "_first_seen": "2026-11-12"
-      }
-    },
-    {
       "name": "DeepSeek dsh-superagent + V4.1-Flash-1017",
       "first_seen": "2026-11-12",
       "last_seen": "2026-11-12",
@@ -67,15 +45,23 @@
     {
       "name": "Anthropic IPO",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-16",
       "sources": [
         "Reddit",
-        "Google News"
+        "Google News",
+        "CNBC",
+        "The Economist",
+        "WSJ",
+        "Bloomberg"
       ],
       "history": [
         {
           "date": "2026-11-12",
           "grade": "watch"
+        },
+        {
+          "date": "2026-11-16",
+          "grade": "must"
         }
       ],
       "review": {
@@ -409,6 +395,180 @@
         "result": null,
         "checked_on": null,
         "_first_seen": "2026-11-12"
+      }
+    },
+    {
+      "name": "黄仁勋辞职",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-16",
+      "sources": [
+        "Financial Times",
+        "Hacker News",
+        "Reddit",
+        "TechCrunch",
+        "The Verge",
+        "WSJ",
+        "Wikipedia"
+      ],
+      "history": [
+        {
+          "date": "2026-11-12",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-16",
+          "grade": "must"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-16"
+      }
+    },
+    {
+      "name": "美团 LongCat-2.5",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "sources": [
+        "The Decoder",
+        "Hugging Face",
+        "Reddit"
+      ],
+      "history": [
+        {
+          "date": "2026-11-16",
+          "grade": "must"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-16"
+      }
+    },
+    {
+      "name": "DRAM 反垄断诉讼",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "sources": [
+        "Hacker News",
+        "Reddit",
+        "WCCFTech"
+      ],
+      "history": [
+        {
+          "date": "2026-11-16",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-16"
+      }
+    },
+    {
+      "name": "Lovable 应用大规模数据泄露",
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
+      "sources": [
+        "Hacker News"
+      ],
+      "history": [
+        {
+          "date": "2026-11-16",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-15"
+      }
+    },
+    {
+      "name": "DeepSeek-V4-Pro 非官方 uncensored 衍生版",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "sources": [
+        "Hugging Face"
+      ],
+      "history": [
+        {
+          "date": "2026-11-16",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-16"
+      }
+    },
+    {
+      "name": "FFmpeg-GUI-Editor-Windows",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "sources": [
+        "GitHub"
+      ],
+      "history": [
+        {
+          "date": "2026-11-16",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-16"
+      }
+    },
+    {
+      "name": "EUROPA 欧盟近万亿参数开源模型",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "sources": [
+        "Reddit"
+      ],
+      "history": [
+        {
+          "date": "2026-11-16",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-16"
+      }
+    },
+    {
+      "name": "SpaceX 星舰 Flight 15 首次接住飞船",
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
+      "sources": [
+        "Hacker News"
+      ],
+      "history": [
+        {
+          "date": "2026-11-16",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-15"
       }
     }
   ]

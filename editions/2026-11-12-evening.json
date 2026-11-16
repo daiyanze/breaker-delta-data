@@ -20,7 +20,19 @@
         "https://news.ycombinator.com/item?id=50459703"
       ],
       "body": "WSJ 11 月 11 日报道：董事会正准备罢免 CEO 黄仁勋，事由为两段婚外情（其一涉及被美方怀疑为中国情报人员的 Alice Huang，另一位为其下属高管）；董事会最早 11 月 12 日开会决定其去留。黄仁勋 11 月 8 日已在内部信中承认不忠并道歉。消息后英伟达股价盘后跌约 8%，Polymarket 上黄仁勋年内离职的概率升至 77%。HN 960 分 / 1,298 评，Reddit r/technology 与 r/LocalLLaMA 多帖热议。注意：同期流传的仿 WSJ 截图多为伪造，以 WSJ 原文为准。",
-      "action": "仅记录；社会观察角度可写 tweet，不跟进八卦细节。"
+      "action": "仅记录；社会观察角度可写 tweet，不跟进八卦细节。",
+      "i18n": {
+        "en": {
+          "action": "Log only; a tweet from a social-observation angle is fine, don't follow the gossip details.",
+          "body": "WSJ reported on November 11: the board is preparing to oust CEO Jensen Huang over two extramarital affairs (one involving Alice Huang, suspected by the US side of being a Chinese intelligence operative, the other a subordinate executive); the board would meet as early as November 12 to decide his fate. Huang had already admitted the infidelity and apologized in an internal letter on November 8. After the news, Nvidia shares fell about 8% after hours, and the probability on Polymarket that Huang leaves within the year rose to 77%. HN 960 points / 1,298 comments, with heated discussion across multiple posts on Reddit r/technology and r/LocalLLaMA. Note: many of the purported WSJ screenshots circulating at the same time are forged; go by the original WSJ article.",
+          "title": "Nvidia Board Set to Oust Jensen Huang"
+        },
+        "ja": {
+          "action": "記録のみ。社会観察の角度でのtweetは可、ゴシップの詳細は追わない。",
+          "body": "WSJが11月11日に報道：取締役会はCEO黄仁勲の解任を準備している。理由は2件の不倫（1件は米側から中国の情報工作員と疑われているAlice Huang、もう1件は部下の幹部）。取締役会は早ければ11月12日に会合を開き、去就を決める。黄は11月8日に社内文書で不倫を認め、謝罪していた。報道後、Nvidia株は時間外で約8%下落し、Polymarketで黄が年内に退任する確率は77%まで上昇した。HN 960ポイント／1,298コメント、Redditのr/technologyとr/LocalLLaMAで複数の投稿が盛り上がった。注意：同時期に出回ったWSJ風スクリーンショットの多くは偽造であり、WSJ原文を基準とすること。",
+          "title": "Nvidia取締役会、黄仁勲CEOの解任を準備"
+        }
+      }
     },
     {
       "title": "DeepSeek dsh-superagent + V4.1-Flash-1017",
@@ -36,7 +48,19 @@
         "https://medium.com/@geekcoding101/i-ran-deepseeks-dsh-superagent-end-to-end-a-hands-on-deep-dive-c18d30d26d48"
       ],
       "body": "10 月 31 日发布的开源研究原型：监听单个 GitHub 仓库（可选飞书），自主判断哪些消息是真实工作请求，开工单、跑独立 agent 会话、回原帖交 PR。GitHub 22,631 stars，11 天日均 2,057，发布 2 天内破 9,000。配套模型 DeepSeek-V4.1-Flash-1017 在 HF 获 5,545 likes、34.9 万下载。第三方实测跑通全流程：一次会话 API 成本 $0.06，提示词缓存命中率 94–96%。作者自述仅为研究原型、非正式产品，大量工程由 coding agent 完成。",
-      "action": "深入研究；agent 自主化这条线值得写。"
+      "action": "深入研究；agent 自主化这条线值得写。",
+      "i18n": {
+        "en": {
+          "action": "Research in depth; the agent-autonomy line is worth writing about.",
+          "body": "An open-source research prototype released on October 31: it watches a single GitHub repo (Feishu optional), autonomously judges which messages are real work requests, opens tickets, runs independent agent sessions, and replies in the original thread with a PR. GitHub 22,631 stars, averaging 2,057 per day over 11 days, passing 9,000 within 2 days of release. The companion model DeepSeek-V4.1-Flash-1017 got 5,545 likes and 349,000 downloads on HF. Third-party tests ran the full flow end to end: API cost of $0.06 per session, prompt cache hit rate of 94–96%. The author states it is only a research prototype, not a formal product, and that much of the engineering was done by a coding agent.",
+          "title": "DeepSeek dsh-superagent + V4.1-Flash-1017"
+        },
+        "ja": {
+          "action": "深く研究する。agentの自律化という流れは書く価値がある。",
+          "body": "10月31日に公開されたオープンソースの研究プロトタイプ：単一のGitHubリポジトリを監視し（Feishu連携は任意）、どのメッセージが本当の作業依頼かを自律的に判断し、チケットを切って独立したagentセッションを実行し、元のスレッドにPRで返す。GitHub 22,631 stars、11日間で1日平均2,057、公開2日以内に9,000を突破した。付随モデルのDeepSeek-V4.1-Flash-1017はHFで5,545 likes、34.9万ダウンロード。第三者の実測では全フローが動作し、1セッションのAPIコストは$0.06、プロンプトキャッシュのヒット率は94–96%だった。作者自身、研究プロトタイプにすぎず正式な製品ではないと述べており、エンジニアリングの大半はcoding agentが担った。",
+          "title": "DeepSeek dsh-superagent + V4.1-Flash-1017"
+        }
+      }
     },
     {
       "title": "United 航空禁 AI agent 订票",
@@ -54,7 +78,19 @@
         "https://news.ycombinator.com/item?id=50458900"
       ],
       "body": "11 月 11 日修订运输合同：新增 Rule 6.J.6，禁止用 AI agent 订票、改票、买座位与升舱；Rule 5.H 允许无通知取消由 AI agent 订改的票。理由是数据安全与 FAA/DOT 值机合规（值机需旅客本人确认禁运品规则）。首家正式立规的美国航司；agent 仍可查价，但下单须旅客本人完成。HN 542 分 / 528 评。",
-      "action": "立项观察；agent 落地遇阻的标志性事件。"
+      "action": "立项观察；agent 落地遇阻的标志性事件。",
+      "i18n": {
+        "en": {
+          "action": "Set up as a watch item; a landmark event for agents hitting friction in deployment.",
+          "body": "On November 11, United revised its contract of carriage: a new Rule 6.J.6 bans using AI agents to book tickets, change tickets, buy seats and upgrade; Rule 5.H allows cancelling, without notice, tickets booked or changed by an AI agent. The reasons given are data security and FAA/DOT check-in compliance (check-in requires the passenger personally to confirm the prohibited-items rules). It is the first US airline to formally set such a rule; agents can still check prices, but the passenger personally must complete the order. HN 542 points / 528 comments.",
+          "title": "United Airlines Bans AI Agents from Booking Tickets"
+        },
+        "ja": {
+          "action": "観察テーマとして立てる。agentの実地展開が壁にぶつかった象徴的な出来事。",
+          "body": "11月11日に運送約款を改訂：新たにRule 6.J.6を追加し、AI agentによる航空券の予約・変更・座席購入・アップグレードを禁止した。Rule 5.Hでは、AI agentが予約・変更した航空券を無通知で取り消せるとした。理由はデータセキュリティとFAA/DOTのチェックイン規則への適合（チェックインでは旅客本人が禁制品ルールを確認する必要がある）。正式に規則化した初の米航空会社となる。agentは価格検索までは可能だが、注文は旅客本人が完了しなければならない。HN 542ポイント／528コメント。",
+          "title": "United航空、AI agentによる航空券予約を禁止"
+        }
+      }
     },
     {
       "title": "Anthropic IPO 升级：S-1/A 称已触发 AI 研发加速阈值",
@@ -70,7 +106,19 @@
         "https://medium.com/@lssmj2014/met-on-expectation-the-alarm-and-the-price-sheet-in-one-document-a184e86d974a"
       ],
       "body": "11 月 10 日第二份 S-1/A 修正案把表述从 11 月 2 日的“可能即将触发”改为“已触发”其 Responsible Scaling Policy 中“AI 显著加速 AI 研发”的阈值；依据是内部对未来模型的预期，而非当前模型的实测表现，未点名任何模型。METR 11 月 5 日报告称越线可能早在 7 月 15 日前后。定价区间 $70–78、募资最高 $64.35 亿不变，11 月 18 日定价、19 日首日交易。另：Anthropic 新版 Supported Regions 政策今日生效，中国大陆/港澳/俄罗斯不在支持名单，且覆盖当地注册企业及其全球员工（支持名单本身自 5 月未变，属澄清性收紧）。",
-      "action": "仅记录，等 19 日首日表现。"
+      "action": "仅记录，等 19 日首日表现。",
+      "i18n": {
+        "en": {
+          "action": "Log only; wait for the first-day performance on the 19th.",
+          "body": "The second S-1/A amendment on November 10 changed the wording from November 2's “may be about to trigger” to “has triggered” for the threshold in its Responsible Scaling Policy on “AI significantly accelerating AI R&D”; the basis is internal expectations for future models, not measured performance of current models, and it names no model. A November 5 METR report said the crossing may have happened as early as around July 15. The pricing range of $70–78 and the maximum raise of $6.435 billion are unchanged, with pricing on November 18 and the first trading day on the 19th. Also: Anthropic's new Supported Regions policy took effect today; mainland China / Hong Kong / Macau / Russia are not on the support list, and it covers companies registered there and their employees worldwide (the support list itself has not changed since May; this is a clarifying tightening).",
+          "title": "Anthropic IPO Escalates: S-1/A Says the AI R&D Acceleration Threshold Has Been Triggered"
+        },
+        "ja": {
+          "action": "記録のみ。19日の初日の動きを待つ。",
+          "body": "11月10日の2回目のS-1/A修正で、Responsible Scaling Policyにおける「AIがAIの研究開発を著しく加速する」閾値について、11月2日の「まもなく発動する可能性」から「すでに発動した」へと表現が変わった。根拠は現行モデルの実測性能ではなく、将来モデルに対する社内の期待であり、特定のモデル名は挙げられていない。METRの11月5日の報告では、越線は早ければ7月15日前後に起きていた可能性があるという。価格帯$70–78、調達上限$64.35億は変わらず、11月18日に価格決定、19日が取引初日。また、Anthropicの新しいSupported Regionsポリシーが本日発効した。中国本土／香港・マカオ／ロシアはサポート対象リストになく、現地で登録された企業とその世界中の従業員も対象となる（サポートリスト自体は5月から変わっておらず、明確化による引き締めである）。",
+          "title": "Anthropic IPOが進展：S-1/AでAI研究開発加速の閾値を「すでに発動」と明記"
+        }
+      }
     },
     {
       "title": "Gemini Decisions API（Gemini Decision 1）",
@@ -86,7 +134,19 @@
         "https://news.ycombinator.com/item?id=50456791"
       ],
       "body": "Google 11 月 11 日发布：新模型 Gemini Decision 1 + Decisions API，专做封闭式决策（工具选择、策略检查、模型路由、上下文打分），一次请求可对同一多模态输入（文本/图像/音频/视频/PDF，最高 256K tokens）评 1,000 个是非/选择/打分题，单次前向返回概率与置信度，端到端延迟 150–250ms，$0.10/百万输入 tokens、输出免费，AI Studio 有免费层。HN 416 分 / 125 评，Pichai 在 X 发帖，Latent Space 称 11 月 11 日为“决策模型日”（OpenAI 9 月已有同类 API，TypeSafe Jev 在先）。",
-      "action": "值得试；agent 路由/工具选择场景可直接用。"
+      "action": "值得试；agent 路由/工具选择场景可直接用。",
+      "i18n": {
+        "en": {
+          "action": "Worth trying; directly usable for agent routing / tool-selection scenarios.",
+          "body": "Released by Google on November 11: the new model Gemini Decision 1 plus the Decisions API, built for closed-form decisions (tool selection, policy checks, model routing, context scoring). A single request can grade 1,000 yes/no, multiple-choice or scoring questions on the same multimodal input (text/image/audio/video/PDF, up to 256K tokens), returning probabilities and confidence in a single forward pass, with end-to-end latency of 150–250ms, $0.10 per million input tokens, output free, and a free tier in AI Studio. HN 416 points / 125 comments, Pichai posted on X, and Latent Space called November 11 “decision model day” (OpenAI had a similar API in September, and TypeSafe Jev came earlier).",
+          "title": "Gemini Decisions API (Gemini Decision 1)"
+        },
+        "ja": {
+          "action": "試す価値あり。agentのルーティング／ツール選択の場面でそのまま使える。",
+          "body": "Googleが11月11日に発表：新モデルGemini Decision 1とDecisions APIで、クローズドな意思決定（ツール選択、ポリシーチェック、モデルルーティング、コンテキスト評価）に特化している。1回のリクエストで、同じマルチモーダル入力（テキスト／画像／音声／動画／PDF、最大256K tokens）に対して1,000件の是非／選択／採点問題を評価でき、1回のフォワードで確率と信頼度を返す。エンドツーエンドのレイテンシは150–250ms、入力100万tokensあたり$0.10、出力は無料で、AI Studioには無料枠がある。HN 416ポイント／125コメント、PichaiがXに投稿し、Latent Spaceは11月11日を「意思決定モデルの日」と呼んだ（OpenAIは9月に同種のAPIを出しており、TypeSafe Jevが先行している）。",
+          "title": "Gemini Decisions API（Gemini Decision 1）"
+        }
+      }
     },
     {
       "title": "craft-anything",
@@ -99,7 +159,19 @@
         "https://github.com/storytold/craft-anything"
       ],
       "body": "纯 Rust 逆向重建引擎：用 284 个分析工具检查网站/App/游戏，再让 coding agent 重建一个自己的版本并与原作逐项比对。GitHub 29,045 stars，11 天日均 2,640，全场增速第一；v0.6.1 今日发布。仅 GitHub 单源（HN 帖仅 6 分），作者自述早期 alpha，默认 clean-room 模式。",
-      "action": "仅记录。"
+      "action": "仅记录。",
+      "i18n": {
+        "en": {
+          "action": "Log only.",
+          "body": "A pure-Rust clean-room rebuild engine: it inspects a website/app/game with 284 analysis tools, then has a coding agent rebuild its own version and compare it item by item against the original. GitHub 29,045 stars, averaging 2,640 per day over 11 days, the fastest growth of any project; v0.6.1 was released today. GitHub single source only (the HN post scored just 6 points); the author calls it early alpha, with clean-room mode by default.",
+          "title": "craft-anything"
+        },
+        "ja": {
+          "action": "記録のみ。",
+          "body": "純Rustのクリーンルーム再構築エンジン：284の分析ツールでウェブサイト／App／ゲームを検査し、coding agentに独自バージョンを再構築させて、原作と項目ごとに比較する。GitHub 29,045 stars、11日間で1日平均2,640、全体で成長速度は第1位。v0.6.1が本日公開された。GitHub単一ソースのみ（HN投稿はわずか6ポイント）で、作者自身が初期alphaと述べており、デフォルトはclean-roomモード。",
+          "title": "craft-anything"
+        }
+      }
     },
     {
       "title": "unslop",
@@ -112,7 +184,19 @@
         "https://github.com/heydamir/unslop"
       ],
       "body": "Claude skill：九遍审计并修复“AI 味 UI”（紫渐变、发光卡片、emoji 标签、间距不均），按产品本身定方向再逐屏改。GitHub 14,767 stars，13 天日均 1,136，作者 Damir Sokolovsky（X 上的 Unslopping 系列）。与 Dai 的去 AI 味需求直接相关。",
-      "action": "仅记录，可装来试。"
+      "action": "仅记录，可装来试。",
+      "i18n": {
+        "en": {
+          "action": "Log only; could install it and try it.",
+          "body": "A Claude skill: nine passes to audit and fix “AI-flavoured UI” (purple gradients, glowing cards, emoji labels, uneven spacing), setting the direction from the product itself and then fixing it screen by screen. GitHub 14,767 stars, averaging 1,136 per day over 13 days, by Damir Sokolovsky (the Unslopping series on X). Directly relevant to Dai's need to remove the AI flavour.",
+          "title": "unslop"
+        },
+        "ja": {
+          "action": "記録のみ。入れて試してもよい。",
+          "body": "Claude skill：「AIっぽいUI」（紫のグラデーション、光るカード、emojiラベル、ばらついた余白）を9回のパスで監査・修正し、製品自体から方向を決めて画面ごとに直していく。GitHub 14,767 stars、13日間で1日平均1,136、作者はDamir Sokolovsky（XのUnsloppingシリーズ）。Daiの「AI味を消す」というニーズに直接関係する。",
+          "title": "unslop"
+        }
+      }
     },
     {
       "title": "Agent skills 集群",
@@ -126,7 +210,19 @@
         "https://github.com/janestreet/agent_skills"
       ],
       "body": "Jane Street 官方 agent_skills 仓库：6,512 stars，8 天日均 814；HN 上其 Socratic Tutor skill 帖 90 分。同题材：addyosmani/agent-skills 今日 +787 stars，vercel-labs/agent-browser 今日 +708。Agent skills 正在成一类仓库。",
-      "action": "仅记录。"
+      "action": "仅记录。",
+      "i18n": {
+        "en": {
+          "action": "Log only.",
+          "body": "Jane Street's official agent_skills repo: 6,512 stars, averaging 814 per day over 8 days; its Socratic Tutor skill post scored 90 points on HN. On the same theme: addyosmani/agent-skills gained +787 stars today, and vercel-labs/agent-browser +708 today. Agent skills are becoming a category of repo.",
+          "title": "Agent Skills Cluster"
+        },
+        "ja": {
+          "action": "記録のみ。",
+          "body": "Jane Street公式のagent_skillsリポジトリ：6,512 stars、8日間で1日平均814。HNでは、そのSocratic Tutor skillの投稿が90ポイントを獲得した。同テーマでは、addyosmani/agent-skillsが本日+787 stars、vercel-labs/agent-browserが本日+708。Agent skillsがリポジトリの一カテゴリになりつつある。",
+          "title": "Agent skillsクラスター"
+        }
+      }
     }
   ],
   "updates": [
@@ -152,5 +248,13 @@
   "pending_checks": [
     "OpenAI “Cyber at the Frontier”直播，11 月 12 日 10:00 PT（北京时间 11 月 13 日 02:00），尚未开始",
     "Anthropic 2026 使用政策今日生效已核实：Supported Regions 政策覆盖中国大陆/港澳/俄罗斯，名单自 5 月未变"
-  ]
+  ],
+  "i18n": {
+    "en": {
+      "title": "Breaker Delta · Evening"
+    },
+    "ja": {
+      "title": "浪尖レーダー · 夕刊"
+    }
+  }
 }
