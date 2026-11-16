@@ -1,1 +1,252 @@
-{"date":"2026-11-11","i18n":{"en":{"title":"Breaker Delta · Morning (Pilot)"},"ja":{"title":"浪尖レーダー · 朝刊（パイロット）"}},"items":[{"action":"值得写一条 tweet，重点是价格窗口（11 月 30 日前）和 /swarm。","body":"Google 最强模型，11 月 10 日向付费开发者和 AI Ultra 订阅者开放。API 价 $2 输入 / $10 输出每百万 token，11 月 30 日后翻倍；Artificial Analysis 指数 59 分排第一，SEC-bench Pro 漏洞发现 88.2%。同日还预告了 Antigravity 的 /swarm 多 agent 协作。","i18n":{"en":{"action":"Worth a tweet — focus on the price window (before November 30) and /swarm.","body":"Google's most powerful model, opened on November 10 to paid developers and AI Ultra subscribers. API pricing is $2 input / $10 output per million tokens, doubling after November 30; it ranks first on the Artificial Analysis index with a score of 59, and hits 88.2% on SEC-bench Pro vulnerability discovery. Also previewed the same day: Antigravity's /swarm multi-agent collaboration.","title":"Gemini 4 Carbon Fully Open"},"ja":{"action":"tweet 1本書く価値あり。焦点は価格の窓（11月30日まで）と /swarm。","body":"Google の最強モデルが11月10日、有料開発者と AI Ultra 加入者向けに開放された。API 価格は100万 token あたり入力 $2 / 出力 $10 で、11月30日以降は倍になる。Artificial Analysis 指数では59点で1位、SEC-bench Pro の脆弱性発見では88.2%。同日、Antigravity の /swarm マルチエージェント協調も予告された。","title":"Gemini 4 Carbon が全面開放"}},"is_new":true,"level":"must","links":[],"sources":["Google 官方博客","VentureBeat"],"title":"Gemini 4 Carbon 全面开放"},{"action":"深入研究，Meetings 的做法和你之前问过的「Agent 监听视频通话」是同一条线。","body":"Anthropic 11 月 10 日发布 Claude Sheets、Whiteboards（beta，付费计划可用）、Claude Data（原 Dashboards，现正式版）、Claude Meetings（beta，仅 Team/Enterprise，先接 Google Meet）。这是 Claude 从聊天向办公软件的直接扩张。","i18n":{"en":{"action":"Dig deeper — the Meetings approach is on the same thread as the “agent listening in on video calls” idea you asked about before.","body":"On November 10, Anthropic released Claude Sheets, Whiteboards (beta, available on paid plans), Claude Data (formerly Dashboards, now generally available) and Claude Meetings (beta, Team/Enterprise only, connecting to Google Meet first). This is Claude expanding directly from chat into office software.","title":"Claude Office Suite Launches"},"ja":{"action":"深掘りする価値あり。Meetings のやり方は、以前あなたが聞いていた「Agent がビデオ通話を聞く」という話と同じ流れにある。","body":"Anthropic が11月10日、Claude Sheets、Whiteboards（beta、有料プランで利用可能）、Claude Data（旧 Dashboards、正式版）、Claude Meetings（beta、Team/Enterprise のみ、まずは Google Meet に対応）を発表した。Claude がチャットからオフィスソフトへ直接手を広げる動きだ。","title":"Claude オフィススイートが登場"}},"is_new":true,"level":"watch","links":[],"sources":["Anthropic","TechCrunch","The Verge"],"title":"Claude 办公套件上线"},{"action":"仅记录，等上市首日表现再看。","body":"825M 股、$70–78，完全稀释估值最高约 $1.4 万亿，另有 $260 亿私募配售（Google、Nvidia 各 $100 亿）。路演 11 月 10 日启动，预计 11 月 18 日定价、19–20 日上市。","i18n":{"en":{"action":"Log it only — wait and see how the first day of trading goes.","body":"825M shares at $70–78, a fully diluted valuation of up to about $1.4 trillion, plus a $26 billion private placement (Google and Nvidia $10 billion each). The roadshow started on November 10; pricing is expected on November 18, with the listing on November 19–20.","title":"Anthropic IPO Price Range Is Out"},"ja":{"action":"記録のみ。上場初日の様子を見てから判断する。","body":"825M 株、$70–78、完全希薄化後の評価額は最大で約 $1.4 兆。さらに $260 億の私募割当（Google、Nvidia が各 $100 億）もある。ロードショーは11月10日に始まり、11月18日に価格決定、19–20日に上場の見込み。","title":"Anthropic IPO の価格レンジが出た"}},"is_new":true,"level":"watch","links":[],"sources":["SEC S-1 修订稿","Dealroom","CNBC"],"title":"Anthropic IPO 定价区间出炉"},{"action":"深入研究，agent 写证明这件事值得单独写。","body":"DeepMind 用 Carbon 驱动的 agent 为 libsignal（Signal 协议参考实现）写出了机器可验证的证明。这是 Carbon 当天最硬的工程证据。","i18n":{"en":{"action":"Dig deeper — an agent writing proofs is worth a piece of its own.","body":"DeepMind used a Carbon-powered agent to write machine-verifiable proofs for libsignal (the reference implementation of the Signal protocol). This is the hardest engineering evidence for Carbon that day.","title":"AlphaProof Code Formally Verifies Signal"},"ja":{"action":"深掘りする価値あり。agent が証明を書くという話は、単独で1本書ける。","body":"DeepMind は Carbon 駆動の agent を使い、libsignal（Signal プロトコルのリファレンス実装）について機械検証可能な証明を書かせた。その日の Carbon に関する最も硬いエンジニアリング上の証拠だ。","title":"AlphaProof Code が Signal を形式検証"}},"is_new":true,"level":"watch","links":[],"sources":["DeepMind","webdevs.ro"],"title":"AlphaProof Code 形式化验证 Signal"},{"action":"立项观察，beta 阶段先别急着上生产。","body":"Meta 内部用了 8 年的设计系统（150+ 无障碍组件，React 19 + StyleX，MIT 开源，beta），11 月 11 日当日 +3,108 stars，总数 23,622。卖点是「人跟 AI agent 共用同一套工具」，CLI 能直接生成 AGENTS.md。","i18n":{"en":{"action":"Track it as a project — it's still in beta, so don't rush it into production.","body":"A design system Meta used internally for 8 years (150+ accessibility components, React 19 + StyleX, MIT open source, beta) gained +3,108 stars on November 11 alone, reaching 23,622 in total. Its selling point is “one toolkit shared by humans and AI agents”, and its CLI can generate AGENTS.md directly.","title":"meta/astryx Tops GitHub Trending"},"ja":{"action":"プロジェクトとして観察する。beta 段階なので、本番投入はまだ急がない。","body":"Meta が社内で8年間使ってきたデザインシステム（150以上のアクセシビリティ対応コンポーネント、React 19 + StyleX、MIT でオープンソース、beta）が、11月11日の当日に +3,108 stars を集め、合計23,622になった。売りは「人間と AI agent が同じツールセットを共有する」ことで、CLI から AGENTS.md を直接生成できる。","title":"meta/astryx が GitHub Trending のトップに"}},"is_new":true,"level":"watch","links":["https://github.com/meta/astryx"],"sources":["GitHub Trending"],"title":"meta/astryx 登顶 GitHub Trending"},{"action":"仅记录，许可证限制让它离你的场景有点远。","body":"33.1B 参数的文生图/修图统一模型，11 月 10 日上 Hugging Face，原生 4K（4096×4096，约 16MP），6 步出图。但社区许可证排除美国、欧盟、英国、韩国，且年收入超 $100 万的企业需另行授权。","i18n":{"en":{"action":"Log it only — the license restrictions keep it a bit distant from your use cases.","body":"A unified text-to-image / image-editing model with 33.1B parameters, released on Hugging Face on November 10, with native 4K (4096×4096, about 16MP) and 6-step generation. But its community license excludes the US, the EU, the UK and South Korea, and companies with annual revenue over $1 million need separate authorization.","title":"MiniMax H3-Image Open Weights"},"ja":{"action":"記録のみ。ライセンス制限があるため、あなたの用途からは少し遠い。","body":"33.1B パラメータのテキスト画像生成／画像編集の統合モデルが、11月10日に Hugging Face に登場。ネイティブ 4K（4096×4096、約16MP）に対応し、6ステップで生成できる。ただしコミュニティライセンスは米国、EU、英国、韓国を除外しており、年間売上 $100 万を超える企業は別途ライセンスが必要だ。","title":"MiniMax H3-Image のウェイトがオープンに"}},"is_new":true,"level":"watch","links":[],"sources":["Hugging Face","Crypto Briefing"],"title":"MiniMax H3-Image 开源权重"},{"action":"仅记录。","body":"试点扫描报的是 HN + Reddit r/LocalLLaMA 在推的一个 Mac 本地模型应用。单独核查时没确认到 \"Llamalook\" 这个名字，只确认到同类的 llama.app（ggml-org 出品的菜单栏应用，免费开源）。这一条先按扫描原样记着，名字待核实。","i18n":{"en":{"action":"Log it only.","body":"The pilot scan reported a local-model Mac app being promoted by HN + Reddit r/LocalLLaMA. Checked separately, the name “Llamalook” could not be confirmed — only a similar app, llama.app (a free, open-source menu bar app by ggml-org). Logging this one as the scan reported it for now; the name is still to be verified.","title":"Llamalook (Local AI Mac App)"},"ja":{"action":"記録のみ。","body":"パイロットスキャンが伝えたのは、HN と Reddit r/LocalLLaMA が推しているローカルモデル Mac アプリ。単独で確認したところ、「Llamalook」という名前は確認できず、確認できたのは同種の llama.app（ggml-org による無料・オープンソースのメニューバーアプリ）だけだった。この1件はスキャンの内容どおり記録しておき、名前は未確認とする。","title":"Llamalook（ローカル AI Mac アプリ）"}},"is_new":true,"level":"watch","links":[],"sources":["Hacker News","Reddit r/LocalLLaMA"],"title":"Llamalook（本地 AI Mac 应用）","unverified":"名字 \"Llamalook\" 未经核实，只确认到同类应用 llama.app。"},{"action":"仅记录。","body":"单源（Product Hunt 当日新品），n8n 出的轻量产品，细节不多，先记一笔。","i18n":{"en":{"action":"Log it only.","body":"Single source (a new product on Product Hunt that day) — a lightweight product from n8n. Not much detail yet; logging it for now.","title":"Nod by n8n"},"ja":{"action":"記録のみ。","body":"単一ソース（Product Hunt 当日の新製品）で、n8n の軽量なプロダクト。詳細はまだ少なく、ひとまず記録しておく。","title":"Nod by n8n"}},"is_new":true,"level":"seed","links":[],"sources":["Product Hunt"],"title":"Nod by n8n"}],"missing":["X Trending 未直接读榜（只用搜索引用的 X 帖子交叉确认）","r/all rising 未查","Google Trends 未核对（首期无基线）"],"pending_checks":[],"published_at":"2026-11-11T22:31:00+09:00","slot":"pilot","title":"热点雷达 · 早报（试点）","updates":[]}
+{
+  "date": "2026-11-11",
+  "i18n": {
+    "en": {
+      "title": "Breaker Delta · Morning (Pilot)"
+    },
+    "ja": {
+      "title": "浪尖レーダー · 朝刊（パイロット）"
+    }
+  },
+  "items": [
+    {
+      "action": "值得写一条 tweet，重点是价格窗口（11 月 30 日前）和 /swarm。",
+      "body": "Google 最强模型，11 月 10 日向付费开发者和 AI Ultra 订阅者开放。API 价 $2 输入 / $10 输出每百万 token，11 月 30 日后翻倍；Artificial Analysis 指数 59 分排第一，SEC-bench Pro 漏洞发现 88.2%。同日还预告了 Antigravity 的 /swarm 多 agent 协作。",
+      "i18n": {
+        "en": {
+          "action": "Worth a tweet — focus on the price window (before November 30) and /swarm.",
+          "body": "Google's most powerful model, opened on November 10 to paid developers and AI Ultra subscribers. API pricing is $2 input / $10 output per million tokens, doubling after November 30; it ranks first on the Artificial Analysis index with a score of 59, and hits 88.2% on SEC-bench Pro vulnerability discovery. Also previewed the same day: Antigravity's /swarm multi-agent collaboration.",
+          "title": "Gemini 4 Carbon Fully Open"
+        },
+        "ja": {
+          "action": "tweet 1本書く価値あり。焦点は価格の窓（11月30日まで）と /swarm。",
+          "body": "Google の最強モデルが11月10日、有料開発者と AI Ultra 加入者向けに開放された。API 価格は100万 token あたり入力 $2 / 出力 $10 で、11月30日以降は倍になる。Artificial Analysis 指数では59点で1位、SEC-bench Pro の脆弱性発見では88.2%。同日、Antigravity の /swarm マルチエージェント協調も予告された。",
+          "title": "Gemini 4 Carbon が全面開放"
+        }
+      },
+      "is_new": true,
+      "level": "must",
+      "links": [],
+      "sources": [
+        "Google 官方博客",
+        "VentureBeat"
+      ],
+      "title": "Gemini 4 Carbon 全面开放",
+      "plugins": {
+        "momentum": {
+          "score": 36
+        }
+      }
+    },
+    {
+      "action": "深入研究，Meetings 的做法和你之前问过的「Agent 监听视频通话」是同一条线。",
+      "body": "Anthropic 11 月 10 日发布 Claude Sheets、Whiteboards（beta，付费计划可用）、Claude Data（原 Dashboards，现正式版）、Claude Meetings（beta，仅 Team/Enterprise，先接 Google Meet）。这是 Claude 从聊天向办公软件的直接扩张。",
+      "i18n": {
+        "en": {
+          "action": "Dig deeper — the Meetings approach is on the same thread as the “agent listening in on video calls” idea you asked about before.",
+          "body": "On November 10, Anthropic released Claude Sheets, Whiteboards (beta, available on paid plans), Claude Data (formerly Dashboards, now generally available) and Claude Meetings (beta, Team/Enterprise only, connecting to Google Meet first). This is Claude expanding directly from chat into office software.",
+          "title": "Claude Office Suite Launches"
+        },
+        "ja": {
+          "action": "深掘りする価値あり。Meetings のやり方は、以前あなたが聞いていた「Agent がビデオ通話を聞く」という話と同じ流れにある。",
+          "body": "Anthropic が11月10日、Claude Sheets、Whiteboards（beta、有料プランで利用可能）、Claude Data（旧 Dashboards、正式版）、Claude Meetings（beta、Team/Enterprise のみ、まずは Google Meet に対応）を発表した。Claude がチャットからオフィスソフトへ直接手を広げる動きだ。",
+          "title": "Claude オフィススイートが登場"
+        }
+      },
+      "is_new": true,
+      "level": "watch",
+      "links": [],
+      "sources": [
+        "Anthropic",
+        "TechCrunch",
+        "The Verge"
+      ],
+      "title": "Claude 办公套件上线",
+      "plugins": {
+        "momentum": {
+          "score": 41
+        }
+      }
+    },
+    {
+      "action": "仅记录，等上市首日表现再看。",
+      "body": "825M 股、$70–78，完全稀释估值最高约 $1.4 万亿，另有 $260 亿私募配售（Google、Nvidia 各 $100 亿）。路演 11 月 10 日启动，预计 11 月 18 日定价、19–20 日上市。",
+      "i18n": {
+        "en": {
+          "action": "Log it only — wait and see how the first day of trading goes.",
+          "body": "825M shares at $70–78, a fully diluted valuation of up to about $1.4 trillion, plus a $26 billion private placement (Google and Nvidia $10 billion each). The roadshow started on November 10; pricing is expected on November 18, with the listing on November 19–20.",
+          "title": "Anthropic IPO Price Range Is Out"
+        },
+        "ja": {
+          "action": "記録のみ。上場初日の様子を見てから判断する。",
+          "body": "825M 株、$70–78、完全希薄化後の評価額は最大で約 $1.4 兆。さらに $260 億の私募割当（Google、Nvidia が各 $100 億）もある。ロードショーは11月10日に始まり、11月18日に価格決定、19–20日に上場の見込み。",
+          "title": "Anthropic IPO の価格レンジが出た"
+        }
+      },
+      "is_new": true,
+      "level": "watch",
+      "links": [],
+      "sources": [
+        "SEC S-1 修订稿",
+        "Dealroom",
+        "CNBC"
+      ],
+      "title": "Anthropic IPO 定价区间出炉"
+    },
+    {
+      "action": "深入研究，agent 写证明这件事值得单独写。",
+      "body": "DeepMind 用 Carbon 驱动的 agent 为 libsignal（Signal 协议参考实现）写出了机器可验证的证明。这是 Carbon 当天最硬的工程证据。",
+      "i18n": {
+        "en": {
+          "action": "Dig deeper — an agent writing proofs is worth a piece of its own.",
+          "body": "DeepMind used a Carbon-powered agent to write machine-verifiable proofs for libsignal (the reference implementation of the Signal protocol). This is the hardest engineering evidence for Carbon that day.",
+          "title": "AlphaProof Code Formally Verifies Signal"
+        },
+        "ja": {
+          "action": "深掘りする価値あり。agent が証明を書くという話は、単独で1本書ける。",
+          "body": "DeepMind は Carbon 駆動の agent を使い、libsignal（Signal プロトコルのリファレンス実装）について機械検証可能な証明を書かせた。その日の Carbon に関する最も硬いエンジニアリング上の証拠だ。",
+          "title": "AlphaProof Code が Signal を形式検証"
+        }
+      },
+      "is_new": true,
+      "level": "watch",
+      "links": [],
+      "sources": [
+        "DeepMind",
+        "webdevs.ro"
+      ],
+      "title": "AlphaProof Code 形式化验证 Signal",
+      "plugins": {
+        "momentum": {
+          "score": 36
+        }
+      }
+    },
+    {
+      "action": "立项观察，beta 阶段先别急着上生产。",
+      "body": "Meta 内部用了 8 年的设计系统（150+ 无障碍组件，React 19 + StyleX，MIT 开源，beta），11 月 11 日当日 +3,108 stars，总数 23,622。卖点是「人跟 AI agent 共用同一套工具」，CLI 能直接生成 AGENTS.md。",
+      "i18n": {
+        "en": {
+          "action": "Track it as a project — it's still in beta, so don't rush it into production.",
+          "body": "A design system Meta used internally for 8 years (150+ accessibility components, React 19 + StyleX, MIT open source, beta) gained +3,108 stars on November 11 alone, reaching 23,622 in total. Its selling point is “one toolkit shared by humans and AI agents”, and its CLI can generate AGENTS.md directly.",
+          "title": "meta/astryx Tops GitHub Trending"
+        },
+        "ja": {
+          "action": "プロジェクトとして観察する。beta 段階なので、本番投入はまだ急がない。",
+          "body": "Meta が社内で8年間使ってきたデザインシステム（150以上のアクセシビリティ対応コンポーネント、React 19 + StyleX、MIT でオープンソース、beta）が、11月11日の当日に +3,108 stars を集め、合計23,622になった。売りは「人間と AI agent が同じツールセットを共有する」ことで、CLI から AGENTS.md を直接生成できる。",
+          "title": "meta/astryx が GitHub Trending のトップに"
+        }
+      },
+      "is_new": true,
+      "level": "watch",
+      "links": [
+        "https://github.com/meta/astryx"
+      ],
+      "sources": [
+        "GitHub Trending"
+      ],
+      "title": "meta/astryx 登顶 GitHub Trending",
+      "plugins": {
+        "momentum": {
+          "score": 31
+        }
+      }
+    },
+    {
+      "action": "仅记录，许可证限制让它离你的场景有点远。",
+      "body": "33.1B 参数的文生图/修图统一模型，11 月 10 日上 Hugging Face，原生 4K（4096×4096，约 16MP），6 步出图。但社区许可证排除美国、欧盟、英国、韩国，且年收入超 $100 万的企业需另行授权。",
+      "i18n": {
+        "en": {
+          "action": "Log it only — the license restrictions keep it a bit distant from your use cases.",
+          "body": "A unified text-to-image / image-editing model with 33.1B parameters, released on Hugging Face on November 10, with native 4K (4096×4096, about 16MP) and 6-step generation. But its community license excludes the US, the EU, the UK and South Korea, and companies with annual revenue over $1 million need separate authorization.",
+          "title": "MiniMax H3-Image Open Weights"
+        },
+        "ja": {
+          "action": "記録のみ。ライセンス制限があるため、あなたの用途からは少し遠い。",
+          "body": "33.1B パラメータのテキスト画像生成／画像編集の統合モデルが、11月10日に Hugging Face に登場。ネイティブ 4K（4096×4096、約16MP）に対応し、6ステップで生成できる。ただしコミュニティライセンスは米国、EU、英国、韓国を除外しており、年間売上 $100 万を超える企業は別途ライセンスが必要だ。",
+          "title": "MiniMax H3-Image のウェイトがオープンに"
+        }
+      },
+      "is_new": true,
+      "level": "watch",
+      "links": [],
+      "sources": [
+        "Hugging Face",
+        "Crypto Briefing"
+      ],
+      "title": "MiniMax H3-Image 开源权重",
+      "plugins": {
+        "momentum": {
+          "score": 36
+        }
+      }
+    },
+    {
+      "action": "仅记录。",
+      "body": "试点扫描报的是 HN + Reddit r/LocalLLaMA 在推的一个 Mac 本地模型应用。单独核查时没确认到 \"Llamalook\" 这个名字，只确认到同类的 llama.app（ggml-org 出品的菜单栏应用，免费开源）。这一条先按扫描原样记着，名字待核实。",
+      "i18n": {
+        "en": {
+          "action": "Log it only.",
+          "body": "The pilot scan reported a local-model Mac app being promoted by HN + Reddit r/LocalLLaMA. Checked separately, the name “Llamalook” could not be confirmed — only a similar app, llama.app (a free, open-source menu bar app by ggml-org). Logging this one as the scan reported it for now; the name is still to be verified.",
+          "title": "Llamalook (Local AI Mac App)"
+        },
+        "ja": {
+          "action": "記録のみ。",
+          "body": "パイロットスキャンが伝えたのは、HN と Reddit r/LocalLLaMA が推しているローカルモデル Mac アプリ。単独で確認したところ、「Llamalook」という名前は確認できず、確認できたのは同種の llama.app（ggml-org による無料・オープンソースのメニューバーアプリ）だけだった。この1件はスキャンの内容どおり記録しておき、名前は未確認とする。",
+          "title": "Llamalook（ローカル AI Mac アプリ）"
+        }
+      },
+      "is_new": true,
+      "level": "watch",
+      "links": [],
+      "sources": [
+        "Hacker News",
+        "Reddit r/LocalLLaMA"
+      ],
+      "title": "Llamalook（本地 AI Mac 应用）",
+      "unverified": "名字 \"Llamalook\" 未经核实，只确认到同类应用 llama.app。",
+      "plugins": {
+        "momentum": {
+          "score": 36
+        }
+      }
+    },
+    {
+      "action": "仅记录。",
+      "body": "单源（Product Hunt 当日新品），n8n 出的轻量产品，细节不多，先记一笔。",
+      "i18n": {
+        "en": {
+          "action": "Log it only.",
+          "body": "Single source (a new product on Product Hunt that day) — a lightweight product from n8n. Not much detail yet; logging it for now.",
+          "title": "Nod by n8n"
+        },
+        "ja": {
+          "action": "記録のみ。",
+          "body": "単一ソース（Product Hunt 当日の新製品）で、n8n の軽量なプロダクト。詳細はまだ少なく、ひとまず記録しておく。",
+          "title": "Nod by n8n"
+        }
+      },
+      "is_new": true,
+      "level": "seed",
+      "links": [],
+      "sources": [
+        "Product Hunt"
+      ],
+      "title": "Nod by n8n",
+      "plugins": {
+        "momentum": {
+          "score": 31
+        }
+      }
+    }
+  ],
+  "missing": [
+    "X Trending 未直接读榜（只用搜索引用的 X 帖子交叉确认）",
+    "r/all rising 未查",
+    "Google Trends 未核对（首期无基线）"
+  ],
+  "pending_checks": [],
+  "published_at": "2026-11-11T22:31:00+09:00",
+  "title": "热点雷达 · 早报（试点）",
+  "updates": []
+}

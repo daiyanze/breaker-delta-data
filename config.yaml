@@ -1,0 +1,12 @@
+# Official instance config (breakerdelta.com).
+# preset: ai-tech is the base layer — sources, categories, keywords
+# and filters all come from the engine's bundled preset, exactly as
+# they did when this repo had no config file (the CLI fell back to
+# the engine's example config, which names the same preset and
+# carries identical sections). This file only adds plugin switches.
+preset: ai-tech
+plugins:
+  creator:
+    enabled: true
+  momentum:
+    enabled: true
