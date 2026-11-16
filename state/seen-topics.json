@@ -139,7 +139,7 @@
     {
       "name": "Agent skills 集群",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-17",
       "sources": [
         "GitHub",
         "Hacker News",
@@ -153,6 +153,10 @@
         {
           "date": "2026-11-16",
           "grade": "watch"
+        },
+        {
+          "date": "2026-11-17",
+          "grade": "watch"
         }
       ],
       "review": {
@@ -165,12 +169,13 @@
     {
       "name": "Qwen4-Max Preview + Qwen Code 1.0",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-17",
       "sources": [
         "Reddit",
         "Qwen 官方博客",
         "Hacker News",
-        "OpenRouter"
+        "OpenRouter",
+        "The Decoder"
       ],
       "history": [
         {
@@ -179,6 +184,10 @@
         },
         {
           "date": "2026-11-16",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-17",
           "grade": "must"
         }
       ],
@@ -420,7 +429,7 @@
     {
       "name": "黄仁勋辞职",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-17",
       "sources": [
         "Financial Times",
         "Hacker News",
@@ -431,7 +440,10 @@
         "Wikipedia",
         "The Guardian",
         "Reuters",
-        "Wikipedia 热读榜"
+        "Wikipedia 热读榜",
+        "CNBC",
+        "The Times",
+        "X"
       ],
       "history": [
         {
@@ -444,6 +456,10 @@
         },
         {
           "date": "2026-11-16",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-17",
           "grade": "must"
         }
       ],
@@ -676,13 +692,17 @@
     {
       "name": "deepseek-ai/chat-demo",
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-17",
       "sources": [
         "GitHub"
       ],
       "history": [
         {
           "date": "2026-11-16",
+          "grade": "echo"
+        },
+        {
+          "date": "2026-11-17",
           "grade": "echo"
         }
       ],
@@ -696,13 +716,17 @@
     {
       "name": "kiri",
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-17",
       "sources": [
         "GitHub"
       ],
       "history": [
         {
           "date": "2026-11-16",
+          "grade": "echo"
+        },
+        {
+          "date": "2026-11-17",
           "grade": "echo"
         }
       ],
@@ -759,13 +783,17 @@
     {
       "name": "GestaltX",
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-17",
       "sources": [
         "GitHub"
       ],
       "history": [
         {
           "date": "2026-11-16",
+          "grade": "echo"
+        },
+        {
+          "date": "2026-11-17",
           "grade": "echo"
         }
       ],
@@ -794,6 +822,140 @@
         "result": null,
         "checked_on": null,
         "_first_seen": "2026-11-16"
+      }
+    },
+    {
+      "name": "加州总检察长起诉 OpenAI",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "sources": [
+        "Reuters",
+        "TechCrunch",
+        "The Verge",
+        "Bloomberg Law"
+      ],
+      "history": [
+        {
+          "date": "2026-11-17",
+          "grade": "must"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-17"
+      }
+    },
+    {
+      "name": "美国多家大银行在线服务中断",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "sources": [
+        "AP",
+        "Hacker News",
+        "Reddit",
+        "Mastodon",
+        "USA Today"
+      ],
+      "history": [
+        {
+          "date": "2026-11-17",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-17"
+      }
+    },
+    {
+      "name": "FBI 警告 Artex AI 黑客工具",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "sources": [
+        "TechCrunch",
+        "The Register",
+        "AWS",
+        "The Decoder"
+      ],
+      "history": [
+        {
+          "date": "2026-11-17",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-17"
+      }
+    },
+    {
+      "name": "亚马逊黑五“诱饵折扣”调查",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "sources": [
+        "Groundwork Collaborative",
+        "Hacker News",
+        "Reddit"
+      ],
+      "history": [
+        {
+          "date": "2026-11-17",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-17"
+      }
+    },
+    {
+      "name": "腾讯 Hy4 Flash",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "sources": [
+        "OpenRouter",
+        "Reddit",
+        "Unite.AI"
+      ],
+      "history": [
+        {
+          "date": "2026-11-17",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-17"
+      }
+    },
+    {
+      "name": "DIYgod/pinky",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "sources": [
+        "GitHub"
+      ],
+      "history": [
+        {
+          "date": "2026-11-17",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-17"
       }
     }
   ]
