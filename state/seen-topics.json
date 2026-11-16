@@ -62,6 +62,10 @@
         {
           "date": "2026-11-16",
           "grade": "must"
+        },
+        {
+          "date": "2026-11-16",
+          "grade": "must"
         }
       ],
       "review": {
@@ -135,15 +139,20 @@
     {
       "name": "Agent skills 集群",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-16",
       "sources": [
         "GitHub",
-        "Hacker News"
+        "Hacker News",
+        "GitHub 官方博客"
       ],
       "history": [
         {
           "date": "2026-11-12",
           "grade": "seed"
+        },
+        {
+          "date": "2026-11-16",
+          "grade": "watch"
         }
       ],
       "review": {
@@ -156,13 +165,20 @@
     {
       "name": "Qwen4-Max Preview + Qwen Code 1.0",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-16",
       "sources": [
-        "Reddit"
+        "Reddit",
+        "Qwen 官方博客",
+        "Hacker News",
+        "OpenRouter"
       ],
       "history": [
         {
           "date": "2026-11-12",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-16",
           "grade": "must"
         }
       ],
@@ -317,7 +333,7 @@
     {
       "name": "MiniMax H3-Image",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-16",
       "sources": [
         "Hugging Face",
         "Product Hunt",
@@ -326,6 +342,10 @@
       "history": [
         {
           "date": "2026-11-12",
+          "grade": "watch"
+        },
+        {
+          "date": "2026-11-16",
           "grade": "watch"
         }
       ],
@@ -408,11 +428,18 @@
         "TechCrunch",
         "The Verge",
         "WSJ",
-        "Wikipedia"
+        "Wikipedia",
+        "The Guardian",
+        "Reuters",
+        "Wikipedia 热读榜"
       ],
       "history": [
         {
           "date": "2026-11-12",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-16",
           "grade": "must"
         },
         {
@@ -440,6 +467,10 @@
         {
           "date": "2026-11-16",
           "grade": "must"
+        },
+        {
+          "date": "2026-11-16",
+          "grade": "must"
         }
       ],
       "review": {
@@ -459,6 +490,10 @@
         "WCCFTech"
       ],
       "history": [
+        {
+          "date": "2026-11-16",
+          "grade": "watch"
+        },
         {
           "date": "2026-11-16",
           "grade": "watch"
@@ -482,6 +517,10 @@
         {
           "date": "2026-11-16",
           "grade": "watch"
+        },
+        {
+          "date": "2026-11-16",
+          "grade": "watch"
         }
       ],
       "review": {
@@ -499,6 +538,10 @@
         "Hugging Face"
       ],
       "history": [
+        {
+          "date": "2026-11-16",
+          "grade": "echo"
+        },
         {
           "date": "2026-11-16",
           "grade": "echo"
@@ -522,6 +565,10 @@
         {
           "date": "2026-11-16",
           "grade": "echo"
+        },
+        {
+          "date": "2026-11-16",
+          "grade": "echo"
         }
       ],
       "review": {
@@ -542,6 +589,10 @@
         {
           "date": "2026-11-16",
           "grade": "echo"
+        },
+        {
+          "date": "2026-11-16",
+          "grade": "echo"
         }
       ],
       "review": {
@@ -556,7 +607,35 @@
       "first_seen": "2026-11-15",
       "last_seen": "2026-11-16",
       "sources": [
-        "Hacker News"
+        "Hacker News",
+        "Ars Technica"
+      ],
+      "history": [
+        {
+          "date": "2026-11-16",
+          "grade": "watch"
+        },
+        {
+          "date": "2026-11-16",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-15"
+      }
+    },
+    {
+      "name": "Apple AI 健康研究 App",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "sources": [
+        "TechCrunch",
+        "The Verge",
+        "Apple 官方",
+        "Reddit"
       ],
       "history": [
         {
@@ -568,7 +647,153 @@
         "due": null,
         "result": null,
         "checked_on": null,
-        "_first_seen": "2026-11-15"
+        "_first_seen": "2026-11-16"
+      }
+    },
+    {
+      "name": "Microsoft 365 宕机致氯气中毒",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "sources": [
+        "Hacker News",
+        "Reddit",
+        "Mastodon",
+        "Tom's Hardware"
+      ],
+      "history": [
+        {
+          "date": "2026-11-16",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-16"
+      }
+    },
+    {
+      "name": "deepseek-ai/chat-demo",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "sources": [
+        "GitHub"
+      ],
+      "history": [
+        {
+          "date": "2026-11-16",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-16"
+      }
+    },
+    {
+      "name": "kiri",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "sources": [
+        "GitHub"
+      ],
+      "history": [
+        {
+          "date": "2026-11-16",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-16"
+      }
+    },
+    {
+      "name": "GPT-6 Astra 参与标准模型格点定义",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "sources": [
+        "OpenAI 官方博客",
+        "X"
+      ],
+      "history": [
+        {
+          "date": "2026-11-16",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-16"
+      }
+    },
+    {
+      "name": "Gemini 4 Hydrogen + Antigravity Orchestrator",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "sources": [
+        "Ars Technica",
+        "GitHub Changelog",
+        "OpenRouter"
+      ],
+      "history": [
+        {
+          "date": "2026-11-16",
+          "grade": "must"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-16"
+      }
+    },
+    {
+      "name": "GestaltX",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "sources": [
+        "GitHub"
+      ],
+      "history": [
+        {
+          "date": "2026-11-16",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-16"
+      }
+    },
+    {
+      "name": "HGhub",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "sources": [
+        "GitHub"
+      ],
+      "history": [
+        {
+          "date": "2026-11-16",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-16"
       }
     }
   ]
