@@ -1,1 +1,1 @@
-export default { fetch() { return new Response("preview-ok", { headers: { "content-type": "text/plain" } }); } };
+export { default } from "./index.js";
