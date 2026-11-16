@@ -1,0 +1,1 @@
+import{c as e}from"./data-vLvilxiA.js";import{n as t}from"./data-2ovOH66-.js";async function n(){let n=await e();return Response.json(t(n.editions,n.topics))}export{n as GET};

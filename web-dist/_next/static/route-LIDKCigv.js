@@ -1,0 +1,1 @@
+import{c as e}from"./data-vLvilxiA.js";import{r as t}from"./feeds-BW24l8ES.js";async function n(){let n=await e();return new Response(t(n,`zh`),{headers:{"content-type":`application/rss+xml; charset=utf-8`}})}export{n as GET};

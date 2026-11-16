@@ -1,0 +1,1 @@
+import{i as e}from"./navigation-errors-DAOpTDSc.js";import"../../index.js";import{u as t}from"./data-vLvilxiA.js";async function n({children:n,params:r}){let{lang:i}=await r;return t(i)||e(),n}export{n as default};

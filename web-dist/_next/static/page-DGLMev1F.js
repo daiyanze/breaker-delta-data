@@ -1,0 +1,1 @@
+import{a as e}from"./navigation-errors-DAOpTDSc.js";import"../../index.js";function t(){e(`/zh`)}export{t as default};

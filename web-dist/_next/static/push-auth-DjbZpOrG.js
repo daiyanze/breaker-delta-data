@@ -1,0 +1,1 @@
+function e(){return process.env.BD_PUSH_TOKEN??``}function t(t){let n=e();return n===``?{ok:!1,status:403,error:`push API disabled (set BD_PUSH_TOKEN)`}:t.headers.get(`authorization`)===`Bearer ${n}`?{ok:!0}:{ok:!1,status:401,error:`bad or missing bearer token`}}function n(e,t){return Response.json({error:t},{status:e})}export{n,e as r,t};

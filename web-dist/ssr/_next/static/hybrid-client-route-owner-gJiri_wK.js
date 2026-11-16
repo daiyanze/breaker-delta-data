@@ -1,0 +1,1 @@
+import{C as e,b as t}from"../../index.js";import"./app-router-navigation-CTkIAp3d.js";new URL(`http://vinext.invalid/`),[...t,...e];function n(e,t){return null}function r(e,t){return null}export{n as resolveHybridClientRewriteHref,r as resolveHybridClientRouteOwner};

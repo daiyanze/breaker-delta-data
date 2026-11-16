@@ -1,0 +1,1 @@
+import{i as e}from"./navigation-errors-DAOpTDSc.js";import"../../index.js";import{c as t,u as n}from"./data-vLvilxiA.js";import{n as r}from"./feeds-BW24l8ES.js";async function i(i,{params:a}){let{lang:o}=await a;n(o)||e();let s=await t();return new Response(r(s,o),{headers:{"content-type":`application/atom+xml; charset=utf-8`}})}export{i as GET};

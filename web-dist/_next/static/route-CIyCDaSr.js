@@ -1,0 +1,1 @@
+import{t as e}from"./feeds-BW24l8ES.js";async function t(){return new Response(`User-agent: *\nAllow: /\nSitemap: ${e}sitemap.xml\n`,{headers:{"content-type":`text/plain; charset=utf-8`}})}export{t as GET};
