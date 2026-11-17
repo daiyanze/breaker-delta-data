@@ -313,3 +313,37 @@
 - GPT-6 Astra 参与标准模型格点定义 | 2026-11-16 晚报 | 2026-11-17 早报 | OpenAI 官方博客, X, The Decoder | 🌱→🌱（平：The Decoder 11 月 16 日跟进，无新进展） | 待复盘
 - EUROPA 欧盟近万亿参数开源模型 | 2026-11-16 早报 | 2026-11-17 早报 | Reddit r/LocalLLaMA | 🌱→🌱（平：仍仅单源，无新佐证） | 待复盘
 - Anthropic IPO / Lovable 应用大规模数据泄露 / DeepSeek dsh-superagent + V4.1-Flash-1017 / ChatGPT Wallet / Gemini 4 Carbon / Gemini 4 Hydrogen + Antigravity Orchestrator / Claude Fable 5.2 / Mythos 5.2 / Gemini Decisions API / United 航空禁 AI agent 订票 / AlphaProof Code / Gemini Robotics 2.5 + AlphaGenome 2 / Claude Sheets / Whiteboards / Meetings / Data / Perplexity Decider v1.3 / Flash v1.3 / meta/astryx / llama.cpp v1.0 / Jane Street Socratic Tutor / Nintendo GitHub DMCA 大扫荡 / 纽约州 RAISE Act 注册门户开放 / Google 48 个 AI Agent 发现玛雅金字塔 / AWS 官方 AWS 模拟器 / Apple 本地 AI Mac 应用 Llamalook / Jev / System One 模型落地 / 亚马逊世界商品图谱 / ggml v1.0.0 / Claude Duet agent / 谷歌 29 个 AI agent 搭建因果推理 benchmark / 意大利罚 Meta $887M / OpenAI 解散机器人团队 / LangChain 30 亿美元估值 / Perplexity Teammates 登陆 Mac / Claude Code Projects 升级 / Meta Muse 电话代打 / Apple AI 健康研究 App / SpaceX 星舰 Flight 15 首次接住飞船 / DRAM 反垄断诉讼 / 美团 LongCat-2.5 / Open Vision Banana / inclusionAI Ling 3.2 Flash / Google Tabletop | 各首次发现时间见上文 | 2026-11-17 早报 | 见上文 | 平，无新动静（craft-anything、unslop、free-claude-code、CopilotKit/OpenBot、FFmpeg-GUI-Editor-Windows、Lichii、meta/astryx、OpenAI Codex Security、GoogleChrome/modern-web-guidance-src 未见于本期 GitHub 日榜，维持凉；SpaceX 星舰未见于本期 HN 首页，维持凉；Anthropic IPO 定价 11 月 18 日、上市 11 月 19 日不变） | 待复盘
+
+## 2026-11-17 晚报（18:00 JST）
+- 美国收紧 AI 芯片远程访问管制 | 2026-11-17 晚报 | 2026-11-17 晚报 | AP, Reuters, NPR, Nikkei, Al Jazeera, Ars Technica | 🆕🔥（BIS 11 月 16 日临时最终规则：印尼、马来西亚、新加坡、泰国、巴西列高风险，买先进芯片须出口许可；为中国总部企业提供大量算力的海外数据中心 90 天内须申请许可；直接回应英伟达/Megaspeed 丑闻；规则由财政部与国家安全委员会起草；同日特朗普启程访华、周四会晤习近平；东南亚数据中心与芯片供应链股 11 月 17 日下跌） | 待复盘
+- Cloudflare 开源 Kitesurf | 2026-11-17 晚报 | 2026-11-17 晚报 | Cloudflare 官方博客, Reddit r/artificial | 🆕👀（11 月 13 日 Apache 2.0 开源：Workers 上跑的 agent 浏览器引擎，无 Chromium 进程，支持 CDP；自报常用任务 CPU 与内存约为 Chromium 的 1/3–1/7；通过 23.5 万+ 项 Web Platform Tests；实验品：不支持视频、WebGL 与长会话登录态，自部署须自行加鉴权） | 待复盘
+- 美国数据中心用电量研究 | 2026-11-17 晚报 | 2026-11-17 晚报 | The Verge, Time, Gizmodo, The Guardian, CBC, Ars Technica | 🆕👀（哈佛主导、Nature Sustainability：403 个超大规模数据中心 2024.5–2025.4 用电约 82 TWh、区间 68–99，约占全美发电 1.8%、约等于密歇根州全年；CO2 约 2570 万吨≈丹麦全年；54% 化石燃料；排放为 AI 繁荣前 3 倍多；更广口径 2132 个数据中心年排放超 1.05 亿吨、约占全美能源排放 2.18%；早报曾列 🌱 未入选，今晚数字核实后升级） | 待复盘
+- GPT-6 Astra 参与标准模型格点定义 | 2026-11-16 晚报 | 2026-11-17 晚报 | OpenAI 官方博客, The Decoder, Sebastian Raschka, X | 🌱→👀（升级：The Decoder 11 月 16 日跟进——Astra 主导标准模型候选格点定义证明，50 年难题；三位格点场论专家审阅；Craig 称“远非终点”；Raschka 通讯与 Simon Willison 同日讨论；专家尚未评判） | 待复盘
+- Agent skills 集群 | 2026-11-12 晚报 | 2026-11-17 晚报 | GitHub, GitHub 官方博客, X | 👀→👀（微涨：janestreet/agent_skills 9,710 stars，13 天日均约 747；NVIDIA/SkillEvaluator、alibaba/open-code-review、google-labs-code/stitch-skills、google-research/paper-orchestra 同在日榜；X 讨论 Mythos 3 天学会在 AMD 上运行，未证实） | 待复盘
+- Corma 3 个月达 10 亿美元估值 | 2026-11-17 晚报 | 2026-11-17 晚报 | TechCrunch | 🆕🌱（单源：网络安全 AI 创业公司 Corma 约 3 个月内估值达 10 亿美元） | 待复盘
+- Optimizely 被入侵 | 2026-11-17 晚报 | 2026-11-17 晚报 | Hacker News | 🆕🌱（单源：Optimizely 遭入侵，向 Zoom、GitLab 等大品牌网站访客投放恶意软件；Mastodon 当日亦见 #optimizely 标签；细节待核实） | 待复盘
+- 斯坦福教授创办 AI 实验室 Noeri | 2026-11-17 晚报 | 2026-11-17 晚报 | X | 🆕🌱（单源：斯坦福教授 Yejin Choi 与 Carlos Guestrin 在 X 宣布创办自改进 AI 实验室 Noeri，获 1.1 亿美元融资，Menlo 领投，NVIDIA、Snowflake、思科参投） | 待复盘
+- 黄仁勋辞职 | 2026-11-12 晚报 | 2026-11-17 晚报 | NYT, The Guardian, TechCrunch, Wikipedia | 🔥→🔥（涨：NYT 新文称黄仁勋“保守秘密一年多终致下台”；马斯克等科技高管加入“Bring Jensen Back”公开信联署，Guardian 称 16.5 万+ 签名；今晚财报，临时 CEO Colette Kress，预期营收约 $109B；维基 Jensen Huang 第 11/162,987 浏览，今早第 10/194,070，微降） | 待复盘
+- Anthropic IPO | 2026-11-11 试点早报 | 2026-11-17 晚报 | Reddit r/artificial, SaaStr, X | 🔥→🔥（涨：S-1 修正文件细节 Reddit 热议——员工期权+RSU 约 $2160 亿（5,300 人，人均约 $4100 万），另预留约 $1600 亿给未来招聘；X 官方 IPO 帖 10,500 likes/330 万浏览；定价 11 月 18 日、上市 11 月 19 日不变；收入 run rate 截至 10 月 31 日为 $810 亿） | 待复盘
+- 加州总检察长起诉 OpenAI | 2026-11-17 早报 | 2026-11-17 晚报 | X, The Verge | 🔥→🔥（平：X 仍在讨论，无新数字；OpenAI 仍未置评） | 待复盘
+- 美国多家大银行在线服务中断 | 2026-11-17 早报 | 2026-11-17 晚报 | AP, Reuters, The Verge | 👀→👀（续：JPMorgan 今日仍有技术问题致网银延迟；United 同日技术故障致出发延误、已解决；同一“基础设施脆弱”主题延续） | 待复盘
+- Qwen4-Max Preview + Qwen Code 1.0 | 2026-11-12 早报 | 2026-11-17 晚报 | — | 🔥→🔥（平，无新数字） | 待复盘
+- FBI 警告 Artex AI 黑客工具 | 2026-11-17 早报 | 2026-11-17 晚报 | Google GTIG | 👀→👀（平：Google GTIG 同日报告《自主攻击时代已至》，与早报口径一致，无新数字） | 待复盘
+- 亚马逊黑五“诱饵折扣”调查 | 2026-11-17 早报 | 2026-11-17 晚报 | — | 👀→👀（平，无新动静） | 待复盘
+- 腾讯 Hy4 Flash | 2026-11-17 早报 | 2026-11-17 晚报 | — | 🌱→🌱（平，无新动静） | 待复盘
+- DIYgod/pinky | 2026-11-17 早报 | 2026-11-17 晚报 | GitHub Trending | 🌱→🌱（微涨：2,334 stars，10 天日均约 233） | 待复盘
+- deepseek-ai/chat-demo | 2026-11-15 晚报 | 2026-11-17 晚报 | GitHub Trending | 🌱→🌱（涨：4,318 stars，5 天日均约 864） | 待复盘
+- agent-autoloop | 2026-11-15 晚报 | 2026-11-17 晚报 | GitHub Trending | 🌱→🌱（微涨：5,742 stars，13 天日均约 442） | 待复盘
+- GestaltX | 2026-11-14 早报 | 2026-11-17 晚报 | GitHub Trending | 🌱→🌱（微涨：7,962 stars，8 天日均约 995） | 待复盘
+- HGhub | 2026-11-15 早报 | 2026-11-17 晚报 | GitHub Trending | 🌱→🌱（涨：9,672 stars，13 天日均约 744） | 待复盘
+- MiniMax H3-Image | 2026-11-11 试点早报 | 2026-11-17 晚报 | Hugging Face | 👀→👀（微涨：HF 1,355 likes / 609,130 下载） | 待复盘
+- moonshotai/Kimi-K3.1-Pro | 2026-11-13 早报 | 2026-11-17 晚报 | Hugging Face, The Decoder | 🌱→🌱（微涨：HF 2,180 likes / 49,428 下载；The Decoder：Moonshot 将 Kimi 从编码转向科学） | 待复盘
+- Qwen3.8 模型家族 | 2026-11-13 早报 | 2026-11-17 晚报 | Hugging Face | 👀→👀（微涨：Qwen3.8-27B 20,317 likes / 6,763,402 下载） | 待复盘
+- Thinking Machines Lab Inkling 2 Small | 2026-11-13 早报 | 2026-11-17 晚报 | Hugging Face | 👀→👀（微涨：HF 429 likes / 16,918 下载） | 待复盘
+- DeepSeek-V4-Pro 非官方 uncensored 衍生版 | 2026-11-16 早报 | 2026-11-17 晚报 | Hugging Face | 🌱→🌱（涨：仍居 HF 新面孔首位，9,389 likes / 29,567 下载） | 待复盘
+- 美团 LongCat-2.5 | 2026-11-16 早报 | 2026-11-17 晚报 | Hugging Face | 🔥→🔥（微涨：HF 352 likes / 1,850 下载） | 待复盘
+- NousResearch/Arete-27B | 2026-11-13 早报 | 2026-11-17 晚报 | Hugging Face | 🌱→🌱（微涨：676 likes / 9,187 下载） | 待复盘
+- Edge0-145B | 2026-11-13 晚报 | 2026-11-17 晚报 | Hugging Face | 👀→👀（平：NVFP4 55,335 下载不变） | 待复盘
+- Claude Fable 5.2 / Mythos 5.2 | 2026-11-12 早报 | 2026-11-17 晚报 | Scale AI, X | 🔥→🔥（微涨：Scale AI 远程劳动指数 Fable 5.2 以 41.25% 居首，Opus 5.5 21.25%、GPT-6 Astra 20.83%；X 热议） | 待复盘
+- kiri | 2026-11-15 晚报 | 2026-11-17 晚报 | — | 🌱→凉（未见于本期 GitHub 日榜） | 待复盘
+- LangChain 30 亿美元估值 / llama.cpp v1.0 / Gemini 4 Carbon / Gemini 4 Hydrogen + Antigravity Orchestrator / AlphaProof Code / Gemini Robotics 2.5 + AlphaGenome 2 / Claude Sheets / Whiteboards / Meetings / Data / Perplexity Decider v1.3 / Flash v1.3 / meta/astryx / Jane Street Socratic Tutor / Nintendo GitHub DMCA 大扫荡 / 纽约州 RAISE Act 注册门户开放 / Google 48 个 AI Agent 发现玛雅金字塔 / AWS 官方 AWS 模拟器 / Apple 本地 AI Mac 应用 Llamalook / Jev / System One 模型落地 / 亚马逊世界商品图谱 / ggml v1.0.0 / Claude Duet agent / 谷歌 29 个 AI agent 搭建因果推理 benchmark / 意大利罚 Meta $887M / OpenAI 解散机器人团队 / Perplexity Teammates 登陆 Mac / Claude Code Projects 升级 / Meta Muse 电话代打 / Apple AI 健康研究 App / SpaceX 星舰 Flight 15 首次接住飞船 / DRAM 反垄断诉讼 / Open Vision Banana / inclusionAI Ling 3.2 Flash / Google Tabletop | 各首次发现时间见上文 | 2026-11-17 晚报 | 见上文 | 平，无新动静（craft-anything、unslop、free-claude-code、CopilotKit/OpenBot、GoogleChrome/modern-web-guidance-src 未见于本期 GitHub 日榜，维持凉；Anthropic IPO 定价 11 月 18 日、上市 11 月 19 日不变） | 待复盘

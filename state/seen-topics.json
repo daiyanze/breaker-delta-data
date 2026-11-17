@@ -143,7 +143,8 @@
       "sources": [
         "GitHub",
         "Hacker News",
-        "GitHub 官方博客"
+        "GitHub 官方博客",
+        "X"
       ],
       "history": [
         {
@@ -152,6 +153,10 @@
         },
         {
           "date": "2026-11-16",
+          "grade": "watch"
+        },
+        {
+          "date": "2026-11-17",
           "grade": "watch"
         },
         {
@@ -740,15 +745,21 @@
     {
       "name": "GPT-6 Astra 参与标准模型格点定义",
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-17",
       "sources": [
         "OpenAI 官方博客",
-        "X"
+        "X",
+        "The Decoder",
+        "Sebastian Raschka"
       ],
       "history": [
         {
           "date": "2026-11-16",
           "grade": "echo"
+        },
+        {
+          "date": "2026-11-17",
+          "grade": "watch"
         }
       ],
       "review": {
@@ -944,6 +955,137 @@
       "last_seen": "2026-11-17",
       "sources": [
         "GitHub"
+      ],
+      "history": [
+        {
+          "date": "2026-11-17",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-17"
+      }
+    },
+    {
+      "name": "美国收紧 AI 芯片远程访问管制",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "sources": [
+        "AP",
+        "Reuters",
+        "NPR",
+        "Nikkei",
+        "Al Jazeera",
+        "Ars Technica"
+      ],
+      "history": [
+        {
+          "date": "2026-11-17",
+          "grade": "must"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-17"
+      }
+    },
+    {
+      "name": "Cloudflare 开源 Kitesurf",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "sources": [
+        "Cloudflare 官方博客",
+        "Reddit"
+      ],
+      "history": [
+        {
+          "date": "2026-11-17",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-17"
+      }
+    },
+    {
+      "name": "美国数据中心用电量研究",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "sources": [
+        "The Verge",
+        "Time",
+        "Gizmodo",
+        "The Guardian",
+        "CBC",
+        "Ars Technica"
+      ],
+      "history": [
+        {
+          "date": "2026-11-17",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-17"
+      }
+    },
+    {
+      "name": "Corma 3 个月达 10 亿美元估值",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "sources": [
+        "TechCrunch"
+      ],
+      "history": [
+        {
+          "date": "2026-11-17",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-17"
+      }
+    },
+    {
+      "name": "Optimizely 被入侵",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "sources": [
+        "Hacker News"
+      ],
+      "history": [
+        {
+          "date": "2026-11-17",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-17"
+      }
+    },
+    {
+      "name": "斯坦福教授创办 AI 实验室 Noeri",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "sources": [
+        "X"
       ],
       "history": [
         {

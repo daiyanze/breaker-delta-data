@@ -1,0 +1,294 @@
+{
+  "date": "2026-11-17",
+  "items": [
+    {
+      "action": "深入研究——芯片管制进入“远程算力”新阶段，直接影响中国 AI 公司的算力供给，值得一篇。",
+      "body": "11 月 16 日，美国商务部产业安全局（BIS）发布临时最终规则，堵上中国企业经第三国数据中心远程使用美国先进 AI 芯片的口子：将印度尼西亚、马来西亚、新加坡、泰国、巴西列为“转运风险过高”国家，向这些国家出售先进芯片须申请出口许可；为中国等受关注国家总部企业提供大量算力的海外数据中心，须在 90 天内申请许可，否则面临出口限制。新规直接回应英伟达/Megaspeed 丑闻——前 CEO 黄仁勋上周辞职，涉及其与新加坡云服务商 Megaspeed 高管的关系及芯片走私指控；规则由财政部与国家安全委员会起草，同日特朗普启程访华、周四将会晤习近平。东南亚数据中心与芯片供应链公司股价 11 月 17 日应声下跌。AP、路透、NPR、日经、半岛电视台、Ars Technica 多家跟进。",
+      "i18n": {
+        "en": {
+          "action": "Dig deeper — chip controls have entered a 'remote compute' phase that directly affects Chinese AI firms' compute supply; worth a full piece.",
+          "body": "On November 16, the US Commerce Department's Bureau of Industry and Security (BIS) issued an interim final rule closing the loophole that let Chinese firms use advanced American AI chips remotely through third-country data centers: Indonesia, Malaysia, Singapore, Thailand and Brazil were designated as presenting a higher-than-normal risk of diversion, and selling advanced chips to those destinations now requires an export licence; overseas data centers providing large volumes of compute to companies headquartered in China and other countries of concern must apply for a licence within 90 days or face export restrictions. The rule directly answers the Nvidia/Megaspeed scandal — former CEO Jensen Huang resigned last week amid scrutiny of his ties to a Megaspeed executive and chip-smuggling allegations; it was drafted by the Treasury Department and the National Security Council, and landed the same day Trump left for China, where he is due to meet Xi Jinping on Thursday. Shares of Southeast Asian data-center and chip supply-chain companies fell on November 17. AP, Reuters, NPR, Nikkei, Al Jazeera and Ars Technica all followed it.",
+          "title": "US tightens remote-access controls on AI chips: five countries flagged high-risk, overseas data centers get 90 days to seek licences"
+        },
+        "ja": {
+          "action": "深掘りする――チップ規制は「リモート計算」の段階に入り、中国 AI 企業の計算資源に直結する。1本書く価値あり。",
+          "body": "11月16日、米商務省産業安全保障局（BIS）は暫定最終規則を発表し、中国企業が第三国のデータセンター経由で米国の先端 AI チップをリモート利用する抜け穴を塞いだ。インドネシア、マレーシア、シンガポール、タイ、ブラジルを「転用リスクが高い」国に指定し、これらの国への先端チップ販売には輸出許可が必要になる。中国など懸念国の本社を持つ企業に大量の計算能力を提供する海外データセンターは、90日以内に許可を申請しなければ輸出制限の対象になる。新規則は Nvidia／Megaspeed スキャンダルへの直接の対応だ。前 CEO ジェンスン・フアンは先週、Megaspeed 幹部との関係とチップ密輸疑惑をめぐる追及を受けて辞任した。規則は財務省と国家安全保障会議が起草し、トランプ氏が訪中に出発した同日に出た。トランプ氏は木曜日に習近平氏と会談予定。東南アジアのデータセンターやチップ関連株は11月17日に下落した。AP、ロイター、NPR、日経、アルジャジーラ、Ars Technica が相次いで報じた。",
+          "title": "米国が AI チップのリモートアクセス規制を強化：5か国を高リスク指定、海外データセンターは90日以内に許可申請へ"
+        }
+      },
+      "is_new": true,
+      "level": "must",
+      "links": [
+        "https://www.aljazeera.com/amp/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal",
+        "https://www.reuters.com/world/china/people-react-us-ai-chip-curbs-that-threaten-data-centre-boom-2026-11-17/"
+      ],
+      "sources": [
+        "AP",
+        "Reuters",
+        "NPR",
+        "Nikkei",
+        "Al Jazeera",
+        "Ars Technica"
+      ],
+      "title": "美国收紧 AI 芯片远程访问管制：5 国列高风险，海外数据中心 90 天内须申请许可",
+      "plugins": {
+        "momentum": {
+          "score": 56
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "NVDA"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "action": "仅记录；agent 基础设施又一块拼图，可试用对比。",
+      "body": "Cloudflare 11 月 13 日以 Apache 2.0 协议开源 Kitesurf——8 月推出的 agent 专属浏览器引擎，整个跑在 Workers 上：解析 HTML、应用 CSS、执行页面 JS、渲染截图，全程无浏览器容器、无 Chromium 进程；支持 Chrome DevTools 协议（CDP），Puppeteer 等现有客户端可直接连接。自报常用任务的 CPU 与内存约为 Chromium 的三分之一到七分之一（14 个 URL 测试，提取 HTML 的内存约为七分之一），代价是页面加载更慢、兼容性更低；通过 23.5 万+ 项 Web Platform Tests。目前仍是实验品：不支持视频、WebGL 与长会话登录态，自部署须自行加鉴权。Reddit r/artificial 今日热议。",
+      "i18n": {
+        "en": {
+          "action": "Record only; another piece of agent infrastructure — worth trying side by side.",
+          "body": "On November 13, Cloudflare open-sourced Kitesurf under the Apache 2.0 licence — the agent-first browser engine introduced in August that runs entirely on Workers: it parses HTML, applies CSS, executes page JavaScript and renders screenshots with no browser container and no Chromium process; it speaks the Chrome DevTools Protocol (CDP), so existing clients such as Puppeteer can connect directly. Cloudflare says common tasks use roughly a third to a seventh of Chromium's CPU and memory (HTML extraction used about a seventh of the memory in a 14-URL test), at the cost of slower page loads and lower compatibility; it passes 235,000+ Web Platform Tests. It is still experimental: no video, WebGL or long-lived logged-in sessions, and self-hosters must add their own authentication. Reddit r/artificial discussed it today.",
+          "title": "Cloudflare open-sources Kitesurf: a browser for AI agents, without Chromium"
+        },
+        "ja": {
+          "action": "記録のみ。エージェント基盤のピースがまた一つ増えた。並べて試す価値あり。",
+          "body": "Cloudflare は11月13日、Kitesurf を Apache 2.0 ライセンスでオープンソース化した。8月に発表されたエージェント専用ブラウザエンジンで、Workers 上で完全に動作する。HTML を解析し、CSS を適用し、ページの JavaScript を実行し、スクリーンショットを描画するが、ブラウザコンテナも Chromium プロセスも使わない。Chrome DevTools Protocol（CDP）に対応し、Puppeteer などの既存クライアントが直接接続できる。Cloudflare によれば、一般的なタスクの CPU とメモリは Chromium の3分の1から7分の1程度（14 URL のテストで HTML 抽出のメモリは約7分の1）。代償としてページ読み込みは遅く、互換性も低い。Web Platform Tests は23.5万件超をパス。まだ実験段階で、動画、WebGL、長時間のログインセッションには非対応。自前で運用する場合は認証を自分で追加する必要がある。Reddit の r/artificial で今日話題になった。",
+          "title": "Cloudflare が Kitesurf をオープンソース化：Chromium を使わない、AI エージェント向けブラウザ"
+        }
+      },
+      "is_new": true,
+      "level": "watch",
+      "links": [
+        "https://blog.cloudflare.com/kitesurf-open-source/",
+        "https://www.reddit.com/r/artificial/comments/1xya7o1/cloudflare_opensourced_its_browser_for_ai_agents/"
+      ],
+      "sources": [
+        "Cloudflare 官方博客",
+        "Reddit"
+      ],
+      "title": "Cloudflare 开源 Kitesurf：给 AI agent 的浏览器，不用 Chromium",
+      "plugins": {
+        "momentum": {
+          "score": 36
+        }
+      }
+    },
+    {
+      "action": "仅记录；AI 基建的能源账第一次有了同行评议的设施级数字。",
+      "body": "哈佛公共卫生学院主导、发表于《Nature Sustainability》的研究：2024 年 5 月至 2025 年 4 月，全美 403 个超大规模数据中心用电约 82 TWh（区间 68–99 TWh），约占全美发电量的 1.8%，约等于密歇根州全年用电；CO2 排放约 2570 万吨，与丹麦全年相当；54% 的电力来自化石燃料；排放量为 AI 繁荣前的 3 倍多。用电集中在艾奥瓦、俄亥俄、俄勒冈、弗吉尼亚四州；更广口径的 2132 个数据中心年排放超 1.05 亿吨 CO2，约占全美能源排放的 2.18%。The Verge、Time、Gizmodo、Guardian、CBC、Ars Technica 同日跟进。",
+      "i18n": {
+        "en": {
+          "action": "Record only; the first peer-reviewed, facility-level number for AI infrastructure's energy bill.",
+          "body": "A Harvard T.H. Chan School of Public Health-led study published in Nature Sustainability finds that, from May 2024 to April 2025, 403 US hyperscale data centers used about 82 TWh of electricity (range 68–99 TWh) — about 1.8% of total US generation, roughly Michigan's annual use; their CO2 emissions were about 25.7 million metric tons, on par with Denmark's yearly total; 54% of their electricity came from fossil fuels; and emissions have more than tripled since before the AI boom. Demand is concentrated in Iowa, Ohio, Oregon and Virginia; a wider set of 2,132 data centers emitted over 105 million tons of CO2, about 2.18% of total US energy emissions. The Verge, Time, Gizmodo, The Guardian, CBC and Ars Technica followed it the same day.",
+          "title": "Harvard study: 403 US hyperscale data centers use about as much power as Michigan in a year"
+        },
+        "ja": {
+          "action": "記録のみ。AI インフラのエネルギー勘定について、初めて査読付きの施設レベル数字が出た。",
+          "body": "ハーバード公衆衛生大学院が主導し、Nature Sustainability に掲載された研究によれば、2024年5月～2025年4月に米国のハイパースケール・データセンター403施設が使用した電力は約82 TWh（68～99 TWh）で、全米の発電量の約1.8%、ミシガン州の年間使用量にほぼ相当する。CO2 排出量は約2,570万トンで、デンマークの年間排出量に並ぶ。電力の54%は化石燃料由来で、排出量は AI ブーム前の3倍超に増えた。需要はアイオワ、オハイオ、オレゴン、バージニアの4州に集中。より広い2,132施設では CO2 排出量が1億500万トンを超え、全米のエネルギー排出量の約2.18%にのぼる。The Verge、Time、Gizmodo、The Guardian、CBC、Ars Technica が同日報じた。",
+          "title": "ハーバード研究：米国のハイパースケール・データセンター403施設の電力使用量はミシガン州1年分に相当"
+        }
+      },
+      "is_new": true,
+      "level": "watch",
+      "links": [
+        "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+        "https://mlq.ai/news/about-400-us-hyperscale-data-centers-use-as-much-power-as-michigan-and-emit-as-much-co2-as-denmark-harvard-led-study-finds/"
+      ],
+      "sources": [
+        "The Verge",
+        "Time",
+        "Gizmodo",
+        "The Guardian",
+        "CBC",
+        "Ars Technica"
+      ],
+      "title": "哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年",
+      "plugins": {
+        "momentum": {
+          "score": 56
+        }
+      }
+    },
+    {
+      "action": "深入研究——AI 攻克数学/物理难题的又一例，可与 AlphaProof Nexus 对照写。",
+      "body": "OpenAI 新开科学博客首篇：UCSB 粒子理论学家 Nathaniel Craig 称，GPT-6 Astra 主导了标准模型候选格点定义的证明——把完整标准模型放上格点是 50 年难题，弱力的手征不对称会在简单格点上产生多余“鬼粒子”，重叠费米子可过滤但 25 年来无人能正确设定其相位；Craig 有“比较逐级精细格点修正相位”的思路但证不全，Astra 把它变成完整构造并主导了详细证明；三位格点场论专家（Golterman、Kronfeld、Shamir）审阅并提问。Craig 称这“远非终点”，离真实模拟还很远。The Decoder 11 月 16 日跟进，Raschka 通讯与 Simon Willison 同日讨论；专家尚未评判。",
+      "i18n": {
+        "en": {
+          "action": "Dig deeper — another case of AI cracking a math/physics problem; worth pairing with AlphaProof Nexus.",
+          "body": "The first post on OpenAI's new science blog: UCSB particle theorist Nathaniel Craig says GPT-6 Astra led the proof defining candidate lattices for the Standard Model — putting the full Standard Model on a lattice is a 50-year problem, because the weak force's handedness creates unwanted 'ghost' particles on simple lattices, and overlap fermions can filter them but no one could set their phase correctly for 25 years; Craig had the idea of correcting the phase by comparing progressively finer lattices but could not prove it in full, and Astra turned it into a working construction and led the detailed proof; three lattice field theorists (Golterman, Kronfeld, Shamir) reviewed it and raised questions. Craig calls the work 'much more a beginning than an end', with realistic simulations still far off. The Decoder followed up on November 16, with discussion the same day from Sebastian Raschka's newsletter and Simon Willison; experts have yet to weigh in.",
+          "title": "GPT-6 Astra leads a proof for the Standard Model on a lattice: a 50-year problem gets a new approach"
+        },
+        "ja": {
+          "action": "深掘りする――AI が数学・物理の難問を解く事例がまた一つ。AlphaProof Nexus と対照して書ける。",
+          "body": "OpenAI の新設サイエンスブログの初回記事。UCSB の粒子理論学者 Nathaniel Craig によれば、GPT-6 Astra が標準模型の候補格子を定義する証明を主導した。完全な標準模型を格子に載せることは50年の難問だ。弱い力のカイラリティにより、単純な格子では不要な「ゴースト粒子」が生じ、オーバーラップ・フェルミオンで除去できるものの、位相を正しく設定する方法が25年間見つからなかった。Craig は「段階的に細かい格子を比較して位相を修正する」着想を持っていたが完全には証明できず、Astra がそれを実用的な構成に変え、詳細な証明を主導した。3人の格子場理論家（Golterman、Kronfeld、Shamir）が査読して質問を投げかけた。Craig はこれを「終わりではなく、むしろ始まり」と呼び、現実的なシミュレーションにはまだ遠いとする。The Decoder が11月16日に追い、Sebastian Raschka のニュースレターと Simon Willison が同日議論した。専門家の評価はまだ出ていない。",
+          "title": "GPT-6 Astra が標準模型の格子定義の証明を主導：50年の難問に新たな解法"
+        }
+      },
+      "is_new": false,
+      "level": "watch",
+      "links": [
+        "https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice/",
+        "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and"
+      ],
+      "sources": [
+        "OpenAI 官方博客",
+        "The Decoder",
+        "Sebastian Raschka",
+        "X"
+      ],
+      "title": "GPT-6 Astra 主导标准模型格点证明：50 年难题出现新解法",
+      "plugins": {
+        "momentum": {
+          "score": 66
+        }
+      }
+    },
+    {
+      "action": "仅记录；agent skills 已从单个爆款变成格式运动，值得持续跟踪。",
+      "body": "技能生态仍在涨：janestreet/agent_skills 13 天 9,710 stars，日均约 747（早报 9,532、日均 733）；同日 GitHub 日榜还有 NVIDIA/SkillEvaluator、alibaba/open-code-review、google-labs-code/stitch-skills、google-research/paper-orchestra 等技能类仓库；GitHub 官方博客已发 agent skills 实践指南。X 上亦有讨论：有帖称 Anthropic 的 Mythos 仅用 3 天就学会在 AMD 硬件上运行（未证实），CUDA 护城河之争再起。",
+      "i18n": {
+        "en": {
+          "action": "Record only; agent skills have grown from a single breakout into a format movement — keep tracking.",
+          "body": "The skills wave is still climbing: janestreet/agent_skills has 9,710 stars in 13 days, about 747 a day (9,532 in the morning, about 733 a day); the same day's GitHub trending list also carries skill-format repos including NVIDIA/SkillEvaluator, alibaba/open-code-review, google-labs-code/stitch-skills and google-research/paper-orchestra; GitHub's official blog has published a hands-on agent skills guide. X is debating it too: one post claims Anthropic's Mythos learned to run on AMD hardware in 3 days (unverified), reopening the CUDA-moat argument.",
+          "title": "Agent skills cluster keeps spreading: janestreet/agent_skills at 9,710 stars"
+        },
+        "ja": {
+          "action": "記録のみ。agent skills は単発のバズから形式のムーブメントに育った。追い続ける価値あり。",
+          "body": "スキル旋風はまだ上昇中。janestreet/agent_skills は13日間で 9,710 stars、1日平均約747（今朝は 9,532、約733）。同日の GitHub トレンドには NVIDIA/SkillEvaluator、alibaba/open-code-review、google-labs-code/stitch-skills、google-research/paper-orchestra などスキル形式のリポジトリも並ぶ。GitHub 公式ブログは agent skills の実践ガイドを公開済み。X でも議論が起きている。Anthropic の Mythos がわずか3日で AMD ハードウェア上で動く方法を学んだという投稿があり（未確認）、CUDA の堀の議論が再燃している。",
+          "title": "Agent skills クラスタが広がり続ける：janestreet/agent_skills が 9,710 stars に"
+        }
+      },
+      "is_new": false,
+      "level": "watch",
+      "links": [
+        "https://github.com/janestreet/agent_skills",
+        "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/"
+      ],
+      "sources": [
+        "GitHub",
+        "GitHub 官方博客",
+        "X"
+      ],
+      "title": "Agent skills 集群继续扩散：janestreet/agent_skills 9,710 stars",
+      "plugins": {
+        "momentum": {
+          "score": 41
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "NVDA"
+            },
+            {
+              "type": "ticker",
+              "name": "AMD"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "action": "仅记录。",
+      "body": "TechCrunch 11 月 16 日：网络安全 AI 创业公司 Corma 约 3 个月内估值达 10 亿美元。单源。",
+      "i18n": {
+        "en": {
+          "action": "Record only.",
+          "body": "TechCrunch, November 16: cybersecurity AI startup Corma reached a $1 billion valuation in about three months. Single source.",
+          "title": "Corma: cybersecurity AI startup reaches a $1B valuation in about three months"
+        },
+        "ja": {
+          "action": "記録のみ。",
+          "body": "TechCrunch（11月16日）：サイバーセキュリティ AI スタートアップ Corma が約3か月で時価総額10億ドルに達した。単一ソース。",
+          "title": "Corma：サイバーセキュリティ AI スタートアップが約3か月で時価総額10億ドルに"
+        }
+      },
+      "is_new": true,
+      "level": "echo",
+      "links": [
+        "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"
+      ],
+      "sources": [
+        "TechCrunch"
+      ],
+      "title": "Corma：网络安全 AI 创业公司约 3 个月达 10 亿美元估值",
+      "plugins": {
+        "momentum": {
+          "score": 31
+        }
+      }
+    },
+    {
+      "action": "仅记录。",
+      "body": "HN 首页：Optimizely 遭入侵，向 Zoom、GitLab 等大品牌网站访客投放恶意软件；Mastodon 当日亦见 #optimizely 标签。单源，细节待核实。",
+      "i18n": {
+        "en": {
+          "action": "Record only.",
+          "body": "Hacker News front page: Optimizely was compromised and served malware to visitors of major brand sites including Zoom and GitLab; Mastodon also carried an #optimizely tag today. Single source, details unconfirmed.",
+          "title": "Optimizely compromised, serving malware to visitors of Zoom and GitLab"
+        },
+        "ja": {
+          "action": "記録のみ。",
+          "body": "Hacker News トップページ：Optimizely が侵害され、Zoom や GitLab など大手ブランドサイトの訪問者にマルウェアを配信した。Mastodon でも当日 #optimizely タグが見られた。単一ソースで、詳細は未確認。",
+          "title": "Optimizely が侵害され、Zoom や GitLab の訪問者にマルウェアを配信"
+        }
+      },
+      "is_new": true,
+      "level": "echo",
+      "links": [
+        "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/"
+      ],
+      "sources": [
+        "Hacker News"
+      ],
+      "title": "Optimizely 被入侵：Zoom、GitLab 访客被投放恶意软件",
+      "plugins": {
+        "momentum": {
+          "score": 31
+        }
+      }
+    },
+    {
+      "action": "仅记录。",
+      "body": "斯坦福教授 Yejin Choi 与 Carlos Guestrin 在 X 上宣布创办自改进 AI 实验室 Noeri，获 1.1 亿美元融资，Menlo Ventures 领投，NVIDIA、Snowflake、思科参投；目标是企业可拥有的自改进 AI。单源（X 发布 + 通稿）。",
+      "i18n": {
+        "en": {
+          "action": "Record only.",
+          "body": "Stanford professors Yejin Choi and Carlos Guestrin announced on X the launch of Noeri, a self-improving AI lab, with $110 million in funding led by Menlo Ventures and strategic investors NVIDIA, Snowflake and Cisco; the goal is self-improving AI that companies own. Single source (X announcement plus press release).",
+          "title": "Stanford professors launch AI lab Noeri with $110M in funding"
+        },
+        "ja": {
+          "action": "記録のみ。",
+          "body": "スタンフォード大学の Yejin Choi 教授と Carlos Guestrin 教授が X で、自己改善型 AI 研究所 Noeri の設立を発表。Menlo Ventures が主導し、NVIDIA、Snowflake、シスコが戦略投資家として参加する1.1億ドルの資金調達を得た。目標は、企業が所有できる自己改善型 AI だ。単一ソース（X での発表とプレスリリース）。",
+          "title": "スタンフォード教授らが AI 研究所 Noeri を設立、1.1億ドルの資金調達"
+        }
+      },
+      "is_new": true,
+      "level": "echo",
+      "links": [
+        "https://m.aicoder.com/news"
+      ],
+      "sources": [
+        "X"
+      ],
+      "title": "斯坦福教授创办 AI 实验室 Noeri，获 1.1 亿美元融资",
+      "plugins": {
+        "momentum": {
+          "score": 31
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "NVDA"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
