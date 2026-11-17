@@ -159,6 +159,14 @@
       "plugins": {
         "momentum": {
           "score": 41
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "GOOGL"
+            }
+          ]
         }
       }
     },

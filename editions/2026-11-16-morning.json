@@ -92,6 +92,18 @@
       "plugins": {
         "momentum": {
           "score": 98
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "NVDA"
+            },
+            {
+              "type": "ticker",
+              "name": "GOOGL"
+            }
+          ]
         }
       }
     },
@@ -125,6 +137,14 @@
       "plugins": {
         "momentum": {
           "score": 41
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "MU"
+            }
+          ]
         }
       }
     },

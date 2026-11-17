@@ -227,6 +227,14 @@
       "plugins": {
         "momentum": {
           "score": 51
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "MSFT"
+            }
+          ]
         }
       }
     },
@@ -257,6 +265,14 @@
       "plugins": {
         "momentum": {
           "score": 31
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "AAPL"
+            }
+          ]
         }
       }
     }
