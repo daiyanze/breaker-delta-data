@@ -1,0 +1,311 @@
+{
+  "date": "2026-11-18",
+  "items": [
+    {
+      "action": "写 tweet——发布本身是头条，但首批口碑两极，值得先实测再下判断。",
+      "body": "11 月 17 日 17:45 GMT，OpenAI 发布 GPT-6.2 Astra 与 Sol：Astra 为旗舰模型，Sol 为高效日常模型；API 定价 Astra 每百万 tokens 输入 $8 / 输出 $40，Sol $2/$10；上下文 1M；首发 ChatGPT Work 与 Codex（Plus/Pro/Enterprise/Edu 用户）及 API；OpenRouter 同日上架 4 个变体。HN 主帖 769 分 / 477 评。首批体验口碑两极：Artificial Analysis 智能指数 Astra 62.1、Sol 57.3，低于 Claude Fable 5.2 的 64.6 与 Opus 5.5 的 59.1；X 上 Matt Shumer 称“基本不可用”、Theo 称“OpenAI 发过的最差模型”；Reddit r/codex、r/singularity 的首小时帖子评论均超 60 条，价格受好评、实测存疑。",
+      "i18n": {
+        "en": {
+          "action": "Write a tweet — the launch itself is the headline, but first reactions are split, so test it before judging.",
+          "body": "At 17:45 GMT on November 17, OpenAI released GPT-6.2 Astra and Sol: Astra is the flagship model, Sol the efficient everyday model. API pricing is $8/$40 per million input/output tokens for Astra and $2/$10 for Sol, with a 1M-token context window. Both launched first in ChatGPT Work and Codex (for Plus/Pro/Enterprise/Edu users) and in the API; OpenRouter listed 4 variants the same day. The HN thread reached 769 points / 477 comments. First hands-on reactions are split: on the Artificial Analysis Intelligence Index, Astra scores 62.1 and Sol 57.3, below Claude Fable 5.2 at 64.6 and Opus 5.5 at 59.1; on X, Matt Shumer called the models \"essentially unusable\" and Theo called Astra \"the worst model OpenAI has ever released\"; launch threads in Reddit's r/codex and r/singularity each passed 60 comments in the first hour, with praise for the price and doubts about real-world performance.",
+          "title": "OpenAI releases GPT-6.2 Astra and Sol — launch lands, first reviews split"
+        },
+        "ja": {
+          "action": "ツイートを書く――発表自体がトップニュースだが、初動の評価は真っ二つ。判断する前にまず試す価値あり。",
+          "body": "11月17日17:45 GMT、OpenAIがGPT-6.2 AstraとSolを発表。Astraはフラッグシップ、Solは効率重視の日常モデル。API価格はAstraが100万トークンあたり入力$8/出力$40、Solが$2/$10。コンテキストは1M。まずChatGPT WorkとCodex（Plus/Pro/Enterprise/Eduユーザー）およびAPIで提供開始。OpenRouterも同日に4バリアントを掲載。HNのスレッドは769ポイント/477コメント。初動の評価は真っ二つ。Artificial AnalysisのIntelligence IndexではAstra 62.1、Sol 57.3で、Claude Fable 5.2の64.6、Opus 5.5の59.1を下回る。XではMatt Shumerが「ほぼ使えない」、Theoが「OpenAI史上最悪のモデル」と投稿。Redditのr/codexとr/singularityでは公開1時間以内のスレッドがどちらも60件超のコメントを集め、価格は好評だが実測には疑問の声。",
+          "title": "OpenAI、GPT-6.2 AstraとSolを発表――初動の評価は真っ二つ"
+        }
+      },
+      "is_new": true,
+      "level": "must",
+      "links": [
+        "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+        "https://openrouter.ai/openai/gpt-6.2-astra",
+        "https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/"
+      ],
+      "sources": [
+        "OpenAI 官方博客",
+        "Hacker News",
+        "OpenRouter",
+        "GitHub Changelog",
+        "X",
+        "Reddit"
+      ],
+      "title": "OpenAI 发布 GPT-6.2 Astra 与 Sol：上线即遭首批差评，口碑两极",
+      "plugins": {
+        "momentum": {
+          "score": 56
+        }
+      }
+    },
+    {
+      "action": "仅记录——今晚看定价结果，明早再报。",
+      "body": "定价日就是今天 11 月 18 日，11 月 19 日在纳斯达克上市（代码 ANT）。彭博称认购约 7 倍：发行价区间 $70–78、8.25 亿股，募资最高约 643.5 亿美元；多家报道称可能定在区间上限之上；按 $78 计完全稀释估值约 1.4 万亿美元；另有 260 亿美元来自 AMD、博通、谷歌、微软、英伟达、台积电等供应商的同步私募。昨晚台账：员工期权+RSU 约 $2160 亿（5,300 人）、收入 run rate 截至 10 月 31 日为 $810 亿。",
+      "i18n": {
+        "en": {
+          "action": "Just record it — watch tonight's pricing result and report again tomorrow morning.",
+          "body": "Pricing day is today, November 18, with a Nasdaq listing (ticker ANT) on November 19. Bloomberg reports the book is about 7x oversubscribed: the price range is $70–78 for 825 million shares, raising up to about $64.35 billion; several reports say pricing may land above the top of the range; at $78 the fully diluted valuation would be about $1.4 trillion; a further $26 billion comes from a concurrent private placement by suppliers including AMD, Broadcom, Google, Microsoft, Nvidia and TSMC. From last night's ledger: employee options plus RSUs are worth about $216 billion (5,300 people), and the revenue run rate was $81 billion as of October 31.",
+          "title": "Anthropic IPO prices today: book about 7x oversubscribed, may price above the $70–78 range"
+        },
+        "ja": {
+          "action": "記録のみ――今夜のプライシング結果を待ち、明朝あらためて報じる。",
+          "body": "プライシングは本日11月18日、11月19日にナスダック上場（ティッカーANT）。ブルームバーグによると申込みは約7倍。価格帯は$70～78、8億2500万株で、最大約643億5000万ドルを調達。複数の報道では上限を上回る価格設定の可能性も。$78で計算すると完全希薄化後の時価総額は約1兆4000億ドル。さらにAMD、ブロードコム、グーグル、マイクロソフト、エヌビディア、TSMCなどサプライヤーによる260億ドルの同時私募もある。昨夜の台帳より：従業員ストックオプション＋RSUは約2160億ドル（5300人）、10月31日時点の売上ラン rate は810億ドル。",
+          "title": "Anthropic IPO、本日プライシング：申込み約7倍、上限超えの可能性も"
+        }
+      },
+      "is_new": false,
+      "level": "must",
+      "links": [
+        "https://www.techi.com/anthropic-ipo-lock-up-share-release-calendar/",
+        "https://memeburn.com/anthropics-ipo-is-7x-oversubscribed-but-its-record-depends-on-26-billion/"
+      ],
+      "sources": [
+        "Bloomberg",
+        "Google News",
+        "Reddit"
+      ],
+      "title": "Anthropic IPO 今日定价：约 7 倍超额认购，或高于 $70–78 区间上限",
+      "plugins": {
+        "momentum": {
+          "score": 85
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "MSFT"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "action": "仅记录——等财报数字与 11 月 18 日全员会/国会简报。",
+      "body": "黄仁勋本人首次松口：称若董事会支持，他“很荣幸”重返英伟达 CEO。接续 11 月 12 日辞职、16.5 万+ 人联署“Bring Jensen Back”公开信的剧情；财报今晨美股盘后公布，市场预期营收约 1088 亿美元、EPS $2.47（公司指引 1080 亿美元 ±2%），截至发稿结果尚未公布；维基 Jensen Huang 昨日 162,987 浏览第 11，较前日第 10/194,070 微降。",
+      "i18n": {
+        "en": {
+          "action": "Just record it — wait for the earnings numbers and the November 18 all-hands and congressional briefings.",
+          "body": "Jensen Huang has spoken for the first time since resigning: he said he would be \"honored\" to return as Nvidia CEO if the board supports it. This follows his November 12 resignation and the \"Bring Jensen Back\" open letter, now signed by more than 165,000 people. Earnings are released after the US close this morning; the market expects revenue of about $108.8 billion and EPS of $2.47 (company guidance: $108 billion ±2%), and the results were not yet out at the time of writing. Jensen Huang's Wikipedia page drew 162,987 views yesterday, ranking 11th, down slightly from 10th / 194,070 the day before.",
+          "title": "Jensen Huang says he would be \"honored\" to return as Nvidia CEO; earnings due after the close"
+        },
+        "ja": {
+          "action": "記録のみ――決算数字と11月18日の全社集会・議会ブリーフィングを待つ。",
+          "body": "黄仁勲本人が初めて口を開いた。取締役会が支持するなら、エヌビディアCEOへの復帰を「光栄に思う」と述べた。11月12日の辞任、16万5000人超が署名した「Bring Jensen Back」公開書簡に続く展開。決算は今朝の米市場引け後に発表。市場予想は売上高約1088億ドル、EPS $2.47（会社ガイダンスは1080億ドル±2%）。執筆時点ではまだ未発表。ウィキペディアのJensen Huangページは昨日16万2987ビューで第11位。前日の第10位/19万4070から微減。",
+          "title": "黄仁勲、エヌビディアCEO復帰に「光栄」と発言。決算は引け後"
+        }
+      },
+      "is_new": false,
+      "level": "must",
+      "links": [
+        "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+        "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/"
+      ],
+      "sources": [
+        "The Verge",
+        "TechCrunch",
+        "WIRED",
+        "Ars Technica",
+        "Wikipedia"
+      ],
+      "title": "黄仁勋愿重返英伟达 CEO：称若董事会支持“很荣幸”；财报今晨公布",
+      "plugins": {
+        "momentum": {
+          "score": 72
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "NVDA"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "action": "仅记录——自动驾驶监管收紧的新案例，社会观察维度。",
+      "body": "加州 DMV 叫停 Waymo 高速公路运营，称其 Robotaxi 驶入施工区、构成“对公共安全迫在眉睫的危害”；Waymo 随即暂停全美高速路段服务。TechCrunch、The Verge、WIRED 同日跟进。",
+      "i18n": {
+        "en": {
+          "action": "Just record it — a new case of robotaxi regulation tightening, in the social-observation dimension.",
+          "body": "California's DMV has halted Waymo's freeway operations, saying its robotaxis drove into an active construction zone and posed an \"imminent hazard to public safety\"; Waymo has suspended freeway rides nationwide. TechCrunch, The Verge and WIRED all followed the story the same day.",
+          "title": "California DMV halts Waymo freeway rides; Waymo suspends them nationwide"
+        },
+        "ja": {
+          "action": "記録のみ――自動運転への規制強化の新たな事例。社会観察の観点で。",
+          "body": "カリフォルニア州DMVがWaymoの高速道路での運行を停止。ロボタクシーが工事区間に進入し「公共の安全に対する差し迫った危険」をもたらしたため。Waymoは全米で高速道路でのサービスを停止した。TechCrunch、The Verge、WIREDが同日に報じた。",
+          "title": "カリフォルニア州DMV、Waymoの高速道路運行を停止"
+        }
+      },
+      "is_new": true,
+      "level": "watch",
+      "links": [
+        "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide",
+        "https://bsky.app/profile/theverge.com/post/3n2jsyqhzkc2i"
+      ],
+      "sources": [
+        "TechCrunch",
+        "The Verge",
+        "WIRED"
+      ],
+      "title": "Waymo 高速公路被加州 DMV 叫停：Robotaxi 驶入施工区，全美高速服务暂停",
+      "plugins": {
+        "momentum": {
+          "score": 41
+        }
+      }
+    },
+    {
+      "action": "立项观察——MAI 系列是微软摆脱依赖的关键一步，跟进实测口碑。",
+      "body": "微软 Ignite 期间发布自研编码模型 MAI Code 2 与轻量版 MAI Code 2 Flash，即日起进 GitHub Copilot；Copilot Fusion 同步更新可用性与基准；Copilot 应用亦有 Ignite 版本。HN 相关帖 166 分 / 78 评；路透称微软以编码与安全模型直面 Anthropic 与 OpenAI。",
+      "i18n": {
+        "en": {
+          "action": "Watch as a project — the MAI family is Microsoft's key step away from dependence; follow hands-on reviews.",
+          "body": "During Microsoft Ignite, Microsoft released its in-house coding models MAI Code 2 and the lighter MAI Code 2 Flash, now available in GitHub Copilot; Copilot Fusion also updated its availability and benchmarks, and the Copilot app got Ignite releases. The HN thread reached 166 points / 78 comments; Reuters says Microsoft is taking on Anthropic and OpenAI with coding and cybersecurity models.",
+          "title": "Microsoft Ignite: in-house MAI Code 2 models land in GitHub Copilot"
+        },
+        "ja": {
+          "action": "立項観察――MAIシリーズはマイクロソフトの依存脱却のカギ。実測の評判を追う。",
+          "body": "Microsoft Igniteで、自社開発のコーディングモデルMAI Code 2と軽量版MAI Code 2 Flashを発表。即日GitHub Copilotで利用可能に。Copilot Fusionも可用性とベンチマークを更新。CopilotアプリにもIgnite版がある。HNの関連スレッドは166ポイント/78コメント。ロイターは、マイクロソフトがコーディングとセキュリティのモデルでAnthropicとOpenAIに正面から挑むと報じた。",
+          "title": "Microsoft Ignite：自社MAI Code 2がGitHub Copilotに"
+        }
+      },
+      "is_new": true,
+      "level": "watch",
+      "links": [
+        "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
+        "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models"
+      ],
+      "sources": [
+        "GitHub Changelog",
+        "Hacker News",
+        "Reuters"
+      ],
+      "title": "微软 Ignite：自研 MAI Code 2 进 GitHub Copilot，直面 Anthropic 与 OpenAI",
+      "plugins": {
+        "momentum": {
+          "score": 85
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "MSFT"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "action": "仅记录——供应链攻击的典型样本，留意后续索赔与修复进展。",
+      "body": "细节核实后升级：攻击者利用 Optimizely 网站测试服务的注册流程漏洞，向 178 家机构的网站访客投放恶意 JavaScript（Report URI 在 1,611 个脚本中发现 188 个被感染），包括 Zoom、BBC、CNN、汇丰、宜家、Salesforce、Equifax；代码可替换加密货币钱包地址、窃取信用卡信息与浏览器 cookie，并向旧款 iPhone/iPad 推送漏洞利用工具；已追踪到约 $7,040 加密货币流入攻击者钱包；Optimizely 称已修复漏洞并清除注入代码。昨晚仅 HN 单源列为 🌱。",
+      "i18n": {
+        "en": {
+          "action": "Just record it — a textbook supply-chain attack; watch for claims and remediation follow-ups.",
+          "body": "Upgraded after the details were verified: attackers exploited a flaw in the sign-up flow of Optimizely's website-testing service and served malicious JavaScript to visitors of 178 organizations' websites (Report URI found 188 infected scripts out of 1,611 checked), including Zoom, BBC, CNN, HSBC, IKEA, Salesforce and Equifax. The code could swap cryptocurrency wallet addresses, steal credit-card details and browser cookies, and push exploit kits at older iPhones and iPads; about $7,040 in cryptocurrency has been traced to the attackers' wallets. Optimizely says it has fixed the flaw and removed the injected code. Last night this was a single HN source, listed as an echo.",
+          "title": "Optimizely supply-chain attack reached 178 organizations' websites; about $7,040 in crypto traced"
+        },
+        "ja": {
+          "action": "記録のみ――サプライチェーン攻撃の典型例。賠償や修復の続報に注意。",
+          "body": "詳細の確認を受けて格上げ。攻撃者はOptimizelyのウェブサイトテストサービスの登録フローの脆弱性を悪用し、178団体のサイト訪問者に悪意あるJavaScriptを配信した（Report URIは1611スクリプト中188件の感染を確認）。Zoom、BBC、CNN、HSBC、IKEA、Salesforce、Equifaxなどが含まれる。コードは暗号資産ウォレットのアドレスをすり替え、クレジットカード情報やブラウザのcookieを盗み、旧型iPhone/iPadにエクスプロイトキットを送り込めた。約7040ドル相当の暗号資産が攻撃者のウォレットに送られたことが確認されている。Optimizelyは脆弱性を修正し、注入コードを除去したと発表。昨夜はHN単独の情報源で🌀扱いだった。",
+          "title": "Optimizelyのサプライチェーン攻撃、178団体に波及。約7040ドルの暗号資産を確認"
+        }
+      },
+      "is_new": false,
+      "level": "watch",
+      "links": [
+        "https://www.newsweek.com/cyber-attack-websites-affected-12725863",
+        "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-infects-major-brands-sites-with-malware/"
+      ],
+      "sources": [
+        "Newsweek",
+        "Report URI",
+        "BleepingComputer",
+        "Hacker News"
+      ],
+      "title": "Optimizely 供应链攻击波及 178 家机构网站，约 $7,040 加密货币被追踪",
+      "plugins": {
+        "momentum": {
+          "score": 46
+        }
+      }
+    },
+    {
+      "action": "仅记录——社会观察维度，留意是否指向系统性脆弱。",
+      "body": "银行之后轮到更多基础设施：Apple 服务（含 iCloud、App Store、Apple Music）中断，HN 主帖 465 分 / 257 评；NSA 高度机密内网宕机，CNN 引述 6 名知情人士，路透跟进，Mastodon 当日 211 个账号讨论；微软 365 亦宕机，The Verge 报道。Fox News 以“科技中断”做滚动直播，称微软、银行与 FAA 同日出问题。昨晚台账的银行中断（JPMorgan 网银延迟、美联航技术故障已解决）是同一主题的延续。",
+      "i18n": {
+        "en": {
+          "action": "Just record it — a social-observation item; watch whether it points to systemic fragility.",
+          "body": "After the banks, more infrastructure went down: Apple services (including iCloud, App Store and Apple Music) were hit by an outage, with the HN thread at 465 points / 257 comments; the NSA's highly classified internal network went down, CNN citing six people familiar with the matter, Reuters following up, and 211 Mastodon accounts discussing it the same day; Microsoft 365 also went down, The Verge reported. Fox News ran a live \"tech outages\" blog covering Microsoft, banks and the FAA on the same day. Last night's ledger entry on bank outages (JPMorgan online-banking delays; United's tech fault, since resolved) is the same theme continuing.",
+          "title": "Infrastructure outages pile up: Apple services, the NSA's classified network, Microsoft 365"
+        },
+        "ja": {
+          "action": "記録のみ――社会観察の観点で。システム的な脆弱性を示すのか注視。",
+          "body": "銀行の次は他のインフラだ。Appleのサービス（iCloud、App Store、Apple Musicを含む）が障害。HNのスレッドは465ポイント/257コメント。NSAの高度に機密性の高い内部ネットワークもダウン。CNNは関係者6人の話として報じ、ロイターも追随。Mastodonでは当日211アカウントが議論。Microsoft 365も障害を起こし、The Vergeが報じた。Fox Newsは「テック障害」のライブブログで、マイクロソフト、銀行、FAAが同日に問題を起こしたと伝えた。昨夜の台帳にある銀行障害（JPMorganのネットバンキング遅延、ユナイテッドの技術障害は解決済み）は同じテーマの続き。",
+          "title": "インフラ障害が相次ぐ：Apple、NSAの機密網、Microsoft 365"
+        }
+      },
+      "is_new": false,
+      "level": "watch",
+      "links": [
+        "https://developer.apple.com/system-status/",
+        "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down"
+      ],
+      "sources": [
+        "Hacker News",
+        "Reuters",
+        "CNN",
+        "The Verge",
+        "Mastodon"
+      ],
+      "title": "欧美基础设施连环中断：Apple 服务、NSA 机密内网、微软 365 接连宕机",
+      "plugins": {
+        "momentum": {
+          "score": 51
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "AAPL"
+            },
+            {
+              "type": "ticker",
+              "name": "MSFT"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "action": "仅记录。",
+      "body": "HF Daily Papers 当日票选首位（67 upvotes）：95 位作者的开源前沿模型舰队论文，单源。",
+      "i18n": {
+        "en": {
+          "action": "Just record it.",
+          "body": "The top-voted paper on HF Daily Papers for the day (67 upvotes): an open-source frontier model fleet paper by 95 authors. Single source.",
+          "title": "K2-Horizon: an open-source fleet of frontier language models"
+        },
+        "ja": {
+          "action": "記録のみ。",
+          "body": "HF Daily Papersで当日最多票（67 upvotes）。95人の著者によるオープンソースのフロンティアモデル群の論文。単独の情報源。",
+          "title": "K2-Horizon：オープンソースのフロンティアモデル群"
+        }
+      },
+      "is_new": true,
+      "level": "echo",
+      "links": [
+        "https://huggingface.co/papers/2611.21003"
+      ],
+      "sources": [
+        "Hugging Face Daily Papers"
+      ],
+      "title": "K2-Horizon 开源前沿模型舰队：HF Daily Papers 当日票选首位",
+      "plugins": {
+        "momentum": {
+          "score": 31
+        }
+      }
+    }
+  ]
+}

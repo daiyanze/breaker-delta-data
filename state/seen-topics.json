@@ -45,7 +45,7 @@
     {
       "name": "Anthropic IPO",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-17",
       "sources": [
         "Reddit",
         "Google News",
@@ -65,6 +65,10 @@
         },
         {
           "date": "2026-11-16",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-17",
           "grade": "must"
         }
       ],
@@ -162,6 +166,10 @@
         {
           "date": "2026-11-17",
           "grade": "watch"
+        },
+        {
+          "date": "2026-11-17",
+          "grade": "watch"
         }
       ],
       "review": {
@@ -206,13 +214,19 @@
     {
       "name": "Claude Fable 5.2 / Mythos 5.2",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-17",
       "sources": [
-        "Reddit"
+        "Reddit",
+        "Google News",
+        "Reddit r/artificial"
       ],
       "history": [
         {
           "date": "2026-11-12",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-17",
           "grade": "must"
         }
       ],
@@ -347,7 +361,7 @@
     {
       "name": "MiniMax H3-Image",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-17",
       "sources": [
         "Hugging Face",
         "Product Hunt",
@@ -360,6 +374,10 @@
         },
         {
           "date": "2026-11-16",
+          "grade": "watch"
+        },
+        {
+          "date": "2026-11-17",
           "grade": "watch"
         }
       ],
@@ -448,7 +466,9 @@
         "Wikipedia 热读榜",
         "CNBC",
         "The Times",
-        "X"
+        "X",
+        "WIRED",
+        "Ars Technica"
       ],
       "history": [
         {
@@ -461,6 +481,10 @@
         },
         {
           "date": "2026-11-16",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-17",
           "grade": "must"
         },
         {
@@ -699,11 +723,16 @@
       "first_seen": "2026-11-16",
       "last_seen": "2026-11-17",
       "sources": [
-        "GitHub"
+        "GitHub",
+        "GitHub Trending"
       ],
       "history": [
         {
           "date": "2026-11-16",
+          "grade": "echo"
+        },
+        {
+          "date": "2026-11-17",
           "grade": "echo"
         },
         {
@@ -796,11 +825,16 @@
       "first_seen": "2026-11-16",
       "last_seen": "2026-11-17",
       "sources": [
-        "GitHub"
+        "GitHub",
+        "GitHub Trending"
       ],
       "history": [
         {
           "date": "2026-11-16",
+          "grade": "echo"
+        },
+        {
+          "date": "2026-11-17",
           "grade": "echo"
         },
         {
@@ -1065,12 +1099,19 @@
       "first_seen": "2026-11-17",
       "last_seen": "2026-11-17",
       "sources": [
-        "Hacker News"
+        "Hacker News",
+        "Newsweek",
+        "Report URI",
+        "BleepingComputer"
       ],
       "history": [
         {
           "date": "2026-11-17",
           "grade": "echo"
+        },
+        {
+          "date": "2026-11-17",
+          "grade": "watch"
         }
       ],
       "review": {
@@ -1086,6 +1127,180 @@
       "last_seen": "2026-11-17",
       "sources": [
         "X"
+      ],
+      "history": [
+        {
+          "date": "2026-11-17",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-17"
+      }
+    },
+    {
+      "name": "GPT-6.2 Astra and Sol",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "sources": [
+        "OpenAI 官方博客",
+        "Hacker News",
+        "OpenRouter",
+        "GitHub Changelog",
+        "X",
+        "Reddit"
+      ],
+      "history": [
+        {
+          "date": "2026-11-17",
+          "grade": "must"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-17"
+      }
+    },
+    {
+      "name": "Waymo 高速公路停运",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "sources": [
+        "TechCrunch",
+        "The Verge",
+        "WIRED"
+      ],
+      "history": [
+        {
+          "date": "2026-11-17",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-17"
+      }
+    },
+    {
+      "name": "微软 MAI Code 2 / Copilot Fusion",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "sources": [
+        "GitHub Changelog",
+        "Hacker News",
+        "Reuters"
+      ],
+      "history": [
+        {
+          "date": "2026-11-17",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-17"
+      }
+    },
+    {
+      "name": "欧美基础设施连环中断",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "sources": [
+        "Hacker News",
+        "Reuters",
+        "CNN",
+        "The Verge",
+        "Mastodon"
+      ],
+      "history": [
+        {
+          "date": "2026-11-17",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-17"
+      }
+    },
+    {
+      "name": "K2-Horizon",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "sources": [
+        "Hugging Face Daily Papers"
+      ],
+      "history": [
+        {
+          "date": "2026-11-17",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-17"
+      }
+    },
+    {
+      "name": "Qwen3.8 模型家族",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "sources": [
+        "Hugging Face"
+      ],
+      "history": [
+        {
+          "date": "2026-11-17",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-17"
+      }
+    },
+    {
+      "name": "Perplexity 年收入 run rate 达 10 亿美元",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "sources": [
+        "Latent Space"
+      ],
+      "history": [
+        {
+          "date": "2026-11-17",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-17"
+      }
+    },
+    {
+      "name": "Google Gemini Tasks 免费开放",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "sources": [
+        "The Verge",
+        "TechCrunch"
       ],
       "history": [
         {
