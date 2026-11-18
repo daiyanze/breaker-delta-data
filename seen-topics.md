@@ -366,3 +366,31 @@
 - Perplexity 年收入 run rate 达 10 亿美元 | 2026-11-18 早报 | 2026-11-18 早报 | Latent Space | 🆕🌱（单源，未入选正文：2026 年增长 4 倍） | 待复盘
 - Google Gemini Tasks 免费开放 | 2026-11-18 早报 | 2026-11-18 早报 | The Verge, TechCrunch | 🆕🌱（单源组，未入选正文：原 Spark 改名 Tasks 后免费开放，可代打电话、代购） | 待复盘
 - 美国收紧 AI 芯片远程访问管制 / Cloudflare 开源 Kitesurf / 美国数据中心用电量研究 / GPT-6 Astra 参与标准模型格点定义 / Corma 3 个月达 10 亿美元估值 / 斯坦福教授创办 AI 实验室 Noeri / 加州总检察长起诉 OpenAI / Qwen4-Max Preview + Qwen Code 1.0 / Gemini 4 Carbon / Gemini 4 Hydrogen + Antigravity Orchestrator / Gemini Decisions API / United 航空禁 AI agent 订票 / AlphaProof Code / Gemini Robotics 2.5 + AlphaGenome 2 / Claude Sheets / Whiteboards / Meetings / Data / Perplexity Decider v1.3 / Flash v1.3 / meta/astryx / llama.cpp v1.0 / Jane Street Socratic Tutor / Nintendo GitHub DMCA 大扫荡 / 纽约州 RAISE Act 注册门户开放 / Google 48 个 AI Agent 发现玛雅金字塔 / AWS 官方 AWS 模拟器 / Apple 本地 AI Mac 应用 Llamalook / Jev / System One 模型落地 / 亚马逊世界商品图谱 / ggml v1.0.0 / Claude Duet agent / 谷歌 29 个 AI agent 搭建因果推理 benchmark / 意大利罚 Meta $887M / OpenAI 解散机器人团队 / LangChain 30 亿美元估值 / Perplexity Teammates 登陆 Mac / Claude Code Projects 升级 / Meta Muse 电话代打 / Apple AI 健康研究 App / SpaceX 星舰 Flight 15 首次接住飞船 / DRAM 反垄断诉讼 / Open Vision Banana / inclusionAI Ling 3.2 Flash / Google Tabletop | 各首次发现时间见上文 | 2026-11-18 早报 | 见上文 | 平，无新动静（美国多家大银行在线服务中断并入“欧美基础设施连环中断”；HGhub、DIYgod/pinky、agent-autoloop 未见于本期 GitHub 日榜前列，维持凉） | 待复盘
+
+## 2026-11-18 晚报（18:00 JST）
+- Java4Shell CVE-2026-114938 | 2026-11-18 晚报 | 2026-11-18 晚报 | Hacker News, The New York Times, BBC, BleepingComputer | 🆕🔥（Calif 11 月 17 日披露：OpenJDK Base64 解码器堆越界写，CVSS 9.2/8.1；研究员用 OpenAI Codex 约 1 小时发现、2 小时做出首个 exploit，token 成本 < $200；未认证 RCE：Keycloak、Jira、Confluence、JFrog Artifactory、Jenkins、PingFederate 默认配置；仅 x86-64 AVX-512 VBMI；Oracle 11 月 17 日已发补丁，CISA 发警报；尚无野外利用，未进 CISA KEV；HN 902 分/230 评） | 待复盘
+- 黄仁勋辞职 | 2026-11-12 晚报 | 2026-11-18 晚报 | TechCrunch, The Verge, Bloomberg, Hacker News | 🔥→🔥（涨：Q3 财报超预期——营收 $1158 亿 +103%（预期 $1091 亿），数据中心 $1076 亿 +110% 占 93%，调整后 EPS $2.68（预期 $2.47），净利润 $653 亿；Q4 指引 $1300 亿 ±3% 且假设中国数据中心算力收入为零；对华授权 Hopper 出货已停止（Q3 仍有 $24 亿）；Vera Rubin NVL72 已出货；董事会明确不考虑让黄仁勋回任 CEO；维基 Jensen Huang 第 9/144,823 浏览，较早报第 11/162,987 浏览降、排名升；11 月 18 日全员会/国会简报） | 待复盘
+- Cognition Devin Bots | 2026-11-18 晚报 | 2026-11-18 晚报 | Fortune, X, dev.to | 🆕🔥（11 月 17 日发布：持久化“经理型”agent，带跨会话记忆，并行指挥多个 Devin 会话；官方 beta 数据：每条消息合并 PR 数为直接用 Devin 的 4.5 倍，个别工程师周 PR 从约 50 涨到近 2,000；Android Bot 案例 44 天合并 1,134 个 PR、344,651 行 Kotlin、1,217 张票、183 条人类消息；早期客户 Decagon、Fireworks AI、Reducto，用量两周涨 10 倍；对标 Anthropic Duet 与 OpenAI Dots；Cognition 估值 $480 亿、年收入 run rate 已过 $10 亿；仅 early access，无公开定价与全面开放时间） | 待复盘
+- 微软 agent-framework PyPI 投毒 | 2026-11-18 晚报 | 2026-11-18 晚报 | Aikido, SafeDep, Wiz, The Hacker News | 🆕👀（11 月 17 日 20:35–21:20 UTC，恶意版 1.26.1/1.26.2 相隔 33 分钟发布，.pth 窃密器偷 Azure、GitHub Actions OIDC、HF token 与 .env；包月下载约 19 万次；Wiz 称目的端仅捕获 ≤50 个请求；两版已下架，安全版 1.26.0；攻击者如何拿到微软官方 PyPI 发布权限尚不清楚） | 待复盘
+- 腾讯 Hy4 Flash | 2026-11-17 早报 | 2026-11-18 晚报 | Hacker News, Hugging Face, OpenRouter, Product Hunt | 🌱→👀（升级：本期多源确认——HN 119 分/21 评、HF 新面孔、OpenRouter 上架、Product Hunt 收录；224B 总参数、每 token 激活 120 亿，1M 上下文，$0.07/$0.281 每百万 tokens；权重计划开源，日期未定） | 待复盘
+- 腾讯 LoopForge | 2026-11-18 晚报 | 2026-11-18 晚报 | GitHub | 🆕🌱（单源：自托管编码 agent 编排工作台，Docker 沙箱 + SOP + 人工审批节点，驱动 10 个 agent CLI；GitHub 日榜当日 +591 stars，7 天 +1,671，累计约 3,107 stars；11 月 12 日发布，MIT 协议） | 待复盘
+- Google Gemini Tasks 免费开放 | 2026-11-18 早报 | 2026-11-18 晚报 | The Verge, TechCrunch | 🌱→🌱（平：原 Spark 改名 Tasks 后免费开放，可代打电话、代购；同组单源） | 待复盘
+- 哈佛研究：AI 编码 agent 把瓶颈推向代码审查 | 2026-11-18 晚报 | 2026-11-18 晚报 | Hacker News | 🆕🌱（单源：HN 170 分/227 评） | 待复盘
+- GPT-6.2 Astra and Sol | 2026-11-18 早报 | 2026-11-18 晚报 | Hacker News, OpenRouter, X | 🔥→🔥（涨：HN 主帖 769→1,256 分/477→776 评；OpenRouter 新增 Astra Pro/Sol Pro（1.05M 上下文）；Ultrafast 扩至 Pro 200 用户（先上 Sol）；差评仍在：Theo 发文《Why I hate GPT-6.2 Astra》） | 待复盘
+- Anthropic IPO | 2026-11-11 试点早报 | 2026-11-18 晚报 | Bloomberg, Google News, Economic Times | 🔥→🔥（平，今晚定价：定价尚未公布（美股盘后）；指引价区间上限或以上；New Street 首予 Buy、目标价 $105（较 $74 中点高约 42%）；Altimeter 50 亿美元订单；认购约 7 倍；明日 11 月 19 日纳斯达克上市（ANT）不变） | 待复盘
+- 微软 MAI Code 2 / Copilot Fusion | 2026-11-18 早报 | 2026-11-18 晚报 | Hacker News, Ars Technica | 👀→👀（涨：HN 166→353 分/78→153 评；Ignite 主题演讲称 Copilot 为“工作新操作系统”，Office 跑进 Copilot） | 待复盘
+- Optimizely 被入侵 | 2026-11-17 晚报 | 2026-11-18 晚报 | Hacker News | 👀→👀（平，无新数字） | 待复盘
+- Waymo 高速公路停运 | 2026-11-18 早报 | 2026-11-18 晚报 | TechCrunch | 👀→👀（平，无新进展） | 待复盘
+- 欧美基础设施连环中断 | 2026-11-18 早报 | 2026-11-18 晚报 | Hacker News, CNN, Reuters, The Washington Post, Axios | 👀→👀（涨：NSA 机密内网宕机再被多家跟进（CNN 引 6 名知情人士，HN 567 分/653 评）；华邮、Axios 出“为什么全网同时出问题”分析；Apple 服务中断、微软 365 亦宕机） | 待复盘
+- K2-Horizon | 2026-11-18 早报 | 2026-11-18 晚报 | Hugging Face Daily Papers | 🌱→🌱（平，无新动静） | 待复盘
+- Agent skills 集群 | 2026-11-12 晚报 | 2026-11-18 晚报 | GitHub | 👀→👀（微涨：alibaba/open-code-review 当日 +763、google-research/paper-orchestra +1,072 同在 GitHub 日榜） | 待复盘
+- MiniMax H3-Image | 2026-11-11 试点早报 | 2026-11-18 晚报 | Hugging Face | 👀→👀（微涨：HF 1,432→1,543 likes，下载 727,110 不变） | 待复盘
+- Qwen3.8 模型家族 | 2026-11-13 早报 | 2026-11-18 晚报 | Hugging Face | 👀→👀（微涨：Qwen3.8-27B 20,403→20,495 likes） | 待复盘
+- GestaltX | 2026-11-14 早报 | 2026-11-18 晚报 | GitHub Trending | 🌱→🌱（涨：8,096→8,217 stars，9 天日均 913） | 待复盘
+- deepseek-ai/chat-demo | 2026-11-15 晚报 | 2026-11-18 晚报 | GitHub Trending | 🌱→🌱（涨：4,506→4,657 stars，6 天日均 776） | 待复盘
+- DIYgod/pinky | 2026-11-17 早报 | 2026-11-18 晚报 | GitHub Trending | 🌱→🌱（微涨：2,334→2,419 stars） | 待复盘
+- Thinking Machines Lab Inkling 2 Small | 2026-11-13 早报 | 2026-11-18 晚报 | Hugging Face | 👀→👀（微涨：HF 470 likes / 18,359 下载，早报为 391/16,918） | 待复盘
+- moonshotai/Kimi-K3.1-Pro | 2026-11-13 早报 | 2026-11-18 晚报 | Hugging Face | 🌱→🌱（微涨：HF 2,219 likes / 53,224 下载） | 待复盘
+- Claude Fable 5.2 / Mythos 5.2 | 2026-11-12 早报 | 2026-11-18 晚报 | Google News | 🔥→🔥（平，无新官方消息） | 待复盘
+- Gemini 4 Hydrogen + Antigravity Orchestrator | 2026-11-13 早报 | 2026-11-18 晚报 | X | 🔥→🔥（平：Antigravity 上线一周年——新多 agent 界面、配额重置、Carbon 首 token 延迟快 1.5 倍，X 单源） | 待复盘
+- Qwen4-Max Preview + Qwen Code 1.0 / 美国收紧 AI 芯片远程访问管制 / 加州总检察长起诉 OpenAI / Cloudflare 开源 Kitesurf / 美国数据中心用电量研究 / Gemini 4 Carbon / DeepSeek-V4-Pro 非官方 uncensored 衍生版 | 各首次发现时间见上文 | 2026-11-18 晚报 | 见上文 | 平，无新动静（DeepSeek-V4-Pro uncensored 衍生版未见于本期 HF 前 30，维持凉；DOJ 称正调查 Megaspeed，为芯片管制话题的相关新动态） | 待复盘

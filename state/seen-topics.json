@@ -45,14 +45,15 @@
     {
       "name": "Anthropic IPO",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "sources": [
         "Reddit",
         "Google News",
         "CNBC",
         "The Economist",
         "WSJ",
-        "Bloomberg"
+        "Bloomberg",
+        "Economic Times"
       ],
       "history": [
         {
@@ -69,6 +70,10 @@
         },
         {
           "date": "2026-11-17",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-18",
           "grade": "must"
         }
       ],
@@ -143,7 +148,7 @@
     {
       "name": "Agent skills 集群",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "sources": [
         "GitHub",
         "Hacker News",
@@ -170,6 +175,10 @@
         {
           "date": "2026-11-17",
           "grade": "watch"
+        },
+        {
+          "date": "2026-11-18",
+          "grade": "watch"
         }
       ],
       "review": {
@@ -182,7 +191,7 @@
     {
       "name": "Qwen4-Max Preview + Qwen Code 1.0",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "sources": [
         "Reddit",
         "Qwen 官方博客",
@@ -202,6 +211,10 @@
         {
           "date": "2026-11-17",
           "grade": "must"
+        },
+        {
+          "date": "2026-11-18",
+          "grade": "must"
         }
       ],
       "review": {
@@ -214,7 +227,7 @@
     {
       "name": "Claude Fable 5.2 / Mythos 5.2",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "sources": [
         "Reddit",
         "Google News",
@@ -228,6 +241,10 @@
         {
           "date": "2026-11-17",
           "grade": "must"
+        },
+        {
+          "date": "2026-11-18",
+          "grade": "must"
         }
       ],
       "review": {
@@ -240,13 +257,18 @@
     {
       "name": "Gemini 4 Carbon",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-18",
       "sources": [
-        "Google News"
+        "Google News",
+        "Hacker News"
       ],
       "history": [
         {
           "date": "2026-11-12",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-18",
           "grade": "must"
         }
       ],
@@ -361,7 +383,7 @@
     {
       "name": "MiniMax H3-Image",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "sources": [
         "Hugging Face",
         "Product Hunt",
@@ -378,6 +400,10 @@
         },
         {
           "date": "2026-11-17",
+          "grade": "watch"
+        },
+        {
+          "date": "2026-11-18",
           "grade": "watch"
         }
       ],
@@ -452,7 +478,7 @@
     {
       "name": "黄仁勋辞职",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "sources": [
         "Financial Times",
         "Hacker News",
@@ -468,7 +494,8 @@
         "The Times",
         "X",
         "WIRED",
-        "Ars Technica"
+        "Ars Technica",
+        "Bloomberg"
       ],
       "history": [
         {
@@ -489,6 +516,10 @@
         },
         {
           "date": "2026-11-17",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-18",
           "grade": "must"
         }
       ],
@@ -578,7 +609,7 @@
     {
       "name": "DeepSeek-V4-Pro 非官方 uncensored 衍生版",
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-18",
       "sources": [
         "Hugging Face"
       ],
@@ -589,6 +620,10 @@
         },
         {
           "date": "2026-11-16",
+          "grade": "echo"
+        },
+        {
+          "date": "2026-11-18",
           "grade": "echo"
         }
       ],
@@ -721,7 +756,7 @@
     {
       "name": "deepseek-ai/chat-demo",
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "sources": [
         "GitHub",
         "GitHub Trending"
@@ -737,6 +772,10 @@
         },
         {
           "date": "2026-11-17",
+          "grade": "echo"
+        },
+        {
+          "date": "2026-11-18",
           "grade": "echo"
         }
       ],
@@ -801,15 +840,20 @@
     {
       "name": "Gemini 4 Hydrogen + Antigravity Orchestrator",
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-18",
       "sources": [
         "Ars Technica",
         "GitHub Changelog",
-        "OpenRouter"
+        "OpenRouter",
+        "X"
       ],
       "history": [
         {
           "date": "2026-11-16",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-18",
           "grade": "must"
         }
       ],
@@ -823,7 +867,7 @@
     {
       "name": "GestaltX",
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "sources": [
         "GitHub",
         "GitHub Trending"
@@ -839,6 +883,10 @@
         },
         {
           "date": "2026-11-17",
+          "grade": "echo"
+        },
+        {
+          "date": "2026-11-18",
           "grade": "echo"
         }
       ],
@@ -872,16 +920,21 @@
     {
       "name": "加州总检察长起诉 OpenAI",
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "sources": [
         "Reuters",
         "TechCrunch",
         "The Verge",
-        "Bloomberg Law"
+        "Bloomberg Law",
+        "X"
       ],
       "history": [
         {
           "date": "2026-11-17",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-18",
           "grade": "must"
         }
       ],
@@ -964,16 +1017,23 @@
     {
       "name": "腾讯 Hy4 Flash",
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "sources": [
         "OpenRouter",
         "Reddit",
-        "Unite.AI"
+        "Unite.AI",
+        "Hacker News",
+        "Hugging Face",
+        "Product Hunt"
       ],
       "history": [
         {
           "date": "2026-11-17",
           "grade": "echo"
+        },
+        {
+          "date": "2026-11-18",
+          "grade": "watch"
         }
       ],
       "review": {
@@ -986,13 +1046,17 @@
     {
       "name": "DIYgod/pinky",
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "sources": [
         "GitHub"
       ],
       "history": [
         {
           "date": "2026-11-17",
+          "grade": "echo"
+        },
+        {
+          "date": "2026-11-18",
           "grade": "echo"
         }
       ],
@@ -1006,18 +1070,23 @@
     {
       "name": "美国收紧 AI 芯片远程访问管制",
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "sources": [
         "AP",
         "Reuters",
         "NPR",
         "Nikkei",
         "Al Jazeera",
-        "Ars Technica"
+        "Ars Technica",
+        "The Verge"
       ],
       "history": [
         {
           "date": "2026-11-17",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-18",
           "grade": "must"
         }
       ],
@@ -1031,14 +1100,19 @@
     {
       "name": "Cloudflare 开源 Kitesurf",
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "sources": [
         "Cloudflare 官方博客",
-        "Reddit"
+        "Reddit",
+        "GitHub"
       ],
       "history": [
         {
           "date": "2026-11-17",
+          "grade": "watch"
+        },
+        {
+          "date": "2026-11-18",
           "grade": "watch"
         }
       ],
@@ -1052,7 +1126,7 @@
     {
       "name": "美国数据中心用电量研究",
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "sources": [
         "The Verge",
         "Time",
@@ -1064,6 +1138,10 @@
       "history": [
         {
           "date": "2026-11-17",
+          "grade": "watch"
+        },
+        {
+          "date": "2026-11-18",
           "grade": "watch"
         }
       ],
@@ -1097,7 +1175,7 @@
     {
       "name": "Optimizely 被入侵",
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "sources": [
         "Hacker News",
         "Newsweek",
@@ -1111,6 +1189,10 @@
         },
         {
           "date": "2026-11-17",
+          "grade": "watch"
+        },
+        {
+          "date": "2026-11-18",
           "grade": "watch"
         }
       ],
@@ -1144,7 +1226,7 @@
     {
       "name": "GPT-6.2 Astra and Sol",
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "sources": [
         "OpenAI 官方博客",
         "Hacker News",
@@ -1156,6 +1238,10 @@
       "history": [
         {
           "date": "2026-11-17",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-18",
           "grade": "must"
         }
       ],
@@ -1169,7 +1255,7 @@
     {
       "name": "Waymo 高速公路停运",
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "sources": [
         "TechCrunch",
         "The Verge",
@@ -1178,6 +1264,10 @@
       "history": [
         {
           "date": "2026-11-17",
+          "grade": "watch"
+        },
+        {
+          "date": "2026-11-18",
           "grade": "watch"
         }
       ],
@@ -1191,15 +1281,20 @@
     {
       "name": "微软 MAI Code 2 / Copilot Fusion",
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "sources": [
         "GitHub Changelog",
         "Hacker News",
-        "Reuters"
+        "Reuters",
+        "Ars Technica"
       ],
       "history": [
         {
           "date": "2026-11-17",
+          "grade": "watch"
+        },
+        {
+          "date": "2026-11-18",
           "grade": "watch"
         }
       ],
@@ -1213,17 +1308,23 @@
     {
       "name": "欧美基础设施连环中断",
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "sources": [
         "Hacker News",
         "Reuters",
         "CNN",
         "The Verge",
-        "Mastodon"
+        "Mastodon",
+        "The Washington Post",
+        "Axios"
       ],
       "history": [
         {
           "date": "2026-11-17",
+          "grade": "watch"
+        },
+        {
+          "date": "2026-11-18",
           "grade": "watch"
         }
       ],
@@ -1237,13 +1338,17 @@
     {
       "name": "K2-Horizon",
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "sources": [
         "Hugging Face Daily Papers"
       ],
       "history": [
         {
           "date": "2026-11-17",
+          "grade": "echo"
+        },
+        {
+          "date": "2026-11-18",
           "grade": "echo"
         }
       ],
@@ -1257,13 +1362,17 @@
     {
       "name": "Qwen3.8 模型家族",
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "sources": [
         "Hugging Face"
       ],
       "history": [
         {
           "date": "2026-11-17",
+          "grade": "watch"
+        },
+        {
+          "date": "2026-11-18",
           "grade": "watch"
         }
       ],
@@ -1297,7 +1406,7 @@
     {
       "name": "Google Gemini Tasks 免费开放",
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "sources": [
         "The Verge",
         "TechCrunch"
@@ -1306,6 +1415,10 @@
         {
           "date": "2026-11-17",
           "grade": "echo"
+        },
+        {
+          "date": "2026-11-18",
+          "grade": "echo"
         }
       ],
       "review": {
@@ -1313,6 +1426,154 @@
         "result": null,
         "checked_on": null,
         "_first_seen": "2026-11-17"
+      }
+    },
+    {
+      "name": "Java4Shell CVE-2026-114938",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "sources": [
+        "Hacker News",
+        "The New York Times",
+        "BBC",
+        "BleepingComputer"
+      ],
+      "history": [
+        {
+          "date": "2026-11-18",
+          "grade": "must"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-18"
+      }
+    },
+    {
+      "name": "Cognition Devin Bots",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "sources": [
+        "Fortune",
+        "X",
+        "dev.to"
+      ],
+      "history": [
+        {
+          "date": "2026-11-18",
+          "grade": "must"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-18"
+      }
+    },
+    {
+      "name": "微软 agent-framework PyPI 投毒",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "sources": [
+        "Aikido",
+        "SafeDep",
+        "Wiz",
+        "The Hacker News"
+      ],
+      "history": [
+        {
+          "date": "2026-11-18",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-18"
+      }
+    },
+    {
+      "name": "腾讯 LoopForge",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "sources": [
+        "GitHub"
+      ],
+      "history": [
+        {
+          "date": "2026-11-18",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-18"
+      }
+    },
+    {
+      "name": "哈佛研究：AI 编码 agent 把瓶颈推向代码审查",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "sources": [
+        "Hacker News"
+      ],
+      "history": [
+        {
+          "date": "2026-11-18",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-18"
+      }
+    },
+    {
+      "name": "Thinking Machines Lab Inkling 2 Small",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "sources": [
+        "Hugging Face"
+      ],
+      "history": [
+        {
+          "date": "2026-11-18",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-18"
+      }
+    },
+    {
+      "name": "moonshotai/Kimi-K3.1-Pro",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "sources": [
+        "Hugging Face"
+      ],
+      "history": [
+        {
+          "date": "2026-11-18",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-18"
       }
     }
   ]

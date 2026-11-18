@@ -1,0 +1,315 @@
+{
+  "date": "2026-11-18",
+  "items": [
+    {
+      "title": "Java4Shell（CVE-2026-114938）：AI 一小时挖出的 Java 严重漏洞，未认证即可远程执行代码",
+      "body": "Calif 11 月 17 日披露 OpenJDK 严重漏洞 Java4Shell：Base64 解码器堆越界写，仅影响带 AVX-512 VBMI 的 x86-64 CPU 上的 OpenJDK 17.0.6 及之后版本；研究员 Quang Luong 用 OpenAI Codex 约 1 小时发现漏洞、2 小时做出首个 exploit，token 成本不到 $200。Calif 评 CVSS 4.0 9.2 分，Oracle 评 CVSS 3.1 8.1 分；已在默认配置的 Keycloak、Jira、Confluence、JFrog Artifactory、Jenkins、PingFederate 上实现未认证远程执行代码。Oracle 11 月 17 日已发补丁，CISA 发警报要求立即修复；尚无野外利用报告，未进 CISA KEV。HN 主帖 902 分/230 评。",
+      "action": "检查并升级 Java——跑 Java 服务的先查版本，写 tweet。",
+      "level": "must",
+      "is_new": true,
+      "sources": [
+        "Hacker News",
+        "The New York Times",
+        "BBC",
+        "BleepingComputer"
+      ],
+      "links": [
+        "https://calif.io/java4shell/",
+        "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/"
+      ],
+      "i18n": {
+        "en": {
+          "title": "Java4Shell (CVE-2026-114938): a critical Java flaw an AI found in about an hour — unauthenticated remote code execution",
+          "body": "Calif disclosed a critical OpenJDK vulnerability, Java4Shell, on November 17: a heap out-of-bounds write in the Base64 decoder, affecting only OpenJDK 17.0.6 and later on x86-64 CPUs with AVX-512 VBMI. Researcher Quang Luong found the flaw in about an hour using OpenAI's Codex and built a first exploit in two more hours, for under $200 in tokens. Calif rates it CVSS 4.0 9.2; Oracle rates it CVSS 3.1 8.1. Calif demonstrated unauthenticated remote code execution against default installations of Keycloak, Jira, Confluence, JFrog Artifactory, Jenkins and PingFederate. Oracle shipped patches on November 17 and CISA issued an alert urging immediate patching; no exploitation in the wild has been reported and it is not in CISA's KEV catalog. The HN thread reached 902 points / 230 comments.",
+          "action": "Check and upgrade Java — verify the version on any Java service first, and write a tweet."
+        },
+        "ja": {
+          "title": "Java4Shell（CVE-2026-114938）：AIが約1時間で見つけたJavaの重大脆弱性、認証なしでリモートコード実行",
+          "body": "Califは11月17日、OpenJDKの重大脆弱性Java4Shellを公開した。Base64デコーダーのヒープ境界外書き込みで、AVX-512 VBMI対応のx86-64 CPU上で動くOpenJDK 17.0.6以降のみが影響を受ける。研究者のQuang LuongはOpenAIのCodexを使い約1時間で脆弱性を発見、さらに2時間で最初のエクスプロイトを作成し、トークンコストは200ドル未満だった。Califの評価はCVSS 4.0で9.2、OracleはCVSS 3.1で8.1。デフォルト設定のKeycloak、Jira、Confluence、JFrog Artifactory、Jenkins、PingFederateで認証なしのリモートコード実行を確認済み。Oracleは11月17日にパッチを公開し、CISAも直ちに修正を求めるアラートを出した。野外での悪用報告はまだなく、CISAのKEVにも未掲載。HNのスレッドは902ポイント/230コメント。",
+          "action": "Javaを確認してアップグレード――Javaサービスがあればまずバージョンを確認し、ツイートを書く。"
+        }
+      },
+      "plugins": {
+        "momentum": {
+          "score": 46
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "ORCL"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "英伟达 Q3 财报超预期，董事会明确不让黄仁勋回任",
+      "body": "英伟达 11 月 17 日美股盘后发布 2027 财年 Q3 财报：营收 $1158 亿，同比 +103%，高于市场预期的 $1091 亿；数据中心收入 $1076 亿，同比 +110%，占总营收 93%；调整后 EPS $2.68，高于预期的 $2.47；净利润 $653 亿。Q4 指引营收 $1300 亿 ±3%，高于预期的约 $1250 亿，且假设中国数据中心算力收入为零；对华授权 Hopper 出货已停止（Q3 仍有 $24 亿）。这是黄仁勋 11 月 12 日辞职后的首份财报，由临时 CEO Colette Kress 主持电话会；董事会称不考虑让黄仁勋回任 CEO，正物色永久继任者；Vera Rubin NVL72 系统已开始出货。维基 Jensen Huang 昨日 144,823 浏览第 9（早报第 11/162,987）。",
+      "action": "仅记录——等 11 月 18 日全员会与国会简报。",
+      "level": "must",
+      "is_new": false,
+      "sources": [
+        "TechCrunch",
+        "The Verge",
+        "Bloomberg",
+        "Hacker News"
+      ],
+      "links": [
+        "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+        "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+        "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang"
+      ],
+      "i18n": {
+        "en": {
+          "title": "Nvidia's Q3 earnings beat expectations, and the board rules out bringing Jensen Huang back",
+          "body": "Nvidia reported fiscal Q3 2027 results after the US close on November 17: revenue of $115.8 billion, up 103% year over year and above the $109.1 billion the market expected; data center revenue of $107.6 billion, up 110% and 93% of total revenue; adjusted EPS of $2.68 versus $2.47 expected; net income of $65.3 billion. Q4 guidance is revenue of $130 billion ±3%, above the roughly $125 billion expected, assuming zero data center compute revenue from China; licensed Hopper shipments to China have ended (Q3 still included $2.4 billion). This is the first earnings report since Jensen Huang resigned on November 12, with interim CEO Colette Kress leading the call; the board said it is not considering reappointing Huang as CEO and is searching for a permanent successor; Vera Rubin NVL72 systems have begun shipping. Jensen Huang's Wikipedia page drew 144,823 views yesterday, ranking 9th (11th / 162,987 in the morning report).",
+          "action": "Just record it — wait for the November 18 all-hands meeting and congressional briefings."
+        },
+        "ja": {
+          "title": "エヌビディアQ3決算は予想超え、取締役会は黄仁勲の復帰を明確に否定",
+          "body": "エヌビディアは11月17日の米市場引け後に2027年度Q3決算を発表。売上は1158億ドルで前年比+103%、市場予想の1091億ドルを上回った。データセンター収入は1076億ドルで前年比+110%、総売上の93%を占める。調整後EPSは2.68ドルで予想の2.47ドルを上回り、純利益は653億ドル。Q4ガイダンスは売上1300億ドル±3%で、予想の約1250億ドルを上回り、中国向けデータセンター・コンピュート収入をゼロと想定。中国向けのライセンス付きHopper出荷は終了した（Q3はなお24億ドル）。黄仁勲が11月12日に辞任してから初の決算で、暫定CEOのColette Kressが決算説明会を主導。取締役会は黄仁勲のCEO復帰を検討しないと明言し、常任の後継者を探している。Vera Rubin NVL72システムは出荷を開始した。Jensen HuangのWikipediaページは昨日144,823ビューで第9位（朝刊では第11位/162,987ビュー）。",
+          "action": "記録のみ――11月18日の全社集会と議会ブリーフィングを待つ。"
+        }
+      },
+      "plugins": {
+        "momentum": {
+          "score": 68
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "NVDA"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "Cognition 发布 Devin Bots：会带队的编码 agent，一个 Bot 指挥一群 Devin",
+      "body": "Cognition 11 月 17 日发布 Devin Bots：持久化“经理型”agent，带跨会话记忆，把目标拆解后并行指挥多个 Devin 会话干活，只把需要人判断的事推到待办收件箱；以 Slack 成员身份加入团队，多个 Bot 之间也可协调。官方 beta 数据：每条消息合并的 PR 数为直接用 Devin 的 4.5 倍，个别工程师周 PR 量从约 50 涨到近 2,000；Android Bot 案例：44 天合并 1,134 个 PR、写 344,651 行 Kotlin、关闭 1,217 张票，只用 183 条人类消息。早期客户包括 Decagon、Fireworks AI、Reducto，用量两周涨 10 倍；直接对标 Anthropic Duet 与 OpenAI Dots。Cognition 估值 $480 亿，年收入 run rate 已过 $10 亿；目前仅 early access，无公开定价与全面开放时间。",
+      "action": "立项观察——编码 agent 从“单兵”走向“带队”，值得跟踪。",
+      "level": "must",
+      "is_new": true,
+      "sources": [
+        "Fortune",
+        "X",
+        "dev.to"
+      ],
+      "links": [
+        "https://dnyuz.com/2026/11/17/exclusive-cognition-bets-on-devin-bots-coding-agents-in-challenge-to-anthropics-duet-and-openais-dots/",
+        "https://dev.to/paullovelace/cognition-just-gave-devin-a-manager-devin-bots-run-teams-of-ai-coders-for-weeks-21ch",
+        "https://devin.ai/bots"
+      ],
+      "i18n": {
+        "en": {
+          "title": "Cognition launches Devin Bots: a coding agent that manages — one Bot directs a team of Devins",
+          "body": "Cognition launched Devin Bots on November 17: persistent “manager” agents with cross-session memory that break a goal into pieces, direct multiple Devin sessions in parallel, and surface only decisions needing human judgment in a to-do inbox; a Bot joins the team as a Slack member, and multiple Bots can coordinate with each other. Official beta figures: merged pull requests per message are 4.5x higher than using Devin directly, and some engineers went from about 50 to nearly 2,000 PRs a week; the Android Bot case study merged 1,134 PRs, wrote 344,651 lines of Kotlin and closed 1,217 tickets in 44 days with only 183 human messages. Early customers include Decagon, Fireworks AI and Reducto, with usage up 10x in two weeks; it is positioned directly against Anthropic's Duet and OpenAI's Dots. Cognition is valued at $48 billion with an annualized revenue run rate past $1 billion; Bots are in early access only, with no public pricing or general-availability date.",
+          "action": "Watch as a project idea — coding agents are moving from solo contributors to team leads; worth tracking."
+        },
+        "ja": {
+          "title": "Cognition、Devin Botsを発表：チームを率いるコーディングエージェント、1つのBotが複数のDevinを指揮",
+          "body": "Cognitionは11月17日、Devin Botsを発表した。セッションをまたぐ記憶を持つ永続的な「マネージャー型」エージェントで、目標を分解して複数のDevinセッションを並行で指揮し、人の判断が必要なことだけをToDo受信箱に上げる。Slackのメンバーとしてチームに参加し、複数のBot同士も連携できる。公式ベータデータでは、メッセージあたりのマージ済みPR数はDevinを直接使う場合の4.5倍、一部のエンジニアは週のPR数が約50件から約2000件に増加。Android Botの事例では44日間で1134件のPRをマージ、34万4651行のKotlinを書き、1217件のチケットをクローズし、人間のメッセージは183件のみ。早期顧客はDecagon、Fireworks AI、Reductoで、利用量は2週間で10倍。AnthropicのDuetとOpenAIのDotsに真っ向から対抗する。Cognitionの評価額は480億ドル、年間売上ラン rate は10億ドルを突破。現時点では早期アクセスのみで、公開価格や全面提供の時期は未定。",
+          "action": "プロジェクト候補として観察――コーディングエージェントが「単独作業」から「チーム率い」へ移る転換点。追う価値あり。"
+        }
+      },
+      "plugins": {
+        "momentum": {
+          "score": 41
+        }
+      }
+    },
+    {
+      "title": "微软 agent-framework PyPI 遭投毒：恶意版 1.26.1/1.26.2 窃取云端密钥",
+      "body": "11 月 17 日 20:35–21:20 UTC，微软官方 agent-framework 包在 PyPI 上出现两个恶意版本 1.26.1 与 1.26.2，相隔 33 分钟：.pth 文件让 Python 每次启动都运行窃密器，偷 Azure、Azure DevOps、GitHub Actions OIDC token、Hugging Face token 与 .env 等，数据发往 webhook.site。该包月下载约 19 万次；Wiz 称目的端仅捕获 ≤50 个请求（非受害机器数）。两版均已下架，安全版为 1.26.0；攻击者如何拿到微软官方 PyPI 发布权限尚不清楚。",
+      "action": "检查——装过 1.26.1/1.26.2 的环境钉回 1.26.0 并轮换密钥。",
+      "level": "watch",
+      "is_new": true,
+      "sources": [
+        "Aikido",
+        "SafeDep",
+        "Wiz",
+        "The Hacker News"
+      ],
+      "links": [
+        "https://www.aikido.dev/blog/two-malicious-agent-framework-releases-hit-pypi-in-33-minutes",
+        "https://safedep.io/blog/microsoft-agent-framework-pypi-compromise"
+      ],
+      "i18n": {
+        "en": {
+          "title": "Microsoft's agent-framework poisoned on PyPI: malicious 1.26.1/1.26.2 stole cloud credentials",
+          "body": "Between 20:35 and 21:20 UTC on November 17, two malicious versions of Microsoft's official agent-framework package, 1.26.1 and 1.26.2, appeared on PyPI 33 minutes apart: a .pth file runs a credential stealer every time Python starts, taking Azure, Azure DevOps, GitHub Actions OIDC tokens, Hugging Face tokens, .env files and more, and sending the data to webhook.site. The package gets about 190,000 downloads a month; Wiz says the destination captured no more than 50 requests (a count of requests, not affected machines). Both versions have been removed; the safe release is 1.26.0. How the attacker obtained Microsoft's official PyPI publishing access is still unclear.",
+          "action": "Check it — any environment that installed 1.26.1/1.26.2 should pin back to 1.26.0 and rotate its keys."
+        },
+        "ja": {
+          "title": "Microsoftのagent-frameworkがPyPIで汚染：悪意ある1.26.1/1.26.2がクラウド認証情報を窃取",
+          "body": "11月17日20:35～21:20 UTC、Microsoft公式のagent-frameworkパッケージに悪意あるバージョン1.26.1と1.26.2が33分間隔でPyPIに登場した。.pthファイルによりPython起動のたびに認証情報窃取ツールが動き、Azure、Azure DevOps、GitHub ActionsのOIDCトークン、Hugging Faceトークン、.envなどを盗み、webhook.siteへ送信する。同パッケージの月間ダウンロードは約19万回。Wizによると送信先で確認できたリクエストは50件以下（被害マシン数ではない）。両バージョンは削除済みで、安全な版は1.26.0。攻撃者がMicrosoft公式のPyPI公開権限をどう入手したかは不明。",
+          "action": "確認を――1.26.1/1.26.2を入れた環境は1.26.0に固定し、鍵をローテーションする。"
+        }
+      },
+      "plugins": {
+        "momentum": {
+          "score": 46
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "MSFT"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "腾讯 Hy4 Flash：多源确认，224B 开源系轻量模型上架 OpenRouter",
+      "body": "腾讯 Hy4 Flash 11 月 16 日上线：224B 总参数、每 token 激活 120 亿，1M 上下文；$0.07/$0.281 每百万 tokens，输入价约为完整 Hy4（$0.834）的 1/12。本期多源确认：HN 119 分/21 评、Hugging Face 新面孔、OpenRouter 上架、Product Hunt 收录；权重计划开源，日期未定。",
+      "action": "仅记录。",
+      "level": "watch",
+      "is_new": false,
+      "sources": [
+        "Hacker News",
+        "Hugging Face",
+        "OpenRouter",
+        "Product Hunt"
+      ],
+      "links": [
+        "https://hy.tencent.ai/research/hy4-flash",
+        "https://huggingface.co/tencent/Hy4-flash"
+      ],
+      "i18n": {
+        "en": {
+          "title": "Tencent Hy4 Flash: confirmed across sources — a 224B lightweight open model lands on OpenRouter",
+          "body": "Tencent's Hy4 Flash launched on November 16: 224B total parameters with 12B active per token and a 1M-token context window; priced at $0.07/$0.281 per million tokens, with input at about 1/12 of the full Hy4 ($0.834). Confirmed across sources this edition: 119 points / 21 comments on HN, a new face on Hugging Face, listed on OpenRouter and on Product Hunt; weights are planned to be open-sourced, with no date set.",
+          "action": "Just record it."
+        },
+        "ja": {
+          "title": "テンセントHy4 Flash：複数情報源で確認、224Bの軽量オープンモデルがOpenRouterに登場",
+          "body": "テンセントのHy4 Flashは11月16日に公開された。総パラメーター224B、トークンあたりのアクティブ数は120億、コンテキストは1M。価格は100万トークンあたり入力$0.07/出力$0.281で、入力価格は完全版Hy4（$0.834）の約12分の1。今期は複数情報源で確認できた。HNで119ポイント/21コメント、Hugging Faceの新着、OpenRouterへの掲載、Product Huntへの収録。重みはオープンソース化の予定だが日程は未定。",
+          "action": "記録のみ。"
+        }
+      },
+      "plugins": {
+        "momentum": {
+          "score": 46
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "0700.HK"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "腾讯 LoopForge：自托管编码 agent 编排工作台",
+      "body": "腾讯开源的自托管工作台：Docker 沙箱 + SOP + 人工审批节点，驱动 CodeBuddy、Codex、Claude Code 等 10 个 agent CLI 跑完整交付流程。GitHub 日榜当日 +591 stars，7 天 +1,671，累计约 3,107 stars；11 月 12 日发布，MIT 协议。单源 GitHub。",
+      "action": "仅记录。",
+      "level": "echo",
+      "is_new": true,
+      "sources": [
+        "GitHub"
+      ],
+      "links": [
+        "https://github.com/Tencent/LoopForge"
+      ],
+      "i18n": {
+        "en": {
+          "title": "Tencent LoopForge: a self-hosted orchestration workspace for coding agents",
+          "body": "Tencent's open-source self-hosted workspace: Docker sandboxes, SOPs and human approval gates drive 10 agent CLIs — CodeBuddy, Codex, Claude Code and others — through full delivery workflows. It gained 591 stars on GitHub's daily trending list, 1,671 in 7 days, for about 3,107 total; released November 12 under the MIT licence. Single source: GitHub.",
+          "action": "Just record it."
+        },
+        "ja": {
+          "title": "テンセントLoopForge：セルフホストのコーディングエージェント編成ワークスペース",
+          "body": "テンセントがオープンソース化したセルフホスト型ワークスペース。Dockerサンドボックス＋SOP＋人による承認ゲートで、CodeBuddy、Codex、Claude Codeなど10種のエージェントCLIを動かし、納品までの工程を回す。GitHubデイリートレンドで当日+591スター、7日で+1,671、累計約3,107スター。11月12日公開、MITライセンス。単独の情報源はGitHub。",
+          "action": "記録のみ。"
+        }
+      },
+      "plugins": {
+        "momentum": {
+          "score": 31
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "0700.HK"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "Google Gemini Tasks 免费开放：原 Spark 改名，可代打电话、代购",
+      "body": "Google 把 AI agent Spark 改名 Tasks 后免费开放：可代打电话、代购等日常任务。The Verge 与 TechCrunch 同组单源。",
+      "action": "仅记录。",
+      "level": "echo",
+      "is_new": false,
+      "sources": [
+        "The Verge",
+        "TechCrunch"
+      ],
+      "links": [
+        "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free"
+      ],
+      "i18n": {
+        "en": {
+          "title": "Google Gemini Tasks goes free: Spark renamed, now books calls and purchases for you",
+          "body": "Google renamed its AI agent Spark to Tasks and made it free: it can make phone calls and purchases and handle other everyday tasks. The Verge and TechCrunch — a single source group.",
+          "action": "Just record it."
+        },
+        "ja": {
+          "title": "Google Gemini Tasksが無料開放：Sparkから改名、電話や買い物を代行",
+          "body": "GoogleはAIエージェントSparkをTasksに改名し、無料で開放した。電話をかけたり買い物をしたりといった日常タスクを代行できる。The VergeとTechCrunchは同一グループの単独情報源。",
+          "action": "記録のみ。"
+        }
+      },
+      "plugins": {
+        "momentum": {
+          "score": 36
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "GOOGL"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "哈佛研究：AI 编码 agent 把瓶颈推向代码审查",
+      "body": "哈佛研究者发现 AI 编码 agent 普及后，开发瓶颈从写代码转向代码审查。HN 170 分/227 评，单源。",
+      "action": "仅记录。",
+      "level": "echo",
+      "is_new": true,
+      "sources": [
+        "Hacker News"
+      ],
+      "links": [
+        "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/"
+      ],
+      "i18n": {
+        "en": {
+          "title": "Harvard study: AI coding agents shift the bottleneck to code review",
+          "body": "Harvard researchers found that as AI coding agents spread, the development bottleneck moves from writing code to reviewing it. HN: 170 points / 227 comments. Single source.",
+          "action": "Just record it."
+        },
+        "ja": {
+          "title": "ハーバードの研究：AIコーディングエージェントがボトルネックをコードレビューへ移す",
+          "body": "ハーバードの研究者によると、AIコーディングエージェントの普及で開発のボトルネックはコードを書くことからレビューへ移った。HNは170ポイント/227コメント。単独の情報源。",
+          "action": "記録のみ。"
+        }
+      },
+      "plugins": {
+        "momentum": {
+          "score": 31
+        }
+      }
+    }
+  ]
+}

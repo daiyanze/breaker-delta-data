@@ -39,9 +39,9 @@
                 "ja": "#2 黄仁勋 / Nvidia 风波"
               },
               "format": {
-                "zh": "动量 72 · 浪高 176",
-                "en": "Momentum 72 · heat 176",
-                "ja": "勢い 72 · 浪高 176"
+                "zh": "动量 68 · 浪高 164",
+                "en": "Momentum 68 · heat 164",
+                "ja": "勢い 68 · 浪高 164"
               }
             },
             {
@@ -202,9 +202,21 @@
             },
             {
               "label": {
-                "zh": "#16 Qwen4-Max Preview + Qwen Code 1.0",
-                "en": "#16 Qwen4-Max Preview + Qwen Code 1.0",
-                "ja": "#16 Qwen4-Max Preview + Qwen Code 1.0"
+                "zh": "#16 Java4Shell（CVE-2026-114938）：AI 一小时挖出的 Java 严重漏洞，未认证即可远程执行代码",
+                "en": "#16 Java4Shell（CVE-2026-114938）：AI 一小时挖出的 Java 严重漏洞，未认证即可远程执行代码",
+                "ja": "#16 Java4Shell（CVE-2026-114938）：AI 一小时挖出的 Java 严重漏洞，未认证即可远程执行代码"
+              },
+              "format": {
+                "zh": "动量 46 · 浪高 181",
+                "en": "Momentum 46 · heat 181",
+                "ja": "勢い 46 · 浪高 181"
+              }
+            },
+            {
+              "label": {
+                "zh": "#17 Qwen4-Max Preview + Qwen Code 1.0",
+                "en": "#17 Qwen4-Max Preview + Qwen Code 1.0",
+                "ja": "#17 Qwen4-Max Preview + Qwen Code 1.0"
               },
               "format": {
                 "zh": "动量 46 · 浪高 165",
@@ -214,9 +226,9 @@
             },
             {
               "label": {
-                "zh": "#17 Claude Code Projects 升级：协调员变主动，线程可跑本地",
-                "en": "#17 Claude Code Projects 升级：协调员变主动，线程可跑本地",
-                "ja": "#17 Claude Code Projects 升级：协调员变主动，线程可跑本地"
+                "zh": "#18 Claude Code Projects 升级：协调员变主动，线程可跑本地",
+                "en": "#18 Claude Code Projects 升级：协调员变主动，线程可跑本地",
+                "ja": "#18 Claude Code Projects 升级：协调员变主动，线程可跑本地"
               },
               "format": {
                 "zh": "动量 46 · 浪高 159",
@@ -226,9 +238,9 @@
             },
             {
               "label": {
-                "zh": "#18 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%",
-                "en": "#18 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%",
-                "ja": "#18 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%"
+                "zh": "#19 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%",
+                "en": "#19 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%",
+                "ja": "#19 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%"
               },
               "format": {
                 "zh": "动量 46 · 浪高 156",
@@ -238,21 +250,9 @@
             },
             {
               "label": {
-                "zh": "#19 Perplexity Teammates 登陆 Mac：持续性工作 agent 上桌面",
-                "en": "#19 Perplexity Teammates 登陆 Mac：持续性工作 agent 上桌面",
-                "ja": "#19 Perplexity Teammates 登陆 Mac：持续性工作 agent 上桌面"
-              },
-              "format": {
-                "zh": "动量 46 · 浪高 151",
-                "en": "Momentum 46 · heat 151",
-                "ja": "勢い 46 · 浪高 151"
-              }
-            },
-            {
-              "label": {
-                "zh": "#20 Apple 推出 AI 健康研究 App：招募上限 20 万人",
-                "en": "#20 Apple 推出 AI 健康研究 App：招募上限 20 万人",
-                "ja": "#20 Apple 推出 AI 健康研究 App：招募上限 20 万人"
+                "zh": "#20 Perplexity Teammates 登陆 Mac：持续性工作 agent 上桌面",
+                "en": "#20 Perplexity Teammates 登陆 Mac：持续性工作 agent 上桌面",
+                "ja": "#20 Perplexity Teammates 登陆 Mac：持续性工作 agent 上桌面"
               },
               "format": {
                 "zh": "动量 46 · 浪高 151",
@@ -296,9 +296,9 @@
                 "ja": "#2 黄仁勋 / Nvidia 风波"
               },
               "format": {
-                "zh": "动量 72 · 浪高 176",
-                "en": "Momentum 72 · heat 176",
-                "ja": "勢い 72 · 浪高 176"
+                "zh": "动量 68 · 浪高 164",
+                "en": "Momentum 68 · heat 164",
+                "ja": "勢い 68 · 浪高 164"
               }
             },
             {
@@ -459,9 +459,21 @@
             },
             {
               "label": {
-                "zh": "#16 Qwen4-Max Preview + Qwen Code 1.0",
-                "en": "#16 Qwen4-Max Preview + Qwen Code 1.0",
-                "ja": "#16 Qwen4-Max Preview + Qwen Code 1.0"
+                "zh": "#16 Java4Shell（CVE-2026-114938）：AI 一小时挖出的 Java 严重漏洞，未认证即可远程执行代码",
+                "en": "#16 Java4Shell（CVE-2026-114938）：AI 一小时挖出的 Java 严重漏洞，未认证即可远程执行代码",
+                "ja": "#16 Java4Shell（CVE-2026-114938）：AI 一小时挖出的 Java 严重漏洞，未认证即可远程执行代码"
+              },
+              "format": {
+                "zh": "动量 46 · 浪高 181",
+                "en": "Momentum 46 · heat 181",
+                "ja": "勢い 46 · 浪高 181"
+              }
+            },
+            {
+              "label": {
+                "zh": "#17 Qwen4-Max Preview + Qwen Code 1.0",
+                "en": "#17 Qwen4-Max Preview + Qwen Code 1.0",
+                "ja": "#17 Qwen4-Max Preview + Qwen Code 1.0"
               },
               "format": {
                 "zh": "动量 46 · 浪高 165",
@@ -471,9 +483,9 @@
             },
             {
               "label": {
-                "zh": "#17 Claude Code Projects 升级：协调员变主动，线程可跑本地",
-                "en": "#17 Claude Code Projects 升级：协调员变主动，线程可跑本地",
-                "ja": "#17 Claude Code Projects 升级：协调员变主动，线程可跑本地"
+                "zh": "#18 Claude Code Projects 升级：协调员变主动，线程可跑本地",
+                "en": "#18 Claude Code Projects 升级：协调员变主动，线程可跑本地",
+                "ja": "#18 Claude Code Projects 升级：协调员变主动，线程可跑本地"
               },
               "format": {
                 "zh": "动量 46 · 浪高 159",
@@ -483,9 +495,9 @@
             },
             {
               "label": {
-                "zh": "#18 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%",
-                "en": "#18 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%",
-                "ja": "#18 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%"
+                "zh": "#19 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%",
+                "en": "#19 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%",
+                "ja": "#19 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%"
               },
               "format": {
                 "zh": "动量 46 · 浪高 156",
@@ -495,21 +507,9 @@
             },
             {
               "label": {
-                "zh": "#19 Perplexity Teammates 登陆 Mac：持续性工作 agent 上桌面",
-                "en": "#19 Perplexity Teammates 登陆 Mac：持续性工作 agent 上桌面",
-                "ja": "#19 Perplexity Teammates 登陆 Mac：持续性工作 agent 上桌面"
-              },
-              "format": {
-                "zh": "动量 46 · 浪高 151",
-                "en": "Momentum 46 · heat 151",
-                "ja": "勢い 46 · 浪高 151"
-              }
-            },
-            {
-              "label": {
-                "zh": "#20 Apple 推出 AI 健康研究 App：招募上限 20 万人",
-                "en": "#20 Apple 推出 AI 健康研究 App：招募上限 20 万人",
-                "ja": "#20 Apple 推出 AI 健康研究 App：招募上限 20 万人"
+                "zh": "#20 Perplexity Teammates 登陆 Mac：持续性工作 agent 上桌面",
+                "en": "#20 Perplexity Teammates 登陆 Mac：持续性工作 agent 上桌面",
+                "ja": "#20 Perplexity Teammates 登陆 Mac：持续性工作 agent 上桌面"
               },
               "format": {
                 "zh": "动量 46 · 浪高 151",
@@ -553,9 +553,9 @@
                 "ja": "#2 黄仁勋 / Nvidia 风波"
               },
               "format": {
-                "zh": "动量 72 · 浪高 176",
-                "en": "Momentum 72 · heat 176",
-                "ja": "勢い 72 · 浪高 176"
+                "zh": "动量 68 · 浪高 164",
+                "en": "Momentum 68 · heat 164",
+                "ja": "勢い 68 · 浪高 164"
               }
             },
             {
@@ -716,9 +716,21 @@
             },
             {
               "label": {
-                "zh": "#16 Qwen4-Max Preview + Qwen Code 1.0",
-                "en": "#16 Qwen4-Max Preview + Qwen Code 1.0",
-                "ja": "#16 Qwen4-Max Preview + Qwen Code 1.0"
+                "zh": "#16 Java4Shell（CVE-2026-114938）：AI 一小时挖出的 Java 严重漏洞，未认证即可远程执行代码",
+                "en": "#16 Java4Shell（CVE-2026-114938）：AI 一小时挖出的 Java 严重漏洞，未认证即可远程执行代码",
+                "ja": "#16 Java4Shell（CVE-2026-114938）：AI 一小时挖出的 Java 严重漏洞，未认证即可远程执行代码"
+              },
+              "format": {
+                "zh": "动量 46 · 浪高 181",
+                "en": "Momentum 46 · heat 181",
+                "ja": "勢い 46 · 浪高 181"
+              }
+            },
+            {
+              "label": {
+                "zh": "#17 Qwen4-Max Preview + Qwen Code 1.0",
+                "en": "#17 Qwen4-Max Preview + Qwen Code 1.0",
+                "ja": "#17 Qwen4-Max Preview + Qwen Code 1.0"
               },
               "format": {
                 "zh": "动量 46 · 浪高 165",
@@ -728,9 +740,9 @@
             },
             {
               "label": {
-                "zh": "#17 Claude Code Projects 升级：协调员变主动，线程可跑本地",
-                "en": "#17 Claude Code Projects 升级：协调员变主动，线程可跑本地",
-                "ja": "#17 Claude Code Projects 升级：协调员变主动，线程可跑本地"
+                "zh": "#18 Claude Code Projects 升级：协调员变主动，线程可跑本地",
+                "en": "#18 Claude Code Projects 升级：协调员变主动，线程可跑本地",
+                "ja": "#18 Claude Code Projects 升级：协调员变主动，线程可跑本地"
               },
               "format": {
                 "zh": "动量 46 · 浪高 159",
@@ -740,9 +752,9 @@
             },
             {
               "label": {
-                "zh": "#18 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%",
-                "en": "#18 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%",
-                "ja": "#18 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%"
+                "zh": "#19 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%",
+                "en": "#19 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%",
+                "ja": "#19 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%"
               },
               "format": {
                 "zh": "动量 46 · 浪高 156",
@@ -752,21 +764,9 @@
             },
             {
               "label": {
-                "zh": "#19 Perplexity Teammates 登陆 Mac：持续性工作 agent 上桌面",
-                "en": "#19 Perplexity Teammates 登陆 Mac：持续性工作 agent 上桌面",
-                "ja": "#19 Perplexity Teammates 登陆 Mac：持续性工作 agent 上桌面"
-              },
-              "format": {
-                "zh": "动量 46 · 浪高 151",
-                "en": "Momentum 46 · heat 151",
-                "ja": "勢い 46 · 浪高 151"
-              }
-            },
-            {
-              "label": {
-                "zh": "#20 Apple 推出 AI 健康研究 App：招募上限 20 万人",
-                "en": "#20 Apple 推出 AI 健康研究 App：招募上限 20 万人",
-                "ja": "#20 Apple 推出 AI 健康研究 App：招募上限 20 万人"
+                "zh": "#20 Perplexity Teammates 登陆 Mac：持续性工作 agent 上桌面",
+                "en": "#20 Perplexity Teammates 登陆 Mac：持续性工作 agent 上桌面",
+                "ja": "#20 Perplexity Teammates 登陆 Mac：持续性工作 agent 上桌面"
               },
               "format": {
                 "zh": "动量 46 · 浪高 151",
