@@ -394,3 +394,15 @@
 - Claude Fable 5.2 / Mythos 5.2 | 2026-11-12 早报 | 2026-11-18 晚报 | Google News | 🔥→🔥（平，无新官方消息） | 待复盘
 - Gemini 4 Hydrogen + Antigravity Orchestrator | 2026-11-13 早报 | 2026-11-18 晚报 | X | 🔥→🔥（平：Antigravity 上线一周年——新多 agent 界面、配额重置、Carbon 首 token 延迟快 1.5 倍，X 单源） | 待复盘
 - Qwen4-Max Preview + Qwen Code 1.0 / 美国收紧 AI 芯片远程访问管制 / 加州总检察长起诉 OpenAI / Cloudflare 开源 Kitesurf / 美国数据中心用电量研究 / Gemini 4 Carbon / DeepSeek-V4-Pro 非官方 uncensored 衍生版 | 各首次发现时间见上文 | 2026-11-18 晚报 | 见上文 | 平，无新动静（DeepSeek-V4-Pro uncensored 衍生版未见于本期 HF 前 30，维持凉；DOJ 称正调查 Megaspeed，为芯片管制话题的相关新动态） | 待复盘
+
+## 2026-11-19 早报（06:00 JST）
+- nginx2root：Nginx 未认证 RCE | 2026-11-19 早报 | 2026-11-19 早报 | Hacker News, Lobsters, Wiz, Xint | 🆕🔥（11 月 18 日披露：5 个 CVE、CVSS 4.0 均为 9.2；CVE-2026-123007 影响 1.9.5–1.31.8 开 HTTP/2 的版本；F5 当日发修复版 1.30.7/1.31.9；Rapid7 已公开 PoC；尚无野外利用，未进 CISA KEV；HN 780 分/327 评） | 待复盘
+- Windows 11 收集编码 agent 使用数据 | 2026-11-19 早报 | 2026-11-19 早报 | Lobsters, Hacker News | 🆕👀（Xusheng Li 11 月 16 日逆向发现：MissionControlAggregator.dll 记 CLI 4 个/桌面 5 个编码 agent 与 12 类开发工具，仅位图、不含提示词与代码；随可选诊断数据上传，默认开启；CLICodingAgentUsage 灰度中，并非每台都有；微软未回应；HN 曾达 600+ 分/470 评，Lobsters 28 分/16 评） | 待复盘
+- Genie 4 向 Google AI Ultra 开放 | 2026-11-19 早报 | 2026-11-19 早报 | DeepMind 官方博客, The Decoder | 🆕👀（10 月 27 日研究预览，11 月 18 日向 AI Ultra 订阅者开放 Project Genie：行走中打字改世界、实时原生音频、agent 与社区画廊；Pro 进等候名单；Genie 3 同步升级至 3 分钟会话、可串联世界） | 待复盘
+- 微软 MAI Code 2 / Copilot Fusion | 2026-11-18 早报 | 2026-11-19 早报 | Hacker News, Microsoft 官方博客 | 👀→👀（扩展：Ignite 发布 7 款 MAI 模型全家——Code 2/Flash、Cyber 2 Flash、Image 2.7、Realtime 1、Transcribe 2、Decision 1.1，另推 MAI Licensed Weights；Code 2 自称达 GPT-6.1 Sol 98% 且价格约 40%（5 折促销价计），均为微软自测、无独立验证；HN 330 分/214 评） | 待复盘
+- rust-anything | 2026-11-19 早报 | 2026-11-19 早报 | GitHub | 🆕👀（单源：按录制行为逐块把应用改写成 Rust；2 天 3,153 stars，日均 1,576，本期 GitHub 增速之首） | 待复盘
+- Codeberg 域名突然消失 | 2026-11-19 早报 | 2026-11-19 早报 | Lobsters | 🆕🌱（单源：域名突然从账户中消失，站点无法访问；Lobsters 165 分/50 评；原因与恢复尚无官方说明） | 待复盘
+- 剑桥词典 2026 年度词 human | 2026-11-19 早报 | 2026-11-19 早报 | Hacker News | 🆕🌱（单源：HN 190 分/145 评） | 待复盘
+- S2Arm | 2026-11-19 早报 | 2026-11-19 早报 | GitHub | 🆕🌱（单源：Switch 游戏代码重写为 ARM64，原生跑 iPhone/iPad/Mac；10 天 3,593 stars，日均 359） | 待复盘
+- Anthropic IPO | 2026-11-11 试点早报 | 2026-11-19 早报 | Google News, CNBC, Bloomberg | 🔥→🔥（涨：需求近 $5,000 亿（机构约 $4,000 亿 + 零售近 $1,000 亿），约 7 倍超额认购；定价或高于 $70–78 区间上限（$80 以上在议）；今晚美股盘后定价，11 月 19 日纳斯达克上市（ANT）） | 待复盘
+- 其余在册话题 | 各首次发现时间见上文 | 2026-11-19 早报 | 见上文 | 平，无新动静（Java4Shell：Cloudflare 出 WAF 防护，维持 🔥；GPT-6.2 Astra and Sol：仍在 OpenAI 博客/OpenRouter/Bluesky 出现，维持 🔥；GestaltX 8,355 stars、deepseek-ai/chat-demo 4,807、DIYgod/pinky 2,457，缓慢上涨，维持 🌱；Qwen4-Max、Gemini 4 Carbon、Qwen3.8、K2-Horizon 等未见新动静） | 待复盘

@@ -75,6 +75,10 @@
         {
           "date": "2026-11-18",
           "grade": "must"
+        },
+        {
+          "date": "2026-11-18",
+          "grade": "must"
         }
       ],
       "review": {
@@ -1286,11 +1290,16 @@
         "GitHub Changelog",
         "Hacker News",
         "Reuters",
-        "Ars Technica"
+        "Ars Technica",
+        "Microsoft 官方博客"
       ],
       "history": [
         {
           "date": "2026-11-17",
+          "grade": "watch"
+        },
+        {
+          "date": "2026-11-18",
           "grade": "watch"
         },
         {
@@ -1562,6 +1571,151 @@
       "last_seen": "2026-11-18",
       "sources": [
         "Hugging Face"
+      ],
+      "history": [
+        {
+          "date": "2026-11-18",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-18"
+      }
+    },
+    {
+      "name": "nginx2root：Nginx 未认证 RCE",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "sources": [
+        "Hacker News",
+        "Lobsters",
+        "Wiz",
+        "Xint"
+      ],
+      "history": [
+        {
+          "date": "2026-11-18",
+          "grade": "must"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-18"
+      }
+    },
+    {
+      "name": "Windows 11 收集编码 agent 使用数据",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "sources": [
+        "Lobsters",
+        "Hacker News"
+      ],
+      "history": [
+        {
+          "date": "2026-11-18",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-18"
+      }
+    },
+    {
+      "name": "Genie 4 向 Google AI Ultra 开放",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "sources": [
+        "DeepMind 官方博客",
+        "The Decoder"
+      ],
+      "history": [
+        {
+          "date": "2026-11-18",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-18"
+      }
+    },
+    {
+      "name": "rust-anything",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "sources": [
+        "GitHub"
+      ],
+      "history": [
+        {
+          "date": "2026-11-18",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-18"
+      }
+    },
+    {
+      "name": "Codeberg 域名突然消失",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "sources": [
+        "Lobsters"
+      ],
+      "history": [
+        {
+          "date": "2026-11-18",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-18"
+      }
+    },
+    {
+      "name": "剑桥词典 2026 年度词 human",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "sources": [
+        "Hacker News"
+      ],
+      "history": [
+        {
+          "date": "2026-11-18",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-18"
+      }
+    },
+    {
+      "name": "S2Arm",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "sources": [
+        "GitHub"
       ],
       "history": [
         {

@@ -1,0 +1,277 @@
+{
+  "date": "2026-11-19",
+  "items": [
+    {
+      "action": "立即升级 Nginx——开 HTTP/2 的先升 1.30.7/1.31.9，写 tweet。",
+      "body": "11 月 18 日，Wiz、Xint、Rapid7 等五家团队同日披露 Nginx 远程代码执行漏洞合集 nginx2root：共 5 个 CVE，CVSS 4.0 均为 9.2 分。最广的是 CVE-2026-123007——HTTP/2 流量控制整数下溢致堆越界写，影响 2015 年 1.9.5 至 1.31.8 所有开 HTTP/2 的版本，Wiz 证实纯静态文件 TLS 服务器也可打穿；Xint 又把 HTTP/2 漏洞与 Linux 内核 SCTP 缺陷串联，直通宿主机 root。F5 当日发布修复版 1.30.7/1.31.9，Rapid7 已公开 CVE-2026-123007 的 PoC；尚无野外利用报告，未进 CISA KEV。HN 主帖 780 分/327 评。",
+      "i18n": {
+        "en": {
+          "action": "Upgrade Nginx now — anything with HTTP/2 goes to 1.30.7 / 1.31.9 first, and write a tweet.",
+          "body": "On November 18, five teams — Wiz, Xint, Rapid7 and others — disclosed nginx2root, a set of Nginx remote code execution flaws: five CVEs, all scored 9.2 under CVSS 4.0. The broadest is CVE-2026-123007, an integer underflow in HTTP/2 flow control that causes a heap out-of-bounds write, affecting every release from 1.9.5 (2015) through 1.31.8 with HTTP/2 enabled; Wiz confirmed it works against a plain static-file TLS server. Xint chained the HTTP/2 flaw with a Linux kernel SCTP bug to reach host root. F5 shipped fixes the same day (1.30.7 / 1.31.9), Rapid7 published a public proof of concept for CVE-2026-123007, and there are no reports of exploitation in the wild; none of the flaws is in CISA's KEV catalog. The HN thread reached 780 points / 327 comments.",
+          "title": "nginx2root: five unauthenticated RCE flaws hit Nginx — the HTTP/2 bug lurked for 11 years"
+        },
+        "ja": {
+          "action": "今すぐNginxをアップグレード――HTTP/2を有効にしているものはまず1.30.7/1.31.9へ。ツイートを書く。",
+          "body": "11月18日、Wiz、Xint、Rapid7など5チームが同日にNginxのリモートコード実行脆弱性群nginx2rootを公開した。CVEは5件で、CVSS 4.0はいずれも9.2。最も広範なのはCVE-2026-123007で、HTTP/2のフロー制御における整数アンダーフローによるヒープ境界外書き込み。2015年の1.9.5から1.31.8まで、HTTP/2を有効にした全リリースが影響を受け、Wizは静的ファイルのみのTLSサーバーでも成立することを確認した。XintはHTTP/2の脆弱性とLinuxカーネルのSCTPの欠陥を連結し、ホストのrootまで到達した。F5は同日中に修正版1.30.7/1.31.9を公開し、Rapid7はCVE-2026-123007のPoCを公開済み。野外での悪用報告はなく、CISAのKEVにも未掲載。HNのスレッドは780ポイント/327コメント。",
+          "title": "nginx2root：Nginxに認証なしRCEの脆弱性が5件、HTTP/2の欠陥は11年潜伏"
+        }
+      },
+      "is_new": true,
+      "level": "must",
+      "links": [
+        "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+        "https://xint.io/blog/nginx2root-remote-code-execution"
+      ],
+      "sources": [
+        "Hacker News",
+        "Lobsters",
+        "Wiz",
+        "Xint"
+      ],
+      "title": "nginx2root：Nginx 五个未认证 RCE 漏洞齐发，HTTP/2 缺陷潜伏 11 年",
+      "plugins": {
+        "momentum": {
+          "score": 46
+        }
+      }
+    },
+    {
+      "action": "检查——设置 → 隐私与安全 → 诊断与反馈，关掉“发送可选诊断数据”。",
+      "body": "研究员 Xusheng Li 11 月 16 日逆向发现：Windows 11 系统组件 MissionControlAggregator.dll 会记录本机用过哪些编码 agent 与开发工具——CLI 侧 4 个槽位（copilot.exe、claude.exe、codex.exe、agy.exe），桌面侧 5 个（GitHub、Claude、Codex、Cursor、Antigravity），另有 node、python、gcc 等 12 类开发工具；只记“用过哪类”的位图，不含提示词与代码，每日约一次以 ETW 报告 Segments.SubCohorts 上报，随“可选诊断数据”上传——该开关在美国装机流程默认开启。功能由 CLICodingAgentUsage（ID 62580080）控制，已在部分机器上服务端灰度开启，并非每台都有；微软截至 11 月 17 日未回应。HN 曾达 600+ 分/470 评，Lobsters 28 分/16 评。",
+      "i18n": {
+        "en": {
+          "action": "Check it — Settings → Privacy & security → Diagnostics & feedback, and turn off 'Send optional diagnostic data'.",
+          "body": "Researcher Xusheng Li reported on November 16 that a Windows 11 component, MissionControlAggregator.dll, records which coding agents and developer tools have run on the machine: four CLI slots (copilot.exe, claude.exe, codex.exe, agy.exe), five desktop slots (GitHub, Claude, Codex, Cursor, Antigravity), plus 12 categories of developer tools such as node, python and gcc. It stores only a bitmap of which categories were seen — no prompts or code — and reports it about once a day as an ETW report, Segments.SubCohorts, uploaded with 'optional diagnostic data', which is on by default in the US setup flow. The checks sit behind CLICodingAgentUsage (feature ID 62580080), already enabled by server-side rollout on some machines but not every install; Microsoft had not commented as of November 17. The HN thread passed 600 points / 470 comments; Lobsters: 28 points / 16 comments.",
+          "title": "Windows 11 is quietly logging which coding agent you use: Claude Code, Codex and Cursor are all on the list"
+        },
+        "ja": {
+          "action": "確認を――「設定」→「プライバシーとセキュリティ」→「診断とフィードバック」で「オプションの診断データを送信する」をオフにする。",
+          "body": "研究者のXusheng Liが11月16日に報告したところによると、Windows 11のシステムコンポーネントMissionControlAggregator.dllは、どのコーディングエージェントや開発ツールが使われたかを記録している。CLI側は4枠（copilot.exe、claude.exe、codex.exe、agy.exe）、デスクトップ側は5枠（GitHub、Claude、Codex、Cursor、Antigravity）で、node、python、gccなど12種類の開発ツールも対象。保存されるのは「どの種類が使われたか」のビットマップのみで、プロンプトやコードは含まれず、1日1回程度ETWレポートSegments.SubCohortsとして送信される。送信は「オプションの診断データ」とともに行われ、米国のセットアップでは既定でオン。機能はCLICodingAgentUsage（機能ID 62580080）の配下にあり、一部のマシンではサーバー側の段階的展開で既に有効だが、すべてのインストールで有効なわけではない。Microsoftは11月17日時点でコメントしていない。HNのスレッドは600ポイント超/470コメント、Lobstersは28ポイント/16コメント。",
+          "title": "Windows 11がどのコーディングエージェントを使うか密かに記録：Claude Code、Codex、Cursorがリスト入り"
+        }
+      },
+      "is_new": true,
+      "level": "watch",
+      "links": [
+        "https://xusheng.dev/posts/windows-coding-agent-telemetry/"
+      ],
+      "sources": [
+        "Lobsters",
+        "Hacker News"
+      ],
+      "title": "Windows 11 在悄悄记录你用哪个编码 agent：Claude Code、Codex、Cursor 都在名单上",
+      "plugins": {
+        "momentum": {
+          "score": 36
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "MSFT"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "action": "仅记录——有 Ultra 订阅可试玩。",
+      "body": "Google DeepMind 11 月 18 日把世界模型 Genie 4 放进 Project Genie，向符合条件的 Google AI Ultra 订阅者开放（Pro 用户先进等候名单）。Genie 4 是 10 月 27 日以研究预览发布的模型，本次首次走出受信测试者范围：行走途中可直接打字改天气、加角色、改剧情，不必重开；画面首次配实时原生音频；另有帮用户搭建世界的 Project Genie agent 与可混搭的社区画廊。Genie 3 同步升级：会话最长 3 分钟、可串联世界、支持 360° 全景图。Google 仍称两者是前沿研究模型，相机延迟与场景长期稳定性未解决。",
+      "i18n": {
+        "en": {
+          "action": "Just record it — try it if you have an Ultra subscription.",
+          "body": "Google DeepMind said on November 18 that its world model Genie 4 is now available in Project Genie to eligible Google AI Ultra subscribers (Pro members join a waitlist). Genie 4 was released as a research preview on October 27; this is its first step beyond trusted testers: type a prompt mid-walk to change the weather, add a character or redirect the story without restarting, with real-time native audio paired to the visuals for the first time. The update also adds a Project Genie agent that helps build worlds and a community gallery for remixing. Genie 3 gets longer sessions of up to 3 minutes, chainable worlds and 360° panorama grounding. Google still calls both models frontier research systems, with camera latency and long-term scene stability unresolved.",
+          "title": "Genie 4 opens to Google AI Ultra subscribers: reshape the world as you walk, with native sound"
+        },
+        "ja": {
+          "action": "記録のみ――Ultra加入者なら試せる。",
+          "body": "Google DeepMindは11月18日、ワールドモデルGenie 4をProject Genieで、対象のGoogle AI Ultra加入者に開放すると発表した（Proメンバーは待機リストへ）。Genie 4は10月27日に研究プレビューとして公開されたモデルで、今回初めて信頼できるテスターの範囲を超えて提供される。歩行中にプロンプトを打つだけで天気を変えたり、キャラクターを追加したり、展開を変えたりでき、再起動は不要。映像に初めてリアルタイムのネイティブ音声が付く。世界づくりを手伝うProject Genieエージェントと、リミックス用のコミュニティギャラリーも追加された。Genie 3も同時に強化され、セッションは最長3分、世界の連結、360°パノラマの利用が可能になった。Googleは両モデルを依然として最先端の研究モデルと位置づけ、カメラ遅延やシーンの長期安定性は未解決としている。",
+          "title": "Genie 4がGoogle AI Ultra加入者に開放：歩きながら世界を変え、音もリアルタイムに"
+        }
+      },
+      "is_new": true,
+      "level": "watch",
+      "links": [
+        "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+        "https://the-decoder.com/google-deepminds-project-genie-update-brings-genie-4-chainable-worlds-and-a-community-gallery-for-remixing/"
+      ],
+      "sources": [
+        "DeepMind 官方博客",
+        "The Decoder"
+      ],
+      "title": "Genie 4 向 Google AI Ultra 订阅者开放：边走边改世界，还带原生声音",
+      "plugins": {
+        "momentum": {
+          "score": 36
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "GOOGL"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "action": "仅记录——等独立基准验证微软的价格宣称。",
+      "body": "微软 11 月 17 日在 Ignite 2026 发布 7 款自研 MAI 模型，主打性价比而非榜首：MAI Code 2（编码，已进 GitHub Copilot）与 Code 2 Flash、MAI Cyber 2 Flash（安全，1M 上下文）、MAI Image 2.7（图像编辑）、MAI Realtime 1（首个实时语音对话模型，$0.01/音频分钟起）、MAI Transcribe 2（转录）、Decision 1.1（路由模型）。微软自称 Code 2 在 4 项编码基准上达 GPT-6.1 Sol 的 98%，价格约 40%（按 5 折促销价计），Cyber 2 Flash 在 CyberGymE2E 上与 GPT-6 Astra 相当、单任务成本不到 2%；同时推出 MAI Licensed Weights，选中企业可在自家 Azure 环境内调优部署。以上均为微软自测数据，尚无独立验证。HN 主帖 330 分/214 评。（MAI Code 2 昨日报过，本期是全家 7 款与 Licensed Weights 的扩展。）",
+      "i18n": {
+        "en": {
+          "action": "Just record it — wait for independent benchmarks to check Microsoft's price claims.",
+          "body": "Microsoft unveiled seven in-house MAI models at Ignite 2026 on November 17, competing on price rather than leaderboard position: MAI Code 2 (coding, now in GitHub Copilot) and Code 2 Flash, MAI Cyber 2 Flash (security, 1M-token context), MAI Image 2.7 (image editing), MAI Realtime 1 (its first live speech-to-speech model, from $0.01 per audio minute), MAI Transcribe 2 and Decision 1.1 (a routing model). Microsoft claims Code 2 reaches 98% of GPT-6.1 Sol across four coding benchmarks at about 40% of the price (at a 50% promotional rate), and Cyber 2 Flash matches GPT-6 Astra on CyberGymE2E at under 2% of the cost per task. It also launched MAI Licensed Weights, letting selected enterprises tune models and run them inside their own Azure environment. All figures are Microsoft's own, with no independent verification yet. The HN thread reached 330 points / 214 comments. (MAI Code 2 was covered yesterday; this edition adds the full seven-model family and Licensed Weights.)",
+          "title": "Microsoft's seven MAI models debut at Ignite: not the strongest, the cheapest per job"
+        },
+        "ja": {
+          "action": "記録のみ――Microsoftの価格主張は独立ベンチマークを待つ。",
+          "body": "Microsoftは11月17日、Ignite 2026で自社製MAIモデル7機種を発表した。順位ではなく価格で競う。MAI Code 2（コーディング、GitHub Copilotに搭載済み）とCode 2 Flash、MAI Cyber 2 Flash（セキュリティ、コンテキスト1Mトークン）、MAI Image 2.7（画像編集）、MAI Realtime 1（初のリアルタイム音声対話モデル、音声1分あたり$0.01から）、MAI Transcribe 2（文字起こし）、Decision 1.1（振り分けモデル）。Microsoftによると、Code 2は4つのコーディングベンチマークでGPT-6.1 Solの98%に達し、価格は約40%（50%のプロモーション価格で計算）。Cyber 2 FlashはCyberGymE2EでGPT-6 Astraと同等、タスクあたりのコストは2%未満だという。あわせてMAI Licensed Weightsも発表し、選ばれた企業が自社のAzure環境内でモデルを調整して運用できるようにした。数字はいずれもMicrosoft自身のもので、独立した検証はまだない。HNのスレッドは330ポイント/214コメント。（MAI Code 2は昨日報道済み。今期は7機種全体とLicensed Weightsの追加分。）",
+          "title": "Microsoft、IgniteでMAIモデル7機種を発表：最強ではなく、1件あたりの安さを競う"
+        }
+      },
+      "is_new": false,
+      "level": "watch",
+      "links": [
+        "https://microsoft.ai/news/microsoft-ignite-2026/"
+      ],
+      "sources": [
+        "Hacker News",
+        "Microsoft 官方博客"
+      ],
+      "title": "微软 Ignite 七款 MAI 模型全家亮相：不拼最强，拼每活多便宜",
+      "plugins": {
+        "momentum": {
+          "score": 36
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "MSFT"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "action": "仅记录。",
+      "body": "GitHub 新仓库 rust-anything：按录制好的原始行为逐块把应用改写成 Rust，每步对照原版验证。发布仅 2 天即 3,153 stars，日均 1,576，为本期 GitHub 日榜增速之首。单源 GitHub。",
+      "i18n": {
+        "en": {
+          "action": "Just record it.",
+          "body": "New GitHub repo rust-anything: rewrite an app in Rust one piece at a time, checking each step against the original's recorded behaviour. 3,153 stars in 2 days — 1,576 a day, the fastest riser on GitHub's daily list this edition. Single source: GitHub.",
+          "title": "rust-anything: 3,153 stars in two days for rewriting your app in Rust, piece by piece"
+        },
+        "ja": {
+          "action": "記録のみ。",
+          "body": "GitHubの新規リポジトリrust-anything。記録した元の挙動と照らし合わせながら、アプリを少しずつRustに書き換えていく。公開から2日で3,153スター、日平均1,576で、今期のGitHubデイリーランキングで最速の伸び。単独の情報源はGitHub。",
+          "title": "rust-anything：アプリを少しずつRustに書き換える試み、2日で3,153スター"
+        }
+      },
+      "is_new": true,
+      "level": "watch",
+      "links": [
+        "https://github.com/erkamyaman/rust-anything"
+      ],
+      "sources": [
+        "GitHub"
+      ],
+      "title": "rust-anything：两天 3,153 stars，把应用一块一块改写成 Rust",
+      "plugins": {
+        "momentum": {
+          "score": 31
+        }
+      }
+    },
+    {
+      "action": "仅记录。",
+      "body": "开源代码托管站 Codeberg 的域名突然从其账户中消失，站点无法访问。Lobsters 165 分/50 评，单源；原因与恢复进展尚无官方说明。",
+      "i18n": {
+        "en": {
+          "action": "Just record it.",
+          "body": "Open-source code host Codeberg's domain suddenly disappeared from its account, leaving the site unreachable. Lobsters: 165 points / 50 comments. Single source; no official word yet on the cause or recovery.",
+          "title": "Codeberg's domain suddenly vanished from its account; the site is unreachable"
+        },
+        "ja": {
+          "action": "記録のみ。",
+          "body": "オープンソースのコードホスティングCodebergのドメインが突然アカウントから消え、サイトにアクセスできなくなった。Lobstersは165ポイント/50コメント。単独の情報源で、原因や復旧の見通しについて公式発表はまだない。",
+          "title": "Codebergのドメインが突然アカウントから消失、サイトにアクセス不能"
+        }
+      },
+      "is_new": true,
+      "level": "echo",
+      "links": [
+        "https://social.anoxinon.de/@Codeberg/117636454915265360"
+      ],
+      "sources": [
+        "Lobsters"
+      ],
+      "title": "Codeberg 域名突然消失，站点无法访问",
+      "plugins": {
+        "momentum": {
+          "score": 31
+        }
+      }
+    },
+    {
+      "action": "仅记录。",
+      "body": "剑桥词典选定 human 为 2026 年度词——AI 之年里，大众注意力回到了“人”本身。HN 190 分/145 评，单源。",
+      "i18n": {
+        "en": {
+          "action": "Just record it.",
+          "body": "Cambridge Dictionary picked 'human' as its 2026 Word of the Year — in the year of AI, mass attention swung back to people themselves. HN: 190 points / 145 comments. Single source.",
+          "title": "Cambridge Dictionary's Word of the Year 2026 is 'human'"
+        },
+        "ja": {
+          "action": "記録のみ。",
+          "body": "ケンブリッジ辞典が2026年の「今年の単語」にhumanを選んだ。AIの年に、大衆の関心は「人」そのものに戻った。HNは190ポイント/145コメント。単独の情報源。",
+          "title": "ケンブリッジ辞典の2026年「今年の単語」は「human」"
+        }
+      },
+      "is_new": true,
+      "level": "echo",
+      "links": [
+        "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026"
+      ],
+      "sources": [
+        "Hacker News"
+      ],
+      "title": "剑桥词典 2026 年度词是“human”",
+      "plugins": {
+        "momentum": {
+          "score": 31
+        }
+      }
+    },
+    {
+      "action": "仅记录。",
+      "body": "GitHub 新仓库 S2Arm：把 Switch 游戏代码重写为 ARM64、图形直接对接，让游戏原生跑在 iPhone、iPad 与 Mac 上。10 天 3,593 stars，日均 359。单源 GitHub。",
+      "i18n": {
+        "en": {
+          "action": "Just record it.",
+          "body": "New GitHub repo S2Arm rewrites Switch game code to ARM64 with graphics wired straight through, so games run natively on iPhone, iPad and Mac. 3,593 stars in 10 days — 359 a day. Single source: GitHub.",
+          "title": "S2Arm: Switch games running natively on iPhone, iPad and Mac"
+        },
+        "ja": {
+          "action": "記録のみ。",
+          "body": "GitHubの新規リポジトリS2Arm。SwitchのゲームコードをARM64に書き換え、グラフィックスを直接つなぐことで、iPhone、iPad、Mac上でネイティブに動作させる。10日で3,593スター、日平均359。単独の情報源はGitHub。",
+          "title": "S2Arm：SwitchのゲームをiPhone、iPad、Macでネイティブ動作させる"
+        }
+      },
+      "is_new": true,
+      "level": "echo",
+      "links": [
+        "https://github.com/jhaizhou-ops/S2Arm"
+      ],
+      "sources": [
+        "GitHub"
+      ],
+      "title": "S2Arm：Switch 游戏原生跑上 iPhone、iPad 与 Mac",
+      "plugins": {
+        "momentum": {
+          "score": 31
+        }
+      }
+    }
+  ]
+}

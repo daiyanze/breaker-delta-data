@@ -214,9 +214,21 @@
             },
             {
               "label": {
-                "zh": "#17 Qwen4-Max Preview + Qwen Code 1.0",
-                "en": "#17 Qwen4-Max Preview + Qwen Code 1.0",
-                "ja": "#17 Qwen4-Max Preview + Qwen Code 1.0"
+                "zh": "#17 nginx2root：Nginx 五个未认证 RCE 漏洞齐发，HTTP/2 缺陷潜伏 11 年",
+                "en": "#17 nginx2root：Nginx 五个未认证 RCE 漏洞齐发，HTTP/2 缺陷潜伏 11 年",
+                "ja": "#17 nginx2root：Nginx 五个未认证 RCE 漏洞齐发，HTTP/2 缺陷潜伏 11 年"
+              },
+              "format": {
+                "zh": "动量 46 · 浪高 181",
+                "en": "Momentum 46 · heat 181",
+                "ja": "勢い 46 · 浪高 181"
+              }
+            },
+            {
+              "label": {
+                "zh": "#18 Qwen4-Max Preview + Qwen Code 1.0",
+                "en": "#18 Qwen4-Max Preview + Qwen Code 1.0",
+                "ja": "#18 Qwen4-Max Preview + Qwen Code 1.0"
               },
               "format": {
                 "zh": "动量 46 · 浪高 165",
@@ -226,9 +238,9 @@
             },
             {
               "label": {
-                "zh": "#18 Claude Code Projects 升级：协调员变主动，线程可跑本地",
-                "en": "#18 Claude Code Projects 升级：协调员变主动，线程可跑本地",
-                "ja": "#18 Claude Code Projects 升级：协调员变主动，线程可跑本地"
+                "zh": "#19 Claude Code Projects 升级：协调员变主动，线程可跑本地",
+                "en": "#19 Claude Code Projects 升级：协调员变主动，线程可跑本地",
+                "ja": "#19 Claude Code Projects 升级：协调员变主动，线程可跑本地"
               },
               "format": {
                 "zh": "动量 46 · 浪高 159",
@@ -238,26 +250,14 @@
             },
             {
               "label": {
-                "zh": "#19 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%",
-                "en": "#19 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%",
-                "ja": "#19 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%"
+                "zh": "#20 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%",
+                "en": "#20 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%",
+                "ja": "#20 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%"
               },
               "format": {
                 "zh": "动量 46 · 浪高 156",
                 "en": "Momentum 46 · heat 156",
                 "ja": "勢い 46 · 浪高 156"
-              }
-            },
-            {
-              "label": {
-                "zh": "#20 Perplexity Teammates 登陆 Mac：持续性工作 agent 上桌面",
-                "en": "#20 Perplexity Teammates 登陆 Mac：持续性工作 agent 上桌面",
-                "ja": "#20 Perplexity Teammates 登陆 Mac：持续性工作 agent 上桌面"
-              },
-              "format": {
-                "zh": "动量 46 · 浪高 151",
-                "en": "Momentum 46 · heat 151",
-                "ja": "勢い 46 · 浪高 151"
               }
             }
           ]
@@ -471,9 +471,21 @@
             },
             {
               "label": {
-                "zh": "#17 Qwen4-Max Preview + Qwen Code 1.0",
-                "en": "#17 Qwen4-Max Preview + Qwen Code 1.0",
-                "ja": "#17 Qwen4-Max Preview + Qwen Code 1.0"
+                "zh": "#17 nginx2root：Nginx 五个未认证 RCE 漏洞齐发，HTTP/2 缺陷潜伏 11 年",
+                "en": "#17 nginx2root：Nginx 五个未认证 RCE 漏洞齐发，HTTP/2 缺陷潜伏 11 年",
+                "ja": "#17 nginx2root：Nginx 五个未认证 RCE 漏洞齐发，HTTP/2 缺陷潜伏 11 年"
+              },
+              "format": {
+                "zh": "动量 46 · 浪高 181",
+                "en": "Momentum 46 · heat 181",
+                "ja": "勢い 46 · 浪高 181"
+              }
+            },
+            {
+              "label": {
+                "zh": "#18 Qwen4-Max Preview + Qwen Code 1.0",
+                "en": "#18 Qwen4-Max Preview + Qwen Code 1.0",
+                "ja": "#18 Qwen4-Max Preview + Qwen Code 1.0"
               },
               "format": {
                 "zh": "动量 46 · 浪高 165",
@@ -483,9 +495,9 @@
             },
             {
               "label": {
-                "zh": "#18 Claude Code Projects 升级：协调员变主动，线程可跑本地",
-                "en": "#18 Claude Code Projects 升级：协调员变主动，线程可跑本地",
-                "ja": "#18 Claude Code Projects 升级：协调员变主动，线程可跑本地"
+                "zh": "#19 Claude Code Projects 升级：协调员变主动，线程可跑本地",
+                "en": "#19 Claude Code Projects 升级：协调员变主动，线程可跑本地",
+                "ja": "#19 Claude Code Projects 升级：协调员变主动，线程可跑本地"
               },
               "format": {
                 "zh": "动量 46 · 浪高 159",
@@ -495,26 +507,14 @@
             },
             {
               "label": {
-                "zh": "#19 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%",
-                "en": "#19 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%",
-                "ja": "#19 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%"
+                "zh": "#20 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%",
+                "en": "#20 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%",
+                "ja": "#20 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%"
               },
               "format": {
                 "zh": "动量 46 · 浪高 156",
                 "en": "Momentum 46 · heat 156",
                 "ja": "勢い 46 · 浪高 156"
-              }
-            },
-            {
-              "label": {
-                "zh": "#20 Perplexity Teammates 登陆 Mac：持续性工作 agent 上桌面",
-                "en": "#20 Perplexity Teammates 登陆 Mac：持续性工作 agent 上桌面",
-                "ja": "#20 Perplexity Teammates 登陆 Mac：持续性工作 agent 上桌面"
-              },
-              "format": {
-                "zh": "动量 46 · 浪高 151",
-                "en": "Momentum 46 · heat 151",
-                "ja": "勢い 46 · 浪高 151"
               }
             }
           ]
@@ -728,9 +728,21 @@
             },
             {
               "label": {
-                "zh": "#17 Qwen4-Max Preview + Qwen Code 1.0",
-                "en": "#17 Qwen4-Max Preview + Qwen Code 1.0",
-                "ja": "#17 Qwen4-Max Preview + Qwen Code 1.0"
+                "zh": "#17 nginx2root：Nginx 五个未认证 RCE 漏洞齐发，HTTP/2 缺陷潜伏 11 年",
+                "en": "#17 nginx2root：Nginx 五个未认证 RCE 漏洞齐发，HTTP/2 缺陷潜伏 11 年",
+                "ja": "#17 nginx2root：Nginx 五个未认证 RCE 漏洞齐发，HTTP/2 缺陷潜伏 11 年"
+              },
+              "format": {
+                "zh": "动量 46 · 浪高 181",
+                "en": "Momentum 46 · heat 181",
+                "ja": "勢い 46 · 浪高 181"
+              }
+            },
+            {
+              "label": {
+                "zh": "#18 Qwen4-Max Preview + Qwen Code 1.0",
+                "en": "#18 Qwen4-Max Preview + Qwen Code 1.0",
+                "ja": "#18 Qwen4-Max Preview + Qwen Code 1.0"
               },
               "format": {
                 "zh": "动量 46 · 浪高 165",
@@ -740,9 +752,9 @@
             },
             {
               "label": {
-                "zh": "#18 Claude Code Projects 升级：协调员变主动，线程可跑本地",
-                "en": "#18 Claude Code Projects 升级：协调员变主动，线程可跑本地",
-                "ja": "#18 Claude Code Projects 升级：协调员变主动，线程可跑本地"
+                "zh": "#19 Claude Code Projects 升级：协调员变主动，线程可跑本地",
+                "en": "#19 Claude Code Projects 升级：协调员变主动，线程可跑本地",
+                "ja": "#19 Claude Code Projects 升级：协调员变主动，线程可跑本地"
               },
               "format": {
                 "zh": "动量 46 · 浪高 159",
@@ -752,26 +764,14 @@
             },
             {
               "label": {
-                "zh": "#19 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%",
-                "en": "#19 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%",
-                "ja": "#19 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%"
+                "zh": "#20 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%",
+                "en": "#20 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%",
+                "ja": "#20 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%"
               },
               "format": {
                 "zh": "动量 46 · 浪高 156",
                 "en": "Momentum 46 · heat 156",
                 "ja": "勢い 46 · 浪高 156"
-              }
-            },
-            {
-              "label": {
-                "zh": "#20 Perplexity Teammates 登陆 Mac：持续性工作 agent 上桌面",
-                "en": "#20 Perplexity Teammates 登陆 Mac：持续性工作 agent 上桌面",
-                "ja": "#20 Perplexity Teammates 登陆 Mac：持续性工作 agent 上桌面"
-              },
-              "format": {
-                "zh": "动量 46 · 浪高 151",
-                "en": "Momentum 46 · heat 151",
-                "ja": "勢い 46 · 浪高 151"
               }
             }
           ]
