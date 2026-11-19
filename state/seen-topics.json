@@ -56,7 +56,10 @@
         "Economic Times",
         "TechCrunch",
         "BBC",
-        "路透"
+        "路透",
+        "Hacker News",
+        "Reuters",
+        "The Verge"
       ],
       "history": [
         {
@@ -81,6 +84,10 @@
         },
         {
           "date": "2026-11-18",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-19",
           "grade": "must"
         },
         {
@@ -238,11 +245,13 @@
     {
       "name": "Claude Fable 5.2 / Mythos 5.2",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "sources": [
         "Reddit",
         "Google News",
-        "Reddit r/artificial"
+        "Reddit r/artificial",
+        "Anthropic 官方",
+        "Hacker News"
       ],
       "history": [
         {
@@ -255,6 +264,10 @@
         },
         {
           "date": "2026-11-18",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-19",
           "grade": "must"
         }
       ],
@@ -489,7 +502,7 @@
     {
       "name": "黄仁勋辞职",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "sources": [
         "Financial Times",
         "Hacker News",
@@ -506,7 +519,8 @@
         "X",
         "WIRED",
         "Ars Technica",
-        "Bloomberg"
+        "Bloomberg",
+        "The Decoder"
       ],
       "history": [
         {
@@ -531,6 +545,10 @@
         },
         {
           "date": "2026-11-18",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-19",
           "grade": "must"
         }
       ],
@@ -767,7 +785,7 @@
     {
       "name": "deepseek-ai/chat-demo",
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "sources": [
         "GitHub",
         "GitHub Trending"
@@ -787,6 +805,10 @@
         },
         {
           "date": "2026-11-18",
+          "grade": "echo"
+        },
+        {
+          "date": "2026-11-19",
           "grade": "echo"
         }
       ],
@@ -878,7 +900,7 @@
     {
       "name": "GestaltX",
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "sources": [
         "GitHub",
         "GitHub Trending"
@@ -898,6 +920,10 @@
         },
         {
           "date": "2026-11-18",
+          "grade": "echo"
+        },
+        {
+          "date": "2026-11-19",
           "grade": "echo"
         }
       ],
@@ -1028,7 +1054,7 @@
     {
       "name": "腾讯 Hy4 Flash",
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "sources": [
         "OpenRouter",
         "Reddit",
@@ -1045,6 +1071,10 @@
         {
           "date": "2026-11-18",
           "grade": "watch"
+        },
+        {
+          "date": "2026-11-19",
+          "grade": "watch"
         }
       ],
       "review": {
@@ -1057,7 +1087,7 @@
     {
       "name": "DIYgod/pinky",
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "sources": [
         "GitHub"
       ],
@@ -1068,6 +1098,10 @@
         },
         {
           "date": "2026-11-18",
+          "grade": "echo"
+        },
+        {
+          "date": "2026-11-19",
           "grade": "echo"
         }
       ],
@@ -1081,7 +1115,7 @@
     {
       "name": "美国收紧 AI 芯片远程访问管制",
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "sources": [
         "AP",
         "Reuters",
@@ -1089,7 +1123,9 @@
         "Nikkei",
         "Al Jazeera",
         "Ars Technica",
-        "The Verge"
+        "The Verge",
+        "Federal Register",
+        "The Decoder"
       ],
       "history": [
         {
@@ -1098,6 +1134,10 @@
         },
         {
           "date": "2026-11-18",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-19",
           "grade": "must"
         }
       ],
@@ -1447,7 +1487,7 @@
     {
       "name": "Java4Shell CVE-2026-114938",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "sources": [
         "Hacker News",
         "The New York Times",
@@ -1457,6 +1497,10 @@
       "history": [
         {
           "date": "2026-11-18",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-19",
           "grade": "must"
         }
       ],
@@ -1595,16 +1639,21 @@
     {
       "name": "nginx2root：Nginx 未认证 RCE",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "sources": [
         "Hacker News",
         "Lobsters",
         "Wiz",
-        "Xint"
+        "Xint",
+        "The Register"
       ],
       "history": [
         {
           "date": "2026-11-18",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-19",
           "grade": "must"
         }
       ],
@@ -1660,13 +1709,17 @@
     {
       "name": "rust-anything",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "sources": [
         "GitHub"
       ],
       "history": [
         {
           "date": "2026-11-18",
+          "grade": "watch"
+        },
+        {
+          "date": "2026-11-19",
           "grade": "watch"
         }
       ],
@@ -1796,6 +1849,10 @@
         {
           "date": "2026-11-19",
           "grade": "watch"
+        },
+        {
+          "date": "2026-11-19",
+          "grade": "watch"
         }
       ],
       "review": {
@@ -1876,6 +1933,156 @@
         {
           "date": "2026-11-19",
           "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-19"
+      }
+    },
+    {
+      "name": "Ruby2ßhell",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "sources": [
+        "Hacker News",
+        "dev.to",
+        "GBHackers"
+      ],
+      "history": [
+        {
+          "date": "2026-11-19",
+          "grade": "must"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-19"
+      }
+    },
+    {
+      "name": "Gemini Mac 电脑操控",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "sources": [
+        "TechCrunch",
+        "The Verge",
+        "Bluesky"
+      ],
+      "history": [
+        {
+          "date": "2026-11-19",
+          "grade": "must"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-19"
+      }
+    },
+    {
+      "name": "Meta Muse 隐私事故",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "sources": [
+        "TechCrunch",
+        "Ars Technica",
+        "Bluesky"
+      ],
+      "history": [
+        {
+          "date": "2026-11-19",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-19"
+      }
+    },
+    {
+      "name": "英国政府向 Apple 下达秘密加密后门令",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "sources": [
+        "Hacker News",
+        "TechCrunch",
+        "Mastodon"
+      ],
+      "history": [
+        {
+          "date": "2026-11-19",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-19"
+      }
+    },
+    {
+      "name": "higurashi-ai/Haru-4B",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "sources": [
+        "Hugging Face"
+      ],
+      "history": [
+        {
+          "date": "2026-11-19",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-19"
+      }
+    },
+    {
+      "name": "Mistral Vibe Desktop",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "sources": [
+        "Mistral 官方",
+        "X"
+      ],
+      "history": [
+        {
+          "date": "2026-11-19",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-19"
+      }
+    },
+    {
+      "name": "lastbook",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "sources": [
+        "Hacker News",
+        "GitHub"
+      ],
+      "history": [
+        {
+          "date": "2026-11-19",
+          "grade": "watch"
         }
       ],
       "review": {

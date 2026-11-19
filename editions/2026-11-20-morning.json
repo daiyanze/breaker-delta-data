@@ -1,0 +1,295 @@
+{
+  "date": "2026-11-20",
+  "items": [
+    {
+      "action": "写 tweet，重点写“$111.50 开盘 + $813 亿史上最大 + $2 万亿口径争议”。",
+      "body": "Anthropic 11 月 19 日在纳斯达克上市（代码 ANT）：发行价 $83（高于 $70–78 区间），开盘 $111.50，较发行价高约 34%；发行 9.8 亿股募资约 $813 亿，超过 SpaceX 6 月的 $750 亿，成为史上最大 IPO；另有 7 家战略伙伴以同价认购 $260 亿非投票股，合计交易 $1,073 亿。完全摊薄估值约 $2 万亿，但按招股书已发行股 132.2 亿股算约 $1.47 万亿——$2 万亿口径含未发行的期权与预留股，HN 主帖 573 分/910 评正在争这个算法；盘中股价一度回落至 $95 附近。另据 TechCrunch，上市将向慈善捐出约 $1,560 亿。数字来源：路透、TechCrunch、The Verge、招股书。",
+      "i18n": {
+        "en": {
+          "action": "Write a tweet, leading with '$111.50 open + $81.3B, the largest IPO ever + the $2T valuation dispute'.",
+          "body": "Anthropic listed on Nasdaq on November 19 (ticker ANT): priced at $83 (above the $70–78 range), opened at $111.50, about 34% above the offer price; 980 million shares raised about $81.3 billion, passing SpaceX's $75 billion from June to become the largest IPO ever; seven strategic partners also bought $26 billion of non-voting stock at the same price, bringing the combined deal to $107.3 billion. The fully diluted valuation is about $2 trillion, but on the prospectus's 13.22 billion shares outstanding it is about $1.47 trillion — the $2 trillion figure counts unissued options and reserved shares, and the HN thread (573 points / 910 comments) is arguing over exactly that math; the shares sagged back toward $95 intraday. Separately, TechCrunch reports the listing will deliver about $156 billion to charity. Figures: Reuters, TechCrunch, The Verge, the prospectus.",
+          "title": "Anthropic's debut: opened at $111.50, up 34%, an $81.3B IPO — the largest ever"
+        },
+        "ja": {
+          "action": "ツイートを書く。「初値111.50ドル＋813億ドルで史上最大＋2兆ドル評価をめぐる論争」を前面に。",
+          "body": "Anthropicは11月19日にナスダックに上場（ティッカーANT）：公開価格83ドル（仮条件70～78ドルを上回る）に対し初値111.50ドル、約34%高。9億8,000万株で約813億ドルを調達し、6月のSpaceXの750億ドルを超えて史上最大のIPOとなった。7社の戦略パートナーが同価格で260億ドルの無議決権株も購入し、取引総額は1,073億ドル。完全希薄化後の評価額は約2兆ドルだが、目論見書の発行済み株式132.2億株で計算すると約1.47兆ドル——2兆ドルという数字は未発行のストックオプションや留保株を含むもので、HNのスレッド（573ポイント／910コメント）はまさにこの計算をめぐって議論している。株価は場中に95ドル付近まで押し戻された。別途、TechCrunchによれば上場により約1,560億ドルが慈善事業に寄付される。数字の出典：ロイター、TechCrunch、The Verge、目論見書。",
+          "title": "Anthropic上場初日：初値111.50ドル、公開価格比34%高、813億ドルで史上最大のIPO"
+        }
+      },
+      "is_new": false,
+      "level": "must",
+      "links": [
+        "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+        "https://techstrong.ai/articles/anthropic-hits-2-trillion-valuation-in-record-breaking-nasdaq-debut/",
+        "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/"
+      ],
+      "sources": [
+        "Hacker News",
+        "Reuters",
+        "TechCrunch",
+        "The Verge"
+      ],
+      "title": "Anthropic 上市首日：开盘 $111.50，较发行价高 34%，募资 $813 亿史上最大",
+      "plugins": {
+        "momentum": {
+          "score": 96
+        }
+      }
+    },
+    {
+      "action": "自查 Ruby 版本，跑 Rails 的先升 4.0.10 / 3.4.13 / 3.3.14；可写一条安全提醒 tweet。",
+      "body": "Veria Labs 11 月 18 日披露、11 月 19 日发酵：Ruby 字符串 upcase 在单字节编码下对 ß 的处理存在 1 字节堆溢出（GHSA-34m4-m9fh-gqp5，CVE-2026-132825），默认配置的 Rails 与经典模式 Sinatra 无需登录即可触达，可转为远程代码执行；该缺陷自 Ruby 2.4.0（2016 年）就存在。官方同日发布修复版 4.0.10 / 3.4.13 / 3.3.14，3.2 及更早版本无修复；GitLab、GitHub Enterprise Server、Mastodon、Discourse、Chatwoot 等自托管产品捆绑的仍是受影响版本。研究者称一周后公开 PoC，目前无野外利用报告。HN 348 分/146 评。",
+      "i18n": {
+        "en": {
+          "action": "Check your Ruby version; Rails apps should upgrade to 4.0.10 / 3.4.13 / 3.3.14 first. A security heads-up tweet works too.",
+          "body": "Disclosed by Veria Labs on November 18 and spreading on November 19: Ruby's string upcase mishandles ß under single-byte encodings, a one-byte heap overflow (GHSA-34m4-m9fh-gqp5, CVE-2026-132825) reachable without login on stock Rails and classic-style Sinatra, convertible to remote code execution; the flaw has existed since Ruby 2.4.0 (2016). Fixed releases 4.0.10 / 3.4.13 / 3.3.14 shipped the same day; Ruby 3.2 and older get no fix; self-hosted products including GitLab, GitHub Enterprise Server, Mastodon, Discourse and Chatwoot still bundle affected versions. The researchers say they will publish a PoC in a week; no in-the-wild exploitation has been reported. HN: 348 points / 146 comments.",
+          "title": "Ruby2ßhell: unauthenticated RCE on stock Rails from a ten-year-old ß bug"
+        },
+        "ja": {
+          "action": "Rubyのバージョンを確認し、Railsならまず4.0.10／3.4.13／3.3.14へ。注意喚起のツイートも可。",
+          "body": "Veria Labsが11月18日に開示し、11月19日に広がった脆弱性：Rubyの文字列upcaseがシングルバイト符号化でßを扱う際に1バイトのヒープオーバーフローが発生し（GHSA-34m4-m9fh-gqp5、CVE-2026-132825）、デフォルト設定のRailsとクラシック形式のSinatraではログインなしで到達でき、リモートコード実行に転用可能。この欠陥はRuby 2.4.0（2016年）から存在した。修正版4.0.10／3.4.13／3.3.14が同日公開され、3.2以前には修正はない。GitLab、GitHub Enterprise Server、Mastodon、Discourse、Chatwootなどセルフホスト製品は依然として影響を受けるバージョンを同梱している。研究者は1週間後にPoCを公開予定で、野外での悪用報告はまだない。HN：348ポイント／146コメント。",
+          "title": "Ruby2ßhell：ß一文字で10年物のバグを突く、デフォルトRailsの未認証RCE"
+        }
+      },
+      "is_new": true,
+      "level": "must",
+      "links": [
+        "https://verialabs.com/ruby2shell/",
+        "https://dev.to/frankchu/21-sss-1-byte-rubys-upcase-overflows-its-own-buffer-50d9",
+        "https://gbhackers.com/ruby2shell-critical-ruby-vulnerability/"
+      ],
+      "sources": [
+        "Hacker News",
+        "dev.to",
+        "GBHackers"
+      ],
+      "title": "Ruby2ßhell：默认配置 Rails 未授权 RCE，ß 一个字符打穿 Ruby 十年旧 bug",
+      "plugins": {
+        "momentum": {
+          "score": 41
+        }
+      }
+    },
+    {
+      "action": "写 tweet，重点写“后台独立窗口 + 付费订阅才有 + Google 自承的提示注入风险”。",
+      "body": "Google 11 月 19 日宣布 Gemini Mac 应用获得 computer use：描述多步任务后，Gemini 在独立后台窗口里替用户操作桌面应用、本地文件与网页——点菜单、打字、填表，屏幕和光标仍归用户，可实时看进度、随时暂停，关键操作需批准。首批仅限美国、英语、Apple Silicon Mac（macOS Sequoia 15+），需 Google AI Plus / Pro / Ultra 付费订阅；需开辅助功能与屏幕录制权限。Google 自承风险：不可信内容可能诱导跨应用操作、能读到登录会话与双因素验证码、可删文件。TechCrunch、The Verge 同日报道。",
+      "i18n": {
+        "en": {
+          "action": "Write a tweet, leading with 'separate background window + paid plans only + the prompt-injection risk Google itself discloses'.",
+          "body": "Google announced computer use for the Gemini Mac app on November 19: describe a multi-step task and Gemini operates desktop apps, local files and the web for you from an isolated background window — clicking menus, typing, filling in forms — while your screen and cursor stay yours, with a live preview, pause at any time, and approval for key actions. First rollout is US-only, English, Apple Silicon Macs (macOS Sequoia 15+) on a paid Google AI Plus / Pro / Ultra plan; it needs Accessibility and Screen Recording permissions. Google discloses the risks itself: untrusted content could steer it across apps, it can read logged-in sessions and two-factor codes, and it can delete files. Covered the same day by TechCrunch and The Verge.",
+          "title": "Gemini comes to the Mac with computer use: it clicks and types for you in a background window"
+        },
+        "ja": {
+          "action": "ツイートを書く。「独立したバックグラウンドウィンドウ＋有料プラン限定＋Google自身が認めるプロンプトインジェクションのリスク」を前面に。",
+          "body": "Googleは11月19日、Gemini Macアプリにcomputer useを追加したと発表した。複数ステップの作業を説明すると、Geminiが独立したバックグラウンドウィンドウでデスクトップアプリ、ローカルファイル、ウェブを操作する——メニューのクリック、入力、フォーム記入。画面とカーソルはユーザーのもの、進捗はライブで確認でき、いつでも一時停止、重要な操作は承認が必要。まずは米国・英語、AppleシリコンMac（macOS Sequoia 15以降）、Google AI Plus／Pro／Ultraの有料プラン限定で、アクセシビリティと画面収録の権限が必要。Google自身が認めるリスク：信頼できないコンテンツが他アプリの操作を誘導する可能性、ログインセッションや二要素認証コードを読めること、ファイルを削除しうること。TechCrunchとThe Vergeが同日報道。",
+          "title": "GeminiがMacのcomputer useに対応：バックグラウンドウィンドウで代わりにクリック・入力"
+        }
+      },
+      "is_new": true,
+      "level": "must",
+      "links": [
+        "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+        "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+        "https://appleinsider.com/articles/26/11/19/gemini-can-now-control-mac-apps-but-you-still-shouldnt-let-it"
+      ],
+      "sources": [
+        "TechCrunch",
+        "The Verge",
+        "Bluesky"
+      ],
+      "title": "Gemini 登陆 Mac 电脑操控：替你在应用里点按填表，独立窗口后台跑",
+      "plugins": {
+        "momentum": {
+          "score": 41
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "AAPL"
+            },
+            {
+              "type": "ticker",
+              "name": "GOOGL"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "action": "仅记录；可写 tweet，强调“六周后台 agent 协作 + 预印本已出，未经同行评审”。",
+      "body": "Anthropic 发布独立研究帖：Claude Fable 5.2 解出两道理论物理悬案——其一是 2003 年立项、20 多年无人完成的计算，证明极小宇宙里黑洞形成时的突变依然存在；其二找到模 bootstrap 方法的最优上限约 c/9.1266 并证明无法更低。做法：8 月起研究员让一群 Claude agent 后台跑约六周、互相读进度协作；结果经计算机证明检查器与物理学家复核，两篇预印本已公开。Anthropic 自承：两个结果都不直接描述我们的宇宙、没有实际应用。这是 11 月 9 日发布会说法的展开，首次以完整研究帖形式公开。HN 252 分/98 评。",
+      "i18n": {
+        "en": {
+          "action": "Just record it; a tweet could stress 'six weeks of background agent collaboration + preprints out, not yet peer-reviewed'.",
+          "body": "Anthropic published a standalone research post: Claude Fable 5.2 solved two open problems in theoretical physics — first, a calculation set up in 2003 and unfinished for over 20 years, proving the abrupt transition of black-hole formation persists even in tiny universes; second, the optimal bound of the modular bootstrap method, about c/9.1266, proven unimprovable. Method: starting in August, a group of Claude agents ran in the background for about six weeks, reading each other's progress and collaborating; results were checked with a computer proof checker and by physicists, and both preprints are public. Anthropic concedes neither result describes our own universe directly nor has practical applications. This expands the November 9 launch claims, now published as a full research post. HN: 252 points / 98 comments.",
+          "title": "Claude Fable 5.2 solved two open black-hole physics problems: research post and preprints are out"
+        },
+        "ja": {
+          "action": "記録のみ。ツイートするなら「6週間のバックグラウンドでのエージェント協働＋プレプリント公開、査読前」を強調。",
+          "body": "Anthropicが単独の研究記事を公開：Claude Fable 5.2が理論物理学の未解決問題を2つ解いた——1つは2003年に設定され20年以上未完成だった計算で、極小の宇宙でもブラックホール形成時の急激な転移が残ることを証明。もう1つはモジュラーブートストラップ法の最適な上限約c/9.1266を求め、それ以下にできないことを証明した。手法：8月からClaudeエージェントのグループが約6週間バックグラウンドで動き、互いの進捗を読み合って協働。結果は計算機による証明チェッカーと物理学者が検証し、2本のプレプリントは公開済み。Anthropic自身も認めるとおり、どちらも我々の宇宙を直接記述するものではなく、実用性もない。これは11月9日の発表内容の展開で、完全な研究記事として初めて公開された。HN：252ポイント／98コメント。",
+          "title": "Claude Fable 5.2がブラックホール物理の未解決問題2問を解決：研究記事とプレプリント公開"
+        }
+      },
+      "is_new": false,
+      "level": "must",
+      "links": [
+        "https://www.anthropic.com/research/claude-black-hole-physics"
+      ],
+      "sources": [
+        "Anthropic 官方",
+        "Hacker News"
+      ],
+      "title": "Claude Fable 5.2 解出两道黑洞物理悬案：研究帖与预印本上线，HN 252 分",
+      "plugins": {
+        "momentum": {
+          "score": 36
+        }
+      }
+    },
+    {
+      "action": "仅记录；做 agent 产品可对照自查“跨会话串话”这条红线。",
+      "body": "路透调查 + Ars 内部聊天记录：Meta 的 AI agent Muse（9 月上线，下载 1,000 万+ 次）出现隐私事故——测试中读取了用户未授权的加密私信、把聊天发给错误对象、凭空编造购买信息；有员工的银行信息在未分享的情况下出现。Meta 称是个别事件；Ars 称内部员工同样担忧。背景：Muse 是 Meta 的 agent 应用，11 月 12 日刚官宣电话代打功能。TechCrunch、Ars Technica 11 月 19 日同日报道。",
+      "i18n": {
+        "en": {
+          "action": "Just record it; agent builders can check their own product against the 'cross-conversation leakage' red line.",
+          "body": "A Reuters investigation plus internal chats reported by Ars Technica: Meta's AI agent Muse (launched in September, 10 million+ downloads) has had privacy incidents — in testing it read users' encrypted private messages without authorization, sent chats to the wrong people, and fabricated purchase information; one employee's banking details surfaced without being shared. Meta calls these isolated incidents; Ars reports internal staff are worried too. Context: Muse is Meta's agent app, which had just announced a call-on-your-behalf feature on November 12. TechCrunch and Ars Technica covered it on November 19.",
+          "title": "Meta's Muse privacy incidents: Reuters says the agent read encrypted messages and misrouted chats"
+        },
+        "ja": {
+          "action": "記録のみ。エージェント製品を作るなら「会話をまたいだ漏洩」というレッドラインを自社製品と照らし合わせる。",
+          "body": "ロイターの調査とArs Technicaが報じた内部チャット：MetaのAIエージェントMuse（9月に公開、ダウンロード1,000万回超）でプライバシー事故が発生した——テスト中にユーザーの暗号化された私信を無断で読み、チャットを誤った相手に送り、購入情報をでっち上げた。ある従業員の銀行情報が共有していないのに表示された。Metaは個別の事象と説明するが、Arsによれば社内の従業員も懸念している。背景：MuseはMetaのエージェントアプリで、11月12日に電話代行機能を発表したばかり。TechCrunchとArs Technicaが11月19日に同日報じた。",
+          "title": "MetaのMuseでプライバシー事故：暗号化メッセージの読み取りや誤送信とロイター報道"
+        }
+      },
+      "is_new": true,
+      "level": "watch",
+      "links": [
+        "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+        "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/"
+      ],
+      "sources": [
+        "TechCrunch",
+        "Ars Technica",
+        "Bluesky"
+      ],
+      "title": "Meta Muse 隐私事故：路透称 agent 读加密消息、发错聊天对象，员工内部也慌了",
+      "plugins": {
+        "momentum": {
+          "score": 41
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "META"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "action": "仅记录。",
+      "body": "英国政府被迫承认曾依据《调查权力法》向 Apple 下达秘密命令，要求为加密服务留后门；该命令此前一直保密。TechCrunch 11 月 19 日报道，HN 319 分/153 评，Mastodon 当日 62 个账号转发讨论。社会观察向：加密后门与政府监控。",
+      "i18n": {
+        "en": {
+          "action": "Just record it.",
+          "body": "The UK government was forced to admit it had issued Apple a secret order under the Investigatory Powers Act demanding a backdoor into encrypted services; the order had been kept secret until now. TechCrunch reported it on November 19; HN: 319 points / 153 comments, and 62 Mastodon accounts shared it the same day. A social-observation item: encryption backdoors and government surveillance.",
+          "title": "UK government forced to admit it issued Apple a secret encryption backdoor order"
+        },
+        "ja": {
+          "action": "記録のみ。",
+          "body": "英国政府は、調査権限法に基づきAppleに暗号化サービスへのバックドアを求める秘密命令を出していたことを認めざるを得なくなった。この命令はこれまで秘匿されていた。TechCrunchが11月19日に報道。HN：319ポイント／153コメント、Mastodonでは当日62アカウントが共有した。社会観察の観点：暗号化バックドアと政府による監視。",
+          "title": "英国政府、Appleへの秘密の暗号化バックドア命令を認めざるを得ず"
+        }
+      },
+      "is_new": true,
+      "level": "watch",
+      "links": [
+        "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
+        "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/"
+      ],
+      "sources": [
+        "Hacker News",
+        "TechCrunch",
+        "Mastodon"
+      ],
+      "title": "英国政府被迫承认曾向 Apple 下达秘密加密后门令",
+      "plugins": {
+        "momentum": {
+          "score": 41
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "AAPL"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "action": "仅记录。",
+      "body": "higurashi-ai 的 Haru-4B（全双工语音对话基础模型）：11 月 17 日首次入台账时 407 likes / 3,372 下载，本期 3,608 likes / 6,266 下载，likes 约 9 倍。单源 HF。",
+      "i18n": {
+        "en": {
+          "action": "Just record it.",
+          "body": "higurashi-ai's Haru-4B (a full-duplex voice dialogue base model): 407 likes / 3,372 downloads when it first entered the ledger on November 17; now 3,608 likes / 6,266 downloads — likes up about 9x. Single source: Hugging Face.",
+          "title": "Haru-4B: likes up from 407 to 3,608 in three days, a full-duplex voice dialogue base model"
+        },
+        "ja": {
+          "action": "記録のみ。",
+          "body": "higurashi-aiのHaru-4B（全二重音声対話の基盤モデル）：11月17日に初めて台帳に入った時は407 likes／3,372ダウンロードだったが、今期は3,608 likes／6,266ダウンロードと、likesは約9倍。出典はHugging Faceのみ。",
+          "title": "Haru-4B：3日でlikesが407から3,608へ、全二重音声対話の基盤モデル"
+        }
+      },
+      "is_new": false,
+      "level": "echo",
+      "links": [
+        "https://huggingface.co/higurashi-ai/Haru-4B"
+      ],
+      "sources": [
+        "Hugging Face"
+      ],
+      "title": "Haru-4B：HF 新面孔三天 likes 从 407 涨到 3,608，全双工语音对话基础模型",
+      "plugins": {
+        "momentum": {
+          "score": 31
+        }
+      }
+    },
+    {
+      "action": "仅记录；用 Mac 的可试。",
+      "body": "Mistral 11 月 17–18 日发布 Vibe Desktop（macOS/Windows，Linux 待定）：把 Work、本地 coding 与云端沙箱 coding 会话收进一个窗口，可并行跑多个 agent，Git worktree 隔离、接 VS Code / JetBrains / Zed；默认模型为 Mistral Large 4（Le Chonk）。Pro 平时 $14.99/月，欧洲开发者凭码 LECHONK 免费三个月（首批曾抢光后补货）。官方发布说明 + X 官宣。",
+      "i18n": {
+        "en": {
+          "action": "Just record it; Mac users can try it.",
+          "body": "Mistral released Vibe Desktop on November 17–18 (macOS/Windows, Linux coming): Work, local coding and cloud-sandbox coding sessions in one window, multiple agents in parallel, Git worktree isolation, VS Code / JetBrains / Zed integrations; default model is Mistral Large 4 (Le Chonk). Pro is normally $14.99/month; developers in Europe get three months free with code LECHONK (the first batch sold out and was restocked). Official release notes plus the X announcement.",
+          "title": "Mistral Vibe goes desktop: parallel local and cloud coding agents on Mac/Windows, Pro free for three months in Europe"
+        },
+        "ja": {
+          "action": "記録のみ。Macユーザーは試せる。",
+          "body": "Mistralは11月17～18日にVibe Desktopを公開した（macOS／Windows、Linuxは今後対応）。Work、ローカルコーディング、クラウドサンドボックスでのコーディングセッションを1つのウィンドウに集約し、複数のエージェントを並行実行できる。Git worktreeによる分離、VS Code／JetBrains／Zed連携。デフォルトモデルはMistral Large 4（Le Chonk）。Proは通常月額14.99ドルだが、欧州の開発者はコードLECHONKで3か月無料（初回分は品切れ後に補充された）。公式リリースノートとXでの発表。",
+          "title": "Mistral Vibeがデスクトップ版に：Mac／Windowsで並行コーディングエージェント、欧州はProが3か月無料"
+        }
+      },
+      "is_new": true,
+      "level": "echo",
+      "links": [
+        "https://docs.mistral.ai/resources/release-notes",
+        "https://thehype.news/mistral-vibe-desktop/"
+      ],
+      "sources": [
+        "Mistral 官方",
+        "X"
+      ],
+      "title": "Mistral Vibe 出桌面版：Mac/Windows 上并行跑本地与云端 coding agent，欧洲 Pro 免费三个月",
+      "plugins": {
+        "momentum": {
+          "score": 36
+        }
+      }
+    }
+  ]
+}

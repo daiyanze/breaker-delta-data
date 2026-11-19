@@ -428,3 +428,25 @@
 - 黄仁勋辞职 | 2026-11-12 晚报 | 2026-11-19 晚报 | TechCrunch, MIT Technology Review, Ars Technica, The Verge | 🔥→🔥（涨：Musk 称罢免黄仁勋“像把乔丹踢出球队”；Nadella 称对没有黄仁勋的英伟达仍有信心；开源运动请愿希望黄仁勋回归；无股价新数字） | 待复盘
 - 微软 agent-framework PyPI 投毒 | 2026-11-18 晚报 | 2026-11-19 晚报 | The Register | 👀→👀（平：The Register 出完整报道，细节确认；暂无新的受害数字） | 待复盘
 - 其余在册话题 | 各首次发现时间见上文 | 2026-11-19 晚报 | 见上文 | 平，无新动静（GPT-6.2 Astra and Sol：仍在 OpenRouter/Bluesky 出现，维持 🔥；GestaltX 8,447 stars、deepseek-ai/chat-demo 4,944、DIYgod/pinky 2,497，缓慢上涨，维持 🌱；Qwen3.8：Qwen3.8-27B 20,591 likes、6.89M 下载，维持 👀；Claude Fable 5.2：Simon Willison 仍在 Bluesky 二次传播，维持 🔥） | 待复盘
+
+## 2026-11-20 早报（06:00 JST）
+- Anthropic IPO | 2026-11-11 试点早报 | 2026-11-20 早报 | Hacker News, Reuters, TechCrunch, The Verge | 🔥→🔥（涨：11 月 19 日纳斯达克上市（ANT），开盘 $111.50，较 $83 发行价高约 34%；发行 9.8 亿股募资约 $813 亿，史上最大 IPO；另有 $260 亿战略配售，合计 $1,073 亿；完全摊薄估值约 $2 万亿，但按已发行股 132.2 亿股算约 $1.47 万亿，$2 万亿口径含未发行期权与预留股；盘中一度回落至 $95 附近；上市将向慈善捐出约 $1,560 亿；HN 573 分/910 评） | 待复盘
+- Ruby2ßhell | 2026-11-20 早报 | 2026-11-20 早报 | Hacker News, dev.to, GBHackers | 🆕🔥（Veria Labs 11 月 18 日披露：Ruby upcase 1 字节堆溢出，GHSA-34m4-m9fh-gqp5 / CVE-2026-132825，默认配置 Rails 与经典模式 Sinatra 未授权 RCE，缺陷自 Ruby 2.4.0 就存在；修复版 4.0.10 / 3.4.13 / 3.3.14，3.2 及更早无修复；GitLab、GitHub Enterprise Server、Mastodon、Discourse、Chatwoot 捆绑的仍是受影响版本；PoC 一周后公开，无野外利用；HN 348 分/146 评） | 待复盘
+- Gemini Mac 电脑操控 | 2026-11-20 早报 | 2026-11-20 早报 | TechCrunch, The Verge, Bluesky | 🆕🔥（Google 11 月 19 日宣布：Gemini Mac 应用获 computer use，独立后台窗口里替用户操作桌面应用、本地文件与网页；首批仅限美国、英语、Apple Silicon Mac（macOS Sequoia 15+），需 Google AI Plus / Pro / Ultra 付费订阅；Google 自承提示注入、读登录会话与双因素码、可删文件等风险） | 待复盘
+- Claude Fable 5.2 / Mythos 5.2 | 2026-11-12 早报 | 2026-11-20 早报 | Anthropic 官方, Hacker News | 🔥→🔥（涨：独立研究帖上线——Fable 5.2 解出两道黑洞物理悬案（2003 年立项的计算 + 模 bootstrap 最优上限约 c/9.1266），六周后台 agent 协作完成，两篇预印本已公开，未经同行评审；HN 252 分/98 评） | 待复盘
+- Meta Muse 隐私事故 | 2026-11-20 早报 | 2026-11-20 早报 | TechCrunch, Ars Technica, Bluesky | 🆕👀（路透调查 + Ars 内部聊天记录：Muse agent 读未授权加密私信、发错聊天对象、编造购买信息，有员工银行信息无故出现；下载 1,000 万+ 次；Meta 称个别事件，内部员工同样担忧） | 待复盘
+- 英国政府向 Apple 下达秘密加密后门令 | 2026-11-20 早报 | 2026-11-20 早报 | Hacker News, TechCrunch, Mastodon | 🆕👀（英国政府被迫承认曾依《调查权力法》向 Apple 下达秘密加密后门令，此前一直保密；HN 319 分/153 评；Mastodon 当日 62 个账号转发） | 待复盘
+- lastbook | 2026-11-20 早报 | 2026-11-20 早报 | Hacker News, GitHub | 🆕👀（未入选正文：离线生存知识 AI——知识、地图与视频，供灾后重建；HN 292 分/155 评；GitHub 2,513 stars，6 天日均 419；与 Dai 相关性低） | 待复盘
+- higurashi-ai/Haru-4B | 2026-11-17 早报 | 2026-11-20 早报 | Hugging Face | 🌱→🌱（涨：HF 407 likes / 3,372 下载 → 3,608 likes / 6,266 下载，likes 约 9 倍；全双工语音对话基础模型；单源） | 待复盘
+- Mistral Vibe Desktop | 2026-11-20 早报 | 2026-11-20 早报 | Mistral 官方, X | 🆕🌱（11 月 17–18 日发布：macOS/Windows 桌面版，并行跑本地与云端 coding agent，Git worktree 隔离，接 VS Code/JetBrains/Zed；默认 Mistral Large 4；Pro $14.99/月，欧洲凭码 LECHONK 免费三个月） | 待复盘
+- rust-anything | 2026-11-19 早报 | 2026-11-20 早报 | GitHub | 👀→👀（涨：3,966 → 5,011 stars，+1,045，3 天日均 1,670，本期 GitHub 增速之首） | 待复盘
+- Java4Shell CVE-2026-114938 | 2026-11-18 晚报 | 2026-11-20 早报 | Hacker News, BleepingComputer | 🔥→🔥（涨：HN 新帖——2026 年 9 月就有人向 OpenJDK 报过该 bug（PR #32781）；BleepingComputer 报道影响主流 Java 应用；Cloudflare 已上线 WAF 防护；HN 274 分/78 评） | 待复盘
+- nginx2root：Nginx 未认证 RCE | 2026-11-19 早报 | 2026-11-20 早报 | Hacker News, The Register | 🔥→🔥（平，无新动静；The Register 11 月 18 日长文为披露当日报道，非第二漏洞；仍无野外利用报告） | 待复盘
+- 黄仁勋辞职 | 2026-11-12 晚报 | 2026-11-20 早报 | The Decoder, Wikipedia | 🔥→🔥（平：维基 Jensen Huang 第 15（109,002 浏览，昨晚第 9/144,823）；The Decoder 11 月 19 日——英伟达已停售对华授权 Hopper 芯片；11 月 18 日全员会/国会简报暂无新公开消息） | 待复盘
+- 美国收紧 AI 芯片远程访问管制 | 2026-11-17 晚报 | 2026-11-20 早报 | Federal Register, The Decoder | 🔥→🔥（涨：联邦公报 11 月 19 日刊登“Addressing Remote Access to Advanced Semiconductors”规则；The Decoder——中国科技公司面临芯片断供与海外云访问消失双重打击） | 待复盘
+- 腾讯 Hy4 Flash | 2026-11-17 早报 | 2026-11-20 早报 | Hugging Face, OpenRouter | 👀→👀（平：HF 332 likes / 2,053 下载；OpenRouter 仍在列，无新动静） | 待复盘
+- Wireless-Device-Battery-Monitor | 2026-11-19 晚报 | 2026-11-20 早报 | GitHub | 👀→👀（涨：4,220 → 4,600 stars，3 天日均 1,533） | 待复盘
+- GestaltX | 2026-11-14 早报 | 2026-11-20 早报 | GitHub | 🌱→🌱（微涨：8,447 → 8,529 stars，10 天） | 待复盘
+- deepseek-ai/chat-demo | 2026-11-15 晚报 | 2026-11-20 早报 | GitHub | 🌱→🌱（微涨：4,944 → 5,019 stars，7 天） | 待复盘
+- DIYgod/pinky | 2026-11-17 早报 | 2026-11-20 早报 | GitHub | 🌱→🌱（微涨：2,497 → 2,529 stars） | 待复盘
+- 其余在册话题 | 各首次发现时间见上文 | 2026-11-20 早报 | 见上文 | 平，无新动静（Gemini 4 Neon、GPT-6.2 Astra and Sol、Qwen4-Max、Gemini 4 Carbon、Qwen3.8 等未见新动静；微软 MAI Code 2、Genie 4、Windows 11 收集编码 agent 数据、Codeberg 域名事件未见新消息） | 待复盘
