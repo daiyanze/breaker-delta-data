@@ -27,9 +27,9 @@
                 "ja": "#1 Anthropic IPO"
               },
               "format": {
-                "zh": "动量 85 · 浪高 131",
-                "en": "Momentum 85 · heat 131",
-                "ja": "勢い 85 · 浪高 131"
+                "zh": "动量 91 · 浪高 148",
+                "en": "Momentum 91 · heat 148",
+                "ja": "勢い 91 · 浪高 148"
               }
             },
             {
@@ -58,9 +58,21 @@
             },
             {
               "label": {
-                "zh": "#4 OpenAI 发布 GPT-6.2 Astra 与 Sol：上线即遭首批差评，口碑两极",
-                "en": "#4 OpenAI 发布 GPT-6.2 Astra 与 Sol：上线即遭首批差评，口碑两极",
-                "ja": "#4 OpenAI 发布 GPT-6.2 Astra 与 Sol：上线即遭首批差评，口碑两极"
+                "zh": "#4 Gemini 4 Neon 发布：AA 智力指数 61 排第三，$3/$15 定价，对标 Opus 5.5",
+                "en": "#4 Gemini 4 Neon 发布：AA 智力指数 61 排第三，$3/$15 定价，对标 Opus 5.5",
+                "ja": "#4 Gemini 4 Neon 发布：AA 智力指数 61 排第三，$3/$15 定价，对标 Opus 5.5"
+              },
+              "format": {
+                "zh": "动量 56 · 浪高 249",
+                "en": "Momentum 56 · heat 249",
+                "ja": "勢い 56 · 浪高 249"
+              }
+            },
+            {
+              "label": {
+                "zh": "#5 OpenAI 发布 GPT-6.2 Astra 与 Sol：上线即遭首批差评，口碑两极",
+                "en": "#5 OpenAI 发布 GPT-6.2 Astra 与 Sol：上线即遭首批差评，口碑两极",
+                "ja": "#5 OpenAI 发布 GPT-6.2 Astra 与 Sol：上线即遭首批差评，口碑两极"
               },
               "format": {
                 "zh": "动量 56 · 浪高 229",
@@ -70,9 +82,9 @@
             },
             {
               "label": {
-                "zh": "#5 美国收紧 AI 芯片远程访问管制：5 国列高风险，海外数据中心 90 天内须申请许可",
-                "en": "#5 美国收紧 AI 芯片远程访问管制：5 国列高风险，海外数据中心 90 天内须申请许可",
-                "ja": "#5 美国收紧 AI 芯片远程访问管制：5 国列高风险，海外数据中心 90 天内须申请许可"
+                "zh": "#6 美国收紧 AI 芯片远程访问管制：5 国列高风险，海外数据中心 90 天内须申请许可",
+                "en": "#6 美国收紧 AI 芯片远程访问管制：5 国列高风险，海外数据中心 90 天内须申请许可",
+                "ja": "#6 美国收紧 AI 芯片远程访问管制：5 国列高风险，海外数据中心 90 天内须申请许可"
               },
               "format": {
                 "zh": "动量 56 · 浪高 221",
@@ -82,9 +94,9 @@
             },
             {
               "label": {
-                "zh": "#6 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年",
-                "en": "#6 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年",
-                "ja": "#6 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年"
+                "zh": "#7 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年",
+                "en": "#7 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年",
+                "ja": "#7 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年"
               },
               "format": {
                 "zh": "动量 56 · 浪高 191",
@@ -94,9 +106,9 @@
             },
             {
               "label": {
-                "zh": "#7 ChatGPT Wallet：Agent 开始替你花钱",
-                "en": "#7 ChatGPT Wallet：Agent 开始替你花钱",
-                "ja": "#7 ChatGPT Wallet：Agent 开始替你花钱"
+                "zh": "#8 ChatGPT Wallet：Agent 开始替你花钱",
+                "en": "#8 ChatGPT Wallet：Agent 开始替你花钱",
+                "ja": "#8 ChatGPT Wallet：Agent 开始替你花钱"
               },
               "format": {
                 "zh": "动量 51 · 浪高 209",
@@ -106,9 +118,9 @@
             },
             {
               "label": {
-                "zh": "#8 Gemini 4 Hydrogen 持续发酵",
-                "en": "#8 Gemini 4 Hydrogen 持续发酵",
-                "ja": "#8 Gemini 4 Hydrogen 持续发酵"
+                "zh": "#9 Gemini 4 Hydrogen 持续发酵",
+                "en": "#9 Gemini 4 Hydrogen 持续发酵",
+                "ja": "#9 Gemini 4 Hydrogen 持续发酵"
               },
               "format": {
                 "zh": "动量 51 · 浪高 176",
@@ -118,9 +130,9 @@
             },
             {
               "label": {
-                "zh": "#9 United 航空禁 AI agent 订票",
-                "en": "#9 United 航空禁 AI agent 订票",
-                "ja": "#9 United 航空禁 AI agent 订票"
+                "zh": "#10 United 航空禁 AI agent 订票",
+                "en": "#10 United 航空禁 AI agent 订票",
+                "ja": "#10 United 航空禁 AI agent 订票"
               },
               "format": {
                 "zh": "动量 51 · 浪高 171",
@@ -130,9 +142,9 @@
             },
             {
               "label": {
-                "zh": "#10 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta",
-                "en": "#10 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta",
-                "ja": "#10 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta"
+                "zh": "#11 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta",
+                "en": "#11 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta",
+                "ja": "#11 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta"
               },
               "format": {
                 "zh": "动量 51 · 浪高 171",
@@ -142,9 +154,9 @@
             },
             {
               "label": {
-                "zh": "#11 SpaceX 星舰 Flight 15 首次接住飞船",
-                "en": "#11 SpaceX 星舰 Flight 15 首次接住飞船",
-                "ja": "#11 SpaceX 星舰 Flight 15 首次接住飞船"
+                "zh": "#12 SpaceX 星舰 Flight 15 首次接住飞船",
+                "en": "#12 SpaceX 星舰 Flight 15 首次接住飞船",
+                "ja": "#12 SpaceX 星舰 Flight 15 首次接住飞船"
               },
               "format": {
                 "zh": "动量 51 · 浪高 171",
@@ -154,9 +166,9 @@
             },
             {
               "label": {
-                "zh": "#12 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题",
-                "en": "#12 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题",
-                "ja": "#12 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题"
+                "zh": "#13 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题",
+                "en": "#13 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题",
+                "ja": "#13 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题"
               },
               "format": {
                 "zh": "动量 51 · 浪高 171",
@@ -166,9 +178,9 @@
             },
             {
               "label": {
-                "zh": "#13 欧美基础设施连环中断：Apple 服务、NSA 机密内网、微软 365 接连宕机",
-                "en": "#13 欧美基础设施连环中断：Apple 服务、NSA 机密内网、微软 365 接连宕机",
-                "ja": "#13 欧美基础设施连环中断：Apple 服务、NSA 机密内网、微软 365 接连宕机"
+                "zh": "#14 欧美基础设施连环中断：Apple 服务、NSA 机密内网、微软 365 接连宕机",
+                "en": "#14 欧美基础设施连环中断：Apple 服务、NSA 机密内网、微软 365 接连宕机",
+                "ja": "#14 欧美基础设施连环中断：Apple 服务、NSA 机密内网、微软 365 接连宕机"
               },
               "format": {
                 "zh": "动量 51 · 浪高 146",
@@ -178,9 +190,9 @@
             },
             {
               "label": {
-                "zh": "#14 微软 365 全球宕机进入第二天",
-                "en": "#14 微软 365 全球宕机进入第二天",
-                "ja": "#14 微软 365 全球宕机进入第二天"
+                "zh": "#15 微软 365 全球宕机进入第二天",
+                "en": "#15 微软 365 全球宕机进入第二天",
+                "ja": "#15 微软 365 全球宕机进入第二天"
               },
               "format": {
                 "zh": "动量 51 · 浪高 110",
@@ -190,9 +202,9 @@
             },
             {
               "label": {
-                "zh": "#15 加州总检察长起诉 OpenAI：失控 agent 入侵 Hugging Face 等 80 起事件",
-                "en": "#15 加州总检察长起诉 OpenAI：失控 agent 入侵 Hugging Face 等 80 起事件",
-                "ja": "#15 加州总检察长起诉 OpenAI：失控 agent 入侵 Hugging Face 等 80 起事件"
+                "zh": "#16 加州总检察长起诉 OpenAI：失控 agent 入侵 Hugging Face 等 80 起事件",
+                "en": "#16 加州总检察长起诉 OpenAI：失控 agent 入侵 Hugging Face 等 80 起事件",
+                "ja": "#16 加州总检察长起诉 OpenAI：失控 agent 入侵 Hugging Face 等 80 起事件"
               },
               "format": {
                 "zh": "动量 46 · 浪高 181",
@@ -202,9 +214,9 @@
             },
             {
               "label": {
-                "zh": "#16 Java4Shell（CVE-2026-114938）：AI 一小时挖出的 Java 严重漏洞，未认证即可远程执行代码",
-                "en": "#16 Java4Shell（CVE-2026-114938）：AI 一小时挖出的 Java 严重漏洞，未认证即可远程执行代码",
-                "ja": "#16 Java4Shell（CVE-2026-114938）：AI 一小时挖出的 Java 严重漏洞，未认证即可远程执行代码"
+                "zh": "#17 Java4Shell（CVE-2026-114938）：AI 一小时挖出的 Java 严重漏洞，未认证即可远程执行代码",
+                "en": "#17 Java4Shell（CVE-2026-114938）：AI 一小时挖出的 Java 严重漏洞，未认证即可远程执行代码",
+                "ja": "#17 Java4Shell（CVE-2026-114938）：AI 一小时挖出的 Java 严重漏洞，未认证即可远程执行代码"
               },
               "format": {
                 "zh": "动量 46 · 浪高 181",
@@ -214,9 +226,9 @@
             },
             {
               "label": {
-                "zh": "#17 nginx2root：Nginx 五个未认证 RCE 漏洞齐发，HTTP/2 缺陷潜伏 11 年",
-                "en": "#17 nginx2root：Nginx 五个未认证 RCE 漏洞齐发，HTTP/2 缺陷潜伏 11 年",
-                "ja": "#17 nginx2root：Nginx 五个未认证 RCE 漏洞齐发，HTTP/2 缺陷潜伏 11 年"
+                "zh": "#18 nginx2root：Nginx 五个未认证 RCE 漏洞齐发，HTTP/2 缺陷潜伏 11 年",
+                "en": "#18 nginx2root：Nginx 五个未认证 RCE 漏洞齐发，HTTP/2 缺陷潜伏 11 年",
+                "ja": "#18 nginx2root：Nginx 五个未认证 RCE 漏洞齐发，HTTP/2 缺陷潜伏 11 年"
               },
               "format": {
                 "zh": "动量 46 · 浪高 181",
@@ -226,9 +238,9 @@
             },
             {
               "label": {
-                "zh": "#18 Qwen4-Max Preview + Qwen Code 1.0",
-                "en": "#18 Qwen4-Max Preview + Qwen Code 1.0",
-                "ja": "#18 Qwen4-Max Preview + Qwen Code 1.0"
+                "zh": "#19 Qwen4-Max Preview + Qwen Code 1.0",
+                "en": "#19 Qwen4-Max Preview + Qwen Code 1.0",
+                "ja": "#19 Qwen4-Max Preview + Qwen Code 1.0"
               },
               "format": {
                 "zh": "动量 46 · 浪高 165",
@@ -238,26 +250,14 @@
             },
             {
               "label": {
-                "zh": "#19 Claude Code Projects 升级：协调员变主动，线程可跑本地",
-                "en": "#19 Claude Code Projects 升级：协调员变主动，线程可跑本地",
-                "ja": "#19 Claude Code Projects 升级：协调员变主动，线程可跑本地"
+                "zh": "#20 Claude Code Projects 升级：协调员变主动，线程可跑本地",
+                "en": "#20 Claude Code Projects 升级：协调员变主动，线程可跑本地",
+                "ja": "#20 Claude Code Projects 升级：协调员变主动，线程可跑本地"
               },
               "format": {
                 "zh": "动量 46 · 浪高 159",
                 "en": "Momentum 46 · heat 159",
                 "ja": "勢い 46 · 浪高 159"
-              }
-            },
-            {
-              "label": {
-                "zh": "#20 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%",
-                "en": "#20 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%",
-                "ja": "#20 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%"
-              },
-              "format": {
-                "zh": "动量 46 · 浪高 156",
-                "en": "Momentum 46 · heat 156",
-                "ja": "勢い 46 · 浪高 156"
               }
             }
           ]
@@ -284,9 +284,9 @@
                 "ja": "#1 Anthropic IPO"
               },
               "format": {
-                "zh": "动量 85 · 浪高 131",
-                "en": "Momentum 85 · heat 131",
-                "ja": "勢い 85 · 浪高 131"
+                "zh": "动量 91 · 浪高 148",
+                "en": "Momentum 91 · heat 148",
+                "ja": "勢い 91 · 浪高 148"
               }
             },
             {
@@ -315,9 +315,21 @@
             },
             {
               "label": {
-                "zh": "#4 OpenAI 发布 GPT-6.2 Astra 与 Sol：上线即遭首批差评，口碑两极",
-                "en": "#4 OpenAI 发布 GPT-6.2 Astra 与 Sol：上线即遭首批差评，口碑两极",
-                "ja": "#4 OpenAI 发布 GPT-6.2 Astra 与 Sol：上线即遭首批差评，口碑两极"
+                "zh": "#4 Gemini 4 Neon 发布：AA 智力指数 61 排第三，$3/$15 定价，对标 Opus 5.5",
+                "en": "#4 Gemini 4 Neon 发布：AA 智力指数 61 排第三，$3/$15 定价，对标 Opus 5.5",
+                "ja": "#4 Gemini 4 Neon 发布：AA 智力指数 61 排第三，$3/$15 定价，对标 Opus 5.5"
+              },
+              "format": {
+                "zh": "动量 56 · 浪高 249",
+                "en": "Momentum 56 · heat 249",
+                "ja": "勢い 56 · 浪高 249"
+              }
+            },
+            {
+              "label": {
+                "zh": "#5 OpenAI 发布 GPT-6.2 Astra 与 Sol：上线即遭首批差评，口碑两极",
+                "en": "#5 OpenAI 发布 GPT-6.2 Astra 与 Sol：上线即遭首批差评，口碑两极",
+                "ja": "#5 OpenAI 发布 GPT-6.2 Astra 与 Sol：上线即遭首批差评，口碑两极"
               },
               "format": {
                 "zh": "动量 56 · 浪高 229",
@@ -327,9 +339,9 @@
             },
             {
               "label": {
-                "zh": "#5 美国收紧 AI 芯片远程访问管制：5 国列高风险，海外数据中心 90 天内须申请许可",
-                "en": "#5 美国收紧 AI 芯片远程访问管制：5 国列高风险，海外数据中心 90 天内须申请许可",
-                "ja": "#5 美国收紧 AI 芯片远程访问管制：5 国列高风险，海外数据中心 90 天内须申请许可"
+                "zh": "#6 美国收紧 AI 芯片远程访问管制：5 国列高风险，海外数据中心 90 天内须申请许可",
+                "en": "#6 美国收紧 AI 芯片远程访问管制：5 国列高风险，海外数据中心 90 天内须申请许可",
+                "ja": "#6 美国收紧 AI 芯片远程访问管制：5 国列高风险，海外数据中心 90 天内须申请许可"
               },
               "format": {
                 "zh": "动量 56 · 浪高 221",
@@ -339,9 +351,9 @@
             },
             {
               "label": {
-                "zh": "#6 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年",
-                "en": "#6 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年",
-                "ja": "#6 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年"
+                "zh": "#7 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年",
+                "en": "#7 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年",
+                "ja": "#7 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年"
               },
               "format": {
                 "zh": "动量 56 · 浪高 191",
@@ -351,9 +363,9 @@
             },
             {
               "label": {
-                "zh": "#7 ChatGPT Wallet：Agent 开始替你花钱",
-                "en": "#7 ChatGPT Wallet：Agent 开始替你花钱",
-                "ja": "#7 ChatGPT Wallet：Agent 开始替你花钱"
+                "zh": "#8 ChatGPT Wallet：Agent 开始替你花钱",
+                "en": "#8 ChatGPT Wallet：Agent 开始替你花钱",
+                "ja": "#8 ChatGPT Wallet：Agent 开始替你花钱"
               },
               "format": {
                 "zh": "动量 51 · 浪高 209",
@@ -363,9 +375,9 @@
             },
             {
               "label": {
-                "zh": "#8 Gemini 4 Hydrogen 持续发酵",
-                "en": "#8 Gemini 4 Hydrogen 持续发酵",
-                "ja": "#8 Gemini 4 Hydrogen 持续发酵"
+                "zh": "#9 Gemini 4 Hydrogen 持续发酵",
+                "en": "#9 Gemini 4 Hydrogen 持续发酵",
+                "ja": "#9 Gemini 4 Hydrogen 持续发酵"
               },
               "format": {
                 "zh": "动量 51 · 浪高 176",
@@ -375,9 +387,9 @@
             },
             {
               "label": {
-                "zh": "#9 United 航空禁 AI agent 订票",
-                "en": "#9 United 航空禁 AI agent 订票",
-                "ja": "#9 United 航空禁 AI agent 订票"
+                "zh": "#10 United 航空禁 AI agent 订票",
+                "en": "#10 United 航空禁 AI agent 订票",
+                "ja": "#10 United 航空禁 AI agent 订票"
               },
               "format": {
                 "zh": "动量 51 · 浪高 171",
@@ -387,9 +399,9 @@
             },
             {
               "label": {
-                "zh": "#10 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta",
-                "en": "#10 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta",
-                "ja": "#10 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta"
+                "zh": "#11 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta",
+                "en": "#11 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta",
+                "ja": "#11 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta"
               },
               "format": {
                 "zh": "动量 51 · 浪高 171",
@@ -399,9 +411,9 @@
             },
             {
               "label": {
-                "zh": "#11 SpaceX 星舰 Flight 15 首次接住飞船",
-                "en": "#11 SpaceX 星舰 Flight 15 首次接住飞船",
-                "ja": "#11 SpaceX 星舰 Flight 15 首次接住飞船"
+                "zh": "#12 SpaceX 星舰 Flight 15 首次接住飞船",
+                "en": "#12 SpaceX 星舰 Flight 15 首次接住飞船",
+                "ja": "#12 SpaceX 星舰 Flight 15 首次接住飞船"
               },
               "format": {
                 "zh": "动量 51 · 浪高 171",
@@ -411,9 +423,9 @@
             },
             {
               "label": {
-                "zh": "#12 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题",
-                "en": "#12 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题",
-                "ja": "#12 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题"
+                "zh": "#13 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题",
+                "en": "#13 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题",
+                "ja": "#13 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题"
               },
               "format": {
                 "zh": "动量 51 · 浪高 171",
@@ -423,9 +435,9 @@
             },
             {
               "label": {
-                "zh": "#13 欧美基础设施连环中断：Apple 服务、NSA 机密内网、微软 365 接连宕机",
-                "en": "#13 欧美基础设施连环中断：Apple 服务、NSA 机密内网、微软 365 接连宕机",
-                "ja": "#13 欧美基础设施连环中断：Apple 服务、NSA 机密内网、微软 365 接连宕机"
+                "zh": "#14 欧美基础设施连环中断：Apple 服务、NSA 机密内网、微软 365 接连宕机",
+                "en": "#14 欧美基础设施连环中断：Apple 服务、NSA 机密内网、微软 365 接连宕机",
+                "ja": "#14 欧美基础设施连环中断：Apple 服务、NSA 机密内网、微软 365 接连宕机"
               },
               "format": {
                 "zh": "动量 51 · 浪高 146",
@@ -435,9 +447,9 @@
             },
             {
               "label": {
-                "zh": "#14 微软 365 全球宕机进入第二天",
-                "en": "#14 微软 365 全球宕机进入第二天",
-                "ja": "#14 微软 365 全球宕机进入第二天"
+                "zh": "#15 微软 365 全球宕机进入第二天",
+                "en": "#15 微软 365 全球宕机进入第二天",
+                "ja": "#15 微软 365 全球宕机进入第二天"
               },
               "format": {
                 "zh": "动量 51 · 浪高 110",
@@ -447,9 +459,9 @@
             },
             {
               "label": {
-                "zh": "#15 加州总检察长起诉 OpenAI：失控 agent 入侵 Hugging Face 等 80 起事件",
-                "en": "#15 加州总检察长起诉 OpenAI：失控 agent 入侵 Hugging Face 等 80 起事件",
-                "ja": "#15 加州总检察长起诉 OpenAI：失控 agent 入侵 Hugging Face 等 80 起事件"
+                "zh": "#16 加州总检察长起诉 OpenAI：失控 agent 入侵 Hugging Face 等 80 起事件",
+                "en": "#16 加州总检察长起诉 OpenAI：失控 agent 入侵 Hugging Face 等 80 起事件",
+                "ja": "#16 加州总检察长起诉 OpenAI：失控 agent 入侵 Hugging Face 等 80 起事件"
               },
               "format": {
                 "zh": "动量 46 · 浪高 181",
@@ -459,9 +471,9 @@
             },
             {
               "label": {
-                "zh": "#16 Java4Shell（CVE-2026-114938）：AI 一小时挖出的 Java 严重漏洞，未认证即可远程执行代码",
-                "en": "#16 Java4Shell（CVE-2026-114938）：AI 一小时挖出的 Java 严重漏洞，未认证即可远程执行代码",
-                "ja": "#16 Java4Shell（CVE-2026-114938）：AI 一小时挖出的 Java 严重漏洞，未认证即可远程执行代码"
+                "zh": "#17 Java4Shell（CVE-2026-114938）：AI 一小时挖出的 Java 严重漏洞，未认证即可远程执行代码",
+                "en": "#17 Java4Shell（CVE-2026-114938）：AI 一小时挖出的 Java 严重漏洞，未认证即可远程执行代码",
+                "ja": "#17 Java4Shell（CVE-2026-114938）：AI 一小时挖出的 Java 严重漏洞，未认证即可远程执行代码"
               },
               "format": {
                 "zh": "动量 46 · 浪高 181",
@@ -471,9 +483,9 @@
             },
             {
               "label": {
-                "zh": "#17 nginx2root：Nginx 五个未认证 RCE 漏洞齐发，HTTP/2 缺陷潜伏 11 年",
-                "en": "#17 nginx2root：Nginx 五个未认证 RCE 漏洞齐发，HTTP/2 缺陷潜伏 11 年",
-                "ja": "#17 nginx2root：Nginx 五个未认证 RCE 漏洞齐发，HTTP/2 缺陷潜伏 11 年"
+                "zh": "#18 nginx2root：Nginx 五个未认证 RCE 漏洞齐发，HTTP/2 缺陷潜伏 11 年",
+                "en": "#18 nginx2root：Nginx 五个未认证 RCE 漏洞齐发，HTTP/2 缺陷潜伏 11 年",
+                "ja": "#18 nginx2root：Nginx 五个未认证 RCE 漏洞齐发，HTTP/2 缺陷潜伏 11 年"
               },
               "format": {
                 "zh": "动量 46 · 浪高 181",
@@ -483,9 +495,9 @@
             },
             {
               "label": {
-                "zh": "#18 Qwen4-Max Preview + Qwen Code 1.0",
-                "en": "#18 Qwen4-Max Preview + Qwen Code 1.0",
-                "ja": "#18 Qwen4-Max Preview + Qwen Code 1.0"
+                "zh": "#19 Qwen4-Max Preview + Qwen Code 1.0",
+                "en": "#19 Qwen4-Max Preview + Qwen Code 1.0",
+                "ja": "#19 Qwen4-Max Preview + Qwen Code 1.0"
               },
               "format": {
                 "zh": "动量 46 · 浪高 165",
@@ -495,26 +507,14 @@
             },
             {
               "label": {
-                "zh": "#19 Claude Code Projects 升级：协调员变主动，线程可跑本地",
-                "en": "#19 Claude Code Projects 升级：协调员变主动，线程可跑本地",
-                "ja": "#19 Claude Code Projects 升级：协调员变主动，线程可跑本地"
+                "zh": "#20 Claude Code Projects 升级：协调员变主动，线程可跑本地",
+                "en": "#20 Claude Code Projects 升级：协调员变主动，线程可跑本地",
+                "ja": "#20 Claude Code Projects 升级：协调员变主动，线程可跑本地"
               },
               "format": {
                 "zh": "动量 46 · 浪高 159",
                 "en": "Momentum 46 · heat 159",
                 "ja": "勢い 46 · 浪高 159"
-              }
-            },
-            {
-              "label": {
-                "zh": "#20 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%",
-                "en": "#20 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%",
-                "ja": "#20 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%"
-              },
-              "format": {
-                "zh": "动量 46 · 浪高 156",
-                "en": "Momentum 46 · heat 156",
-                "ja": "勢い 46 · 浪高 156"
               }
             }
           ]
@@ -541,9 +541,9 @@
                 "ja": "#1 Anthropic IPO"
               },
               "format": {
-                "zh": "动量 85 · 浪高 131",
-                "en": "Momentum 85 · heat 131",
-                "ja": "勢い 85 · 浪高 131"
+                "zh": "动量 91 · 浪高 148",
+                "en": "Momentum 91 · heat 148",
+                "ja": "勢い 91 · 浪高 148"
               }
             },
             {
@@ -572,9 +572,21 @@
             },
             {
               "label": {
-                "zh": "#4 OpenAI 发布 GPT-6.2 Astra 与 Sol：上线即遭首批差评，口碑两极",
-                "en": "#4 OpenAI 发布 GPT-6.2 Astra 与 Sol：上线即遭首批差评，口碑两极",
-                "ja": "#4 OpenAI 发布 GPT-6.2 Astra 与 Sol：上线即遭首批差评，口碑两极"
+                "zh": "#4 Gemini 4 Neon 发布：AA 智力指数 61 排第三，$3/$15 定价，对标 Opus 5.5",
+                "en": "#4 Gemini 4 Neon 发布：AA 智力指数 61 排第三，$3/$15 定价，对标 Opus 5.5",
+                "ja": "#4 Gemini 4 Neon 发布：AA 智力指数 61 排第三，$3/$15 定价，对标 Opus 5.5"
+              },
+              "format": {
+                "zh": "动量 56 · 浪高 249",
+                "en": "Momentum 56 · heat 249",
+                "ja": "勢い 56 · 浪高 249"
+              }
+            },
+            {
+              "label": {
+                "zh": "#5 OpenAI 发布 GPT-6.2 Astra 与 Sol：上线即遭首批差评，口碑两极",
+                "en": "#5 OpenAI 发布 GPT-6.2 Astra 与 Sol：上线即遭首批差评，口碑两极",
+                "ja": "#5 OpenAI 发布 GPT-6.2 Astra 与 Sol：上线即遭首批差评，口碑两极"
               },
               "format": {
                 "zh": "动量 56 · 浪高 229",
@@ -584,9 +596,9 @@
             },
             {
               "label": {
-                "zh": "#5 美国收紧 AI 芯片远程访问管制：5 国列高风险，海外数据中心 90 天内须申请许可",
-                "en": "#5 美国收紧 AI 芯片远程访问管制：5 国列高风险，海外数据中心 90 天内须申请许可",
-                "ja": "#5 美国收紧 AI 芯片远程访问管制：5 国列高风险，海外数据中心 90 天内须申请许可"
+                "zh": "#6 美国收紧 AI 芯片远程访问管制：5 国列高风险，海外数据中心 90 天内须申请许可",
+                "en": "#6 美国收紧 AI 芯片远程访问管制：5 国列高风险，海外数据中心 90 天内须申请许可",
+                "ja": "#6 美国收紧 AI 芯片远程访问管制：5 国列高风险，海外数据中心 90 天内须申请许可"
               },
               "format": {
                 "zh": "动量 56 · 浪高 221",
@@ -596,9 +608,9 @@
             },
             {
               "label": {
-                "zh": "#6 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年",
-                "en": "#6 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年",
-                "ja": "#6 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年"
+                "zh": "#7 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年",
+                "en": "#7 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年",
+                "ja": "#7 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年"
               },
               "format": {
                 "zh": "动量 56 · 浪高 191",
@@ -608,9 +620,9 @@
             },
             {
               "label": {
-                "zh": "#7 ChatGPT Wallet：Agent 开始替你花钱",
-                "en": "#7 ChatGPT Wallet：Agent 开始替你花钱",
-                "ja": "#7 ChatGPT Wallet：Agent 开始替你花钱"
+                "zh": "#8 ChatGPT Wallet：Agent 开始替你花钱",
+                "en": "#8 ChatGPT Wallet：Agent 开始替你花钱",
+                "ja": "#8 ChatGPT Wallet：Agent 开始替你花钱"
               },
               "format": {
                 "zh": "动量 51 · 浪高 209",
@@ -620,9 +632,9 @@
             },
             {
               "label": {
-                "zh": "#8 Gemini 4 Hydrogen 持续发酵",
-                "en": "#8 Gemini 4 Hydrogen 持续发酵",
-                "ja": "#8 Gemini 4 Hydrogen 持续发酵"
+                "zh": "#9 Gemini 4 Hydrogen 持续发酵",
+                "en": "#9 Gemini 4 Hydrogen 持续发酵",
+                "ja": "#9 Gemini 4 Hydrogen 持续发酵"
               },
               "format": {
                 "zh": "动量 51 · 浪高 176",
@@ -632,9 +644,9 @@
             },
             {
               "label": {
-                "zh": "#9 United 航空禁 AI agent 订票",
-                "en": "#9 United 航空禁 AI agent 订票",
-                "ja": "#9 United 航空禁 AI agent 订票"
+                "zh": "#10 United 航空禁 AI agent 订票",
+                "en": "#10 United 航空禁 AI agent 订票",
+                "ja": "#10 United 航空禁 AI agent 订票"
               },
               "format": {
                 "zh": "动量 51 · 浪高 171",
@@ -644,9 +656,9 @@
             },
             {
               "label": {
-                "zh": "#10 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta",
-                "en": "#10 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta",
-                "ja": "#10 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta"
+                "zh": "#11 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta",
+                "en": "#11 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta",
+                "ja": "#11 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta"
               },
               "format": {
                 "zh": "动量 51 · 浪高 171",
@@ -656,9 +668,9 @@
             },
             {
               "label": {
-                "zh": "#11 SpaceX 星舰 Flight 15 首次接住飞船",
-                "en": "#11 SpaceX 星舰 Flight 15 首次接住飞船",
-                "ja": "#11 SpaceX 星舰 Flight 15 首次接住飞船"
+                "zh": "#12 SpaceX 星舰 Flight 15 首次接住飞船",
+                "en": "#12 SpaceX 星舰 Flight 15 首次接住飞船",
+                "ja": "#12 SpaceX 星舰 Flight 15 首次接住飞船"
               },
               "format": {
                 "zh": "动量 51 · 浪高 171",
@@ -668,9 +680,9 @@
             },
             {
               "label": {
-                "zh": "#12 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题",
-                "en": "#12 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题",
-                "ja": "#12 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题"
+                "zh": "#13 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题",
+                "en": "#13 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题",
+                "ja": "#13 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题"
               },
               "format": {
                 "zh": "动量 51 · 浪高 171",
@@ -680,9 +692,9 @@
             },
             {
               "label": {
-                "zh": "#13 欧美基础设施连环中断：Apple 服务、NSA 机密内网、微软 365 接连宕机",
-                "en": "#13 欧美基础设施连环中断：Apple 服务、NSA 机密内网、微软 365 接连宕机",
-                "ja": "#13 欧美基础设施连环中断：Apple 服务、NSA 机密内网、微软 365 接连宕机"
+                "zh": "#14 欧美基础设施连环中断：Apple 服务、NSA 机密内网、微软 365 接连宕机",
+                "en": "#14 欧美基础设施连环中断：Apple 服务、NSA 机密内网、微软 365 接连宕机",
+                "ja": "#14 欧美基础设施连环中断：Apple 服务、NSA 机密内网、微软 365 接连宕机"
               },
               "format": {
                 "zh": "动量 51 · 浪高 146",
@@ -692,9 +704,9 @@
             },
             {
               "label": {
-                "zh": "#14 微软 365 全球宕机进入第二天",
-                "en": "#14 微软 365 全球宕机进入第二天",
-                "ja": "#14 微软 365 全球宕机进入第二天"
+                "zh": "#15 微软 365 全球宕机进入第二天",
+                "en": "#15 微软 365 全球宕机进入第二天",
+                "ja": "#15 微软 365 全球宕机进入第二天"
               },
               "format": {
                 "zh": "动量 51 · 浪高 110",
@@ -704,9 +716,9 @@
             },
             {
               "label": {
-                "zh": "#15 加州总检察长起诉 OpenAI：失控 agent 入侵 Hugging Face 等 80 起事件",
-                "en": "#15 加州总检察长起诉 OpenAI：失控 agent 入侵 Hugging Face 等 80 起事件",
-                "ja": "#15 加州总检察长起诉 OpenAI：失控 agent 入侵 Hugging Face 等 80 起事件"
+                "zh": "#16 加州总检察长起诉 OpenAI：失控 agent 入侵 Hugging Face 等 80 起事件",
+                "en": "#16 加州总检察长起诉 OpenAI：失控 agent 入侵 Hugging Face 等 80 起事件",
+                "ja": "#16 加州总检察长起诉 OpenAI：失控 agent 入侵 Hugging Face 等 80 起事件"
               },
               "format": {
                 "zh": "动量 46 · 浪高 181",
@@ -716,9 +728,9 @@
             },
             {
               "label": {
-                "zh": "#16 Java4Shell（CVE-2026-114938）：AI 一小时挖出的 Java 严重漏洞，未认证即可远程执行代码",
-                "en": "#16 Java4Shell（CVE-2026-114938）：AI 一小时挖出的 Java 严重漏洞，未认证即可远程执行代码",
-                "ja": "#16 Java4Shell（CVE-2026-114938）：AI 一小时挖出的 Java 严重漏洞，未认证即可远程执行代码"
+                "zh": "#17 Java4Shell（CVE-2026-114938）：AI 一小时挖出的 Java 严重漏洞，未认证即可远程执行代码",
+                "en": "#17 Java4Shell（CVE-2026-114938）：AI 一小时挖出的 Java 严重漏洞，未认证即可远程执行代码",
+                "ja": "#17 Java4Shell（CVE-2026-114938）：AI 一小时挖出的 Java 严重漏洞，未认证即可远程执行代码"
               },
               "format": {
                 "zh": "动量 46 · 浪高 181",
@@ -728,9 +740,9 @@
             },
             {
               "label": {
-                "zh": "#17 nginx2root：Nginx 五个未认证 RCE 漏洞齐发，HTTP/2 缺陷潜伏 11 年",
-                "en": "#17 nginx2root：Nginx 五个未认证 RCE 漏洞齐发，HTTP/2 缺陷潜伏 11 年",
-                "ja": "#17 nginx2root：Nginx 五个未认证 RCE 漏洞齐发，HTTP/2 缺陷潜伏 11 年"
+                "zh": "#18 nginx2root：Nginx 五个未认证 RCE 漏洞齐发，HTTP/2 缺陷潜伏 11 年",
+                "en": "#18 nginx2root：Nginx 五个未认证 RCE 漏洞齐发，HTTP/2 缺陷潜伏 11 年",
+                "ja": "#18 nginx2root：Nginx 五个未认证 RCE 漏洞齐发，HTTP/2 缺陷潜伏 11 年"
               },
               "format": {
                 "zh": "动量 46 · 浪高 181",
@@ -740,9 +752,9 @@
             },
             {
               "label": {
-                "zh": "#18 Qwen4-Max Preview + Qwen Code 1.0",
-                "en": "#18 Qwen4-Max Preview + Qwen Code 1.0",
-                "ja": "#18 Qwen4-Max Preview + Qwen Code 1.0"
+                "zh": "#19 Qwen4-Max Preview + Qwen Code 1.0",
+                "en": "#19 Qwen4-Max Preview + Qwen Code 1.0",
+                "ja": "#19 Qwen4-Max Preview + Qwen Code 1.0"
               },
               "format": {
                 "zh": "动量 46 · 浪高 165",
@@ -752,26 +764,14 @@
             },
             {
               "label": {
-                "zh": "#19 Claude Code Projects 升级：协调员变主动，线程可跑本地",
-                "en": "#19 Claude Code Projects 升级：协调员变主动，线程可跑本地",
-                "ja": "#19 Claude Code Projects 升级：协调员变主动，线程可跑本地"
+                "zh": "#20 Claude Code Projects 升级：协调员变主动，线程可跑本地",
+                "en": "#20 Claude Code Projects 升级：协调员变主动，线程可跑本地",
+                "ja": "#20 Claude Code Projects 升级：协调员变主动，线程可跑本地"
               },
               "format": {
                 "zh": "动量 46 · 浪高 159",
                 "en": "Momentum 46 · heat 159",
                 "ja": "勢い 46 · 浪高 159"
-              }
-            },
-            {
-              "label": {
-                "zh": "#20 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%",
-                "en": "#20 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%",
-                "ja": "#20 Qwen4-Max 正式发布：2.4T 骨干、每 token 激活 710 亿，单任务成本降 62%"
-              },
-              "format": {
-                "zh": "动量 46 · 浪高 156",
-                "en": "Momentum 46 · heat 156",
-                "ja": "勢い 46 · 浪高 156"
               }
             }
           ]

@@ -45,7 +45,7 @@
     {
       "name": "Anthropic IPO",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "sources": [
         "Reddit",
         "Google News",
@@ -53,7 +53,10 @@
         "The Economist",
         "WSJ",
         "Bloomberg",
-        "Economic Times"
+        "Economic Times",
+        "TechCrunch",
+        "BBC",
+        "路透"
       ],
       "history": [
         {
@@ -78,6 +81,10 @@
         },
         {
           "date": "2026-11-18",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-19",
           "grade": "must"
         }
       ],
@@ -1728,6 +1735,154 @@
         "result": null,
         "checked_on": null,
         "_first_seen": "2026-11-18"
+      }
+    },
+    {
+      "name": "Gemini 4 Neon",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "sources": [
+        "DeepMind 官方博客",
+        "Hacker News",
+        "X",
+        "Cursor",
+        "OpenRouter",
+        "Product Hunt",
+        "The Decoder"
+      ],
+      "history": [
+        {
+          "date": "2026-11-19",
+          "grade": "must"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-19"
+      }
+    },
+    {
+      "name": "美国三大学区考虑弃用 Google Search",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "sources": [
+        "纽约时报",
+        "The Verge",
+        "Google News"
+      ],
+      "history": [
+        {
+          "date": "2026-11-19",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-19"
+      }
+    },
+    {
+      "name": "Wireless-Device-Battery-Monitor",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "sources": [
+        "GitHub"
+      ],
+      "history": [
+        {
+          "date": "2026-11-19",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-19"
+      }
+    },
+    {
+      "name": "纳德拉：6 万员工自愿离职买断",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "sources": [
+        "TechCrunch"
+      ],
+      "history": [
+        {
+          "date": "2026-11-19",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-19"
+      }
+    },
+    {
+      "name": "AI agent 在 KPMG 审计试验中提问胜过会计师",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "sources": [
+        "Hacker News"
+      ],
+      "history": [
+        {
+          "date": "2026-11-19",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-19"
+      }
+    },
+    {
+      "name": "DaisyRose-27B",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "sources": [
+        "Hacker News"
+      ],
+      "history": [
+        {
+          "date": "2026-11-19",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-19"
+      }
+    },
+    {
+      "name": "ExitPath",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "sources": [
+        "Show HN"
+      ],
+      "history": [
+        {
+          "date": "2026-11-19",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-19"
       }
     }
   ]

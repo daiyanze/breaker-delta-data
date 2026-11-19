@@ -406,3 +406,25 @@
 - S2Arm | 2026-11-19 早报 | 2026-11-19 早报 | GitHub | 🆕🌱（单源：Switch 游戏代码重写为 ARM64，原生跑 iPhone/iPad/Mac；10 天 3,593 stars，日均 359） | 待复盘
 - Anthropic IPO | 2026-11-11 试点早报 | 2026-11-19 早报 | Google News, CNBC, Bloomberg | 🔥→🔥（涨：需求近 $5,000 亿（机构约 $4,000 亿 + 零售近 $1,000 亿），约 7 倍超额认购；定价或高于 $70–78 区间上限（$80 以上在议）；今晚美股盘后定价，11 月 19 日纳斯达克上市（ANT）） | 待复盘
 - 其余在册话题 | 各首次发现时间见上文 | 2026-11-19 早报 | 见上文 | 平，无新动静（Java4Shell：Cloudflare 出 WAF 防护，维持 🔥；GPT-6.2 Astra and Sol：仍在 OpenAI 博客/OpenRouter/Bluesky 出现，维持 🔥；GestaltX 8,355 stars、deepseek-ai/chat-demo 4,807、DIYgod/pinky 2,457，缓慢上涨，维持 🌱；Qwen4-Max、Gemini 4 Carbon、Qwen3.8、K2-Horizon 等未见新动静） | 待复盘
+
+## 2026-11-19 晚报（18:00 JST）
+- Gemini 4 Neon | 2026-11-19 晚报 | 2026-11-19 晚报 | DeepMind 官方博客, Hacker News, X, Cursor, OpenRouter, Product Hunt, The Decoder | 🆕🔥（11 月 18 日发布：AA 智力指数 xhigh 61 分排第三、编码 agent 指数第一（58.6）、Vals 第二（70.9%）；$3/$15 每百万 tokens，1M 上下文；HN 783 分/645 评；X 多账号热议，Cursor 已接入） | 待复盘
+- Anthropic IPO | 2026-11-11 试点早报 | 2026-11-19 晚报 | TechCrunch, BBC, 路透, Google News | 🔥→🔥（涨：定价 $83，高于 $70–78 区间；发行 9.8 亿股、募资约 $813 亿，史上最大 IPO；完全摊薄估值约 $1.5 万亿；11 月 19 日纳斯达克上市（ANT）） | 待复盘
+- 美国三大学区考虑弃用 Google Search | 2026-11-19 晚报 | 2026-11-19 晚报 | 纽约时报, The Verge, Google News | 🆕👀（纽约、洛杉矶、芝加哥三大学区共 157 万学生：Google 称关掉 Gemini 就同时失去 Search，2027 年起默认全关；NYC 校长称将探索其他搜索选项） | 待复盘
+- Wireless-Device-Battery-Monitor | 2026-11-19 晚报 | 2026-11-19 晚报 | GitHub | 🆕👀（单源：2 天 4,220 stars，日均 2,110，11 月 17 日单日 +1,914；350KB C++ 托盘应用，任务栏看无线设备电量） | 待复盘
+- 纳德拉：6 万员工自愿离职买断 | 2026-11-19 晚报 | 2026-11-19 晚报 | TechCrunch | 🆕👀（单源：纳德拉在 DealBook Summit 解释 10 月向 6 万员工提供自愿离职买断，配合 AI 重组、全员改当 agent 管理者；未公布接受人数） | 待复盘
+- AI agent 在 KPMG 审计试验中提问胜过会计师 | 2026-11-19 晚报 | 2026-11-19 晚报 | Hacker News | 🆕🌱（单源：HN 450 分/204 评；试验细节未核实） | 待复盘
+- DaisyRose-27B | 2026-11-19 晚报 | 2026-11-19 晚报 | Hacker News | 🆕🌱（单源：HN 198 分/65 评；模型细节未核实） | 待复盘
+- ExitPath | 2026-11-19 晚报 | 2026-11-19 晚报 | Show HN | 🆕🌱（单源：Show HN 210 分/64 评） | 待复盘
+- nginx2root：Nginx 未认证 RCE | 2026-11-19 早报 | 2026-11-19 晚报 | Hacker News, The Register | 🔥→🔥（涨：HN 780→1,354 分/327→588 评；The Register 补充 F5 本次共修补 10 个缺陷，NGINX 支撑约 2.25 亿网站；仍无野外利用报告） | 待复盘
+- Windows 11 收集编码 agent 使用数据 | 2026-11-19 早报 | 2026-11-19 晚报 | — | 👀→👀（平，无新消息；微软仍未回应） | 待复盘
+- Genie 4 向 Google AI Ultra 开放 | 2026-11-19 早报 | 2026-11-19 晚报 | Hacker News | 👀→👀（平，无新数字；HN 245 分/162 评） | 待复盘
+- 微软 MAI Code 2 / Copilot Fusion | 2026-11-18 早报 | 2026-11-19 晚报 | Hacker News, The Decoder | 👀→👀（涨：HN 330→533 分/214→346 评；The Decoder 称微软正用自研模型替换自家产品中的外部模型） | 待复盘
+- rust-anything | 2026-11-19 早报 | 2026-11-19 晚报 | GitHub | 👀→👀（涨：3,153→3,966 stars，+813） | 待复盘
+- Codeberg 域名突然消失 | 2026-11-19 早报 | 2026-11-19 晚报 | — | 🌱→🌱（平，仍无官方说明） | 待复盘
+- 剑桥词典 2026 年度词 human | 2026-11-19 早报 | 2026-11-19 晚报 | Hacker News | 🌱→🌱（微涨：HN 190→275 分/145→203 评） | 待复盘
+- S2Arm | 2026-11-19 早报 | 2026-11-19 晚报 | GitHub | 🌱→🌱（平：3,593→3,631 stars，+38，增速放缓） | 待复盘
+- Java4Shell CVE-2026-114938 | 2026-11-18 晚报 | 2026-11-19 晚报 | BleepingComputer, Cloudflare | 🔥→🔥（涨：BleepingComputer 报道影响主流 Java 应用；Cloudflare 已上线 WAF 防护） | 待复盘
+- 黄仁勋辞职 | 2026-11-12 晚报 | 2026-11-19 晚报 | TechCrunch, MIT Technology Review, Ars Technica, The Verge | 🔥→🔥（涨：Musk 称罢免黄仁勋“像把乔丹踢出球队”；Nadella 称对没有黄仁勋的英伟达仍有信心；开源运动请愿希望黄仁勋回归；无股价新数字） | 待复盘
+- 微软 agent-framework PyPI 投毒 | 2026-11-18 晚报 | 2026-11-19 晚报 | The Register | 👀→👀（平：The Register 出完整报道，细节确认；暂无新的受害数字） | 待复盘
+- 其余在册话题 | 各首次发现时间见上文 | 2026-11-19 晚报 | 见上文 | 平，无新动静（GPT-6.2 Astra and Sol：仍在 OpenRouter/Bluesky 出现，维持 🔥；GestaltX 8,447 stars、deepseek-ai/chat-demo 4,944、DIYgod/pinky 2,497，缓慢上涨，维持 🌱；Qwen3.8：Qwen3.8-27B 20,591 likes、6.89M 下载，维持 👀；Claude Fable 5.2：Simon Willison 仍在 Bluesky 二次传播，维持 🔥） | 待复盘

@@ -1,0 +1,295 @@
+{
+  "date": "2026-11-19",
+  "items": [
+    {
+      "action": "写 tweet，重点写“七周内第四款模型 + 编码 agent 指数第一 + $3/$15 定价”。",
+      "body": "Google DeepMind 11 月 18 日发布 Gemini 4 Neon，Gemini 4 家族的第四款模型（七周内第四款），定位在 Carbon（最难的长程任务）与 Hydrogen（日常快任务）之间：Artificial Analysis 智力指数 xhigh 档 61 分排第三，仅次于更大的慢模型；编码 agent 指数第一（58.6）；Vals 指数第二（70.9%）；Terminal-Bench 4.1 得 65.2%。定价 $3/$15 每百万 tokens，缓存输入 $0.15，1M 上下文；默认 high 档每任务成本比 Carbon 低 32%。HN 主帖 783 分/645 评；X 上 Artificial Analysis（1,168 次互动）、Cursor、François Chollet、Sundar Pichai 等多账号热议；Cursor 已接入，CursorBench 4.1 得 63.7%（高于 Hydrogen 的 57.3%）；GitHub Copilot、Vercel AI Gateway 同步上线。数字来自 Google 官方博客与 Artificial Analysis、Vals、Arena 的独立指数。",
+      "i18n": {
+        "en": {
+          "action": "Write a tweet, leading with 'fourth model in seven weeks + #1 on the coding agent index + $3/$15 pricing'.",
+          "body": "Google DeepMind released Gemini 4 Neon on November 18, the fourth model in the Gemini 4 family (the fourth in seven weeks), sitting between Carbon (hardest long-horizon tasks) and Hydrogen (fast everyday tasks): 61 on the Artificial Analysis Intelligence Index at xhigh, ranking #3 overall behind larger, slower models; #1 on the Coding Agent Index (58.6); #2 on the Vals Index (70.9%); 65.2% on Terminal-Bench 4.1. Priced at $3/$15 per million tokens with cached input at $0.15 and a 1M-token context window; at its default high setting it costs 32% less per task than Carbon. The HN thread reached 783 points / 645 comments; on X, Artificial Analysis (1,168 interactions), Cursor, François Chollet, Sundar Pichai and others piled in. Cursor has already shipped it, scoring 63.7% on CursorBench 4.1 (above Hydrogen's 57.3%); GitHub Copilot and Vercel AI Gateway added it the same day. Figures come from Google's official blog and the independent Artificial Analysis, Vals and Arena indexes.",
+          "title": "Gemini 4 Neon is out: #3 on the AA Intelligence Index at 61, $3/$15 pricing, gunning for Opus 5.5"
+        },
+        "ja": {
+          "action": "ツイートを書く。「7週間で4機種目＋コーディングエージェント指数1位＋$3/$15」を前面に。",
+          "body": "Google DeepMindは11月18日、Gemini 4 Neonを発表した。Gemini 4ファミリーの4機種目（7週間で4機種目）で、Carbon（最も難しい長期タスク）とHydrogen（日常の高速タスク）の中間に位置する。Artificial Analysis知能指数はxhighで61、全体3位（より大きく遅いモデルのみが上）。コーディングエージェント指数は1位（58.6）、Vals指数は2位（70.9%）、Terminal-Bench 4.1は65.2%。価格は100万トークンあたり$3/$15、キャッシュ入力は$0.15、コンテキストは1Mトークン。既定のhigh設定ではタスクあたりのコストがCarbonより32%安い。HNのスレッドは783ポイント/645コメント。XではArtificial Analysis（1,168件のインタラクション）、Cursor、François Chollet、Sundar Pichaiらが話題にした。Cursorは既に対応し、CursorBench 4.1で63.7%（Hydrogenの57.3%を上回る）。GitHub CopilotとVercel AI Gatewayも同日追加した。数字はGoogle公式ブログとArtificial Analysis、Vals、Arenaの独立指数による。",
+          "title": "Gemini 4 Neon発表：AA知能指数61で3位、$3/$15、Opus 5.5に挑む"
+        }
+      },
+      "is_new": true,
+      "level": "must",
+      "links": [
+        "https://deepmind.google/blog/introducing-gemini-4-neon/",
+        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+        "https://the-decoder.com/google-ships-gemini-4-neon-its-fourth-new-gemini-model-in-a-month/"
+      ],
+      "sources": [
+        "DeepMind 官方博客",
+        "Hacker News",
+        "X",
+        "Cursor",
+        "OpenRouter",
+        "Product Hunt",
+        "The Decoder"
+      ],
+      "title": "Gemini 4 Neon 发布：AA 智力指数 61 排第三，$3/$15 定价，对标 Opus 5.5",
+      "plugins": {
+        "momentum": {
+          "score": 56
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "GOOGL"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "action": "仅记录，关注今日首日交易表现。",
+      "body": "Anthropic 11 月 18 日把 IPO 定价在每股 $83，高于此前 $70–78 的目标区间；发行 9.8 亿股（原计划 8.25 亿），募资约 $813 亿，超过 SpaceX 约 $750 亿的纪录，成为史上募资额最大的 IPO；按完全摊薄计估值约 $1.5 万亿，高于 5 月私募轮的 $9,650 亿。今日（11 月 19 日）在纳斯达克以代码 ANT 开始交易。2026 年 Q3 营收 $170 亿，同比增逾 12 倍。消息源：TechCrunch、BBC、路透。",
+      "i18n": {
+        "en": {
+          "action": "Just record it, and watch today's first day of trading.",
+          "body": "Anthropic priced its IPO at $83 a share on November 18, above its $70–$78 target range. It sold 980 million shares (up from 825 million planned), raising about $81.3 billion — past SpaceX's roughly $75 billion record to become the largest IPO ever by proceeds. On a fully diluted basis it is valued at about $1.5 trillion, up from $965 billion in its May private round. Trading begins today (November 19) on Nasdaq under the ticker ANT. Q3 2026 revenue was $17.0 billion, up more than 12x year over year. Sources: TechCrunch, BBC, Reuters.",
+          "title": "Anthropic prices its IPO at $83: above the $70–$78 range, about $81.3B raised — the largest IPO ever — trading today as ANT"
+        },
+        "ja": {
+          "action": "記録のみ。本日の初値の動きを見る。",
+          "body": "Anthropicは11月18日、IPO価格を1株$83に設定した。従来の目標レンジ$70〜$78を上回る。発行株数は9.8億株（当初計画8.25億株）で、調達額は約$813億。SpaceXの約$750億の記録を抜き、調達額で史上最大のIPOとなった。完全希薄化ベースの評価額は約$1.5兆で、5月の未公開ラウンドの$9,650億を上回る。本日（11月19日）、NasdaqでティッカーANTとして取引が始まる。2026年第3四半期の売上高は$170億で、前年同期比12倍超。情報源：TechCrunch、BBC、ロイター。",
+          "title": "Anthropic、IPO価格を$83に決定：$70〜78を上回り、約$813億を調達して史上最大のIPOに。本日ANTとして上場"
+        }
+      },
+      "is_new": false,
+      "level": "must",
+      "links": [
+        "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
+      ],
+      "sources": [
+        "TechCrunch",
+        "BBC",
+        "路透",
+        "Google News"
+      ],
+      "title": "Anthropic IPO 定价 $83：高于 $70–78 区间，募资约 $813 亿成史上最大 IPO，今日纳斯达克上市",
+      "plugins": {
+        "momentum": {
+          "score": 91
+        }
+      }
+    },
+    {
+      "action": "仅记录（社会观察：AI 强制捆绑首次遭遇机构级反弹）。",
+      "body": "《纽约时报》11 月 18 日报道：全美最大的三个学区——纽约、洛杉矶、芝加哥（共 157 万学生）正在考虑弃用 Google Search。起因是 Google 规定：从 2027 年起，学校关掉 Gemini 相关功能就同时失去 Search 访问权，称两者“深度整合”、无法提供无 AI 的搜索版本。纽约市学校校长 Kamar H. Samuels 表态：“如果 Google 不重新考虑立场，我们将探索其他搜索选项”；芝加哥公立学校亦称将寻找其他方案；洛杉矶已关掉学生的 AI Overviews，其 CIO 称换默认搜索引擎“一夜之间”就能完成。备选为 DuckDuckGo 与微软 Bing，两者都允许关掉 AI 生成答案。The Verge 同日跟进。",
+      "i18n": {
+        "en": {
+          "action": "Just record it (social observation: forced AI bundling meets its first institutional pushback).",
+          "body": "The New York Times reported on November 18 that the three largest school districts in the US — New York City, Los Angeles and Chicago (1.57 million students combined) — are considering dropping Google Search. The trigger is Google's rule that, from 2027, schools that switch off Gemini features will also lose Search access, because the two are 'deeply integrated' and no AI-free version of Search can be offered. New York City schools chancellor Kamar H. Samuels said: 'If Google doesn't reconsider their position, we will explore other search options.' Chicago Public Schools said it would look for other solutions; Los Angeles has already switched off AI Overviews for students, and its CIO said changing the default search engine could be done 'literally overnight'. The alternatives under discussion are DuckDuckGo and Microsoft's Bing, both of which let users switch off AI-generated answers. The Verge followed up the same day.",
+          "title": "Three giant school districts weigh dropping Google Search: turn off Gemini, lose Search too"
+        },
+        "ja": {
+          "action": "記録のみ（社会観察：AIの強制バンドルに対する初の組織的な反発）。",
+          "body": "ニューヨーク・タイムズが11月18日に報じたところによると、全米最大の3学区――ニューヨーク、ロサンゼルス、シカゴ（合計157万人）――がGoogle検索の利用中止を検討している。きっかけはGoogleの規定で、2027年からGemini関連機能をオフにすると検索へのアクセスも同時に失う。両者は「深く統合」されており、AIなしの検索は提供できないという。ニューヨーク市学校長Kamar H. Samuelsは「Googleが立場を見直さなければ、他の検索の選択肢を探る」と述べた。シカゴ公立学校も他の手段を探すとし、ロサンゼルスは生徒向けのAI Overviewsを既にオフにし、CIOは既定の検索エンジンの変更は「文字通り一夜で」可能だとした。候補はDuckDuckGoとMicrosoftのBingで、どちらもAI生成の回答をオフにできる。The Vergeも同日追った。",
+          "title": "米3大学区がGoogle検索の中止を検討：Geminiを切れば検索も失う"
+        }
+      },
+      "is_new": true,
+      "level": "watch",
+      "links": [
+        "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+        "https://dnyuz.com/2026/11/18/u-s-school-districts-weigh-breaking-up-with-google-search-over-a-i/"
+      ],
+      "sources": [
+        "纽约时报",
+        "The Verge",
+        "Google News"
+      ],
+      "title": "纽约、洛杉矶、芝加哥三大学区考虑弃用 Google Search：关掉 Gemini 就等于失去搜索",
+      "plugins": {
+        "momentum": {
+          "score": 41
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "MSFT"
+            },
+            {
+              "type": "ticker",
+              "name": "GOOGL"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "action": "仅记录，可试用。",
+      "body": "GitHub 新仓库 Wireless-Device-Battery-Monitor：约 350KB 的 C++ 托盘小应用，把无线鼠标、耳机、键盘、手柄的电量直接显示在 Windows 任务栏上，无需打开罗技 G HUB、雷蛇 Synapse 或海盗船 iCUE 等厂商软件；电量低于 15% 变红，充电时显示闪电标志。发布仅 2 天即 4,220 stars，日均 2,110，为本期 GitHub 日榜增速之首；11 月 17 日单日 +1,914 stars。单源 GitHub。",
+      "i18n": {
+        "en": {
+          "action": "Just record it; worth a try.",
+          "body": "New GitHub repo Wireless-Device-Battery-Monitor: a roughly 350 KB C++ tray app that shows the battery of a wireless mouse, headset, keyboard or controller right on the Windows taskbar, with no need to open vendor software like Logitech G HUB, Razer Synapse or Corsair iCUE. Below 15% the number turns red; a lightning bolt means charging. 4,220 stars in just 2 days — 2,110 a day, the fastest riser on GitHub's daily list this edition, including +1,914 stars on November 17 alone. Single source: GitHub.",
+          "title": "Wireless-Device-Battery-Monitor: 4,220 stars in two days for showing wireless device batteries on the taskbar"
+        },
+        "ja": {
+          "action": "記録のみ。試してみる価値あり。",
+          "body": "GitHubの新規リポジトリWireless-Device-Battery-Monitor。約350KBのC++製トレイアプリで、ワイヤレスマウス、ヘッドセット、キーボード、コントローラーの電池残量をWindowsのタスクバーに直接表示する。Logitech G HUB、Razer Synapse、Corsair iCUEなどのメーカー製ソフトを開く必要はない。残量15%以下で赤表示、充電中は稲妻マーク。公開から2日で4,220スター、日平均2,110で、今期のGitHubデイリーランキングで最速の伸び。11月17日だけで+1,914スター。単独の情報源はGitHub。",
+          "title": "Wireless-Device-Battery-Monitor：ワイヤレス機器の電池残量をタスクバーに表示、2日で4,220スター"
+        }
+      },
+      "is_new": true,
+      "level": "watch",
+      "links": [
+        "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor"
+      ],
+      "sources": [
+        "GitHub"
+      ],
+      "title": "Wireless-Device-Battery-Monitor：两天 4,220 stars，任务栏直接看无线设备电量",
+      "plugins": {
+        "momentum": {
+          "score": 31
+        }
+      }
+    },
+    {
+      "action": "仅记录（社会观察：AI 重组首次以“买断换选择权”的形式摊牌）。",
+      "body": "微软 CEO 纳德拉 11 月 18 日在 DealBook Summit 上解释：10 月向 6 万名员工提供自愿离职买断，目的不是用 AI 替代员工（尤其不是替代软件工程师），而是配合 AI 重组——未来每位员工的工作都将围绕使用 AI 展开，角色转向“管理 agent”而非亲自执行任务；买断是给员工选择权，“至少让每个人都觉得自己能掌控选择”。微软未公布有多少人接受买断。单源 TechCrunch。",
+      "i18n": {
+        "en": {
+          "action": "Just record it (social observation: the AI reorg goes public as 'a buyout in exchange for a choice').",
+          "body": "Microsoft CEO Satya Nadella explained at the DealBook Summit on November 18 that the voluntary buyouts offered to 60,000 employees in October were not about replacing workers with AI — least of all software engineers — but about an AI reorg: every employee's job will soon revolve around using AI, with roles shifting to 'managing agents' rather than doing the work directly. The buyout was meant to give employees a choice: 'to make sure that at least everyone felt like they had agency in making choices.' Microsoft has not said how many accepted. Single source: TechCrunch.",
+          "title": "Nadella on why he offered 60,000 Microsoft staff buyouts: not AI layoffs — everyone becomes an agent manager"
+        },
+        "ja": {
+          "action": "記録のみ（社会観察：AI再編が「選択権と引き換えの買収」という形で公になった）。",
+          "body": "MicrosoftのSatya Nadella CEOは11月18日、DealBook Summitで次のように説明した。10月に6万人の従業員に提示した自発的退職の買収は、AIで従業員を置き換えるためではなく（とりわけソフトウェアエンジニアの置き換えではなく）、AI再編のためだ。今後すべての従業員の仕事はAIの利用を中心に回り、役割は作業を直接行うことから「エージェントを管理すること」へ移る。買収は従業員に選択肢を与えるためのもので、「少なくとも誰もが選択について主体性を持っていると感じられるようにするため」だという。何人が受け入れたかはMicrosoftは公表していない。単独の情報源はTechCrunch。",
+          "title": "ナデラが語る6万人への買収提示の理由：AIによる解雇ではなく、全員がエージェントの管理者になる"
+        }
+      },
+      "is_new": true,
+      "level": "watch",
+      "links": [
+        "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
+      ],
+      "sources": [
+        "TechCrunch"
+      ],
+      "title": "纳德拉解释为何让 6 万微软员工自愿离职：不是用 AI 裁员，是全员改当 agent 管理者",
+      "plugins": {
+        "momentum": {
+          "score": 31
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "MSFT"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "action": "仅记录。",
+      "body": "欧洲商业杂志报道的一项审计试验：AI agent 提出的问题比 KPMG 会计师更好。HN 450 分/204 评，单源；试验细节未核实。",
+      "i18n": {
+        "en": {
+          "action": "Just record it.",
+          "body": "An audit trial reported by European Business Magazine: AI agents asked better questions than KPMG accountants. HN: 450 points / 204 comments. Single source; trial details unverified.",
+          "title": "AI agents asked better questions than KPMG accountants in an audit trial"
+        },
+        "ja": {
+          "action": "記録のみ。",
+          "body": "European Business Magazineが報じた監査試験で、AIエージェントの質問がKPMGの会計士より優れていた。HNは450ポイント/204コメント。単独の情報源で、試験の詳細は未確認。",
+          "title": "監査試験でAIエージェントの質問がKPMGの会計士を上回る"
+        }
+      },
+      "is_new": true,
+      "level": "echo",
+      "links": [
+        "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/"
+      ],
+      "sources": [
+        "Hacker News"
+      ],
+      "title": "AI agent 在 KPMG 审计试验中提问胜过会计师",
+      "plugins": {
+        "momentum": {
+          "score": 31
+        }
+      }
+    },
+    {
+      "action": "仅记录。",
+      "body": "Radix Ark 博客介绍新模型 DaisyRose-27B。HN 198 分/65 评，单源；模型细节未核实。",
+      "i18n": {
+        "en": {
+          "action": "Just record it.",
+          "body": "A Radix Ark blog post introduces DaisyRose-27B, a new model. HN: 198 points / 65 comments. Single source; model details unverified.",
+          "title": "DaisyRose-27B, a new model, surfaces on HN"
+        },
+        "ja": {
+          "action": "記録のみ。",
+          "body": "Radix Arkのブログが新モデルDaisyRose-27Bを紹介した。HNは198ポイント/65コメント。単独の情報源で、モデルの詳細は未確認。",
+          "title": "新モデルDaisyRose-27BがHNに登場"
+        }
+      },
+      "is_new": true,
+      "level": "echo",
+      "links": [
+        "https://www.radixark.com/blog/daisyrose-27b"
+      ],
+      "sources": [
+        "Hacker News"
+      ],
+      "title": "DaisyRose-27B 登上 HN：新模型",
+      "plugins": {
+        "momentum": {
+          "score": 31
+        }
+      }
+    },
+    {
+      "action": "仅记录。",
+      "body": "Show HN 210 分/64 评，单源：ExitPath 提供从 Slack、Notion 与 Microsoft 365 迁出的开源路径。",
+      "i18n": {
+        "en": {
+          "action": "Just record it.",
+          "body": "Show HN: 210 points / 64 comments. Single source: ExitPath offers open-source ways out of Slack, Notion and Microsoft 365.",
+          "title": "Show HN: ExitPath, open-source ways out of Slack, Notion and Microsoft 365"
+        },
+        "ja": {
+          "action": "記録のみ。",
+          "body": "Show HNは210ポイント/64コメント。単独の情報源。ExitPathはSlack、Notion、Microsoft 365からの移行をオープンソースで提供する。",
+          "title": "Show HN：ExitPath、Slack・Notion・Microsoft 365からのオープンな脱出路"
+        }
+      },
+      "is_new": true,
+      "level": "echo",
+      "links": [
+        "https://exitpath-ruddy.vercel.app/"
+      ],
+      "sources": [
+        "Show HN"
+      ],
+      "title": "Show HN：ExitPath，开源的 Slack/Notion/Microsoft 365 出路",
+      "plugins": {
+        "momentum": {
+          "score": 31
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "MSFT"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
