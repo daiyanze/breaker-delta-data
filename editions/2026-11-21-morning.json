@@ -1,0 +1,300 @@
+{
+  "date": "2026-11-21",
+  "items": [
+    {
+      "title": "Claude 参与证明黎曼猜想？Anthropic 数学家发布声称，Lean 形式化已公开、验证还在路上",
+      "body": "Anthropic 数学家 Levent Alpöge 11 月 20 日称，与 Claude 合作发现了黎曼猜想的证明，并及于更广的广义黎曼猜想（GRH）；发布的是 4 页说明 + Lean 4 形式化（约 175,187 个文件、239MB，14 个压缩包），人类可读版草稿超 25 万页、尚未发布。证明尚未经独立验证：数学家 Elliot Glazer 在 X 上确认形式化陈述确为 GRH、Lean 本身出 bug 的概率低于 1%，但完整编译仍需数小时；同日斯坦福博士后 Alessandro Masullo 另有一份全人类证明声称（经 Ravi Vakil 发布）。黎曼猜想 1859 年提出，是克雷研究所千禧年大奖问题之一，奖金 $100 万。HN 主帖 2,041 分/1,385 评居首页第 1，第二帖 826 分/386 评；Reddit r/technology 1.9K 赞/949 评；Scientific American、WSJ、华盛顿邮报、TechCrunch、The Verge 均跟进。Alpöge 今年 7 月曾用 Claude 找到雅可比猜想的反例。",
+      "action": "写 tweet，强调“声称≠证实：Lean 形式化已发布、独立验证还在路上”，别写成已经解决。",
+      "i18n": {
+        "en": {
+          "title": "Did Claude help prove the Riemann Hypothesis? An Anthropic mathematician's claim is out, Lean formalization public, verification still pending",
+          "body": "Anthropic mathematician Levent Alpöge said on November 20 that, working with Claude, he had found a proof of the Riemann Hypothesis, extending to the broader Generalized Riemann Hypothesis (GRH); what he released is a 4-page note plus a Lean 4 formalization (about 175,187 files, 239 MB, in 14 archives), while the human-readable draft runs to more than 250,000 pages and is unpublished. The proof is not yet independently verified: mathematician Elliot Glazer posted on X that the formalized statement is indeed GRH and put the chance of a bug in Lean itself under 1%, but full compilation still takes hours; the same day, Stanford postdoc Alessandro Masullo put out a separate all-human proof claim (via Ravi Vakil). The Riemann Hypothesis dates to 1859 and is one of the Clay Institute's Millennium Prize problems, worth $1 million. The main Hacker News thread has 2,041 points / 1,385 comments at No. 1, a second thread 826 / 386; Reddit r/technology shows 1.9K upvotes / 949 comments; Scientific American, the WSJ, the Washington Post, TechCrunch and The Verge all followed up. In July, Alpöge used Claude to find a counterexample to the Jacobian conjecture.",
+          "action": "Write a tweet stressing 'a claim is not a proof: the Lean formalization is public, independent verification is still pending' — do not present it as solved."
+        },
+        "ja": {
+          "title": "Claudeがリーマン予想を証明？Anthropicの数学者が主張を発表、Lean形式化は公開済み、検証はこれから",
+          "body": "Anthropicの数学者レヴェント・アルペゲは11月20日、Claudeとともにリーマン予想の証明を発見し、より広い一般化リーマン予想（GRH）にも及ぶと発表した。公開されたのは4ページの説明とLean 4による形式化（約175,187ファイル、239MB、14個のアーカイブ）で、人間が読める草稿は25万ページ超で未公開。証明はまだ独立に検証されていない。数学者エリオット・グレイザーはXで、形式化された命題が確かにGRHであること、Lean自体のバグの可能性は1%未満であることを確認したが、完全なコンパイルにはまだ数時間かかる。同日、スタンフォードのポスドク、アレッサンドロ・マスッロが全て人間による別の証明主張も出した（ラヴィ・ヴァキル経由）。リーマン予想は1859年に提唱され、クレイ研究所のミレニアム懸賞問題の一つで賞金100万ドル。Hacker Newsのメインスレッドは2,041ポイント／1,385コメントでトップ、2番目のスレッドは826／386。Reddit r/technologyは1.9K upvote／949コメント。Scientific American、WSJ、ワシントン・ポスト、TechCrunch、The Vergeが追報した。アルペゲは今年7月にもClaudeを使ってヤコビアン予想の反例を見つけている。",
+          "action": "ツイートを書く。「主張≠証明：Lean形式化は公開済み、独立検証はこれから」と強調し、解決済みのように書かない。"
+        }
+      },
+      "is_new": true,
+      "level": "must",
+      "links": [
+        "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+        "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
+        "https://alpo.ge/remark.pdf"
+      ],
+      "sources": [
+        "Hacker News",
+        "Scientific American",
+        "TechCrunch",
+        "The Verge",
+        "Reddit",
+        "X"
+      ],
+      "plugins": {
+        "momentum": {
+          "score": 100
+        }
+      }
+    },
+    {
+      "title": "Anthropic 次日收盘 $88.30：较首日收盘跌 9.1%，盘中一度逼近 $83 发行价",
+      "body": "ANT 11 月 20 日收盘 $88.30，较首日收盘 $97.17 跌 9.1%；开盘 $89.86，盘中一度跌超 14%、低见 $83.05，距 $83 发行价仅一步之遥；市值约 $1.16 万亿（首日收盘约 $1.30 万亿）。同日标普 500 跌 3%、跌破 7,000 点至六个月低位，纳指 100 跌约 5%。路透：首日追高的散户次日即浮亏。数字来源：Finnhub 行情、CNBC、Reuters、WSJ、MarketWatch；Reddit r/technology 相关帖 2.1K 赞/325 评。",
+      "action": "写 tweet，写“$111.50 开盘 → $97.17 → $88.30”的三日过山车，点出 AI 板块抛售。",
+      "i18n": {
+        "en": {
+          "title": "Anthropic closed at $88.30 on day two: down 9.1% on the debut close, intraday low near the $83 IPO price",
+          "body": "ANT closed at $88.30 on November 20, down 9.1% from the debut close of $97.17; it opened at $89.86 and at one point fell more than 14% intraday to a low of $83.05, just above the $83 IPO price; market cap is about $1.16 trillion (about $1.30 trillion at the debut close). The same day the S&P 500 fell 3%, below 7,000 to a six-month low, and the Nasdaq 100 fell about 5%. Reuters: retail buyers who chased the debut were already underwater a day later. Figures: Finnhub market data, CNBC, Reuters, WSJ, MarketWatch; the Reddit r/technology thread has 2.1K upvotes / 325 comments.",
+          "action": "Write a tweet on the three-day rollercoaster — '$111.50 open → $97.17 → $88.30' — and the AI-sector sell-off."
+        },
+        "ja": {
+          "title": "Anthropicは2日目に終値88.30ドル：初日終値から9.1%安、場中は83ドルの公開価格に接近",
+          "body": "ANTは11月20日に終値88.30ドルで、初日の終値97.17ドルから9.1%下落した。始値89.86ドル、場中には一時14%超下げて安値83.05ドルと、公開価格83ドルにあと一歩まで迫った。時価総額は約1.16兆ドル（初日終値では約1.30兆ドル）。同日、S&P500は3%安で7,000を割り込み6か月ぶりの安値、ナスダック100は約5%安。ロイターによれば、初日に高値で買った個人投資家は翌日には含み損を抱えた。数字の出典：Finnhubの相場データ、CNBC、ロイター、WSJ、MarketWatch。Reddit r/technologyの関連スレッドは2.1K upvote／325コメント。",
+          "action": "ツイートを書く。「初値111.50ドル→97.17ドル→88.30ドル」の3日間の乱高下と、AIセクターの売りを指摘する。"
+        }
+      },
+      "is_new": false,
+      "level": "must",
+      "links": [
+        "https://www.reuters.com/business/finance/anthropic-retail-traders-face-losses-shares-dive-13-day-after-debut-2026-11-20/",
+        "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4"
+      ],
+      "sources": [
+        "Reuters",
+        "CNBC",
+        "WSJ",
+        "MarketWatch",
+        "Reddit"
+      ],
+      "plugins": {
+        "momentum": {
+          "score": 100
+        }
+      }
+    },
+    {
+      "title": "英伟达遭 SEC 会计调查：周五跌约 12% 至 $127.87，七连跌、六周蒸发 $2.5 万亿",
+      "body": "路透 11 月 20 日：SEC 执法人员正审查英伟达的会计问题，具体事项未定；此前 WSJ 11 月 17 日只报了“是否误导投资者”的民事调查、未涉会计。焦点或为新加坡收入口径变更（2025 年新加坡相关收入约 $1,040 亿，近全年销售额一半）。NVDA 周五跌约 12% 至 $127.87，七连跌，六周蒸发 $2.5 万亿以上、单日蒸发约 $4,000 亿，市值 $3.10 万亿、跌破 Alphabet；司法部另在审查 $129 亿收购 Hugging Face。董事会已否决黄仁勋回归，聘 Heidrick & Struggles 寻任 CEO；黄仁勋 12 月 1 日赴国会作证不变。Reddit r/technology 相关帖 703 赞/84 评。数字来源：Reuters、Barron's、BigGo Finance。",
+      "action": "仅记录；关注 12 月 1 日国会作证与 10-Q 补交。",
+      "i18n": {
+        "en": {
+          "title": "Nvidia faces an SEC accounting probe: down about 12% to $127.87 on Friday, seven straight losses, $2.5T gone in six weeks",
+          "body": "Reuters reported on November 20 that SEC enforcement staff are examining Nvidia's accounting, with the specific issues undetermined; the WSJ's November 17 report covered only a civil probe into whether disclosures misled investors, not accounting. The focus may be a change in how Singapore revenue is reported (about $104 billion in 2025, nearly half of annual sales). NVDA fell about 12% on Friday to $127.87, a seventh straight decline, with more than $2.5 trillion erased in six weeks and about $400 billion in a single session; market cap is $3.10 trillion, below Alphabet; the Justice Department is separately reviewing the $12.9 billion Hugging Face acquisition. The board has rejected Jensen Huang's return and hired Heidrick & Struggles to find a permanent CEO; Huang's December 1 congressional testimony is unchanged. The Reddit r/technology thread has 703 upvotes / 84 comments. Figures: Reuters, Barron's, BigGo Finance.",
+          "action": "Just record it; watch the December 1 congressional testimony and the delayed 10-Q filing."
+        },
+        "ja": {
+          "title": "エヌビディアにSECの会計調査：金曜は約12%安の127.87ドル、7日続落、6週間で2.5兆ドル蒸発",
+          "body": "ロイターが11月20日に報じたところによれば、SECの執行部門がエヌビディアの会計問題を調査中で、具体的な対象は未定。WSJの11月17日の報道は「投資家を誤解させたか」の民事調査のみで、会計には触れていなかった。焦点はシンガポール収益の計上方法の変更の可能性（2025年のシンガポール関連収益は約1,040億ドルで、年間売上高のほぼ半分）。NVDAは金曜に約12%安の127.87ドルと7日続落し、6週間で2.5兆ドル以上、1日だけで約4,000億ドルが蒸発。時価総額は3.10兆ドルでAlphabetを下回った。司法省は別途、129億ドルのHugging Face買収を審査中。取締役会はフアンの復帰を否決し、Heidrick & Strugglesに常任CEOの選任を依頼した。フアンの12月1日の議会証言は変わらない。Reddit r/technologyの関連スレッドは703 upvote／84コメント。数字の出典：ロイター、Barron's、BigGo Finance。",
+          "action": "記録のみ。12月1日の議会証言と遅れている10-Qの提出に注目。"
+        }
+      },
+      "is_new": false,
+      "level": "must",
+      "links": [
+        "https://www.barrons.com/articles/nvidia-stock-fall-ai-chips-835a38ae",
+        "https://finance.biggo.com/news/58ed817f-c6dd-4bd1-b52c-e98b6c160be6"
+      ],
+      "sources": [
+        "Reuters",
+        "Barron's",
+        "Yahoo Finance",
+        "Reddit"
+      ],
+      "plugins": {
+        "momentum": {
+          "score": 65
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "NVDA"
+            },
+            {
+              "type": "ticker",
+              "name": "GOOGL"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "Thinking Machines Inkling 2 Mini 发布：26.4B 循环模型约 20GB，MacBook 可离线跑",
+      "body": "Thinking Machines Lab 11 月 20 日发布 Inkling 2 Mini：循环 transformer，26.4B 总参数、每 token 激活 3.4B，中间 12 层每 token 跑 3 遍；约 20GB 显存占用，32GB+ 内存的 Mac 即可跑（演示：M5 Pro MacBook Pro 飞行模式离线，几分钟内写出可玩飞行模拟器）；1M 上下文；自报 DeepSWE v1.1 48.2%、Vals 46.5%，在 100B 以下开源权重模型中领先；权重已上 Hugging Face（97 likes / 136 下载，刚发布），llama.cpp、MLX、Ollama、SGLang、vLLM 首日支持。Reddit r/LocalLLaMA 296 赞/101 评居首；HN 141 分/13 评。基准均为官方自报，未独立验证。",
+      "action": "仅记录；本地跑模型的人可试 Ollama 版，关注独立评测。",
+      "i18n": {
+        "en": {
+          "title": "Thinking Machines released Inkling 2 Mini: a 26.4B looped model in about 20 GB that runs offline on a MacBook",
+          "body": "Thinking Machines Lab released Inkling 2 Mini on November 20: a looped transformer with 26.4B total parameters and 3.4B active per token, running its middle 12 layers three times per token; it needs about 20 GB of memory and runs on a Mac with 32 GB or more (demo: an M5 Pro MacBook Pro in airplane mode, offline, wrote a playable flight simulator in a few minutes); 1M-token context; the lab reports DeepSWE v1.1 at 48.2% and Vals at 46.5%, leading open-weights models under 100B parameters; weights are on Hugging Face (97 likes / 136 downloads, just released), with day-one support in llama.cpp, MLX, Ollama, SGLang and vLLM. Reddit r/LocalLLaMA: 296 upvotes / 101 comments, the top post; Hacker News: 141 points / 13 comments. All benchmarks are lab-reported, not independently verified.",
+          "action": "Just record it; people running models locally can try the Ollama build, and watch for independent evals."
+        },
+        "ja": {
+          "title": "Thinking MachinesがInkling 2 Miniを公開：26.4Bのループ型モデルが約20GBで、MacBookでオフライン動作",
+          "body": "Thinking Machines Labは11月20日、Inkling 2 Miniを公開した。ループ型トランスフォーマーで、総パラメータ26.4B、トークンあたりの活性化は3.4B。中間の12層をトークンごとに3回通す。メモリ使用量は約20GBで、32GB以上のメモリを持つMacで動作する（デモ：M5 ProのMacBook Proが機内モード・オフラインで、数分で遊べるフライトシミュレーターを作成）。コンテキストは100万トークン。発表によればDeepSWE v1.1は48.2%、Valsは46.5%で、1,000億パラメータ未満のオープンウェイトモデルで首位。重みはHugging Faceに公開済み（97 likes／136ダウンロード、公開直後）。llama.cpp、MLX、Ollama、SGLang、vLLMが初日から対応。Reddit r/LocalLLaMAでは296 upvote／101コメントでトップ、Hacker Newsは141ポイント／13コメント。ベンチマークはいずれも同社の自己申告で、独立検証はまだない。",
+          "action": "記録のみ。ローカルでモデルを動かす人はOllama版を試し、独立した評価に注目。"
+        }
+      },
+      "is_new": true,
+      "level": "watch",
+      "links": [
+        "https://thinkingmachines.ai/news/inkling-2-mini/",
+        "https://huggingface.co/blog/inkling2mini"
+      ],
+      "sources": [
+        "Thinking Machines Lab",
+        "Hugging Face",
+        "Hacker News",
+        "Reddit"
+      ],
+      "plugins": {
+        "momentum": {
+          "score": 46
+        }
+      }
+    },
+    {
+      "title": "Frostbite：AI 从头设计 CPU，自称能效比 4.59 倍——但只是前硅仿真",
+      "body": "Architect Labs 11 月 18 日发布 Frostbite：AI 自主完成编译器、指令集、架构、微架构、RTL、验证直至最终 GDS 的通用 CPU；基于 interaction nets（1990 年的数学模型），用小计算单元网格代替大核心；自称 25 个负载几何平均能效比 4.59 倍、单位面积性能 8.77 倍（对照为一款未具名的现代双发射顺序超标量核）；7nm 综合 800MHz、最终版图 500MHz。均为前硅仿真结果，无流片、无实测，对照 CPU 身份未公开（称法律原因）；计划开源 RTL 与指令集。HN 564 分/298 评；Notebookcheck 等跟进。",
+      "action": "仅记录；等 RTL 开源与独立复现，别把仿真数字当实测。",
+      "i18n": {
+        "en": {
+          "title": "Frostbite: an AI-designed CPU claiming 4.59x efficiency — but only in pre-silicon simulation",
+          "body": "Architect Labs published Frostbite on November 18: a general-purpose CPU its AI systems designed end to end — compiler, instruction set, architecture, microarchitecture, RTL, verification and final GDS; built on interaction nets (a 1990 mathematical model), using a grid of small compute tiles instead of one large core; the company claims a 4.59x geometric-mean performance-per-watt and 8.77x performance-per-area advantage across 25 workloads (against an unnamed modern dual-issue in-order superscalar core); 7 nm synthesis at 800 MHz, final layout at 500 MHz. All figures are pre-silicon simulations — no fabricated chip, no measured results — and the comparison CPU's identity is undisclosed (citing legal reasons); the RTL and instruction set are planned to be open-sourced. Hacker News: 564 points / 298 comments; Notebookcheck and others followed up.",
+          "action": "Just record it; wait for the RTL release and independent reproduction — do not treat simulation numbers as measured results."
+        },
+        "ja": {
+          "title": "Frostbite：AIがゼロから設計したCPU、効率4.59倍を主張——ただしシリコン前シミュレーションのみ",
+          "body": "Architect Labsは11月18日、Frostbiteを発表した。AIシステムがコンパイラ、命令セット、アーキテクチャ、マイクロアーキテクチャ、RTL、検証、最終GDSまでを自律的に手がけた汎用CPU。1990年の数学モデル「インタラクションネット」に基づき、大きなコア1つではなく小さな計算タイルのグリッドを使う。発表によれば25のワークロードで幾何平均4.59倍の電力効率、8.77倍の面積あたり性能（比較対象は名前を明かしていない現代のデュアルイシュー・インオーダー・スーパースカラコア）。7nmで合成時800MHz、最終レイアウトで500MHz。いずれもシリコン前のシミュレーション結果で、製造されたチップも実測もなく、比較対象CPUの正体も非公開（法的理由と説明）。RTLと命令セットのオープンソース化を予定している。Hacker Newsは564ポイント／298コメント。Notebookcheckなどが追報した。",
+          "action": "記録のみ。RTLの公開と独立した再現を待つ。シミュレーションの数字を実測と取り違えない。"
+        }
+      },
+      "is_new": true,
+      "level": "watch",
+      "links": [
+        "https://architectlabs.com/blog/frostbite",
+        "https://www.notebookcheck.net/AMD-and-Intel-move-over-AI-designed-an-all-new-CPU-and-claims-it-is-4-6x-more-efficient.1455225.0.html"
+      ],
+      "sources": [
+        "Hacker News",
+        "Architect Labs",
+        "Notebookcheck"
+      ],
+      "plugins": {
+        "momentum": {
+          "score": 41
+        }
+      }
+    },
+    {
+      "title": "Signal 默认屏蔽截图：不让手机 AI agent 读屏，称系统级 agent 是“生存威胁”",
+      "body": "Signal 11 月 20 日宣布：iOS 27 上默认屏蔽应用内截图，并新增“Block Siri AI”开关；Android 在检测到 AI 助手读屏时自动开启屏幕安全；针对 Gemini Intelligence 与 Siri AI 的屏幕读取。总裁 Meredith Whittaker 称系统级 agent 是“生存威胁”，呼吁苹果、谷歌、微软给开发者明确的退出机制；macOS 上无法可靠屏蔽，建议手动把 Signal 加进 Siri 排除应用；Signal 承认这只是部分防护，文件系统等路径仍可被 agent 读取。HN 396 分/253 评；Engadget、Digital Trends、The Decoder 跟进。",
+      "action": "仅记录；做 Mac agent 产品可对照 Apple 的权限与沙箱口径。",
+      "i18n": {
+        "en": {
+          "title": "Signal now blocks screenshots by default: keeping phone AI agents from reading your chats, calling system agents an 'existential threat'",
+          "body": "Signal announced on November 20 that it will block screenshots inside the app by default on iOS 27, with a new 'Block Siri AI' toggle; on Android it automatically turns on Screen Security when it detects an AI assistant reading the screen; the target is screen reading by Gemini Intelligence and Siri AI. President Meredith Whittaker called system-level agents an 'existential threat' and urged Apple, Google and Microsoft to give developers a clear opt-out; on macOS no reliable block is possible, so users are advised to add Signal to Siri's excluded apps manually; Signal admits this is only partial protection, since agents can still reach content through the filesystem and other routes. Hacker News: 396 points / 253 comments; Engadget, Digital Trends and The Decoder followed up.",
+          "action": "Just record it; Mac agent builders can compare Apple's permission and sandboxing stance."
+        },
+        "ja": {
+          "title": "Signalがスクリーンショットをデフォルトでブロック：スマホのAIエージェントにチャットを読ませない、「生存への脅威」と指摘",
+          "body": "Signalは11月20日、iOS 27でアプリ内のスクリーンショットをデフォルトでブロックし、「Block Siri AI」設定を追加すると発表した。AndroidではAIアシスタントによる画面読み取りを検知すると自動的に画面セキュリティを有効化する。対象はGemini IntelligenceとSiri AIによる画面読み取り。社長のメレディス・ウィテカーはシステムレベルのエージェントを「生存への脅威」と呼び、Apple、Google、Microsoftに開発者向けの明確なオプトアウト手段を求めた。macOSでは確実なブロックはできないため、SignalをSiriの除外アプリに手動で追加するよう案内している。Signalはこれが部分的な対策にすぎず、ファイルシステムなどの経路からはエージェントが内容に到達しうることも認めている。Hacker Newsは396ポイント／253コメント。Engadget、Digital Trends、The Decoderが追報した。",
+          "action": "記録のみ。Mac向けエージェント製品を作るなら、Appleの権限とサンドボックスの方針と照らし合わせる。"
+        }
+      },
+      "is_new": true,
+      "level": "watch",
+      "links": [
+        "https://signal.org/blog/protecting-your-privacy/",
+        "https://www.engadget.com/2323574/signal-now-blocks-screenshots-by-default-to-stymie-ai-agents/"
+      ],
+      "sources": [
+        "Signal",
+        "Hacker News",
+        "Engadget",
+        "The Verge"
+      ],
+      "plugins": {
+        "momentum": {
+          "score": 46
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "AAPL"
+            },
+            {
+              "type": "ticker",
+              "name": "MSFT"
+            },
+            {
+              "type": "ticker",
+              "name": "GOOGL"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "rust-anything：4 天 6,526 stars，日均 1,631，仍是 GitHub 增速之首",
+      "body": "按录制行为把应用逐块改写成 Rust，覆盖 TypeScript、Python、C、Go、Ruby、Java；11 月 19 日 3,966 stars → 11 月 20 日早报 5,011 → 本期 6,526，创建 4 天、日均 1,631，仍是本期 GitHub 增速之首。单源（GitHub Trending）。",
+      "action": "仅记录。",
+      "i18n": {
+        "en": {
+          "title": "rust-anything: 6,526 stars in 4 days, 1,631 per day, still the fastest-growing repo on GitHub",
+          "body": "It rewrites an app into Rust piece by piece, checked against the original's recorded behavior, covering TypeScript, Python, C, Go, Ruby and Java; 3,966 stars on November 19 → 5,011 in the November 20 morning edition → 6,526 now, created 4 days ago at 1,631 stars per day, still the fastest-growing repo in this scan. Single source (GitHub Trending).",
+          "action": "Just record it."
+        },
+        "ja": {
+          "title": "rust-anything：4日で6,526スター、1日あたり1,631、GitHubで今も最も伸びている",
+          "body": "記録した動作と照らし合わせながら、アプリを少しずつRustに書き換える。TypeScript、Python、C、Go、Ruby、Javaに対応。11月19日に3,966スター、11月20日朝刊で5,011、今期は6,526。公開から4日で1日あたり1,631スターと、今期もGitHubで最も伸びている。単一ソース（GitHub Trending）。",
+          "action": "記録のみ。"
+        }
+      },
+      "is_new": false,
+      "level": "watch",
+      "links": [
+        "https://github.com/erkamyaman/rust-anything"
+      ],
+      "sources": [
+        "GitHub"
+      ],
+      "plugins": {
+        "momentum": {
+          "score": 31
+        }
+      }
+    },
+    {
+      "title": "Haru-4B：HF 新面孔第 1，全双工语音模型 likes 三天约 12 倍",
+      "body": "Hugging Face Trending 新面孔第 1：全双工语音对话基础模型，5,014 likes / 7,323 下载；11 月 17 日仅 407 likes / 3,372 下载，likes 约 12 倍。单源（Hugging Face）。",
+      "action": "仅记录。",
+      "i18n": {
+        "en": {
+          "title": "Haru-4B: No. 1 new face on Hugging Face, a full-duplex voice model whose likes rose about 12x in three days",
+          "body": "The No. 1 new face on Hugging Face Trending: a full-duplex voice-conversation base model with 5,014 likes / 7,323 downloads; on November 17 it had only 407 likes / 3,372 downloads, so likes rose about 12x. Single source (Hugging Face).",
+          "action": "Just record it."
+        },
+        "ja": {
+          "title": "Haru-4B：Hugging Faceの新顔1位、全二重音声モデルが3日でlikes約12倍",
+          "body": "Hugging Face Trendingの新顔1位。全二重音声対話のベースモデルで、5,014 likes／7,323ダウンロード。11月17日時点では407 likes／3,372ダウンロードだったため、likesは約12倍。単一ソース（Hugging Face）。",
+          "action": "記録のみ。"
+        }
+      },
+      "is_new": false,
+      "level": "echo",
+      "links": [
+        "https://huggingface.co/higurashi-ai/Haru-4B"
+      ],
+      "sources": [
+        "Hugging Face"
+      ],
+      "plugins": {
+        "momentum": {
+          "score": 31
+        }
+      }
+    }
+  ]
+}

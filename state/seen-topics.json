@@ -59,7 +59,8 @@
         "路透",
         "Hacker News",
         "Reuters",
-        "The Verge"
+        "The Verge",
+        "MarketWatch"
       ],
       "history": [
         {
@@ -92,6 +93,10 @@
         },
         {
           "date": "2026-11-19",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-20",
           "grade": "must"
         },
         {
@@ -525,7 +530,9 @@
         "Ars Technica",
         "Bloomberg",
         "The Decoder",
-        "BBC"
+        "BBC",
+        "Barron's",
+        "Yahoo Finance"
       ],
       "history": [
         {
@@ -554,6 +561,10 @@
         },
         {
           "date": "2026-11-19",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-20",
           "grade": "must"
         },
         {
@@ -1718,7 +1729,7 @@
     {
       "name": "rust-anything",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "sources": [
         "GitHub"
       ],
@@ -1729,6 +1740,10 @@
         },
         {
           "date": "2026-11-19",
+          "grade": "watch"
+        },
+        {
+          "date": "2026-11-20",
           "grade": "watch"
         }
       ],
@@ -2042,13 +2057,17 @@
     {
       "name": "higurashi-ai/Haru-4B",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "sources": [
         "Hugging Face"
       ],
       "history": [
         {
           "date": "2026-11-19",
+          "grade": "echo"
+        },
+        {
+          "date": "2026-11-20",
           "grade": "echo"
         }
       ],
@@ -2225,6 +2244,99 @@
         {
           "date": "2026-11-20",
           "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-20"
+      }
+    },
+    {
+      "name": "黎曼猜想证明声称（Claude 参与）",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "sources": [
+        "Hacker News",
+        "Scientific American",
+        "TechCrunch",
+        "The Verge",
+        "Reddit",
+        "X"
+      ],
+      "history": [
+        {
+          "date": "2026-11-20",
+          "grade": "must"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-20"
+      }
+    },
+    {
+      "name": "Thinking Machines Lab Inkling 2 Mini",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "sources": [
+        "Thinking Machines Lab",
+        "Hugging Face",
+        "Hacker News",
+        "Reddit"
+      ],
+      "history": [
+        {
+          "date": "2026-11-20",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-20"
+      }
+    },
+    {
+      "name": "Frostbite AI 设计 CPU",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "sources": [
+        "Hacker News",
+        "Architect Labs",
+        "Notebookcheck"
+      ],
+      "history": [
+        {
+          "date": "2026-11-20",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-20"
+      }
+    },
+    {
+      "name": "Signal 默认屏蔽截图防 AI agent 读屏",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "sources": [
+        "Signal",
+        "Hacker News",
+        "Engadget",
+        "The Verge"
+      ],
+      "history": [
+        {
+          "date": "2026-11-20",
+          "grade": "watch"
         }
       ],
       "review": {
