@@ -45,7 +45,7 @@
     {
       "name": "Anthropic IPO",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "sources": [
         "Reddit",
         "Google News",
@@ -92,6 +92,10 @@
         },
         {
           "date": "2026-11-19",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-20",
           "grade": "must"
         }
       ],
@@ -502,7 +506,7 @@
     {
       "name": "黄仁勋辞职",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "sources": [
         "Financial Times",
         "Hacker News",
@@ -520,7 +524,8 @@
         "WIRED",
         "Ars Technica",
         "Bloomberg",
-        "The Decoder"
+        "The Decoder",
+        "BBC"
       ],
       "history": [
         {
@@ -549,6 +554,10 @@
         },
         {
           "date": "2026-11-19",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-20",
           "grade": "must"
         }
       ],
@@ -2090,6 +2099,139 @@
         "result": null,
         "checked_on": null,
         "_first_seen": "2026-11-19"
+      }
+    },
+    {
+      "name": "Meta Muse Charm",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "sources": [
+        "The Information",
+        "Reuters",
+        "TechCrunch",
+        "The Verge"
+      ],
+      "history": [
+        {
+          "date": "2026-11-20",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-20"
+      }
+    },
+    {
+      "name": "Apple 自研 AI agent",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "sources": [
+        "Bloomberg",
+        "TechCrunch",
+        "The Verge"
+      ],
+      "history": [
+        {
+          "date": "2026-11-20",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-20"
+      }
+    },
+    {
+      "name": "PostgreSQL 19",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "sources": [
+        "Hacker News",
+        "Lobsters",
+        "Simon Willison"
+      ],
+      "history": [
+        {
+          "date": "2026-11-20",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-20"
+      }
+    },
+    {
+      "name": "腾讯 Hy4",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "sources": [
+        "Hugging Face",
+        "Reddit",
+        "X"
+      ],
+      "history": [
+        {
+          "date": "2026-11-20",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-20"
+      }
+    },
+    {
+      "name": "FastUnlock",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "sources": [
+        "Reddit",
+        "Tom's Hardware",
+        "Neowin",
+        "GitHub"
+      ],
+      "history": [
+        {
+          "date": "2026-11-20",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-20"
+      }
+    },
+    {
+      "name": "OpenSSL CVE-2026-121481",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "sources": [
+        "Hacker News",
+        "OpenCVE"
+      ],
+      "history": [
+        {
+          "date": "2026-11-20",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-20"
       }
     }
   ]

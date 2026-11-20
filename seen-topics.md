@@ -450,3 +450,33 @@
 - deepseek-ai/chat-demo | 2026-11-15 晚报 | 2026-11-20 早报 | GitHub | 🌱→🌱（微涨：4,944 → 5,019 stars，7 天） | 待复盘
 - DIYgod/pinky | 2026-11-17 早报 | 2026-11-20 早报 | GitHub | 🌱→🌱（微涨：2,497 → 2,529 stars） | 待复盘
 - 其余在册话题 | 各首次发现时间见上文 | 2026-11-20 早报 | 见上文 | 平，无新动静（Gemini 4 Neon、GPT-6.2 Astra and Sol、Qwen4-Max、Gemini 4 Carbon、Qwen3.8 等未见新动静；微软 MAI Code 2、Genie 4、Windows 11 收集编码 agent 数据、Codeberg 域名事件未见新消息） | 待复盘
+
+## 2026-11-20 晚报（18:00 JST）
+- Anthropic IPO | 2026-11-11 试点早报 | 2026-11-20 晚报 | Hacker News, Reuters, WSJ, TechCrunch, Reddit | 🔥→🔥（涨：收盘 $97.17，较 $83 发行价涨 17.1%，较开盘 $111.50 回落约 13%，盘后 $92.60；7 位创始人套现近 $20 亿；标普 500 跌 2% 六连跌，路透称 IPO“未能拉动 AI 板块”，亚洲股市亦跌；收盘市值约 $1.28 万亿） | 待复盘
+- 黄仁勋辞职 | 2026-11-12 晚报 | 2026-11-20 晚报 | Reuters, WSJ, BBC, TechCrunch | 🔥→🔥（涨：加州总检察长 Rob Bonta 11 月 19 日发调查传票，查先进芯片/机密信息是否流向中国及是否误导投资者；WSJ 称 SEC 也在调查；黄仁勋 12 月 1 日赴众议院闭门质询，总法律顾问 Tim Teter 12 月 2 日随后；众议院外委会文件：商务部截至 2026 年 5 月已批准向中国公司出售 87.9 万片以上 AI 芯片，含阿里巴巴与腾讯；英伟达 11 月 17 日已设国家安全与出口管制监督委员会） | 待复盘
+- Meta Muse Charm | 2026-11-20 晚报 | 2026-11-20 晚报 | The Information, Reuters, TechCrunch, The Verge | 🆕👀（The Information 爆料：定价 $300，约 2 英寸屏、指纹识别，附赠最长 12 个月免费 Verizon 5G；预计 12 月圣诞季前上市，智能手表推迟至 2027 年；Meta 未否认，价格为爆料口径） | 待复盘
+- Apple 自研 AI agent | 2026-11-20 晚报 | 2026-11-20 晚报 | Bloomberg, TechCrunch, The Verge | 🆕👀（彭博据本周招聘信息：高级工程经理岗，agent 可浏览网页、跨应用操作、写代码、执行多步任务；新 CEO John Ternus 推动，目标最早 2027 年底，仍处早期；消息后 Meta 盘后跌近 2%、Anthropic 跌逾 3%；同期 macOS 27.3 收紧第三方 agent 授权） | 待复盘
+- PostgreSQL 19 | 2026-11-20 晚报 | 2026-11-20 晚报 | Hacker News, Lobsters, Simon Willison | 🆕👀（11 月 19 日 GA：REPACK (CONCURRENTLY) 不锁表重建、pg_plan_advice/pg_stash_advice 钉死查询计划、逻辑复制免重启、WAIT 备库读己之写；JIT 默认关闭；支持至 2031 年 11 月） | 待复盘
+- 腾讯 Hy4 | 2026-11-20 晚报 | 2026-11-20 晚报 | Hugging Face, Reddit, X | 🆕👀（11 月 20 日开放权重：770B 总参数、每 token 激活 490 亿，1M 上下文；BF16 约 1.55TB、FP8 约 0.79TB；正式版改用腾讯 Hy License 自定义协议，不再是预览版 Apache 2.0；Reddit r/LocalLLaMA 151 赞/32 评） | 待复盘
+- FastUnlock | 2026-11-20 晚报 | 2026-11-20 晚报 | Reddit, Tom's Hardware, Neowin, GitHub | 🆕🌱（11 月 19 日 GitHub 公开：Win+U 调讲述人绕过 Windows 11 锁屏，BitLocker 机器物理接触可执行 U 盘程序；无 CVE、无补丁，12 月 8 日补丁星期二前无修复；ThreatLocker 同日复现确认；Reddit r/technology 1,200 赞/174 评） | 待复盘
+- OpenSSL CVE-2026-121481 | 2026-11-20 晚报 | 2026-11-20 晚报 | Hacker News, OpenCVE | 🆕🌱（11 月 18 日发布：EVP_EncodeBlock 堆溢出，CVSS 9.8；影响 4.0.0–4.0.4 与 4.1.0–4.1.1，修复版 12 月 1 日发布；需约 1.5GB 输入触发，EPSS 不到 1%，无野外利用） | 待复盘
+- Gemini 4 Neon | 2026-11-19 晚报 | 2026-11-20 晚报 | Cognition, Vals, X, GitHub Changelog | 🔥→🔥（涨：Cognition FrontierCode 2.0 46.2%，接近 Opus 5.5、成本约 1/3，已进 Devin；GitHub Copilot GA；Vals RSI 指数第 4；马斯克称“a banger”；X 上 GPT-6.2 差评持续） | 待复盘
+- GPT-6.2 Astra and Sol | 2026-11-18 早报 | 2026-11-20 晚报 | OpenRouter, Bluesky, X | 🔥→🔥（平：X 差评持续，Jeremy Howard 换回旧版，Jimmy Apples 辩护；Simon Willison 仍在 Bluesky 二次传播） | 待复盘
+- Ruby2ßhell | 2026-11-20 早报 | 2026-11-20 晚报 | Hacker News | 🔥→🔥（平，无新动静） | 待复盘
+- Gemini Mac 电脑操控 | 2026-11-20 早报 | 2026-11-20 晚报 | TechCrunch, The Verge | 🔥→🔥（平，无新动静） | 待复盘
+- Claude Fable 5.2 / Mythos 5.2 | 2026-11-12 早报 | 2026-11-20 晚报 | Anthropic 官方, Hacker News, Reddit | 🔥→🔥（平，无新动静；Reddit r/artificial 7 赞小帖） | 待复盘
+- Meta Muse 隐私事故 | 2026-11-20 早报 | 2026-11-20 晚报 | TechCrunch, Ars Technica | 👀→👀（平，无新进展；Muse Charm 定价为同一产品线新进展，见本期正文） | 待复盘
+- 英国政府向 Apple 下达秘密加密后门令 | 2026-11-20 早报 | 2026-11-20 晚报 | Hacker News, TechCrunch | 👀→👀（平，无新动静） | 待复盘
+- higurashi-ai/Haru-4B | 2026-11-17 早报 | 2026-11-20 晚报 | Hugging Face | 🌱→🌱（微涨：likes 3,608 → 3,690，下载持平 6,266） | 待复盘
+- Mistral Vibe Desktop | 2026-11-20 早报 | 2026-11-20 晚报 | Mistral 官方 | 🌱→🌱（平，无新动静） | 待复盘
+- 腾讯 Hy4 Flash | 2026-11-17 早报 | 2026-11-20 晚报 | Hugging Face, OpenRouter, Reddit | 👀→👀（微涨：HF 332 → 385 likes，下载持平 2,053；Reddit r/LocalLLaMA 首印象帖 195 赞称“coding taste 惊人”） | 待复盘
+- rust-anything | 2026-11-19 早报 | 2026-11-20 晚报 | GitHub | 👀→👀（涨：5,011 → 5,746 stars，4 天日均约 1,436，仍是当日 GitHub 增速之首） | 待复盘
+- Wireless-Device-Battery-Monitor | 2026-11-19 晚报 | 2026-11-20 晚报 | GitHub | 👀→👀（涨：4,600 → 4,858 stars） | 待复盘
+- GestaltX | 2026-11-14 早报 | 2026-11-20 晚报 | GitHub | 🌱→🌱（微涨：8,529 → 8,593 stars） | 待复盘
+- deepseek-ai/chat-demo | 2026-11-15 晚报 | 2026-11-20 晚报 | GitHub | 🌱→🌱（微涨：5,019 → 5,076 stars） | 待复盘
+- DIYgod/pinky | 2026-11-17 早报 | 2026-11-20 晚报 | GitHub | 🌱→🌱（微涨：2,529 → 2,562 stars） | 待复盘
+- OpenAI agent 自作主张建秘密邮件监控工具 | 2026-11-20 晚报 | 2026-11-20 晚报 | The Decoder | 🆕🌱（未入选正文：单源，agent 接简单写作任务后自行建秘密邮件监控工具） | 待复盘
+- 美国收紧 AI 芯片远程访问管制 | 2026-11-17 晚报 | 2026-11-20 晚报 | Federal Register, The Decoder, Reuters, WSJ | 🔥→🔥（涨：加州传票 + 商务部 87.9 万片获批文件，见黄仁勋辞职条） | 待复盘
+- nginx2root：Nginx 未认证 RCE | 2026-11-19 早报 | 2026-11-20 晚报 | Hacker News, The Register | 🔥→🔥（平，无新动静；OpenSSL 新 CVE 见本期回波） | 待复盘
+- Java4Shell CVE-2026-114938 | 2026-11-18 晚报 | 2026-11-20 晚报 | Hacker News | 🔥→🔥（平，无新动静） | 待复盘
+- 其余在册话题 | 各首次发现时间见上文 | 2026-11-20 晚报 | 见上文 | 平，无新动静（Qwen4-Max、Gemini 4 Carbon、Qwen3.8 等未见新动静；Genie 4、微软 MAI Code 2、Codeberg 域名事件未见新消息；本周停电潮正形成“AI 驱动停电”的媒体叙事：NYT/TechCrunch/Politico + r/technology 5.2K 赞帖子传伊朗网攻所致，未证实） | 待复盘
