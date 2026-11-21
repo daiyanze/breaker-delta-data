@@ -1,0 +1,296 @@
+{
+  "date": "2026-11-22",
+  "items": [
+    {
+      "action": "写 tweet，强调“机器验证几乎通过、数学界尚未正式接受”，别写成已经获奖。",
+      "body": "HN 主帖 2,583 分/1,784 评 → 2,844 分/2,016 评；Masullo 的全人类证明声称第二帖 1,978 分/914 评 → 2,347 分/1,131 评；新增 Lean 官方博客核查帖 627 分/487 评。维基百科“Riemann hypothesis”昨日第 6，295,157 次浏览；“Levent Alpöge”词条第 11，124,632 次浏览。AP、BBC 11 月 21 日跟进。仍待完成 comparator 运行；克雷研究所仍将该问题列为未解。",
+      "i18n": {
+        "en": {
+          "action": "Write a tweet stressing 'machine verification has almost fully passed, but the math community has not formally accepted it yet' — do not present it as a prize already won.",
+          "body": "The main Hacker News thread rose from 2,583 points / 1,784 comments to 2,844 / 2,016; Masullo's all-human proof claim, the second thread, went from 1,978 / 914 to 2,347 / 1,131; a new Lean community blog post on the verification drew 627 points / 487 comments. On Wikipedia, 'Riemann hypothesis' was yesterday's No. 6 most-read page with 295,157 views, and 'Levent Alpöge' ranked No. 11 with 124,632 views. AP and the BBC followed up on November 21. The comparator run is still pending, and the Clay Institute still lists the problem as unsolved.",
+          "title": "Riemann Hypothesis proof claim: HN main thread at 2,844 points, Wikipedia entry drew 295,157 views in a day, one check still pending"
+        },
+        "ja": {
+          "action": "ツイートを書く。「機械検証はほぼ通過したが、数学界はまだ正式に受け入れていない」と強調し、受賞済みのように書かない。",
+          "body": "Hacker Newsのメインスレッドは2,583ポイント／1,784コメントから2,844／2,016へ。マスッロの全て人間による証明主張の2番目のスレッドは1,978／914から2,347／1,131へ。検証に関するLeanコミュニティのブログ投稿が新たに627ポイント／487コメントを集めた。ウィキペディアでは「Riemann hypothesis」が昨日の閲覧数6位で295,157回、「Levent Alpöge」が11位で124,632回。APとBBCが11月21日に追報した。comparatorの実行はまだ残っており、クレイ研究所は依然としてこの問題を未解決としている。",
+          "title": "リーマン予想の証明主張：HNメインスレッドは2,844ポイント、ウィキペディアの項目は1日で29.5万回閲覧、残るは最後のチェックのみ"
+        }
+      },
+      "is_new": false,
+      "level": "must",
+      "links": [
+        "https://alpo.ge/remark.pdf",
+        "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+        "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/"
+      ],
+      "sources": [
+        "Hacker News",
+        "Wikipedia",
+        "Scientific American",
+        "AP",
+        "BBC"
+      ],
+      "title": "黎曼猜想证明声称：HN 主帖 2,844 分，维基百科词条单日 29.5 万浏览，仍待最后一项核查",
+      "plugins": {
+        "momentum": {
+          "score": 62
+        }
+      }
+    },
+    {
+      "action": "写 tweet，可结合 Anthropic IPO 次日回落与“AI 泡沫”争论；投资判断不在雷达范围内。",
+      "body": "纳指周跌 10%，为 2020 年 3 月以来最差一周；标普 500 跌 8.6%、道指跌 8%，双双进入技术性回调（较近期高点跌 10% 以上）；费城半导体指数周跌 17.1%，为 2001 年以来最差。英伟达周跌 23%（周五单日跌 14%），为 2008 年以来最差一周；Anthropic 上市次日跌 9.2% 至 88.30 美元，逼近 83 美元发行价（首日开盘 111.50、收 97.17 美元）。纳指成分股一周蒸发市值超 4 万亿美元。",
+      "i18n": {
+        "en": {
+          "action": "A tweet could tie Anthropic's second-day slide to the wider 'AI bubble' debate; investment judgment is outside this radar's scope.",
+          "body": "The Nasdaq fell 10% for the week, its worst week since March 2020; the S&P 500 dropped 8.6% and the Dow 8%, both entering a technical correction (down more than 10% from recent highs); the PHLX Semiconductor Index fell 17.1% for the week, its worst since 2001. Nvidia lost 23% for the week (down 14% on Friday alone), its worst week since 2008; Anthropic fell 9.2% on its second day to $88.30, closing in on its $83 IPO price (it opened at $111.50 on day one and closed at $97.17). Nasdaq-listed companies shed more than $4 trillion in market value over the week.",
+          "title": "US AI trade unwinds sharply: Nasdaq down 10% in a week, its worst since March 2020"
+        },
+        "ja": {
+          "action": "ツイートを書くなら、Anthropicの上場2日目の下落と「AIバブル」論争を結びつけるとよい。投資判断はこのレーダーの範囲外。",
+          "body": "ナスダックは週間で10%下落し、2020年3月以来最悪の週となった。S&P 500は8.6%、ダウは8%下落し、ともにテクニカルな調整局面入り（直近高値から10%超の下落）。フィラデルフィア半導体株指数は週間で17.1%下落し、2001年以来最悪。エヌビディアは週間で23%下落（金曜だけで14%）し、2008年以来最悪の週。Anthropicは上場2日目に9.2%下落して88.30ドルとなり、83ドルの公開価格に迫った（初日は111.50ドルで寄り付き、97.17ドルで引けた）。ナスダック上場企業の時価総額は1週間で4兆ドル超が吹き飛んだ。",
+          "title": "米国のAIトレードが急反落：ナスダックは週間で10%下落、2020年3月以来最悪の週"
+        }
+      },
+      "is_new": true,
+      "level": "must",
+      "links": [
+        "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-20-2026",
+        "https://the-decoder.com/us-technology-stocks-suffer-their-worst-weekly-loss-since-the-pandemic-as-ai-doubts-pile-up/",
+        "https://www.knkx.org/2026-11-21/the-ai-boom-had-a-really-bad-week-and-its-raising-loud-alarms"
+      ],
+      "sources": [
+        "WSJ",
+        "NPR",
+        "The Decoder",
+        "Google News"
+      ],
+      "title": "美股 AI 交易大回调：纳指周跌 10%，创 2020 年 3 月以来最差一周",
+      "plugins": {
+        "momentum": {
+          "score": 46
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "NVDA"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "action": "写 tweet 可提醒“仓库无游戏文件、别下假冒 .exe”；仅记录亦可。",
+      "body": "GTA 6 于 11 月 19 日主机发售，无 PC 版；泄露者 Cyberleek 同日放出 Xbox 完整构建（缺 .exe，可执行文件称 11 月 23 日放出）。30 小时内出现 9 个相关项目；Leonida（ItsNotRexed）上线 1 天即 2,922 stars、日均 2,922，项目自报已转译 26,503 个 shader 至 Vulkan；游戏仍不能启动，仓库无游戏文件。维基百科 GTA VI 昨日第 3，540,793 次浏览。",
+      "i18n": {
+        "en": {
+          "action": "A tweet could warn that 'the repo contains no game files — do not download fake .exe files'; just recording it works too.",
+          "body": "GTA 6 launched on consoles on November 19 with no PC version; leaker Cyberleek released the full Xbox build the same day (minus the .exe, which is promised for November 23). Nine related projects appeared within 30 hours; Leonida (by ItsNotRexed) reached 2,922 stars in its first day — 2,922 per day — and reports having translated 26,503 shaders to Vulkan; the game still does not boot, and the repo contains no game files. On Wikipedia, GTA VI was yesterday's No. 3 most-read page with 540,793 views.",
+          "title": "Leonida: 30 hours after the GTA 6 leak, a PC recompilation project hit 2,922 stars in one day"
+        },
+        "ja": {
+          "action": "ツイートを書くなら「リポジトリにゲームファイルはなく、偽の.exeをダウンロードしないように」と注意喚起するとよい。記録のみでもよい。",
+          "body": "GTA 6は11月19日にコンソールで発売され、PC版はない。リーカーのCyberleekは同日、Xboxの完全ビルドを公開した（.exeを除く。実行ファイルは11月23日に出すとしている）。30時間以内に9つの関連プロジェクトが登場した。Leonida（ItsNotRexed）は公開初日で2,922スター（1日あたり2,922）を獲得し、26,503のシェーダーをVulkanへ翻訳したと自ら報告している。ゲームはまだ起動せず、リポジトリにゲームファイルはない。ウィキペディアではGTA VIが昨日の閲覧数3位で540,793回だった。",
+          "title": "Leonida：GTA 6流出から30時間後、PC向け再コンパイルプロジェクトが初日で2,922スター"
+        }
+      },
+      "is_new": true,
+      "level": "must",
+      "links": [
+        "https://github.com/ItsNotRexed/Leonida",
+        "https://www.destructoid.com/thousands-of-xbox-emulators-are-in-the-works-amid-gta-6-fueled-arms-race/",
+        "https://store.steampowered.com/news/group/38509069/view/668382571964400444"
+      ],
+      "sources": [
+        "GitHub",
+        "Destructoid",
+        "GamesRadar",
+        "Wikipedia"
+      ],
+      "title": "Leonida：GTA 6 泄露 30 小时后，PC 重编译项目 1 天 2,922 stars",
+      "plugins": {
+        "momentum": {
+          "score": 46
+        }
+      }
+    },
+    {
+      "action": "写 tweet，写“本地小模型的第二天：HN 1,314 分、HF likes 一天翻倍”，本地跑模型的人可试 Ollama 版。",
+      "body": "HN 937 分/175 评 → 1,314 分/272 评；Hugging Face likes 1,050 → 2,255，下载 7,944；unsloth GGUF 版下载 238,152。The Decoder 11 月 21 日发文；HN 另有“5.4GB 内存跑 Inkling-2-Mini”226 分/42 评。",
+      "i18n": {
+        "en": {
+          "action": "Write a tweet on 'day two for the local small model: 1,314 HN points, HF likes doubled in a day'; people running models locally can try the Ollama build.",
+          "body": "Hacker News went from 937 points / 175 comments to 1,314 / 272; Hugging Face likes rose from 1,050 to 2,255, with 7,944 downloads; the unsloth GGUF build has 238,152 downloads. The Decoder covered it on November 21, and Hacker News has a separate thread on running Inkling-2-Mini in 5.4 GB of memory (226 points / 42 comments).",
+          "title": "Inkling 2 Mini keeps heating up: HN at 1,314 points, HF likes doubled in a day to 2,255"
+        },
+        "ja": {
+          "action": "ツイートを書く。「ローカル小型モデルの2日目：HN 1,314ポイント、HFのlikesは1日で倍増」。ローカルでモデルを動かす人はOllama版を試せる。",
+          "body": "Hacker Newsは937ポイント／175コメントから1,314／272へ。Hugging Faceのlikesは1,050から2,255へ、ダウンロードは7,944。unslothのGGUF版は238,152ダウンロード。The Decoderが11月21日に取り上げ、Hacker Newsには「5.4GBのメモリでInkling-2-Miniを動かす」という別スレッドもある（226ポイント／42コメント）。",
+          "title": "Inkling 2 Miniがさらに加熱：HN 1,314ポイント、HFのlikesは1日で倍増して2,255"
+        }
+      },
+      "is_new": false,
+      "level": "must",
+      "links": [
+        "https://thinkingmachines.ai/news/inkling-2-mini/",
+        "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+        "https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/"
+      ],
+      "sources": [
+        "Hacker News",
+        "Hugging Face",
+        "The Decoder"
+      ],
+      "title": "Inkling 2 Mini 继续升温：HN 1,314 分，HF likes 一天翻倍至 2,255",
+      "plugins": {
+        "momentum": {
+          "score": 41
+        }
+      }
+    },
+    {
+      "action": "仅记录；做 agent 能力评估的人可读 METR 原文，别把 40 小时当成“能独立工作一周”。",
+      "body": "METR 11 月 20 日发布 Time Horizons 2.0：前沿模型 50% 成功率对应的任务时长，GPT-6 Astra 约 40 小时、Claude Opus 5.5 约 39 小时；任务时长每约 3.6 个月翻倍。需注意：95% 置信区间极宽（Astra 13–2,645 小时），仅 9% 的人类基线是实测；按趋势外推 2027 年 7 月达 200 小时，但 METR 提示那不是预测；开放式研究判断任务上模型仍明显落后。",
+      "i18n": {
+        "en": {
+          "action": "Just record it; people working on agent capability evaluation can read METR's original, and should not read 40 hours as 'able to work alone for a week'.",
+          "body": "METR released Time Horizons 2.0 on November 20: the task length at which frontier models succeed 50% of the time is about 40 hours for GPT-6 Astra and about 39 hours for Claude Opus 5.5, with task length doubling roughly every 3.6 months. Caveats: the 95% confidence intervals are extremely wide (13–2,645 hours for Astra), only 9% of the human baselines are measured rather than estimated, and the trend extrapolates to 200 hours by July 2027 — which METR warns is not a forecast; on open-ended research-judgment tasks, models still lag well behind.",
+          "title": "METR Time Horizons 2.0: GPT-6 Astra at about 40 hours, Opus 5.5 at about 39 hours"
+        },
+        "ja": {
+          "action": "記録のみ。エージェントの能力評価に携わる人はMETRの原文を読むとよい。40時間を「1週間ひとりで働ける」と受け取らないこと。",
+          "body": "METRは11月20日、Time Horizons 2.0を発表した。フロンティアモデルが50%の成功率でこなせるタスクの長さは、GPT-6 Astraが約40時間、Claude Opus 5.5が約39時間で、タスクの長さは約3.6か月ごとに倍増している。ただし注意点がある。95%信頼区間はきわめて広く（Astraは13～2,645時間）、人間のベースラインのうち実測は9%のみ。トレンドを外挿すると2027年7月に200時間に達するが、METRはそれが予測ではないと警告している。オープンエンドな研究判断タスクでは、モデルは依然として大きく遅れている。",
+          "title": "METR Time Horizons 2.0：GPT-6 Astraは約40時間、Opus 5.5は約39時間"
+        }
+      },
+      "is_new": true,
+      "level": "watch",
+      "links": [
+        "https://mlq.ai/news/metr-says-frontier-ai-models-can-now-finish-tasks-that-take-humans-about-a-work-week/",
+        "https://casrai.org/news/metr-th2-ai-time-horizons-research-judgment-evaluation-2026"
+      ],
+      "sources": [
+        "METR",
+        "The Information",
+        "MIT Technology Review"
+      ],
+      "title": "METR 时间跨度 2.0：GPT-6 Astra 约 40 小时、Opus 5.5 约 39 小时",
+      "plugins": {
+        "momentum": {
+          "score": 41
+        }
+      }
+    },
+    {
+      "action": "仅记录；本地跑模型的人可关注 Hy4-mini。",
+      "body": "腾讯混元团队 11 月 20 日在 r/LocalLLaMA 做 AMA（帖子 1,000+ upvotes），确认 Hy4-mini 与约 35B-A3B Flash-Lite 在路线图上；Hy4 Flash 的 KV 缓存约 Hy4 的六分之一。Hugging Face：Hy4-flash 532 likes / 5,588 下载；Hy4 权重 11 月 20 日开源，770B 总参数/49B 激活、1M 上下文。",
+      "i18n": {
+        "en": {
+          "action": "Just record it; people running models locally can watch for Hy4-mini.",
+          "body": "Tencent's Hunyuan team held an AMA on r/LocalLLaMA on November 20 (the thread drew 1,000+ upvotes), confirming Hy4-mini and a roughly 35B-A3B Flash-Lite on the roadmap; Hy4 Flash's KV cache is about one-sixth of Hy4's. On Hugging Face, Hy4-flash has 532 likes / 5,588 downloads; Hy4's weights were open-sourced on November 20 — 770B total parameters / 49B active, with a 1M-token context.",
+          "title": "Tencent Hy4 Flash: Reddit AMA drew 1,000+ upvotes, Hy4-mini roadmap confirmed"
+        },
+        "ja": {
+          "action": "記録のみ。ローカルでモデルを動かす人はHy4-miniに注目するとよい。",
+          "body": "テンセントの混元チームは11月20日にr/LocalLLaMAでAMAを実施し（スレッドは1,000以上のupvoteを獲得）、Hy4-miniと約35B-A3BのFlash-Liteがロードマップにあることを確認した。Hy4 FlashのKVキャッシュはHy4の約6分の1。Hugging FaceではHy4-flashが532 likes／5,588ダウンロード。Hy4の重みは11月20日にオープンソース化され、総パラメータ770B／活性化49B、コンテキストは1Mトークン。",
+          "title": "テンセントHy4 Flash：Reddit AMAは1,000超のupvote、Hy4-miniのロードマップを確認"
+        }
+      },
+      "is_new": false,
+      "level": "watch",
+      "links": [
+        "https://huggingface.co/tencent/Hy4-flash",
+        "https://huggingface.co/tencent/Hy4"
+      ],
+      "sources": [
+        "Reddit",
+        "Hugging Face"
+      ],
+      "title": "腾讯 Hy4 Flash：Reddit AMA 逾 1,000 赞，确认 Hy4-mini 路线图",
+      "plugins": {
+        "momentum": {
+          "score": 36
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "0700.HK"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "action": "仅记录。",
+      "body": "6,918 stars → 7,324，创建 5 天、日均 1,464.8，仍是本期 GitHub 增速之首。单源（GitHub Trending）。",
+      "i18n": {
+        "en": {
+          "action": "Just record it.",
+          "body": "From 6,918 to 7,324 stars, created 5 days ago at 1,464.8 stars per day, still the fastest-growing repo on GitHub this scan. Single source (GitHub Trending).",
+          "title": "rust-anything: 6,918 → 7,324 stars, still the fastest-growing repo on GitHub"
+        },
+        "ja": {
+          "action": "記録のみ。",
+          "body": "6,918スターから7,324へ。公開から5日で1日あたり1,464.8スターと、今期もGitHubで最も伸びている。単一ソース（GitHub Trending）。",
+          "title": "rust-anything：6,918→7,324スター、GitHubで今も最も伸びている"
+        }
+      },
+      "is_new": false,
+      "level": "watch",
+      "links": [
+        "https://github.com/erkamyaman/rust-anything"
+      ],
+      "sources": [
+        "GitHub"
+      ],
+      "title": "rust-anything：6,918→7,324 stars，仍是 GitHub 增速之首",
+      "plugins": {
+        "momentum": {
+          "score": 31
+        }
+      }
+    },
+    {
+      "action": "仅记录。",
+      "body": "Apple 的 Depth Pro 2：arXiv 2611.26603（11 月 19 日）+ Hugging Face apple/DepthPro2（189 likes）双源出现；图像与视频的全分辨率度量深度估计。量级尚小。",
+      "i18n": {
+        "en": {
+          "action": "Just record it.",
+          "body": "Apple's Depth Pro 2 appeared from two sources: arXiv 2611.26603 (November 19) and Hugging Face's apple/DepthPro2 (189 likes); it estimates dense metric depth for images and video at full resolution. Still small in scale.",
+          "title": "Depth Pro 2: arXiv paper plus Apple model on Hugging Face, two sources at once"
+        },
+        "ja": {
+          "action": "記録のみ。",
+          "body": "AppleのDepth Pro 2が2つのソースから登場した。arXiv 2611.26603（11月19日）とHugging Faceのapple/DepthPro2（189 likes）。画像と動画の全解像度でのメートル単位の深度推定を行う。規模はまだ小さい。",
+          "title": "Depth Pro 2：arXiv論文とAppleのHFモデルが同時に登場"
+        }
+      },
+      "is_new": true,
+      "level": "echo",
+      "links": [
+        "https://arxiv.org/abs/2611.26603",
+        "https://huggingface.co/apple/DepthPro2"
+      ],
+      "sources": [
+        "arXiv",
+        "Hugging Face"
+      ],
+      "title": "Depth Pro 2：arXiv 论文 + Apple HF 模型双源出现",
+      "plugins": {
+        "momentum": {
+          "score": 36
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "AAPL"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

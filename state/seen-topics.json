@@ -1074,7 +1074,7 @@
     {
       "name": "腾讯 Hy4 Flash",
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-21",
       "sources": [
         "OpenRouter",
         "Reddit",
@@ -1094,6 +1094,10 @@
         },
         {
           "date": "2026-11-19",
+          "grade": "watch"
+        },
+        {
+          "date": "2026-11-21",
           "grade": "watch"
         }
       ],
@@ -1749,6 +1753,10 @@
         {
           "date": "2026-11-21",
           "grade": "watch"
+        },
+        {
+          "date": "2026-11-21",
+          "grade": "watch"
         }
       ],
       "review": {
@@ -2273,11 +2281,18 @@
         "Reddit",
         "X",
         "WSJ",
-        "The Economist"
+        "The Economist",
+        "Wikipedia",
+        "AP",
+        "BBC"
       ],
       "history": [
         {
           "date": "2026-11-20",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-21",
           "grade": "must"
         },
         {
@@ -2301,12 +2316,17 @@
         "Hugging Face",
         "Hacker News",
         "Reddit",
-        "OpenRouter"
+        "OpenRouter",
+        "The Decoder"
       ],
       "history": [
         {
           "date": "2026-11-20",
           "grade": "watch"
+        },
+        {
+          "date": "2026-11-21",
+          "grade": "must"
         },
         {
           "date": "2026-11-21",
@@ -2435,6 +2455,95 @@
       "last_seen": "2026-11-21",
       "sources": [
         "Ars Technica"
+      ],
+      "history": [
+        {
+          "date": "2026-11-21",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-21"
+      }
+    },
+    {
+      "name": "美股 AI 交易大回调",
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-21",
+      "sources": [
+        "WSJ",
+        "NPR",
+        "The Decoder",
+        "Google News"
+      ],
+      "history": [
+        {
+          "date": "2026-11-21",
+          "grade": "must"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-21"
+      }
+    },
+    {
+      "name": "Leonida",
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-21",
+      "sources": [
+        "GitHub",
+        "Destructoid",
+        "GamesRadar",
+        "Wikipedia"
+      ],
+      "history": [
+        {
+          "date": "2026-11-21",
+          "grade": "must"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-21"
+      }
+    },
+    {
+      "name": "METR 时间跨度 2.0",
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-21",
+      "sources": [
+        "METR",
+        "The Information",
+        "MIT Technology Review"
+      ],
+      "history": [
+        {
+          "date": "2026-11-21",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-21"
+      }
+    },
+    {
+      "name": "Depth Pro 2",
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-21",
+      "sources": [
+        "arXiv",
+        "Hugging Face"
       ],
       "history": [
         {
