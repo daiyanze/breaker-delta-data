@@ -1729,7 +1729,7 @@
     {
       "name": "rust-anything",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "sources": [
         "GitHub"
       ],
@@ -1744,6 +1744,10 @@
         },
         {
           "date": "2026-11-20",
+          "grade": "watch"
+        },
+        {
+          "date": "2026-11-21",
           "grade": "watch"
         }
       ],
@@ -2057,7 +2061,7 @@
     {
       "name": "higurashi-ai/Haru-4B",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "sources": [
         "Hugging Face"
       ],
@@ -2068,6 +2072,10 @@
         },
         {
           "date": "2026-11-20",
+          "grade": "echo"
+        },
+        {
+          "date": "2026-11-21",
           "grade": "echo"
         }
       ],
@@ -2256,18 +2264,24 @@
     {
       "name": "黎曼猜想证明声称（Claude 参与）",
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "sources": [
         "Hacker News",
         "Scientific American",
         "TechCrunch",
         "The Verge",
         "Reddit",
-        "X"
+        "X",
+        "WSJ",
+        "The Economist"
       ],
       "history": [
         {
           "date": "2026-11-20",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-21",
           "grade": "must"
         }
       ],
@@ -2281,17 +2295,22 @@
     {
       "name": "Thinking Machines Lab Inkling 2 Mini",
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "sources": [
         "Thinking Machines Lab",
         "Hugging Face",
         "Hacker News",
-        "Reddit"
+        "Reddit",
+        "OpenRouter"
       ],
       "history": [
         {
           "date": "2026-11-20",
           "grade": "watch"
+        },
+        {
+          "date": "2026-11-21",
+          "grade": "must"
         }
       ],
       "review": {
@@ -2344,6 +2363,90 @@
         "result": null,
         "checked_on": null,
         "_first_seen": "2026-11-20"
+      }
+    },
+    {
+      "name": "Language Models Can Rewrite Their Own Weights",
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-21",
+      "sources": [
+        "Hacker News",
+        "arXiv",
+        "HF Daily Papers"
+      ],
+      "history": [
+        {
+          "date": "2026-11-21",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-21"
+      }
+    },
+    {
+      "name": "OpenAI 对抗蒸馏",
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-21",
+      "sources": [
+        "OpenAI",
+        "The Decoder"
+      ],
+      "history": [
+        {
+          "date": "2026-11-21",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-21"
+      }
+    },
+    {
+      "name": "RadixArk DaisyRose-27B",
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-21",
+      "sources": [
+        "OpenRouter",
+        "Hugging Face"
+      ],
+      "history": [
+        {
+          "date": "2026-11-21",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-21"
+      }
+    },
+    {
+      "name": "Google 搜索首页改版",
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-21",
+      "sources": [
+        "Ars Technica"
+      ],
+      "history": [
+        {
+          "date": "2026-11-21",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-21"
       }
     }
   ]

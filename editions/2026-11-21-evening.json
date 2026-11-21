@@ -1,0 +1,271 @@
+{
+  "date": "2026-11-21",
+  "items": [
+    {
+      "action": "写 tweet，强调“机器验证几乎通过、数学界尚未正式接受”，别写成已经获奖。",
+      "body": "MIT 数学家 Andrew Sutherland 独立重建了 Alpöge 的 Lean 形式化：175,187 个文件全部通过 leanchecker、零拒绝，仅用 Lean 的 3 条标准公理；独立内核 nanoda 于 11 月 20 日 19:05 UTC 同样接受证明。Scientific American 标题称证明“几乎肯定为真”。仍待完成：comparator 运行（核查代码未偷换命题中符号的含义、多内核交叉验证），通常只需数小时；克雷研究所仍将该问题列为未解。HN 主帖 2,583 分/1,784 评（早报 2,041/1,385），Masullo 的全人类证明声称第二帖 1,978 分/914 评；陶哲轩、Scott Aaronson 各发长文跟进，《经济学人》、WSJ 亦跟进。",
+      "i18n": {
+        "en": {
+          "action": "Write a tweet stressing 'machine verification has almost fully passed, but the math community has not formally accepted it yet' — do not present it as a prize already won.",
+          "body": "MIT mathematician Andrew Sutherland independently rebuilt Alpöge's Lean formalization: all 175,187 files passed leanchecker with zero rejections, using only Lean's three standard axioms; the independent kernel nanoda also accepted the proof at 19:05 UTC on November 20. Scientific American's headline calls the proof 'almost certainly true'. Still pending: the comparator run (checking that the code did not redefine any symbol in the statement, plus cross-validation across several kernels), which usually takes only hours; the Clay Institute still lists the problem as unsolved. The main Hacker News thread has 2,583 points / 1,784 comments (2,041 / 1,385 in the morning edition); Masullo's all-human proof claim is a second thread at 1,978 / 914; Terence Tao and Scott Aaronson each published long follow-ups, and The Economist and the WSJ followed up too.",
+          "title": "Riemann Hypothesis proof claim: an independent rebuild passed everything, Scientific American calls it 'almost certainly true', one machine check left"
+        },
+        "ja": {
+          "action": "ツイートを書く。「機械検証はほぼ通過したが、数学界はまだ正式に受け入れていない」と強調し、受賞済みのように書かない。",
+          "body": "MITの数学者アンドリュー・サザーランドがアルペゲのLean形式化を独立に再構築した。175,187ファイル全てがleancheckerをゼロ却下で通過し、Leanの3つの標準公理のみを使用。独立カーネルのnanodaも11月20日19時05分（UTC）に証明を受け入れた。Scientific Americanの見出しは証明を「ほぼ確実に正しい」と呼ぶ。残っているのはcomparatorの実行（命題中の記号の意味がすり替えられていないことの確認と、複数カーネルでの相互検証）で、通常は数時間で終わる。クレイ研究所は依然としてこの問題を未解決としている。Hacker Newsのメインスレッドは2,583ポイント／1,784コメント（朝刊は2,041／1,385）。マスッロの全て人間による証明主張は2番目のスレッドで1,978／914。テレンス・タオとスコット・アーロンソンがそれぞれ長文のフォローアップを発表し、エコノミストとWSJも追報した。",
+          "title": "リーマン予想の証明主張：独立した再構築が全て通過、SciAmは「ほぼ確実に正しい」、残るは最後の機械チェックのみ"
+        }
+      },
+      "is_new": false,
+      "level": "must",
+      "links": [
+        "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/",
+        "https://alpo.ge/remark.pdf",
+        "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/"
+      ],
+      "sources": [
+        "Hacker News",
+        "Scientific American",
+        "WSJ",
+        "The Economist",
+        "X"
+      ],
+      "title": "黎曼猜想证明声称：独立重建全部通过，SciAm 称“几乎肯定为真”，只剩最后一项机器核查",
+      "plugins": {
+        "momentum": {
+          "score": 51
+        }
+      }
+    },
+    {
+      "action": "写 tweet，写“本地小模型的第一天：HN 937 分、HF likes 一天 10 倍”，本地跑模型的人可试 Ollama 版。",
+      "body": "Thinking Machines Lab 的本地小模型发酵加速：HN 141 分/13 评 → 937 分/175 评；Hugging Face likes 97 → 1,050（一天约 10.8 倍），OpenRouter 11 月 21 日上架；TML 团队在 r/LocalLLaMA 亲自回帖，称尺寸就是按该版块用户需求定的，并透露全程 NVFP4 训练、1-bit 量化后仍保持约 90% top-1。26.4B 总参数/每 token 激活 3.4B，约 20GB，32GB+ 内存 Mac 可跑；自报 DeepSWE v1.1 48.2%、Vals 46.5%，均为官方自报、未独立验证。",
+      "i18n": {
+        "en": {
+          "action": "Write a tweet on 'day one for the local small model: 937 HN points, HF likes up 10x in a day'; people running models locally can try the Ollama build.",
+          "body": "Thinking Machines Lab's local small model is picking up steam: Hacker News went from 141 points / 13 comments to 937 / 175; Hugging Face likes rose from 97 to 1,050 (about 10.8x in a day), and OpenRouter listed it on November 21; the lab's team replied in person on r/LocalLLaMA, saying the size was chosen from that subreddit's requests, and noting end-to-end NVFP4 training with about 90% top-1 retained even at 1-bit quantization. It has 26.4B total parameters / 3.4B active per token, about 20 GB, and runs on a Mac with 32 GB or more; the lab reports DeepSWE v1.1 at 48.2% and Vals at 46.5%, both lab-reported and not independently verified.",
+          "title": "Inkling 2 Mini heats up: Hacker News 141 → 937 points, Hugging Face likes 97 → 1,050, the lab team replied in the thread itself"
+        },
+        "ja": {
+          "action": "ツイートを書く。「ローカル小型モデルの初日：HN 937ポイント、HFのlikesは1日で10倍」。ローカルでモデルを動かす人はOllama版を試せる。",
+          "body": "Thinking Machines Labのローカル向け小型モデルが勢いを増している。Hacker Newsは141ポイント／13コメントから937／175へ。Hugging Faceのlikesは97から1,050へ（1日で約10.8倍）。OpenRouterには11月21日に掲載された。同社のチームはr/LocalLLaMAに自ら返信し、サイズはそのサブレディットの要望に合わせて決めたと説明。NVFP4で端から端まで学習し、1ビット量子化でもtop-1を約90%維持すると明かした。総パラメータ26.4B、トークンあたりの活性化は3.4B、約20GBで、32GB以上のメモリを持つMacで動作する。発表によればDeepSWE v1.1は48.2%、Valsは46.5%だが、いずれも同社の自己申告で独立検証はまだない。",
+          "title": "Inkling 2 Miniが加熱：HNは141→937ポイント、HFのlikesは97→1,050、開発チームが自らスレッドに返信"
+        }
+      },
+      "is_new": false,
+      "level": "must",
+      "links": [
+        "https://thinkingmachines.ai/news/inkling-2-mini/",
+        "https://huggingface.co/blog/inkling2mini"
+      ],
+      "sources": [
+        "Thinking Machines Lab",
+        "Hugging Face",
+        "Hacker News",
+        "Reddit",
+        "OpenRouter"
+      ],
+      "title": "Inkling 2 Mini 升温：HN 141→937 分，HF likes 97→1,050，团队亲自下场回帖",
+      "plugins": {
+        "momentum": {
+          "score": 51
+        }
+      }
+    },
+    {
+      "action": "仅记录；关注同行复现与讨论，别把单篇论文当定论。",
+      "body": "arXiv 2611.21885 提出语言模型可改写自身权重：早报仅 HN 263 分/91 评、单期研究信号未入选正文；本期 HN 400 分/117 评，HF Daily Papers、Bluesky、科技媒体组跟进，形成多源共振。论文性质，尚未有独立复现报道。",
+      "i18n": {
+        "en": {
+          "action": "Just record it; watch for peer reproduction and discussion, and do not treat a single paper as settled.",
+          "body": "arXiv 2611.21885 argues that language models can rewrite their own weights: in the morning edition it had only 263 Hacker News points / 91 comments and stayed out of the main text as a single-scan research signal; this edition it reached 400 / 117, with Hugging Face Daily Papers, Bluesky and the tech-media group following up, forming multi-source resonance. It is a paper; no independent reproduction has been reported yet.",
+          "title": "'Language Models Can Rewrite Their Own Weights': the arXiv paper hit 400 HN points and multi-source resonance"
+        },
+        "ja": {
+          "action": "記録のみ。同僚による再現と議論に注目し、1本の論文を結論としない。",
+          "body": "arXiv 2611.21885は、言語モデルが自らの重みを書き換えられると主張する。朝刊ではHacker News 263ポイント／91コメントのみで、単発の研究シグナルとして本文には入らなかった。今期は400／117に達し、Hugging Face Daily Papers、Bluesky、テックメディア群が追随して複数ソースの共鳴となった。論文であり、独立した再現の報告はまだない。",
+          "title": "「言語モデルは自らの重みを書き換えられる」：arXiv論文がHN 400ポイント、複数ソースで共鳴し本文入り"
+        }
+      },
+      "is_new": true,
+      "level": "watch",
+      "links": [
+        "https://arxiv.org/abs/2611.21885",
+        "https://huggingface.co/papers/2611.21885"
+      ],
+      "sources": [
+        "Hacker News",
+        "arXiv",
+        "HF Daily Papers"
+      ],
+      "title": "“语言模型能改写自身权重”：arXiv 论文 HN 400 分，多源共振进正文",
+      "plugins": {
+        "momentum": {
+          "score": 41
+        }
+      }
+    },
+    {
+      "action": "仅记录；做 agent 安全/模型防护的人可读原文。",
+      "body": "OpenAI 11 月 20 日发文“Combatting adversarial distillation”：通过新防护让攻击者更难从最新模型中抽取其思考过程；The Decoder 同日跟进解读。这是防御性研究发布，无性能数字、无新模型。",
+      "i18n": {
+        "en": {
+          "action": "Just record it; people working on agent security or model protection can read the original.",
+          "body": "OpenAI posted 'Combatting adversarial distillation' on November 20: new protections that make it harder for attackers to extract the reasoning of its newest models; The Decoder followed up the same day. This is a defensive research release, with no performance figures and no new model.",
+          "title": "OpenAI published 'Combatting adversarial distillation': making it harder for attackers to extract its newest models' thinking"
+        },
+        "ja": {
+          "action": "記録のみ。エージェントの安全性やモデルの保護に携わる人は原文を読むとよい。",
+          "body": "OpenAIは11月20日、「Combatting adversarial distillation」を発表した。攻撃者が最新モデルから思考過程を抽出するのを難しくする新たな防御策で、The Decoderが同日フォローアップした。防御的な研究発表であり、性能の数字も新モデルもない。",
+          "title": "OpenAIが「敵対的蒸留への対抗」を発表：攻撃者が最新モデルの思考過程を抜き取りにくくする"
+        }
+      },
+      "is_new": true,
+      "level": "watch",
+      "links": [
+        "https://openai.com/index/combatting-adversarial-distillation",
+        "https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/"
+      ],
+      "sources": [
+        "OpenAI",
+        "The Decoder"
+      ],
+      "title": "OpenAI 发“对抗蒸馏”：让攻击者更难抽走最新模型的思考过程",
+      "plugins": {
+        "momentum": {
+          "score": 36
+        }
+      }
+    },
+    {
+      "action": "仅记录。",
+      "body": "按录制行为把应用逐块改写成 Rust，覆盖 TypeScript、Python、C、Go、Ruby、Java；早报 6,526 stars → 本期 6,918，创建 4 天、日均 1,729.5，仍是本期 GitHub 增速之首。单源（GitHub Trending）。",
+      "i18n": {
+        "en": {
+          "action": "Just record it.",
+          "body": "It rewrites an app into Rust piece by piece, checked against the original's recorded behavior, covering TypeScript, Python, C, Go, Ruby and Java; 6,526 stars in the morning edition → 6,918 now, created 4 days ago at 1,729.5 stars per day, still the fastest-growing repo in this scan. Single source (GitHub Trending).",
+          "title": "rust-anything: 6,526 → 6,918 stars, still the fastest-growing repo on GitHub"
+        },
+        "ja": {
+          "action": "記録のみ。",
+          "body": "記録した動作と照らし合わせながら、アプリを少しずつRustに書き換える。TypeScript、Python、C、Go、Ruby、Javaに対応。朝刊の6,526スターから今期は6,918。公開から4日で1日あたり1,729.5スターと、今期もGitHubで最も伸びている。単一ソース（GitHub Trending）。",
+          "title": "rust-anything：6,526→6,918スター、GitHubで今も最も伸びている"
+        }
+      },
+      "is_new": false,
+      "level": "watch",
+      "links": [
+        "https://github.com/erkamyaman/rust-anything"
+      ],
+      "sources": [
+        "GitHub"
+      ],
+      "title": "rust-anything：6,526→6,918 stars，仍是 GitHub 增速之首",
+      "plugins": {
+        "momentum": {
+          "score": 31
+        }
+      }
+    },
+    {
+      "action": "仅记录。",
+      "body": "Hugging Face Trending 新面孔第 1：全双工语音对话基础模型，5,014 likes / 7,323 下载 → 本期 5,709 likes / 7,323 下载。单源（Hugging Face）。",
+      "i18n": {
+        "en": {
+          "action": "Just record it.",
+          "body": "The No. 1 new face on Hugging Face Trending: a full-duplex voice-conversation base model, 5,014 likes / 7,323 downloads → 5,709 likes / 7,323 downloads now. Single source (Hugging Face).",
+          "title": "Haru-4B: No. 1 new face on Hugging Face, a full-duplex voice model, likes 5,014 → 5,709"
+        },
+        "ja": {
+          "action": "記録のみ。",
+          "body": "Hugging Face Trendingの新顔1位。全二重音声対話のベースモデルで、5,014 likes／7,323ダウンロードから今期は5,709 likes／7,323ダウンロード。単一ソース（Hugging Face）。",
+          "title": "Haru-4B：Hugging Faceの新顔1位、全二重音声モデルがlikes 5,014→5,709"
+        }
+      },
+      "is_new": false,
+      "level": "echo",
+      "links": [
+        "https://huggingface.co/higurashi-ai/Haru-4B"
+      ],
+      "sources": [
+        "Hugging Face"
+      ],
+      "title": "Haru-4B：HF 新面孔第 1，全双工语音模型 likes 5,014→5,709",
+      "plugins": {
+        "momentum": {
+          "score": 31
+        }
+      }
+    },
+    {
+      "action": "仅记录。",
+      "body": "RadixArk 的 DaisyRose-27B：Qwen3.8-27B 经强化学习微调，面向 agent 与编码，Apache 2.0；Hugging Face 博客 11 月 18 日介绍，OpenRouter 11 月 21 日上架；HF 280 likes / 918 下载。双源（OpenRouter + Hugging Face），量级尚小。",
+      "i18n": {
+        "en": {
+          "action": "Just record it.",
+          "body": "RadixArk's DaisyRose-27B is Qwen3.8-27B fine-tuned with reinforcement learning for agent and coding work, under Apache 2.0; the Hugging Face blog covered it on November 18 and OpenRouter listed it on November 21; it has 280 likes / 918 downloads on Hugging Face. Two sources (OpenRouter + Hugging Face), still small in scale.",
+          "title": "DaisyRose-27B: an RL fine-tune of Qwen3.8-27B, listed on OpenRouter today"
+        },
+        "ja": {
+          "action": "記録のみ。",
+          "body": "RadixArkのDaisyRose-27Bは、Qwen3.8-27Bを強化学習でファインチューンしたモデルで、エージェントとコーディング向け、Apache 2.0。Hugging Faceのブログが11月18日に紹介し、OpenRouterには11月21日に掲載された。Hugging Faceでは280 likes／918ダウンロード。2ソース（OpenRouter＋Hugging Face）だが、規模はまだ小さい。",
+          "title": "DaisyRose-27B：Qwen3.8-27BのRLファインチューン、OpenRouterに本日掲載"
+        }
+      },
+      "is_new": true,
+      "level": "echo",
+      "links": [
+        "https://openrouter.ai/radixark/daisyrose-27b",
+        "https://huggingface.co/RadixArk/DaisyRose-27B"
+      ],
+      "sources": [
+        "OpenRouter",
+        "Hugging Face"
+      ],
+      "title": "DaisyRose-27B：Qwen3.8-27B 的 RL 微调，OpenRouter 今日上架",
+      "plugins": {
+        "momentum": {
+          "score": 36
+        }
+      }
+    },
+    {
+      "action": "仅记录。",
+      "body": "Ars Technica 11 月 20 日：Google 推出新搜索首页，拿掉搜索按钮、加入 AI 聊天历史侧栏。单源（Ars Technica），改版本身未见官方博客同步。",
+      "i18n": {
+        "en": {
+          "action": "Just record it.",
+          "body": "Ars Technica reported on November 20 that Google is rolling out a new search homepage that drops the search button and adds an AI chat-history sidebar. Single source (Ars Technica); no matching official blog post was seen.",
+          "title": "Google's new search homepage: the search button is gone, an AI chat-history sidebar is in"
+        },
+        "ja": {
+          "action": "記録のみ。",
+          "body": "Ars Technicaが11月20日に報じたところによれば、Googleは検索ボタンをなくし、AIチャット履歴のサイドバーを加えた新しい検索ホームページを展開している。単一ソース（Ars Technica）で、対応する公式ブログは確認できていない。",
+          "title": "Google検索のホームページが刷新：検索ボタンが消え、AIチャット履歴のサイドバーが追加"
+        }
+      },
+      "is_new": true,
+      "level": "echo",
+      "links": [
+        "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/"
+      ],
+      "sources": [
+        "Ars Technica"
+      ],
+      "title": "Google 搜索首页改版：去掉搜索按钮，加 AI 聊天历史侧栏",
+      "plugins": {
+        "momentum": {
+          "score": 31
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "GOOGL"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
