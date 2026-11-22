@@ -526,3 +526,24 @@
 - 腾讯 Hy4 Flash | 2026-11-17 早报 | 2026-11-22 早报 | Reddit, Hugging Face | 👀→👀（涨：混元团队 11 月 20 日 r/LocalLLaMA AMA 帖 1,000+ upvotes，确认 Hy4-mini 与约 35B-A3B Flash-Lite 路线图；HF likes 532 / 5,588 下载） | 待复盘
 - rust-anything | 2026-11-19 早报 | 2026-11-22 早报 | GitHub | 👀→👀（涨：6,918 → 7,324 stars，5 天日均 1,464.8，仍是 GitHub 增速之首；单源） | 待复盘
 - Depth Pro 2 | 2026-11-22 早报 | 2026-11-22 早报 | arXiv, Hugging Face | 🆕🌱（Apple 的 Depth Pro 2：arXiv 2611.26603 + HF apple/DepthPro2 189 likes 双源出现；图像与视频全分辨率度量深度估计；量级尚小） | 待复盘
+
+## 2026-11-22 晚报（18:00 JST）
+- 黎曼猜想证明声称（Claude 参与） | 2026-11-21 早报 | 2026-11-22 晚报 | Hacker News, Wikipedia, Lean, Scientific American, dev.to | 🔥→🔥（涨：Lean 官方博客核查帖 627→997 分/487→827 评；Masullo 第二帖 2,347→2,409 分/1,131→1,171 评；主帖掉出 HN 前 30；维基“Riemann hypothesis”昨日第 5，388,288 次浏览；“Levent Alpöge”第 16，102,891 次；Lean/Mathlib 11 月 21 日联合声明认证通过，comparator 与 con-leche --compare 确认定理与 Mathlib 定义一致，Ngô Bảo Châu 背书；同日 Nielsen 发文《Invalidity of the Alpoge Proposed Proof》，dev.to 称代码中几何谓词定义为 True，另有说法称 Nielsen 针对的是 Masullo 草稿——争议未决；Masullo 草稿据 Vakil 更新已发现多处问题、正在重大修订；克雷研究所仍列未解） | 待复盘
+- Leonida | 2026-11-22 早报 | 2026-11-22 晚报 | GitHub, XDA Developers, Windows Forum, Wikipedia | 🔥→🔥（涨：2,922 → 8,237 stars，约 1 天日均 8,237，GitHub 日榜第 1，增速约每小时 +269；相关项目超 9 个，Xbox2Windows 一日 1,000 stars；26,503 个 shader 已转译；仍不能启动，.exe 称 11 月 23 日放出；维基 GTA VI 昨日第 4，393,338 次浏览） | 待复盘
+- Thinking Machines Lab Inkling 2 Mini | 2026-11-21 早报 | 2026-11-22 晚报 | Hacker News, Hugging Face, Reddit, Artificial Analysis | 🔥→🔥（涨：HN 主帖 1,314→1,396 分/272→283 评；HF likes 2,255→3,394；unsloth GGUF 下载 238,152；“5.4GB 内存跑”226→447 分/42→112 评；r/LocalLLaMA 相关帖 1,567 upvotes；社区实测短板浮现：推理易入循环、知识弱于 Qwen3.8 27B、比 Qwen3.8 27B 多写约 38% token） | 待复盘
+- HD Moore 200 万金丝雀实验 | 2026-11-22 晚报 | 2026-11-22 晚报 | Ars Technica, Dragos, OpenRouter, Hacker News | 🆕🔥（11 月 21 日公布：7–11 月近 200 万条带唯一秘密的提示；至少 3 家 AI 托管商被攻破；200 个 AWS 凭证 10 月下旬被盗用；OpenRouter 称经 AtlasCloud、Novita、StreamLake 转发的 MiniMax 请求可能被第三方读取，9 月 23 日–10 月 19 日窗口；某中国实验室抓取超半数提示中的秘密 URL，含约三分之二标“零数据保留”的请求；OpenRouter 博客帖 HN 129 分/49 评） | 待复盘
+- rust-anything | 2026-11-19 早报 | 2026-11-22 晚报 | GitHub | 👀→👀（涨：7,324 → 7,617 stars，5 天日均 1,523.4；退居 GitHub 增速次席，Leonida 居首；单源） | 待复盘
+- Product Hunt agent 记忆主题簇 | 2026-11-22 晚报 | 2026-11-22 晚报 | Product Hunt | 🆕🌱（AI Context Flow MCP 约 93 upvotes、Shipyard、OpenVorld、Codemany 约 85 upvotes；单源，连续第二天同一主题，昨日为 agent 可观测性） | 待复盘
+- FBI 犯罪数据库被黑传闻 | 2026-11-22 晚报 | 2026-11-22 晚报 | TechCrunch, CNN | 🆕🌱（特朗普称“不太好”；TechCrunch 11 月 21 日、CNN 11 月 20 日跟进；细节未核实） | 待复盘
+- 胰腺癌新药 daraxonrasib | 2026-11-22 晚报 | 2026-11-22 晚报 | Hacker News, The Guardian | 🆕🌱（HN 934 分/208 评，《卫报》称“数十年来最大突破”；社会观察向） | 待复盘
+- 美股 AI 交易大回调 | 2026-11-22 早报 | 2026-11-22 晚报 | WSJ, NPR, The Decoder, Google News, Bloomberg | 🔥→🔥（平：周日无交易，无新数字；彭博称中国 AI 股蒸发 1.7 万亿美元，叙事延续） | 待复盘
+- METR 时间跨度 2.0 | 2026-11-22 早报 | 2026-11-22 晚报 | METR, The Information, MIT Technology Review | 👀→👀（平，无新动静） | 待复盘
+- 腾讯 Hy4 Flash | 2026-11-17 早报 | 2026-11-22 晚报 | Reddit, Hugging Face | 👀→👀（微涨：HF likes 532→567；无新消息） | 待复盘
+- Depth Pro 2 | 2026-11-22 早报 | 2026-11-22 晚报 | arXiv, Hugging Face | 🌱→🌱（微涨：HF likes 189→220） | 待复盘
+- higurashi-ai/Haru-4B | 2026-11-17 早报 | 2026-11-22 晚报 | Hugging Face | 🌱→🌱（涨：下载 7,323→8,120；likes 本期抓取口径与台账不一致，暂不采用） | 待复盘
+- Wireless-Device-Battery-Monitor | 2026-11-19 晚报 | 2026-11-22 晚报 | GitHub | 👀→👀（涨：5,499 → 5,930 stars） | 待复盘
+- GestaltX | 2026-11-14 早报 | 2026-11-22 晚报 | GitHub | 🌱→🌱（微涨：8,677 → 8,766 stars） | 待复盘
+- deepseek-ai/chat-demo | 2026-11-15 晚报 | 2026-11-22 晚报 | GitHub | 🌱→🌱（微涨：5,170 → 5,249 stars） | 待复盘
+- Gemini 4 Neon | 2026-11-19 晚报 | 2026-11-22 晚报 | DeepMind 官方博客, Hacker News, X, Cursor, OpenRouter, Product Hunt, The Decoder | 🔥→🔥（平，无新数字；PH 周榜 #39，148 upvotes） | 待复盘
+- Language Models Can Rewrite Their Own Weights | 2026-11-21 晚报 | 2026-11-22 晚报 | Hacker News, arXiv, HF Daily Papers | 👀→👀（平：未见于本期 HN 前 30，无新动静） | 待复盘
+- OpenAI 对抗蒸馏 / Signal 默认屏蔽截图防 AI agent 读屏 / Google 搜索首页改版 | 各首次发现时间见上文 | 2026-11-22 晚报 | 见上文 | 平，无新动静 | 待复盘

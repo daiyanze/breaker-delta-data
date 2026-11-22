@@ -1733,7 +1733,7 @@
     {
       "name": "rust-anything",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "sources": [
         "GitHub"
       ],
@@ -1756,6 +1756,10 @@
         },
         {
           "date": "2026-11-21",
+          "grade": "watch"
+        },
+        {
+          "date": "2026-11-22",
           "grade": "watch"
         }
       ],
@@ -2272,7 +2276,7 @@
     {
       "name": "黎曼猜想证明声称（Claude 参与）",
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "sources": [
         "Hacker News",
         "Scientific American",
@@ -2284,7 +2288,9 @@
         "The Economist",
         "Wikipedia",
         "AP",
-        "BBC"
+        "BBC",
+        "Lean",
+        "dev.to"
       ],
       "history": [
         {
@@ -2297,6 +2303,10 @@
         },
         {
           "date": "2026-11-21",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-22",
           "grade": "must"
         }
       ],
@@ -2310,14 +2320,15 @@
     {
       "name": "Thinking Machines Lab Inkling 2 Mini",
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "sources": [
         "Thinking Machines Lab",
         "Hugging Face",
         "Hacker News",
         "Reddit",
         "OpenRouter",
-        "The Decoder"
+        "The Decoder",
+        "Artificial Analysis"
       ],
       "history": [
         {
@@ -2330,6 +2341,10 @@
         },
         {
           "date": "2026-11-21",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-22",
           "grade": "must"
         }
       ],
@@ -2495,16 +2510,22 @@
     {
       "name": "Leonida",
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "sources": [
         "GitHub",
         "Destructoid",
         "GamesRadar",
-        "Wikipedia"
+        "Wikipedia",
+        "XDA Developers",
+        "Windows Forum"
       ],
       "history": [
         {
           "date": "2026-11-21",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-22",
           "grade": "must"
         }
       ],
@@ -2556,6 +2577,91 @@
         "result": null,
         "checked_on": null,
         "_first_seen": "2026-11-21"
+      }
+    },
+    {
+      "name": "HD Moore 200 万金丝雀实验",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "sources": [
+        "Ars Technica",
+        "Dragos",
+        "OpenRouter",
+        "Hacker News"
+      ],
+      "history": [
+        {
+          "date": "2026-11-22",
+          "grade": "must"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-22"
+      }
+    },
+    {
+      "name": "Product Hunt agent 记忆主题簇",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "sources": [
+        "Product Hunt"
+      ],
+      "history": [
+        {
+          "date": "2026-11-22",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-22"
+      }
+    },
+    {
+      "name": "FBI 犯罪数据库被黑传闻",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "sources": [
+        "TechCrunch",
+        "CNN"
+      ],
+      "history": [
+        {
+          "date": "2026-11-22",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-22"
+      }
+    },
+    {
+      "name": "胰腺癌新药 daraxonrasib",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "sources": [
+        "Hacker News",
+        "The Guardian"
+      ],
+      "history": [
+        {
+          "date": "2026-11-22",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-22"
       }
     }
   ]

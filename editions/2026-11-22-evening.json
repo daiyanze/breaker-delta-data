@@ -1,0 +1,268 @@
+{
+  "date": "2026-11-22",
+  "items": [
+    {
+      "action": "写 tweet，写“认证通过、质疑并存、结论未决”，别写成已获奖，也别写成已被证伪。",
+      "body": "Lean 官方博客核查帖 627 分/487 评 → 997 分/827 评；Masullo 第二帖 2,347 分/1,131 评 → 2,409 分/1,171 评；主帖已掉出 HN 前 30。维基百科“Riemann hypothesis”昨日第 5，388,288 次浏览（早报第 6，295,157 次）；“Levent Alpöge”第 16，102,891 次（早报第 11，124,632 次）。Lean 与 Mathlib 11 月 21 日联合声明：comparator 与 con-leche --compare 确认定理与 Mathlib 定义一致，多检查器通过，Fields 奖得主 Ngô Bảo Châu 背书。同日出现针对性质疑：Nielsen 发文《Invalidity of the Alpoge Proposed Proof》，dev.to 文章称代码中几何谓词被定义为 True；另有说法称 Nielsen 针对的是 Masullo 草稿——争议未决。Masullo 的全人类草稿据 Vakil 更新已发现多处问题、正在重大修订。克雷研究所仍列未解。",
+      "i18n": {
+        "en": {
+          "action": "Write a tweet saying 'certified, but challenged — no verdict yet'; do not present it as a prize already won or as already debunked.",
+          "body": "The Lean community's verification post went from 627 points / 487 comments to 997 / 827; Masullo's second thread went from 2,347 / 1,131 to 2,409 / 1,171; the main thread has dropped off the HN front 30. On Wikipedia, 'Riemann hypothesis' was yesterday's No. 5 most-read page with 388,288 views (No. 6 with 295,157 in the morning edition), and 'Levent Alpöge' ranked No. 16 with 102,891 views (No. 11 with 124,632 in the morning). Lean and Mathlib's joint statement of November 21 says comparator and con-leche --compare confirmed the theorem matches Mathlib's definition, multiple checkers passed, and Fields Medalist Ngô Bảo Châu endorsed it. The same day a pointed challenge appeared: Nielsen posted 'Invalidity of the Alpoge Proposed Proof', and a dev.to article says the code defines the geometry predicate as True; another account says Nielsen's target is Masullo's draft — the dispute is unresolved. Masullo's all-human draft itself has had multiple problems found, per Vakil's update, and is undergoing major revision. The Clay Institute still lists the problem as unsolved.",
+          "title": "Riemann Hypothesis proof claim: Lean/Mathlib certification done, a pointed challenge appears the same day, no verdict yet"
+        },
+        "ja": {
+          "action": "ツイートを書く。「認証は通過したが異議も出ており、結論はまだ出ていない」とし、受賞済みとも反証済みとも書かない。",
+          "body": "Leanコミュニティの検証投稿は627ポイント／487コメントから997／827へ。マスッロの2番目のスレッドは2,347／1,131から2,409／1,171へ。メインスレッドはHNの上位30位から落ちた。ウィキペディアでは「Riemann hypothesis」が昨日の閲覧数5位で388,288回（朝刊は6位で295,157回）、「Levent Alpöge」が16位で102,891回（朝刊は11位で124,632回）。LeanとMathlibの11月21日の共同声明では、comparatorとcon-leche --compareが定理とMathlibの定義の一致を確認し、複数のチェッカーが通過、フィールズ賞受賞者のゴー・バオ・チャウ氏が支持した。同日、的を絞った異議も登場した。ニールセンが「Invalidity of the Alpoge Proposed Proof」を投稿し、dev.toの記事はコード中で幾何述語がTrueと定義されていると指摘する。一方でニールセンの対象はマスッロ草稿だという説もあり、論争は未解決。マスッロの全て人間による草稿自体も、ヴァキルの更新によれば複数の問題が見つかり、大幅な改訂中。クレイ研究所は依然として未解決としている。",
+          "title": "リーマン予想の証明主張：Lean／Mathlibの認証は完了、同日に的を絞った異議も登場、結論はまだ出ていない"
+        }
+      },
+      "is_new": false,
+      "level": "must",
+      "links": [
+        "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+        "https://alpo.ge/remark.pdf",
+        "https://dev.to/frankchu/grh-proofs-geometry-is-fun-true-in-24-files-2n2b"
+      ],
+      "sources": [
+        "Hacker News",
+        "Wikipedia",
+        "Lean",
+        "Scientific American",
+        "dev.to"
+      ],
+      "title": "黎曼猜想证明声称：Lean/Mathlib 认证通过，同日出现针对性质疑，结论未决",
+      "plugins": {
+        "momentum": {
+          "score": 68
+        }
+      }
+    },
+    {
+      "action": "写 tweet，提醒“仓库无游戏文件、别下假冒 .exe”；仅记录亦可。",
+      "body": "2,922 stars → 8,237 stars（上线约 1 天，日均 8,237），GitHub 日榜第 1，增速约每小时 +269；相关项目已超 9 个，Xbox2Windows 一日 1,000 stars。项目自报已转译 26,503 个 shader 至 Vulkan；游戏仍不能启动，仓库无游戏文件，.exe 称 11 月 23 日放出。维基百科 GTA VI 昨日第 4，393,338 次浏览（早报第 3，540,793 次）。XDA、Windows Forum、Destructoid 跟进报道。",
+      "i18n": {
+        "en": {
+          "action": "A tweet could warn that 'the repo contains no game files — do not download fake .exe files'; just recording it works too.",
+          "body": "From 2,922 to 8,237 stars in about one day (8,237 per day), No. 1 on GitHub's daily trending, growing at roughly +269 stars per hour; related projects now number more than 9, with Xbox2Windows at 1,000 stars in a day. The project reports having translated 26,503 shaders to Vulkan; the game still does not boot, the repo contains no game files, and the .exe is promised for November 23. On Wikipedia, GTA VI was yesterday's No. 4 most-read page with 393,338 views (No. 3 with 540,793 in the morning edition). XDA, Windows Forum and Destructoid have covered it.",
+          "title": "Leonida: 8,237 stars in about a day, GTA 6 PC recompilation nearly triples in a day"
+        },
+        "ja": {
+          "action": "ツイートを書くなら「リポジトリにゲームファイルはなく、偽の.exeをダウンロードしないように」と注意喚起するとよい。記録のみでもよい。",
+          "body": "2,922スターから8,237へ（公開から約1日で1日あたり8,237）。GitHubの日次トレンド1位で、1時間あたり約+269スターのペース。関連プロジェクトは9件を超え、Xbox2Windowsは1日で1,000スター。プロジェクトは26,503のシェーダーをVulkanへ翻訳したと報告している。ゲームはまだ起動せず、リポジトリにゲームファイルはなく、.exeは11月23日に出すとしている。ウィキペディアではGTA VIが昨日の閲覧数4位で393,338回（朝刊は3位で540,793回）。XDA、Windows Forum、Destructoidが追報した。",
+          "title": "Leonida：約1日で8,237スター、GTA 6のPC向け再コンパイルが1日で3倍近くに"
+        }
+      },
+      "is_new": false,
+      "level": "must",
+      "links": [
+        "https://github.com/ItsNotRexed/Leonida",
+        "https://www.xda-developers.com/gta-6-arrive-pc-soon-developer-unofficial-switch-2-zelda-ocarina-of-time-remake-port/",
+        "https://windowsforum.com/news/leonida-translates-gta-6-xbox-shaders-for-vulkan-but-the-game-cannot-boot-on-windows.453566/"
+      ],
+      "sources": [
+        "GitHub",
+        "XDA Developers",
+        "Windows Forum",
+        "Wikipedia"
+      ],
+      "title": "Leonida：1 天 8,237 stars，GTA 6 PC 重编译项目一日翻近三倍",
+      "plugins": {
+        "momentum": {
+          "score": 46
+        }
+      }
+    },
+    {
+      "action": "写 tweet，写“本地小模型第三天：热度还在涨，实测短板也开始浮现”，本地跑模型的人可试 Ollama 版。",
+      "body": "HN 主帖 1,314 分/272 评 → 1,396 分/283 评；HF likes 2,255 → 3,394（11 月 21 日早仅 97）；unsloth GGUF 版下载 238,152；“5.4GB 内存跑 Inkling-2-Mini”226 分/42 评 → 447 分/112 评。r/LocalLLaMA 相关帖 1,567 upvotes；社区实测指出短板：推理易入循环、知识弱于 Qwen3.8 27B、Artificial Analysis 称其比 Qwen3.8 27B 多写约 38% 的 token。",
+      "i18n": {
+        "en": {
+          "action": "Write a tweet on 'day three for the local small model: still heating up, and real-world shortcomings are starting to show'; people running models locally can try the Ollama build.",
+          "body": "The main Hacker News thread went from 1,314 points / 272 comments to 1,396 / 283; Hugging Face likes rose from 2,255 to 3,394 (just 97 on the morning of November 21); the unsloth GGUF build has 238,152 downloads; the 'Inkling-2-Mini in 5.4 GB of memory' thread went from 226 / 42 to 447 / 112. The related r/LocalLLaMA thread drew 1,567 upvotes; community testing flags shortcomings — reasoning falls into loops, knowledge is weaker than Qwen3.8 27B, and Artificial Analysis says it writes about 38% more tokens than Qwen3.8 27B.",
+          "title": "Inkling 2 Mini keeps heating up: HN main thread at 1,396 points, HF likes up to 3,394, real-world shortcomings emerging"
+        },
+        "ja": {
+          "action": "ツイートを書く。「ローカル小型モデルの3日目：熱はまだ上がっているが、実測の短所も見え始めた」。ローカルでモデルを動かす人はOllama版を試せる。",
+          "body": "Hacker Newsのメインスレッドは1,314ポイント／272コメントから1,396／283へ。Hugging Faceのlikesは2,255から3,394へ（11月21日朝はわずか97）。unslothのGGUF版は238,152ダウンロード。「5.4GBのメモリでInkling-2-Miniを動かす」スレッドは226／42から447／112へ。r/LocalLLaMAの関連スレッドは1,567 upvote。コミュニティの実測では短所も指摘されている。推論がループに入りやすい、知識はQwen3.8 27Bより弱い、Artificial AnalysisによればQwen3.8 27Bより約38%多くトークンを書く。",
+          "title": "Inkling 2 Miniがさらに加熱：HNメインスレッドは1,396ポイント、HFのlikesは3,394へ、実測の短所も浮上"
+        }
+      },
+      "is_new": false,
+      "level": "must",
+      "links": [
+        "https://thinkingmachines.ai/news/inkling-2-mini/",
+        "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+        "https://news.ycombinator.com/item?id=50581260"
+      ],
+      "sources": [
+        "Hacker News",
+        "Hugging Face",
+        "Reddit",
+        "Artificial Analysis"
+      ],
+      "title": "Inkling 2 Mini 继续升温：HN 主帖 1,396 分，HF likes 达 3,394，实测短板浮现",
+      "plugins": {
+        "momentum": {
+          "score": 46
+        }
+      }
+    },
+    {
+      "action": "仅记录；用推理聚合 API 的人可读 Ars 原文，检查自己走的端点是否在受影响名单。",
+      "body": "安全研究员 HD Moore（Dragos 首席研究官）7–11 月向各 AI 服务发送近 200 万条带唯一秘密（AWS 密钥、SSH 密码、专属 URL）的提示，11 月 21 日公布结果：至少 3 家 AI 托管商已被攻破，攻击者偷走提示数据；200 个 AWS 凭证在 10 月下旬被盗用；OpenRouter 告知客户，经 AtlasCloud、Novita、StreamLake 转发的 MiniMax 请求可能被第三方读取（9 月 23 日–10 月 19 日窗口）；某中国实验室抓取了超半数提示中的秘密 URL，包括约三分之二标了“零数据保留”的请求。Ars Technica 11 月 21 日报道；OpenRouter 博客帖登 HN 129 分/49 评。",
+      "i18n": {
+        "en": {
+          "action": "Just record it; people routing through inference aggregators can read the Ars piece and check whether their endpoints are on the affected list.",
+          "body": "Security researcher HD Moore (chief research officer at Dragos) sent nearly two million prompts carrying unique secrets (AWS keys, SSH passwords, private URLs) to AI services between July and November, and published the results on November 21: at least three AI hosting providers had been breached, with attackers stealing prompt data; 200 AWS credentials were exfiltrated in late October; OpenRouter told customers that MiniMax requests routed through AtlasCloud, Novita and StreamLake may have been read by third parties (in a September 23–October 19 window); a Chinese lab fetched the secret URLs from more than half of the prompts sent to its models, including about two-thirds of requests marked 'zero data retention'. Ars Technica reported it on November 21; OpenRouter's blog post reached 129 points / 49 comments on Hacker News.",
+          "title": "HD Moore's two-million-canary experiment: the AI inference supply chain leaks like a sieve"
+        },
+        "ja": {
+          "action": "記録のみ。推論アグリゲーターを使っている人はArsの原文を読み、自分のエンドポイントが影響リストにあるか確認するとよい。",
+          "body": "セキュリティ研究者のHD Moore氏（Dragosの最高研究責任者）は7～11月に、各AIサービスへ固有の秘密（AWSキー、SSHパスワード、専用URL）を含む約200万件のプロンプトを送り、11月21日に結果を公表した。少なくとも3社のAIホスティング事業者が侵害され、攻撃者がプロンプトデータを盗んでいた。200件のAWS認証情報が10月下旬に流出した。OpenRouterは顧客に対し、AtlasCloud、Novita、StreamLakeを経由したMiniMaxへのリクエストが第三者に読まれた可能性があると通知した（9月23日～10月19日）。ある中国の研究所は、送られたプロンプトの半数超に含まれる秘密URLを取得しており、そのうち約3分の2は「ゼロデータ保持」と表示されたリクエストだった。Ars Technicaが11月21日に報道。OpenRouterのブログ投稿はHacker Newsで129ポイント／49コメントを集めた。",
+          "title": "HD Moore氏の200万件カナリア実験：AI推論サプライチェーンはザルのように漏れている"
+        }
+      },
+      "is_new": true,
+      "level": "must",
+      "links": [
+        "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+        "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/"
+      ],
+      "sources": [
+        "Ars Technica",
+        "Dragos",
+        "OpenRouter",
+        "Hacker News"
+      ],
+      "title": "HD Moore 200 万金丝雀实验：AI 推理供应链漏得像筛子",
+      "plugins": {
+        "momentum": {
+          "score": 46
+        }
+      }
+    },
+    {
+      "action": "仅记录。",
+      "body": "7,324 stars → 7,617，创建 5 天、日均 1,523.4；本期 GitHub 增速次席（Leonida 以 8,237/天居首）。单源（GitHub Trending）。",
+      "i18n": {
+        "en": {
+          "action": "Just record it.",
+          "body": "From 7,324 to 7,617 stars, created 5 days ago at 1,523.4 stars per day; the second-fastest-growing repo on GitHub this scan (Leonida leads at 8,237 per day). Single source (GitHub Trending).",
+          "title": "rust-anything: 7,324 → 7,617 stars, now second-fastest on GitHub"
+        },
+        "ja": {
+          "action": "記録のみ。",
+          "body": "7,324スターから7,617へ。公開から5日で1日あたり1,523.4スター。今期のGitHubでは2番目に伸びている（Leonidaが1日8,237で首位）。単一ソース（GitHub Trending）。",
+          "title": "rust-anything：7,324→7,617スター、GitHubでは2番目の伸びに"
+        }
+      },
+      "is_new": false,
+      "level": "watch",
+      "links": [
+        "https://github.com/erkamyaman/rust-anything"
+      ],
+      "sources": [
+        "GitHub"
+      ],
+      "title": "rust-anything：7,324→7,617 stars，退居 GitHub 增速次席",
+      "plugins": {
+        "momentum": {
+          "score": 31
+        }
+      }
+    },
+    {
+      "action": "仅记录。",
+      "body": "Product Hunt 今日 agent 记忆主题簇：AI Context Flow MCP 约 93 upvotes、Shipyard、OpenVorld、Codemany 约 85 upvotes。单源（Product Hunt），连续第二天同一主题（昨日为 agent 可观测性）。",
+      "i18n": {
+        "en": {
+          "action": "Just record it.",
+          "body": "Today's Product Hunt agent-memory cluster: AI Context Flow MCP at about 93 upvotes, Shipyard, OpenVorld, Codemany at about 85. Single source (Product Hunt), the same theme for the second day running (yesterday it was agent observability).",
+          "title": "Product Hunt agent-memory cluster: AI Context Flow MCP, Shipyard, OpenVorld, Codemany"
+        },
+        "ja": {
+          "action": "記録のみ。",
+          "body": "Product Huntの本日のエージェント記憶クラスタ。AI Context Flow MCPは約93 upvote、Shipyard、OpenVorld、Codemanyは約85。単一ソース（Product Hunt）で、同じテーマが2日連続（昨日はエージェントの可観測性）。",
+          "title": "Product Huntのエージェント記憶クラスタ：AI Context Flow MCP、Shipyard、OpenVorld、Codemany"
+        }
+      },
+      "is_new": true,
+      "level": "echo",
+      "links": [
+        "https://www.producthunt.com/"
+      ],
+      "sources": [
+        "Product Hunt"
+      ],
+      "title": "Product Hunt 今日 agent 记忆主题簇：AI Context Flow MCP、Shipyard、OpenVorld、Codemany",
+      "plugins": {
+        "momentum": {
+          "score": 31
+        }
+      }
+    },
+    {
+      "action": "仅记录。",
+      "body": "FBI 犯罪数据库被黑传闻：特朗普称“不太好”。TechCrunch 11 月 21 日报道，CNN 11 月 20 日亦有跟进，细节未核实。",
+      "i18n": {
+        "en": {
+          "action": "Just record it.",
+          "body": "Reported breach of the FBI's crime database: Trump called it 'not good'. TechCrunch reported it on November 21, and CNN followed up on November 20; details unverified.",
+          "title": "Reported FBI crime-database breach: Trump calls it 'not good'"
+        },
+        "ja": {
+          "action": "記録のみ。",
+          "body": "FBIの犯罪データベースが侵害されたとの報道。トランプ氏は「よくない」と述べた。TechCrunchが11月21日に報道し、CNNも11月20日に追報した。詳細は未確認。",
+          "title": "FBI犯罪データベース侵害の報道：トランプ氏は「よくない」と発言"
+        }
+      },
+      "is_new": true,
+      "level": "echo",
+      "links": [
+        "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+        "https://www.cnn.com/2026/11/20/politics/fbi-hacked-again-target-crime-database"
+      ],
+      "sources": [
+        "TechCrunch",
+        "CNN"
+      ],
+      "title": "FBI 犯罪数据库被黑传闻：特朗普称“不太好”",
+      "plugins": {
+        "momentum": {
+          "score": 36
+        }
+      }
+    },
+    {
+      "action": "仅记录。",
+      "body": "胰腺癌新药 daraxonrasib：HN 934 分/208 评，《卫报》称“数十年来最大突破”。社会观察向，单源组。",
+      "i18n": {
+        "en": {
+          "action": "Just record it.",
+          "body": "Pancreatic cancer pill daraxonrasib: 934 points / 208 comments on Hacker News, hailed by The Guardian as the 'biggest breakthrough in decades'. A social-observation item, single source group.",
+          "title": "Pancreatic cancer pill daraxonrasib: HN at 934 points, hailed as the biggest breakthrough in decades"
+        },
+        "ja": {
+          "action": "記録のみ。",
+          "body": "膵臓がんの新薬ダラキソンラシブ。Hacker Newsで934ポイント／208コメント。ガーディアンは「数十年で最大のブレークスルー」と評した。社会観察の方向で、単一ソース群。",
+          "title": "膵臓がん新薬ダラキソンラシブ：HNで934ポイント、「数十年で最大のブレークスルー」との評価"
+        }
+      },
+      "is_new": true,
+      "level": "echo",
+      "links": [
+        "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib"
+      ],
+      "sources": [
+        "Hacker News",
+        "The Guardian"
+      ],
+      "title": "胰腺癌新药 daraxonrasib：HN 934 分，《卫报》称“数十年来最大突破”",
+      "plugins": {
+        "momentum": {
+          "score": 36
+        }
+      }
+    }
+  ]
+}
