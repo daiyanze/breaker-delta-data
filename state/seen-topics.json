@@ -2290,7 +2290,9 @@
         "AP",
         "BBC",
         "Lean",
-        "dev.to"
+        "dev.to",
+        "MIT",
+        "The Guardian"
       ],
       "history": [
         {
@@ -2303,6 +2305,10 @@
         },
         {
           "date": "2026-11-21",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-22",
           "grade": "must"
         },
         {
@@ -2341,6 +2347,10 @@
         },
         {
           "date": "2026-11-21",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-22",
           "grade": "must"
         },
         {
@@ -2517,11 +2527,17 @@
         "GamesRadar",
         "Wikipedia",
         "XDA Developers",
-        "Windows Forum"
+        "Windows Forum",
+        "VideoCardz",
+        "Notebookcheck"
       ],
       "history": [
         {
           "date": "2026-11-21",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-22",
           "grade": "must"
         },
         {
@@ -2587,9 +2603,14 @@
         "Ars Technica",
         "Dragos",
         "OpenRouter",
-        "Hacker News"
+        "Hacker News",
+        "dev.to"
       ],
       "history": [
+        {
+          "date": "2026-11-22",
+          "grade": "must"
+        },
         {
           "date": "2026-11-22",
           "grade": "must"
@@ -2655,6 +2676,75 @@
         {
           "date": "2026-11-22",
           "grade": "echo"
+        },
+        {
+          "date": "2026-11-22",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-22"
+      }
+    },
+    {
+      "name": "Delta 航班大面积延误",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "sources": [
+        "The New York Times",
+        "Reuters",
+        "FlightAware",
+        "Hacker News"
+      ],
+      "history": [
+        {
+          "date": "2026-11-22",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-22"
+      }
+    },
+    {
+      "name": "OpenAI \"Perplexity and Intelligence\"",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "sources": [
+        "OpenAI",
+        "Hacker News"
+      ],
+      "history": [
+        {
+          "date": "2026-11-22",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-22"
+      }
+    },
+    {
+      "name": "fast-anything",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "sources": [
+        "GitHub",
+        "Hacker News"
+      ],
+      "history": [
+        {
+          "date": "2026-11-22",
+          "grade": "watch"
         }
       ],
       "review": {

@@ -1,0 +1,272 @@
+{
+  "date": "2026-11-23",
+  "items": [
+    {
+      "action": "写 tweet，写“认证通过、质疑并存、结论未决”，别写成已获奖，也别写成已被证伪。",
+      "body": "Lean 与 Mathlib 11 月 21 日联合声明认证通过后，MIT Sutherland 验证页 11 月 22 日 16:10 UTC 更新：lean4lean 逐模块通过 175,187/175,187，con-leche --compare 与 con-ron --compare 确认全部 5 条定理与 Mathlib 定义一致；lake comparator 端到端与 Lean 内核重放仍在跑。HN 验证核查帖 1,080 分/900 评。同日 Nielsen 在 PhilArchive 发文《Invalidity of the Alpoge Proposed Proof》，dev.to 核查称代码中几何谓词被定义为 True——该质疑至今未获回应；另有说法称 Nielsen 针对的是 Masullo 草稿，争议未决。克雷研究所仍列未解；《卫报》Ken Ono 撰文谈 AI 解开世纪难题后数学何为。",
+      "i18n": {
+        "en": {
+          "action": "Write a tweet saying 'certified, but challenged — no verdict yet'; do not present it as a prize already won or as already debunked.",
+          "body": "After the Lean and Mathlib joint statement of November 21 certified the proof, MIT's Sutherland verification page updated at 16:10 UTC on November 22: lean4lean passed 175,187 of 175,187 modules, and con-leche --compare and con-ron --compare confirmed all five theorems match Mathlib's definitions; the end-to-end lake comparator run and the Lean kernel replay are still running. The Hacker News verification thread has 1,080 points / 900 comments. The same day, Nielsen posted 'Invalidity of the Alpoge Proposed Proof' on PhilArchive, and a dev.to check says the code defines the geometry predicate as True — that challenge is still unanswered; another account says Nielsen's target is Masullo's draft, so the dispute is unresolved. The Clay Institute still lists the problem as unsolved, and The Guardian's Ken Ono wrote about what mathematics is for after AI cracks a century-old problem.",
+          "title": "Riemann Hypothesis proof claim: two more checks pass, Nielsen's challenge still unanswered"
+        },
+        "ja": {
+          "action": "ツイートを書く。「認証は通過したが異議も出ており、結論はまだ出ていない」とし、受賞済みとも反証済みとも書かない。",
+          "body": "LeanとMathlibの11月21日の共同声明で認証が通過した後、MITのサザーランド検証ページが11月22日16:10 UTCに更新された。lean4leanは175,187モジュール中175,187を通過し、con-leche --compareとcon-ron --compareは5つの定理すべてがMathlibの定義と一致することを確認した。lake comparatorのエンドツーエンド実行とLeanカーネルでのリプレイはまだ進行中。Hacker Newsの検証スレッドは1,080ポイント／900コメント。同日、ニールセンがPhilArchiveに「Invalidity of the Alpoge Proposed Proof」を投稿し、dev.toの検証はコード中で幾何述語がTrueと定義されていると指摘する。この異議にはまだ回答がない。一方でニールセンの対象はマスッロ草稿だという説もあり、論争は未解決。クレイ研究所は依然として未解決としており、ガーディアンのケン・オノ氏はAIが世紀の問題を解いた後の数学について寄稿した。",
+          "title": "リーマン予想の証明主張：さらに2つの検証が通過、ニールセンの異議にはまだ回答なし"
+        }
+      },
+      "is_new": false,
+      "level": "must",
+      "links": [
+        "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+        "https://math.mit.edu/~drew/grh/",
+        "https://dev.to/frankchu/grh-proofs-geometry-is-fun-true-in-24-files-2n2b"
+      ],
+      "sources": [
+        "Lean",
+        "MIT",
+        "Hacker News",
+        "The Guardian",
+        "dev.to"
+      ],
+      "title": "黎曼猜想证明声称：认证又过两关，Nielsen 质疑仍未回应",
+      "plugins": {
+        "momentum": {
+          "score": 74
+        }
+      }
+    },
+    {
+      "action": "写 tweet，提醒“仓库无游戏文件、别下假冒 .exe”；今日留意 .exe 是否放出。",
+      "body": "8,237 stars → 13,830 stars（上线 2 天，日均 6,915），GitHub 日榜第 1；相关项目已超 9 个，Xbox2Windows 2 天 1,271 stars。泄露者 Cyberleek 称缺失的 .exe 将于 11 月 23 日（今日）放出，无论加密筹款是否达标；VideoCardz 称游戏仍不能启动，仓库无游戏文件，.exe 只是第一步。项目自报已转译 26,503 个 shader 至 Vulkan。",
+      "i18n": {
+        "en": {
+          "action": "A tweet could warn that 'the repo contains no game files — do not download fake .exe files'; watch today for whether the .exe actually appears.",
+          "body": "From 8,237 to 13,830 stars in two days (6,915 per day), No. 1 on GitHub's daily trending; related projects now number more than 9, with Xbox2Windows at 1,271 stars in two days. Leaker Cyberleek says the missing .exe will be released on November 23 (today), whether or not the crypto fundraising target is met; VideoCardz notes the game still does not boot, the repo contains no game files, and the .exe is only the first step. The project reports having translated 26,503 shaders to Vulkan.",
+          "title": "Leonida: 13,830 stars, .exe promised for today, game still does not boot"
+        },
+        "ja": {
+          "action": "ツイートを書くなら「リポジトリにゲームファイルはなく、偽の.exeをダウンロードしないように」と注意喚起し、今日.exeが出るか見守るとよい。",
+          "body": "8,237スターから13,830へ（公開から2日で1日あたり6,915）。GitHubの日次トレンド1位。関連プロジェクトは9件を超え、Xbox2Windowsは2日で1,271スター。リークしたCyberleek氏は、不足している.exeを11月23日（今日）に出すとしており、暗号資産の資金調達目標の達成にかかわらないとしている。VideoCardzによればゲームはまだ起動せず、リポジトリにゲームファイルはなく、.exeは第一歩にすぎない。プロジェクトは26,503のシェーダーをVulkanへ翻訳したと報告している。",
+          "title": "Leonida：13,830スター、.exeは今日出すとされるがゲームはまだ起動しない"
+        }
+      },
+      "is_new": false,
+      "level": "must",
+      "links": [
+        "https://github.com/ItsNotRexed/Leonida",
+        "https://videocardz.com/newz/gta-vi-pc-efforts-have-already-kicked-off-with-multiple-xbox-emulation-projects-underway",
+        "https://www.notebookcheck.net/GTA-6-PC-gamers-welcome-unofficial-PC-port-despite-potential-damage-to-the-industry.1456022.0.html"
+      ],
+      "sources": [
+        "GitHub",
+        "VideoCardz",
+        "Notebookcheck"
+      ],
+      "title": "Leonida：13,830 stars，.exe 称今日放出，游戏仍不能启动",
+      "plugins": {
+        "momentum": {
+          "score": 41
+        }
+      }
+    },
+    {
+      "action": "写 tweet，写“本地小模型第四天：GGUF 下载三天破 80 万，手机实测也来了”；本地跑模型的人可试 Ollama 版。",
+      "body": "HF likes 3,394 → 4,841；unsloth GGUF 版下载 238,152 → 805,993（HF API 核实）；“5.4GB 内存跑”HN 帖 447 分/112 评 → 560 分/135 评。r/LocalLLaMA 发布讨论帖 1,550 upvotes/454 评；“12GB 手机 3 tok/s 解码”实测帖出现；Strata 0.2.19 发布，可在 4 GiB 显存 GPU 上本地跑。社区实测短板仍在：推理易入循环、知识弱于 Qwen3.8 27B。",
+      "i18n": {
+        "en": {
+          "action": "Write a tweet on 'day four for the local small model: GGUF downloads pass 800,000 in three days, and phone benchmarks are appearing'; people running models locally can try the Ollama build.",
+          "body": "Hugging Face likes rose from 3,394 to 4,841; the unsloth GGUF build's downloads went from 238,152 to 805,993 (verified against the Hugging Face API); the 'runs in 5.4 GB of memory' Hacker News thread went from 447 points / 112 comments to 560 / 135. The r/LocalLLaMA launch thread drew 1,550 upvotes / 454 comments; a '3 tok/s decode on a 12 GB phone' test thread has appeared; Strata 0.2.19 shipped and runs it locally on a 4 GiB GPU. The shortcomings found in community testing remain: reasoning falls into loops, and knowledge is weaker than Qwen3.8 27B.",
+          "title": "Inkling 2 Mini keeps heating up: HF likes at 4,841, GGUF downloads at 805,993"
+        },
+        "ja": {
+          "action": "ツイートを書く。「ローカル小型モデルの4日目：GGUFのダウンロードが3日で80万超、スマホでの実測も登場」。ローカルでモデルを動かす人はOllama版を試せる。",
+          "body": "Hugging Faceのlikesは3,394から4,841へ。unslothのGGUF版のダウンロードは238,152から805,993へ（Hugging Face APIで確認）。「5.4GBのメモリで動かす」スレッドはHacker Newsで447ポイント／112コメントから560／135へ。r/LocalLLaMAのリリース討論スレッドは1,550 upvote／454コメント。「12GBのスマホで3 tok/sのデコード」という実測スレッドも登場した。Strata 0.2.19がリリースされ、4 GiBのGPUでローカル実行できる。コミュニティの実測で見つかった短所は残っている。推論がループに入りやすく、知識はQwen3.8 27Bより弱い。",
+          "title": "Inkling 2 Miniがさらに加熱：HFのlikesは4,841、GGUFのダウンロードは805,993"
+        }
+      },
+      "is_new": false,
+      "level": "must",
+      "links": [
+        "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+        "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+        "https://github.com/ShinMegamiBoson/lookatmyquant"
+      ],
+      "sources": [
+        "Hugging Face",
+        "Hacker News",
+        "Reddit"
+      ],
+      "title": "Inkling 2 Mini 继续升温：HF likes 4,841，GGUF 下载 805,993",
+      "plugins": {
+        "momentum": {
+          "score": 41
+        }
+      }
+    },
+    {
+      "action": "仅记录；用推理聚合 API 的人可读 Ars 原文，检查自己走的端点是否在受影响名单。",
+      "body": "OpenRouter 博客帖 HN 129 分/49 评 → 269 分/88 评；dev.to 跟进“OpenRouter zero data retention”复盘；科技媒体跟进“廉价 AI 推理商如何偷密钥、偷窥用户”。核心数字不变：7–11 月近 200 万条带唯一秘密的提示；至少 3 家 AI 托管商被攻破；200 个 AWS 凭证 10 月下旬被盗用；经 AtlasCloud、Novita、StreamLake 转发的 MiniMax 请求可能被第三方读取（9 月 23 日–10 月 19 日窗口）；某中国实验室抓取超半数提示中的秘密 URL，含约三分之二标“零数据保留”的请求。",
+      "i18n": {
+        "en": {
+          "action": "Just record it; people routing through inference aggregators can read the Ars piece and check whether their endpoints are on the affected list.",
+          "body": "OpenRouter's blog post went from 129 points / 49 comments to 269 / 88 on Hacker News; dev.to followed up with an 'OpenRouter zero data retention' review, and tech media followed with 'how cheap AI inference providers steal keys and snoop on users'. The core numbers are unchanged: nearly two million prompts carrying unique secrets between July and November; at least three AI hosting providers breached; 200 AWS credentials exfiltrated in late October; MiniMax requests routed through AtlasCloud, Novita and StreamLake may have been read by third parties (in a September 23–October 19 window); a Chinese lab fetched the secret URLs from more than half of the prompts sent to its models, including about two-thirds of requests marked 'zero data retention'.",
+          "title": "HD Moore's two-million-canary experiment: HN at 269 points as follow-ups land"
+        },
+        "ja": {
+          "action": "記録のみ。推論アグリゲーターを使っている人はArsの原文を読み、自分のエンドポイントが影響リストにあるか確認するとよい。",
+          "body": "OpenRouterのブログ投稿はHacker Newsで129ポイント／49コメントから269／88へ。dev.toは「OpenRouter zero data retention」の振り返りで追報し、テックメディアも「安価なAI推論業者がいかに鍵を盗み、ユーザーをのぞくか」で追報した。核心の数字は変わらない。7～11月に固有の秘密を含む約200万件のプロンプト。少なくとも3社のAIホスティング事業者が侵害された。200件のAWS認証情報が10月下旬に流出した。AtlasCloud、Novita、StreamLakeを経由したMiniMaxへのリクエストが第三者に読まれた可能性がある（9月23日～10月19日）。ある中国の研究所は、送られたプロンプトの半数超に含まれる秘密URLを取得しており、そのうち約3分の2は「ゼロデータ保持」と表示されたリクエストだった。",
+          "title": "HD Moore氏の200万件カナリア実験：HNは269ポイント、追報が相次ぐ"
+        }
+      },
+      "is_new": false,
+      "level": "must",
+      "links": [
+        "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+        "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/"
+      ],
+      "sources": [
+        "Ars Technica",
+        "OpenRouter",
+        "Hacker News",
+        "dev.to"
+      ],
+      "title": "HD Moore 200 万金丝雀实验：HN 269 分，更多跟进出炉",
+      "plugins": {
+        "momentum": {
+          "score": 49
+        }
+      }
+    },
+    {
+      "action": "仅记录；感恩节出行的人留意达美后续通告。",
+      "body": "11 月 22 日（周日）达美航空计算机载配重与平衡的自动化系统故障，FAA 美东 7:46 地面停飞赴亚特兰大航班，约 8:32–8:40 降为地面延误；截至 11:00 亚特兰大 681 架延误、全美 Delta 591 架，午后升至 835/725；平均延误 57 分钟、最长 111 分钟；FAA 称 3,500+ 架次或受影响，强调与 FAA 空管系统无关。距 11 月 13 日 FAA 全国停飞约 9 天；NYT 称“Tech Outages Are Only the Beginning”。",
+      "i18n": {
+        "en": {
+          "action": "Just record it; anyone flying for Thanksgiving should watch Delta's follow-up notices.",
+          "body": "On Sunday, November 22, Delta Air Lines' automated weight-and-balance system failed; the FAA issued a ground stop for Atlanta-bound flights at 7:46 a.m. ET, downgrading it to a ground delay around 8:32–8:40 a.m. By 11:00 a.m., 681 flights were delayed at Atlanta and 591 Delta flights nationwide, rising by the afternoon to 835 / 725; the average delay was 57 minutes, the longest 111 minutes; the FAA said 3,500+ flights could be affected and stressed the problem was unrelated to FAA air traffic systems. It comes about nine days after the November 13 nationwide FAA ground stop; The New York Times calls it 'Tech Outages Are Only the Beginning'.",
+          "title": "Delta weight-and-balance outage: 591 flights delayed nationwide on the eve of Thanksgiving"
+        },
+        "ja": {
+          "action": "記録のみ。感謝祭で移動する人はデルタの続報に注意するとよい。",
+          "body": "11月22日（日）、デルタ航空の重量・重心を計算する自動化システムが故障した。FAAは米東部7:46にアトランタ行きの地上停止を出し、8:32～8:40ごろに地上遅延へ緩和した。11:00時点でアトランタで681便、全米でデルタ591便が遅延し、午後には835／725へ増えた。平均遅延は57分、最長111分。FAAは3,500便以上に影響する可能性があるとし、FAAの航空管制システムとは無関係だと強調した。11月13日の全米地上停止から約9日後の出来事。ニューヨーク・タイムズは「Tech Outages Are Only the Beginning」と題した。",
+          "title": "デルタの重量・重心システム障害：感謝祭前夜に全米591便が遅延"
+        }
+      },
+      "is_new": true,
+      "level": "watch",
+      "links": [
+        "https://www.moneycontrol.com/world/delta-technical-glitch-delays-hundreds-of-flights-at-atlanta-airport-disrupts-us-travel-ahead-of-thanksgiving-article-14086692.html",
+        "https://nypost.com/2026/11/22/us-news/delta-air-lines-outage-delays-thousands-of-flights-in-pre-thanksgiving-travel-chaos/"
+      ],
+      "sources": [
+        "The New York Times",
+        "Reuters",
+        "FlightAware",
+        "Hacker News"
+      ],
+      "title": "Delta 配载系统故障：感恩节前夕全美 591 架次延误",
+      "plugins": {
+        "momentum": {
+          "score": 46
+        }
+      }
+    },
+    {
+      "action": "写 tweet，写“OpenAI 首公开预训练损耗曲线：0.68–0.70 是下一道坎”；或仅记录。",
+      "body": "首席科学家 Pachocki 11 月 22 日发文，公开内部 log-perplexity（交叉熵损耗）曲线：GPT-3.5 ~0.99（2022 年 3 月）、GPT-4 ~0.91（2023 年 3 月）、GPT-6 Astra 0.783、GPT-6.2 Astra 0.761（图表标注“解出一道千禧年数学难题”）、未发布内部模型 0.732（历史最低）。他称进入 0.68–0.70 窗口将出现变革性能力，2027 年或迎预训练突破“雪崩”；呼吁各实验室在监控能力（CoT 监测的继任者）跟上之前共同设限。HN 333 分/216 评。",
+      "i18n": {
+        "en": {
+          "action": "A tweet could say 'OpenAI publishes its pretraining loss curve for the first time: 0.68–0.70 is the next threshold'; just recording it works too.",
+          "body": "Chief scientist Jakub Pachocki published on November 22, disclosing OpenAI's internal log-perplexity (cross-entropy loss) curve: GPT-3.5 at ~0.99 (March 2022), GPT-4 at ~0.91 (March 2023), GPT-6 Astra at 0.783, GPT-6.2 Astra at 0.761 (the chart labels it as having 'solved a Millennium Prize math problem'), and an unreleased internal model at 0.732 (the lowest yet). He writes that entering the 0.68–0.70 window will bring transformative capabilities and that 2027 may bring an 'avalanche' of pretraining breakthroughs, and calls on labs to agree on shared limits until monitoring ability (a successor to chain-of-thought monitoring) catches up. Hacker News: 333 points / 216 comments.",
+          "title": "OpenAI publishes its pretraining loss curve for the first time: 0.68–0.70 is the next threshold"
+        },
+        "ja": {
+          "action": "ツイートを書くなら「OpenAIが事前学習の損失曲線を初公開：0.68～0.70が次の関門」。記録のみでもよい。",
+          "body": "首席科学者のパチョツキ氏が11月22日に寄稿し、社内のlog-perplexity（交差エントロピー損失）曲線を公開した。GPT-3.5は約0.99（2022年3月）、GPT-4は約0.91（2023年3月）、GPT-6 Astraは0.783、GPT-6.2 Astraは0.761（図表には「ミレニアム懸賞数学問題を解いた」と記載）、未公開の社内モデルは0.732（過去最低）。同氏は0.68～0.70の領域に入ると変革的な能力が現れ、2027年には事前学習のブレークスルーが「雪崩」のように起きる可能性があるとし、監視能力（CoTモニタリングの後継）が追いつくまで各ラボが共通の制限で合意するよう呼びかけた。Hacker Newsは333ポイント／216コメント。",
+          "title": "OpenAIが事前学習の損失曲線を初公開：0.68～0.70が次の関門"
+        }
+      },
+      "is_new": true,
+      "level": "watch",
+      "links": [
+        "https://openai.com/index/perplexity-and-intelligence/",
+        "https://dealroom.co/news/174824-openai-publishes-its-internal-pretraining-curve-and-proposes-industry-wi/"
+      ],
+      "sources": [
+        "OpenAI",
+        "Hacker News"
+      ],
+      "title": "OpenAI 首公开预训练损耗曲线：0.68–0.70 是下一道坎",
+      "plugins": {
+        "momentum": {
+          "score": 36
+        }
+      }
+    },
+    {
+      "action": "仅记录；常被“全量重写 Rust”劝退的人可试。",
+      "body": "11 月 21 日创建，1 天 1,729 stars，GitHub 新词；HN 63 分/40 评。做法：先 profile 找出最耗时的 5% 函数，再由 coding agent 只把这些函数移植到 Rust，录制最多 500 条真实调用回放验证（另加 NaN、无穷大等边界用例），全过才替换、可一键还原。自报：Python 模糊去重 4.91 秒 → 42 毫秒（116×），TypeScript 20×、PHP 55×、Go 21×、Ruby 14×，均为作者自测。rust-anything 同类簇新成员。",
+      "i18n": {
+        "en": {
+          "action": "Just record it; anyone put off by 'rewrite the whole thing in Rust' can try it.",
+          "body": "Created November 21, with 1,729 stars in one day, a new name on GitHub; 63 points / 40 comments on Hacker News. The approach: profile first to find the slowest 5% of functions, then have a coding agent port only those functions to Rust, verifying by replaying up to 500 recorded real calls (plus edge cases such as NaN and infinities); the swap happens only when everything passes and is reversible in one command. Self-reported results: Python fuzzy dedupe from 4.91 seconds to 42 milliseconds (116×), TypeScript 20×, PHP 55×, Go 21×, Ruby 14×, all measured by the author. A new member of the rust-anything cluster.",
+          "title": "fast-anything: 1,729 stars in a day, port only the slowest 5% of functions to Rust"
+        },
+        "ja": {
+          "action": "記録のみ。「全部Rustに書き換える」ことに尻込みしてきた人は試してみるとよい。",
+          "body": "11月21日に作成され、1日で1,729スターを集めたGitHubの新顔。Hacker Newsでは63ポイント／40コメント。手法はこうだ。まずプロファイルで最も遅い5%の関数を見つけ、コーディングエージェントにその関数だけをRustへ移植させる。最大500件の実際の呼び出しを記録してリプレイ検証し（NaNや無限大などの境界ケースも追加）、すべて通って初めて置き換え、ワンコマンドで元に戻せる。自称の結果は、Pythonのファジー重複除去が4.91秒から42ミリ秒（116倍）、TypeScript 20倍、PHP 55倍、Go 21倍、Ruby 14倍で、いずれも作者の実測。rust-anythingクラスタの新メンバー。",
+          "title": "fast-anything：1日で1,729スター、最も遅い5%の関数だけをRustへ移植"
+        }
+      },
+      "is_new": true,
+      "level": "watch",
+      "links": [
+        "https://github.com/EL4CTEO/fast-anything",
+        "https://news.ycombinator.com/item?id=50596155"
+      ],
+      "sources": [
+        "GitHub",
+        "Hacker News"
+      ],
+      "title": "fast-anything：1 天 1,729 stars，只把最热 5% 函数交给 agent 移植到 Rust",
+      "plugins": {
+        "momentum": {
+          "score": 36
+        }
+      }
+    },
+    {
+      "action": "仅记录。",
+      "body": "HN 934 分/208 评 → 1,306 分/285 评，仍居首页第 1；《卫报》称“数十年来最大突破”。社会观察向。",
+      "i18n": {
+        "en": {
+          "action": "Just record it.",
+          "body": "From 934 points / 208 comments to 1,306 / 285 on Hacker News, still No. 1 on the front page; The Guardian calls it the 'biggest breakthrough in decades'. A social-observation item.",
+          "title": "Pancreatic cancer pill daraxonrasib: HN at 1,306 points, still No. 1 on the front page"
+        },
+        "ja": {
+          "action": "記録のみ。",
+          "body": "Hacker Newsで934ポイント／208コメントから1,306／285へ、トップページの1位を維持。ガーディアンは「数十年で最大のブレークスルー」と評した。社会観察の方向。",
+          "title": "膵臓がん新薬ダラキソンラシブ：HNで1,306ポイント、トップページ1位を維持"
+        }
+      },
+      "is_new": false,
+      "level": "echo",
+      "links": [
+        "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib"
+      ],
+      "sources": [
+        "Hacker News",
+        "The Guardian"
+      ],
+      "title": "胰腺癌新药 daraxonrasib：HN 1,306 分，仍居首页第 1",
+      "plugins": {
+        "momentum": {
+          "score": 34
+        }
+      }
+    }
+  ]
+}

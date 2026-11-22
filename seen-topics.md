@@ -547,3 +547,54 @@
 - Gemini 4 Neon | 2026-11-19 晚报 | 2026-11-22 晚报 | DeepMind 官方博客, Hacker News, X, Cursor, OpenRouter, Product Hunt, The Decoder | 🔥→🔥（平，无新数字；PH 周榜 #39，148 upvotes） | 待复盘
 - Language Models Can Rewrite Their Own Weights | 2026-11-21 晚报 | 2026-11-22 晚报 | Hacker News, arXiv, HF Daily Papers | 👀→👀（平：未见于本期 HN 前 30，无新动静） | 待复盘
 - OpenAI 对抗蒸馏 / Signal 默认屏蔽截图防 AI agent 读屏 / Google 搜索首页改版 | 各首次发现时间见上文 | 2026-11-22 晚报 | 见上文 | 平，无新动静 | 待复盘
+
+## 2026-11-23 早报（06:00 JST）
+- 黎曼猜想证明声称（Claude 参与） | 2026-11-21 早报 | 2026-11-23 早报 | Lean, MIT, Hacker News, The Guardian, dev.to | 🔥→🔥（涨：lean4lean 175,187/175,187 通过，con-leche/con-ron --compare 确认 5 条定理；lake comparator 仍在跑；HN 验证帖 1,080 分/900 评；Nielsen 质疑仍未回应；克雷仍列未解；Guardian Ken Ono 撰文） | 待复盘
+- Leonida | 2026-11-22 早报 | 2026-11-23 早报 | GitHub, VideoCardz, Notebookcheck | 🔥→🔥（涨：8,237 → 13,830 stars，2 天日均 6,915；.exe 称今日放出；仍不能启动；Xbox2Windows 2 天 1,271 stars） | 待复盘
+- Thinking Machines Lab Inkling 2 Mini | 2026-11-21 早报 | 2026-11-23 早报 | Hugging Face, Hacker News, Reddit, Strata | 🔥→🔥（涨：HF likes 3,394 → 4,841；unsloth GGUF 下载 238,152 → 805,993；r/LocalLLaMA 发布帖 1,550 upvotes/454 评；12GB 手机 3 tok/s 实测；Strata 0.2.19 支持 4 GiB GPU） | 待复盘
+- HD Moore 200 万金丝雀实验 | 2026-11-22 晚报 | 2026-11-23 早报 | Ars Technica, OpenRouter, Hacker News, dev.to | 🔥→🔥（涨：HN 129→269 分/49→88 评；dev.to 与科技媒体跟进；核心数字不变） | 待复盘
+- Delta 航班大面积延误 | 2026-11-23 早报 | 2026-11-23 早报 | The New York Times, Reuters, FlightAware, Hacker News | 🆕👀（11 月 22 日配载系统故障；FAA 地面停飞→地面延误；11:00 亚特兰大 681 架延误、全美 Delta 591 架，午后 835/725；平均 57 分钟、最长 111 分钟；3,500+ 架次或受影响；距 11 月 13 日全国停飞约 9 天） | 待复盘
+- OpenAI "Perplexity and Intelligence" | 2026-11-23 早报 | 2026-11-23 早报 | OpenAI, Hacker News | 🆕👀（11 月 22 日：Pachocki 公开内部 log-perplexity 曲线，GPT-3.5 ~0.99、GPT-4 ~0.91、GPT-6.2 Astra 0.761、未发布内部模型 0.732；称 0.68–0.70 窗口将有变革性能力、2027 年或迎“雪崩”；呼吁共同设限；HN 333 分/216 评） | 待复盘
+- fast-anything | 2026-11-23 早报 | 2026-11-23 早报 | GitHub, Hacker News | 🆕👀（11 月 21 日创建，1 天 1,729 stars；只移植最热 5% 函数到 Rust，500 条实测调用回放验证；自报 Python 模糊去重 116×；HN 63 分/40 评） | 待复盘
+- 胰腺癌新药 daraxonrasib | 2026-11-22 晚报 | 2026-11-23 早报 | Hacker News, The Guardian | 🌱→🌱（涨：HN 934→1,306 分/208→285 评，仍居首页第 1） | 待复盘
+- Anthropic IPO | 2026-11-11 试点早报 | 2026-11-23 早报 | Reddit r/technology, 新闻简报, Google News, HN, The Decoder, NYT, Reuters, CNBC, WSJ, MarketWatch, Yahoo Finance, The Economist | 🔥→🔥（平：周日无交易，无新价；路透“Project Lantern”：IPO 银行团队限 4 名高管、要求签 6 个月竞业禁令；雅虎“on fire sale”、经济学人“How much more air can come out of the AI trade?”；美股周一开盘再看） | 待复盘
+- 美股 AI 交易大回调 | 2026-11-22 早报 | 2026-11-23 早报 | WSJ, NPR, The Decoder, Google News, Bloomberg, Yahoo Finance, The Economist | 🔥→🔥（平：周日无交易；彭博“标普 500 跌到 5,600？”、雅虎称 IPO 未能安抚 AI 交易焦虑） | 待复盘
+- 黄仁勋辞职 | 2026-11-12 晚报 | 2026-11-23 早报 | AP, Reuters, WIRED, TechCrunch, HN, Reddit, Google News, Wikipedia, BBC, NYT, The Verge, WSJ, Barron's, Yahoo Finance, SemiAnalysis | 🔥→🔥（微涨：NYT 11 月 21 日长文“How Jensen Huang Made Humiliation Routine at Nvidia”；SemiAnalysis“没有黄仁勋的英伟达”；12 月 1 日国会作证在即） | 待复盘
+- Perplexity Decider v1.3 / Flash v1.3 | 2026-11-13 早报 | 2026-11-23 早报 | Perplexity 官方博客, Hacker News, The Decoder | 👀→👀（涨：Monitor API 11 月 16 日发布后 The Decoder 11 月 22 日跟进：$1/1,000 次，定时监控 + webhook；另推 Orchestrator 与 Context API，API 业务年增 4.3 倍、九位数 run rate） | 待复盘
+- GPT-6.2 Astra and Sol | 2026-11-18 早报 | 2026-11-23 早报 | OpenAI 官方博客, Hacker News, OpenRouter, X, Reddit | 🔥→🔥（微涨：Pachocki 发文披露 GPT-6.2 Astra log-perplexity 0.761、GPT-6 Astra 0.783；X 差评持续，无新官方消息） | 待复盘
+- Gemini 4 Hydrogen + Antigravity Orchestrator | 2026-11-13 早报 | 2026-11-23 早报 | blog.google, HN, Google News, Product Hunt, OpenRouter, Bluesky | 🔥→🔥（平：Bluesky 实测帖称 Hydrogen high 与 xhigh 档差异“非常显著”；无新官方数字） | 待复盘
+- rust-anything | 2026-11-19 早报 | 2026-11-23 早报 | GitHub | 👀→👀（涨：7,617 → 7,915 stars，6 天日均 1,319；同类新工具 fast-anything 一日 1,729 stars，见本期正文） | 待复盘
+- blender-ai-mcp-addon | 2026-11-21 晚报 | 2026-11-23 早报 | GitHub | 🌱→🌱（涨：1,884 → 2,744 stars，3 天日均 915；单源，未入选正文） | 待复盘
+- GestaltX | 2026-11-14 早报 | 2026-11-23 早报 | GitHub Trending | 🌱→🌱（微涨：8,766 → 8,804 stars） | 待复盘
+- deepseek-ai/chat-demo | 2026-11-15 晚报 | 2026-11-23 早报 | GitHub Trending | 🌱→🌱（微涨：5,249 → 5,277 stars） | 待复盘
+- Wireless-Device-Battery-Monitor | 2026-11-19 晚报 | 2026-11-23 早报 | GitHub | 👀→👀（平：未见于本期 GitHub 日榜前列，无新数字） | 待复盘
+- 腾讯 Hy4 Flash | 2026-11-17 早报 | 2026-11-23 早报 | Hugging Face, OpenRouter, Reddit | 👀→👀（微涨：HF likes 567 → 615，下载 5,588 → 6,617） | 待复盘
+- Qwen3.8 模型家族 | 2026-11-13 早报 | 2026-11-23 早报 | Hugging Face | 👀→👀（微涨：Qwen3.8-27B likes 20,591 → 20,878；下载为 30 天滚动口径，6.89M → 6.30M，不展开） | 待复盘
+- MiniMax H3-Image | 2026-11-11 试点早报 | 2026-11-23 早报 | Hugging Face, Product Hunt, Reddit | 👀→👀（微涨：HF likes 1,693 → 1,735，下载 876,986 → 952,024） | 待复盘
+- higurashi-ai/Haru-4B | 2026-11-17 早报 | 2026-11-23 早报 | Hugging Face | 🌱→🌱（涨：下载 8,120 → 8,608；likes 本期抓取口径与台账不一致，暂不采用） | 待复盘
+- Depth Pro 2 | 2026-11-22 早报 | 2026-11-23 早报 | arXiv, Hugging Face | 🌱→🌱（微涨：HF likes 220 → 269） | 待复盘
+- RadixArk DaisyRose-27B | 2026-11-21 晚报 | 2026-11-23 早报 | OpenRouter, Hugging Face | 🌱→🌱（微涨：HF likes 280 → 310，下载 918 → 1,815） | 待复盘
+- Thinking Machines Lab Inkling 2 Small | 2026-11-13 早报 | 2026-11-23 早报 | Reddit r/LocalLLaMA, OpenRouter, Hugging Face, Reddit r/artificial | 👀→👀（涨：HF likes 429 → 683，下载 16,918 → 48,974） | 待复盘
+- HKUDS/CLI-Anything | 2026-11-21 晚报 | 2026-11-23 早报 | GitHub | 🌱→🌱（涨：当日 +687 stars；单源，未入选正文） | 待复盘
+- Agent skills 集群 | 2026-11-12 晚报 | 2026-11-23 早报 | GitHub, HN, GitHub 官方博客 | 🌱→🌱（微涨：google-labs-code/stitch-skills 当日 +516、mvanhorn/last30days-skill 当日 +673 同在 GitHub 日榜） | 待复盘
+- 微软 / Outlook 全球宕机 | 2026-11-13 早报 | 2026-11-23 早报 | Hacker News, Reuters, Google News, Reddit, The Guardian, Mastodon, Straits Times, Al Jazeera, Washington Post, Lobsters | 👀→凉（Lobsters 出现事后报告 PDF 链接，未核实全文；事件本身已结束，维持凉） | 待复盘
+- Product Hunt 今日 | 2026-11-23 早报 | 2026-11-23 早报 | Product Hunt | 🆕🌱（未入选正文：oovi、Omi CLI、Ulika 等 agent 相关新品；Atom feed 无票数，未形成主题簇） | 待复盘
+- simplexai-labs/linger | 2026-11-23 早报 | 2026-11-23 早报 | GitHub | 🆕🌱（未入选正文：单源，12 天 3,793 stars；aiofthe.day 当日 Repo of the day） | 待复盘
+- apex-compute/ANR | 2026-11-23 早报 | 2026-11-23 早报 | GitHub | 🆕🌱（未入选正文：单源，11 天 2,897 stars） | 待复盘
+- iamajmeena/neonclipping | 2026-11-23 早报 | 2026-11-23 早报 | GitHub | 🆕🌱（未入选正文：单源，3 天 2,077 stars，日均 692；本地 YouTube 转 Shorts，Ollama 生成标题，不上传云端） | 待复盘
+- XinaTian/MROffice | 2026-11-23 早报 | 2026-11-23 早报 | GitHub | 🆕🌱（未入选正文：单源，12 天 2,073 stars；开源 Office 编辑器 + MCP，AGPL） | 待复盘
+- inworld/voice-isolator | 2026-11-23 早报 | 2026-11-23 早报 | Hugging Face | 🆕🌱（未入选正文：HF 新面孔，618 likes） | 待复盘
+- sensenova/SenseNova-Loop-9B | 2026-11-23 早报 | 2026-11-23 早报 | Hugging Face | 🆕🌱（未入选正文：HF 新面孔，517 likes / 1,863 下载） | 待复盘
+- apple/FastFrames-L | 2026-11-23 早报 | 2026-11-23 早报 | Hugging Face | 🆕🌱（未入选正文：HF 新面孔，536 likes） | 待复盘
+- SulphurAI/Sulphur-3 | 2026-11-23 早报 | 2026-11-23 早报 | Hugging Face | 🆕🌱（未入选正文：HF 新面孔，778 likes / 78,931 下载） | 待复盘
+- nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB | 2026-11-23 早报 | 2026-11-23 早报 | Hugging Face | 🆕🌱（未入选正文：HF 新面孔，725 likes / 203,420 下载） | 待复盘
+- meituan-longcat/LongCat-Video-Avatar-1.6 | 2026-11-23 早报 | 2026-11-23 早报 | Hugging Face | 🆕🌱（未入选正文：HF 新面孔，436 likes / 3,483 下载；LongCat 家族新成员） | 待复盘
+- Mistral Pixtral Large 2502 | 2026-11-23 早报 | 2026-11-23 早报 | OpenRouter | 🆕🌱（未入选正文：OpenRouter 11 月 20 日上架，单源） | 待复盘
+- Sarvam-105B-1711 | 2026-11-23 早报 | 2026-11-23 早报 | X | 🆕🌱（未入选正文：11 月 22 日发布，企业 agent 方向开权重，单源） | 待复盘
+- System 1 agents 论文（eltzanis/SystemOneAgents） | 2026-11-23 早报 | 2026-11-23 早报 | HF Daily Papers, arXiv | 🆕🌱（未入选正文：Daily Papers 6 票 + arXiv；Jev 相关） | 待复盘
+- Mind2Act World | 2026-11-23 早报 | 2026-11-23 早报 | HF Daily Papers | 🆕🌱（未入选正文：Daily Papers 当日票选首位，53 票） | 待复盘
+- C++26 完成 | 2026-11-23 早报 | 2026-11-23 早报 | Hacker News, Lobsters | 🆕🌱（未入选正文：HN 20 分 + Lobsters，单源小众） | 待复盘
+- Backblaze 隐私政策更新担忧 | 2026-11-23 早报 | 2026-11-23 早报 | Hacker News | 🆕🌱（未入选正文：HN 110 分/49 评，单源） | 待复盘
+- SpaceX 最大 AI 云 | 2026-11-23 早报 | 2026-11-23 早报 | SemiAnalysis | 🆕🌱（未入选正文：单源通讯，未核实） | 待复盘
+- Foundation Future Industries 欠薪 | 2026-11-23 早报 | 2026-11-23 早报 | CNBC | 🆕🌱（未入选正文：11 月 22 日，人形机器人创业公司错过发薪、医保追溯终止，单源） | 待复盘
+- 其余在册话题 | 各首次发现时间见上文 | 2026-11-23 早报 | 见上文 | 平，无新动静（Gemini 4 Neon、Claude Fable 5.2 / Mythos 5.2、Qwen4-Max、Gemini 4 Carbon 未见新动静；Genie 4、微软 MAI Code 2、Codeberg 域名事件、OpenAI 对抗蒸馏未见新消息；S2Arm 3,815 stars、lastbook 2,946 stars、yogurt 2,961 stars，缓慢上涨，维持 🌱） | 待复盘
