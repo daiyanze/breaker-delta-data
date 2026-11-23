@@ -27,21 +27,21 @@
                 "ja": "#1 Anthropic IPO"
               },
               "format": {
-                "zh": "动量 100 · 浪高 176",
-                "en": "Momentum 100 · heat 176",
-                "ja": "勢い 100 · 浪高 176"
+                "zh": "动量 77 · 浪高 106",
+                "en": "Momentum 77 · heat 106",
+                "ja": "勢い 77 · 浪高 106"
               }
             },
             {
               "label": {
-                "zh": "#2 黎曼猜想证明声称：认证又过两关，Nielsen 质疑仍未回应",
-                "en": "#2 黎曼猜想证明声称：认证又过两关，Nielsen 质疑仍未回应",
-                "ja": "#2 黎曼猜想证明声称：认证又过两关，Nielsen 质疑仍未回应"
+                "zh": "#2 黎曼猜想证明声称：Masullo 回应出炉，Nielsen 质疑仍未回应",
+                "en": "#2 黎曼猜想证明声称：Masullo 回应出炉，Nielsen 质疑仍未回应",
+                "ja": "#2 黎曼猜想证明声称：Masullo 回应出炉，Nielsen 质疑仍未回应"
               },
               "format": {
-                "zh": "动量 74 · 浪高 184",
-                "en": "Momentum 74 · heat 184",
-                "ja": "勢い 74 · 浪高 184"
+                "zh": "动量 67 · 浪高 144",
+                "en": "Momentum 67 · heat 144",
+                "ja": "勢い 67 · 浪高 144"
               }
             },
             {
@@ -70,9 +70,21 @@
             },
             {
               "label": {
-                "zh": "#5 Gemini 4 Neon 发布：AA 智力指数 61 排第三，$3/$15 定价，对标 Opus 5.5",
-                "en": "#5 Gemini 4 Neon 发布：AA 智力指数 61 排第三，$3/$15 定价，对标 Opus 5.5",
-                "ja": "#5 Gemini 4 Neon 发布：AA 智力指数 61 排第三，$3/$15 定价，对标 Opus 5.5"
+                "zh": "#5 HD Moore 金丝雀实验：OpenRouter 下架 3 家供应商、125 个端点取消零保留资格",
+                "en": "#5 HD Moore 金丝雀实验：OpenRouter 下架 3 家供应商、125 个端点取消零保留资格",
+                "ja": "#5 HD Moore 金丝雀实验：OpenRouter 下架 3 家供应商、125 个端点取消零保留资格"
+              },
+              "format": {
+                "zh": "动量 57 · 浪高 164",
+                "en": "Momentum 57 · heat 164",
+                "ja": "勢い 57 · 浪高 164"
+              }
+            },
+            {
+              "label": {
+                "zh": "#6 Gemini 4 Neon 发布：AA 智力指数 61 排第三，$3/$15 定价，对标 Opus 5.5",
+                "en": "#6 Gemini 4 Neon 发布：AA 智力指数 61 排第三，$3/$15 定价，对标 Opus 5.5",
+                "ja": "#6 Gemini 4 Neon 发布：AA 智力指数 61 排第三，$3/$15 定价，对标 Opus 5.5"
               },
               "format": {
                 "zh": "动量 56 · 浪高 249",
@@ -82,9 +94,9 @@
             },
             {
               "label": {
-                "zh": "#6 OpenAI 发布 GPT-6.2 Astra 与 Sol：上线即遭首批差评，口碑两极",
-                "en": "#6 OpenAI 发布 GPT-6.2 Astra 与 Sol：上线即遭首批差评，口碑两极",
-                "ja": "#6 OpenAI 发布 GPT-6.2 Astra 与 Sol：上线即遭首批差评，口碑两极"
+                "zh": "#7 OpenAI 发布 GPT-6.2 Astra 与 Sol：上线即遭首批差评，口碑两极",
+                "en": "#7 OpenAI 发布 GPT-6.2 Astra 与 Sol：上线即遭首批差评，口碑两极",
+                "ja": "#7 OpenAI 发布 GPT-6.2 Astra 与 Sol：上线即遭首批差评，口碑两极"
               },
               "format": {
                 "zh": "动量 56 · 浪高 229",
@@ -94,9 +106,9 @@
             },
             {
               "label": {
-                "zh": "#7 美国收紧 AI 芯片远程访问管制：5 国列高风险，海外数据中心 90 天内须申请许可",
-                "en": "#7 美国收紧 AI 芯片远程访问管制：5 国列高风险，海外数据中心 90 天内须申请许可",
-                "ja": "#7 美国收紧 AI 芯片远程访问管制：5 国列高风险，海外数据中心 90 天内须申请许可"
+                "zh": "#8 美国收紧 AI 芯片远程访问管制：5 国列高风险，海外数据中心 90 天内须申请许可",
+                "en": "#8 美国收紧 AI 芯片远程访问管制：5 国列高风险，海外数据中心 90 天内须申请许可",
+                "ja": "#8 美国收紧 AI 芯片远程访问管制：5 国列高风险，海外数据中心 90 天内须申请许可"
               },
               "format": {
                 "zh": "动量 56 · 浪高 221",
@@ -106,9 +118,9 @@
             },
             {
               "label": {
-                "zh": "#8 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年",
-                "en": "#8 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年",
-                "ja": "#8 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年"
+                "zh": "#9 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年",
+                "en": "#9 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年",
+                "ja": "#9 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年"
               },
               "format": {
                 "zh": "动量 56 · 浪高 191",
@@ -118,9 +130,9 @@
             },
             {
               "label": {
-                "zh": "#9 ChatGPT Wallet：Agent 开始替你花钱",
-                "en": "#9 ChatGPT Wallet：Agent 开始替你花钱",
-                "ja": "#9 ChatGPT Wallet：Agent 开始替你花钱"
+                "zh": "#10 ChatGPT Wallet：Agent 开始替你花钱",
+                "en": "#10 ChatGPT Wallet：Agent 开始替你花钱",
+                "ja": "#10 ChatGPT Wallet：Agent 开始替你花钱"
               },
               "format": {
                 "zh": "动量 51 · 浪高 209",
@@ -130,9 +142,9 @@
             },
             {
               "label": {
-                "zh": "#10 Gemini 4 Hydrogen 持续发酵",
-                "en": "#10 Gemini 4 Hydrogen 持续发酵",
-                "ja": "#10 Gemini 4 Hydrogen 持续发酵"
+                "zh": "#11 Gemini 4 Hydrogen 持续发酵",
+                "en": "#11 Gemini 4 Hydrogen 持续发酵",
+                "ja": "#11 Gemini 4 Hydrogen 持续发酵"
               },
               "format": {
                 "zh": "动量 51 · 浪高 176",
@@ -142,9 +154,9 @@
             },
             {
               "label": {
-                "zh": "#11 Inkling 2 Mini 升温：HN 141→937 分，HF likes 97→1,050，团队亲自下场回帖",
-                "en": "#11 Inkling 2 Mini 升温：HN 141→937 分，HF likes 97→1,050，团队亲自下场回帖",
-                "ja": "#11 Inkling 2 Mini 升温：HN 141→937 分，HF likes 97→1,050，团队亲自下场回帖"
+                "zh": "#12 Inkling 2 Mini 升温：HN 141→937 分，HF likes 97→1,050，团队亲自下场回帖",
+                "en": "#12 Inkling 2 Mini 升温：HN 141→937 分，HF likes 97→1,050，团队亲自下场回帖",
+                "ja": "#12 Inkling 2 Mini 升温：HN 141→937 分，HF likes 97→1,050，团队亲自下场回帖"
               },
               "format": {
                 "zh": "动量 51 · 浪高 176",
@@ -154,9 +166,9 @@
             },
             {
               "label": {
-                "zh": "#12 United 航空禁 AI agent 订票",
-                "en": "#12 United 航空禁 AI agent 订票",
-                "ja": "#12 United 航空禁 AI agent 订票"
+                "zh": "#13 United 航空禁 AI agent 订票",
+                "en": "#13 United 航空禁 AI agent 订票",
+                "ja": "#13 United 航空禁 AI agent 订票"
               },
               "format": {
                 "zh": "动量 51 · 浪高 171",
@@ -166,9 +178,9 @@
             },
             {
               "label": {
-                "zh": "#13 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta",
-                "en": "#13 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta",
-                "ja": "#13 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta"
+                "zh": "#14 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta",
+                "en": "#14 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta",
+                "ja": "#14 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta"
               },
               "format": {
                 "zh": "动量 51 · 浪高 171",
@@ -178,9 +190,9 @@
             },
             {
               "label": {
-                "zh": "#14 SpaceX 星舰 Flight 15 首次接住飞船",
-                "en": "#14 SpaceX 星舰 Flight 15 首次接住飞船",
-                "ja": "#14 SpaceX 星舰 Flight 15 首次接住飞船"
+                "zh": "#15 SpaceX 星舰 Flight 15 首次接住飞船",
+                "en": "#15 SpaceX 星舰 Flight 15 首次接住飞船",
+                "ja": "#15 SpaceX 星舰 Flight 15 首次接住飞船"
               },
               "format": {
                 "zh": "动量 51 · 浪高 171",
@@ -190,9 +202,9 @@
             },
             {
               "label": {
-                "zh": "#15 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题",
-                "en": "#15 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题",
-                "ja": "#15 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题"
+                "zh": "#16 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题",
+                "en": "#16 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题",
+                "ja": "#16 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题"
               },
               "format": {
                 "zh": "动量 51 · 浪高 171",
@@ -202,9 +214,9 @@
             },
             {
               "label": {
-                "zh": "#16 欧美基础设施连环中断：Apple 服务、NSA 机密内网、微软 365 接连宕机",
-                "en": "#16 欧美基础设施连环中断：Apple 服务、NSA 机密内网、微软 365 接连宕机",
-                "ja": "#16 欧美基础设施连环中断：Apple 服务、NSA 机密内网、微软 365 接连宕机"
+                "zh": "#17 欧美基础设施连环中断：Apple 服务、NSA 机密内网、微软 365 接连宕机",
+                "en": "#17 欧美基础设施连环中断：Apple 服务、NSA 机密内网、微软 365 接连宕机",
+                "ja": "#17 欧美基础设施连环中断：Apple 服务、NSA 机密内网、微软 365 接连宕机"
               },
               "format": {
                 "zh": "动量 51 · 浪高 146",
@@ -214,26 +226,14 @@
             },
             {
               "label": {
-                "zh": "#17 微软 365 全球宕机进入第二天",
-                "en": "#17 微软 365 全球宕机进入第二天",
-                "ja": "#17 微软 365 全球宕机进入第二天"
+                "zh": "#18 微软 365 全球宕机进入第二天",
+                "en": "#18 微软 365 全球宕机进入第二天",
+                "ja": "#18 微软 365 全球宕机进入第二天"
               },
               "format": {
                 "zh": "动量 51 · 浪高 110",
                 "en": "Momentum 51 · heat 110",
                 "ja": "勢い 51 · 浪高 110"
-              }
-            },
-            {
-              "label": {
-                "zh": "#18 HD Moore 200 万金丝雀实验：HN 269 分，更多跟进出炉",
-                "en": "#18 HD Moore 200 万金丝雀实验：HN 269 分，更多跟进出炉",
-                "ja": "#18 HD Moore 200 万金丝雀实验：HN 269 分，更多跟进出炉"
-              },
-              "format": {
-                "zh": "动量 49 · 浪高 156",
-                "en": "Momentum 49 · heat 156",
-                "ja": "勢い 49 · 浪高 156"
               }
             },
             {
@@ -284,21 +284,21 @@
                 "ja": "#1 Anthropic IPO"
               },
               "format": {
-                "zh": "动量 100 · 浪高 176",
-                "en": "Momentum 100 · heat 176",
-                "ja": "勢い 100 · 浪高 176"
+                "zh": "动量 77 · 浪高 106",
+                "en": "Momentum 77 · heat 106",
+                "ja": "勢い 77 · 浪高 106"
               }
             },
             {
               "label": {
-                "zh": "#2 黎曼猜想证明声称：认证又过两关，Nielsen 质疑仍未回应",
-                "en": "#2 黎曼猜想证明声称：认证又过两关，Nielsen 质疑仍未回应",
-                "ja": "#2 黎曼猜想证明声称：认证又过两关，Nielsen 质疑仍未回应"
+                "zh": "#2 黎曼猜想证明声称：Masullo 回应出炉，Nielsen 质疑仍未回应",
+                "en": "#2 黎曼猜想证明声称：Masullo 回应出炉，Nielsen 质疑仍未回应",
+                "ja": "#2 黎曼猜想证明声称：Masullo 回应出炉，Nielsen 质疑仍未回应"
               },
               "format": {
-                "zh": "动量 74 · 浪高 184",
-                "en": "Momentum 74 · heat 184",
-                "ja": "勢い 74 · 浪高 184"
+                "zh": "动量 67 · 浪高 144",
+                "en": "Momentum 67 · heat 144",
+                "ja": "勢い 67 · 浪高 144"
               }
             },
             {
@@ -327,9 +327,21 @@
             },
             {
               "label": {
-                "zh": "#5 Gemini 4 Neon 发布：AA 智力指数 61 排第三，$3/$15 定价，对标 Opus 5.5",
-                "en": "#5 Gemini 4 Neon 发布：AA 智力指数 61 排第三，$3/$15 定价，对标 Opus 5.5",
-                "ja": "#5 Gemini 4 Neon 发布：AA 智力指数 61 排第三，$3/$15 定价，对标 Opus 5.5"
+                "zh": "#5 HD Moore 金丝雀实验：OpenRouter 下架 3 家供应商、125 个端点取消零保留资格",
+                "en": "#5 HD Moore 金丝雀实验：OpenRouter 下架 3 家供应商、125 个端点取消零保留资格",
+                "ja": "#5 HD Moore 金丝雀实验：OpenRouter 下架 3 家供应商、125 个端点取消零保留资格"
+              },
+              "format": {
+                "zh": "动量 57 · 浪高 164",
+                "en": "Momentum 57 · heat 164",
+                "ja": "勢い 57 · 浪高 164"
+              }
+            },
+            {
+              "label": {
+                "zh": "#6 Gemini 4 Neon 发布：AA 智力指数 61 排第三，$3/$15 定价，对标 Opus 5.5",
+                "en": "#6 Gemini 4 Neon 发布：AA 智力指数 61 排第三，$3/$15 定价，对标 Opus 5.5",
+                "ja": "#6 Gemini 4 Neon 发布：AA 智力指数 61 排第三，$3/$15 定价，对标 Opus 5.5"
               },
               "format": {
                 "zh": "动量 56 · 浪高 249",
@@ -339,9 +351,9 @@
             },
             {
               "label": {
-                "zh": "#6 OpenAI 发布 GPT-6.2 Astra 与 Sol：上线即遭首批差评，口碑两极",
-                "en": "#6 OpenAI 发布 GPT-6.2 Astra 与 Sol：上线即遭首批差评，口碑两极",
-                "ja": "#6 OpenAI 发布 GPT-6.2 Astra 与 Sol：上线即遭首批差评，口碑两极"
+                "zh": "#7 OpenAI 发布 GPT-6.2 Astra 与 Sol：上线即遭首批差评，口碑两极",
+                "en": "#7 OpenAI 发布 GPT-6.2 Astra 与 Sol：上线即遭首批差评，口碑两极",
+                "ja": "#7 OpenAI 发布 GPT-6.2 Astra 与 Sol：上线即遭首批差评，口碑两极"
               },
               "format": {
                 "zh": "动量 56 · 浪高 229",
@@ -351,9 +363,9 @@
             },
             {
               "label": {
-                "zh": "#7 美国收紧 AI 芯片远程访问管制：5 国列高风险，海外数据中心 90 天内须申请许可",
-                "en": "#7 美国收紧 AI 芯片远程访问管制：5 国列高风险，海外数据中心 90 天内须申请许可",
-                "ja": "#7 美国收紧 AI 芯片远程访问管制：5 国列高风险，海外数据中心 90 天内须申请许可"
+                "zh": "#8 美国收紧 AI 芯片远程访问管制：5 国列高风险，海外数据中心 90 天内须申请许可",
+                "en": "#8 美国收紧 AI 芯片远程访问管制：5 国列高风险，海外数据中心 90 天内须申请许可",
+                "ja": "#8 美国收紧 AI 芯片远程访问管制：5 国列高风险，海外数据中心 90 天内须申请许可"
               },
               "format": {
                 "zh": "动量 56 · 浪高 221",
@@ -363,9 +375,9 @@
             },
             {
               "label": {
-                "zh": "#8 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年",
-                "en": "#8 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年",
-                "ja": "#8 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年"
+                "zh": "#9 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年",
+                "en": "#9 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年",
+                "ja": "#9 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年"
               },
               "format": {
                 "zh": "动量 56 · 浪高 191",
@@ -375,9 +387,9 @@
             },
             {
               "label": {
-                "zh": "#9 ChatGPT Wallet：Agent 开始替你花钱",
-                "en": "#9 ChatGPT Wallet：Agent 开始替你花钱",
-                "ja": "#9 ChatGPT Wallet：Agent 开始替你花钱"
+                "zh": "#10 ChatGPT Wallet：Agent 开始替你花钱",
+                "en": "#10 ChatGPT Wallet：Agent 开始替你花钱",
+                "ja": "#10 ChatGPT Wallet：Agent 开始替你花钱"
               },
               "format": {
                 "zh": "动量 51 · 浪高 209",
@@ -387,9 +399,9 @@
             },
             {
               "label": {
-                "zh": "#10 Gemini 4 Hydrogen 持续发酵",
-                "en": "#10 Gemini 4 Hydrogen 持续发酵",
-                "ja": "#10 Gemini 4 Hydrogen 持续发酵"
+                "zh": "#11 Gemini 4 Hydrogen 持续发酵",
+                "en": "#11 Gemini 4 Hydrogen 持续发酵",
+                "ja": "#11 Gemini 4 Hydrogen 持续发酵"
               },
               "format": {
                 "zh": "动量 51 · 浪高 176",
@@ -399,9 +411,9 @@
             },
             {
               "label": {
-                "zh": "#11 Inkling 2 Mini 升温：HN 141→937 分，HF likes 97→1,050，团队亲自下场回帖",
-                "en": "#11 Inkling 2 Mini 升温：HN 141→937 分，HF likes 97→1,050，团队亲自下场回帖",
-                "ja": "#11 Inkling 2 Mini 升温：HN 141→937 分，HF likes 97→1,050，团队亲自下场回帖"
+                "zh": "#12 Inkling 2 Mini 升温：HN 141→937 分，HF likes 97→1,050，团队亲自下场回帖",
+                "en": "#12 Inkling 2 Mini 升温：HN 141→937 分，HF likes 97→1,050，团队亲自下场回帖",
+                "ja": "#12 Inkling 2 Mini 升温：HN 141→937 分，HF likes 97→1,050，团队亲自下场回帖"
               },
               "format": {
                 "zh": "动量 51 · 浪高 176",
@@ -411,9 +423,9 @@
             },
             {
               "label": {
-                "zh": "#12 United 航空禁 AI agent 订票",
-                "en": "#12 United 航空禁 AI agent 订票",
-                "ja": "#12 United 航空禁 AI agent 订票"
+                "zh": "#13 United 航空禁 AI agent 订票",
+                "en": "#13 United 航空禁 AI agent 订票",
+                "ja": "#13 United 航空禁 AI agent 订票"
               },
               "format": {
                 "zh": "动量 51 · 浪高 171",
@@ -423,9 +435,9 @@
             },
             {
               "label": {
-                "zh": "#13 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta",
-                "en": "#13 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta",
-                "ja": "#13 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta"
+                "zh": "#14 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta",
+                "en": "#14 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta",
+                "ja": "#14 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta"
               },
               "format": {
                 "zh": "动量 51 · 浪高 171",
@@ -435,9 +447,9 @@
             },
             {
               "label": {
-                "zh": "#14 SpaceX 星舰 Flight 15 首次接住飞船",
-                "en": "#14 SpaceX 星舰 Flight 15 首次接住飞船",
-                "ja": "#14 SpaceX 星舰 Flight 15 首次接住飞船"
+                "zh": "#15 SpaceX 星舰 Flight 15 首次接住飞船",
+                "en": "#15 SpaceX 星舰 Flight 15 首次接住飞船",
+                "ja": "#15 SpaceX 星舰 Flight 15 首次接住飞船"
               },
               "format": {
                 "zh": "动量 51 · 浪高 171",
@@ -447,9 +459,9 @@
             },
             {
               "label": {
-                "zh": "#15 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题",
-                "en": "#15 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题",
-                "ja": "#15 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题"
+                "zh": "#16 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题",
+                "en": "#16 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题",
+                "ja": "#16 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题"
               },
               "format": {
                 "zh": "动量 51 · 浪高 171",
@@ -459,9 +471,9 @@
             },
             {
               "label": {
-                "zh": "#16 欧美基础设施连环中断：Apple 服务、NSA 机密内网、微软 365 接连宕机",
-                "en": "#16 欧美基础设施连环中断：Apple 服务、NSA 机密内网、微软 365 接连宕机",
-                "ja": "#16 欧美基础设施连环中断：Apple 服务、NSA 机密内网、微软 365 接连宕机"
+                "zh": "#17 欧美基础设施连环中断：Apple 服务、NSA 机密内网、微软 365 接连宕机",
+                "en": "#17 欧美基础设施连环中断：Apple 服务、NSA 机密内网、微软 365 接连宕机",
+                "ja": "#17 欧美基础设施连环中断：Apple 服务、NSA 机密内网、微软 365 接连宕机"
               },
               "format": {
                 "zh": "动量 51 · 浪高 146",
@@ -471,26 +483,14 @@
             },
             {
               "label": {
-                "zh": "#17 微软 365 全球宕机进入第二天",
-                "en": "#17 微软 365 全球宕机进入第二天",
-                "ja": "#17 微软 365 全球宕机进入第二天"
+                "zh": "#18 微软 365 全球宕机进入第二天",
+                "en": "#18 微软 365 全球宕机进入第二天",
+                "ja": "#18 微软 365 全球宕机进入第二天"
               },
               "format": {
                 "zh": "动量 51 · 浪高 110",
                 "en": "Momentum 51 · heat 110",
                 "ja": "勢い 51 · 浪高 110"
-              }
-            },
-            {
-              "label": {
-                "zh": "#18 HD Moore 200 万金丝雀实验：HN 269 分，更多跟进出炉",
-                "en": "#18 HD Moore 200 万金丝雀实验：HN 269 分，更多跟进出炉",
-                "ja": "#18 HD Moore 200 万金丝雀实验：HN 269 分，更多跟进出炉"
-              },
-              "format": {
-                "zh": "动量 49 · 浪高 156",
-                "en": "Momentum 49 · heat 156",
-                "ja": "勢い 49 · 浪高 156"
               }
             },
             {
@@ -541,21 +541,21 @@
                 "ja": "#1 Anthropic IPO"
               },
               "format": {
-                "zh": "动量 100 · 浪高 176",
-                "en": "Momentum 100 · heat 176",
-                "ja": "勢い 100 · 浪高 176"
+                "zh": "动量 77 · 浪高 106",
+                "en": "Momentum 77 · heat 106",
+                "ja": "勢い 77 · 浪高 106"
               }
             },
             {
               "label": {
-                "zh": "#2 黎曼猜想证明声称：认证又过两关，Nielsen 质疑仍未回应",
-                "en": "#2 黎曼猜想证明声称：认证又过两关，Nielsen 质疑仍未回应",
-                "ja": "#2 黎曼猜想证明声称：认证又过两关，Nielsen 质疑仍未回应"
+                "zh": "#2 黎曼猜想证明声称：Masullo 回应出炉，Nielsen 质疑仍未回应",
+                "en": "#2 黎曼猜想证明声称：Masullo 回应出炉，Nielsen 质疑仍未回应",
+                "ja": "#2 黎曼猜想证明声称：Masullo 回应出炉，Nielsen 质疑仍未回应"
               },
               "format": {
-                "zh": "动量 74 · 浪高 184",
-                "en": "Momentum 74 · heat 184",
-                "ja": "勢い 74 · 浪高 184"
+                "zh": "动量 67 · 浪高 144",
+                "en": "Momentum 67 · heat 144",
+                "ja": "勢い 67 · 浪高 144"
               }
             },
             {
@@ -584,9 +584,21 @@
             },
             {
               "label": {
-                "zh": "#5 Gemini 4 Neon 发布：AA 智力指数 61 排第三，$3/$15 定价，对标 Opus 5.5",
-                "en": "#5 Gemini 4 Neon 发布：AA 智力指数 61 排第三，$3/$15 定价，对标 Opus 5.5",
-                "ja": "#5 Gemini 4 Neon 发布：AA 智力指数 61 排第三，$3/$15 定价，对标 Opus 5.5"
+                "zh": "#5 HD Moore 金丝雀实验：OpenRouter 下架 3 家供应商、125 个端点取消零保留资格",
+                "en": "#5 HD Moore 金丝雀实验：OpenRouter 下架 3 家供应商、125 个端点取消零保留资格",
+                "ja": "#5 HD Moore 金丝雀实验：OpenRouter 下架 3 家供应商、125 个端点取消零保留资格"
+              },
+              "format": {
+                "zh": "动量 57 · 浪高 164",
+                "en": "Momentum 57 · heat 164",
+                "ja": "勢い 57 · 浪高 164"
+              }
+            },
+            {
+              "label": {
+                "zh": "#6 Gemini 4 Neon 发布：AA 智力指数 61 排第三，$3/$15 定价，对标 Opus 5.5",
+                "en": "#6 Gemini 4 Neon 发布：AA 智力指数 61 排第三，$3/$15 定价，对标 Opus 5.5",
+                "ja": "#6 Gemini 4 Neon 发布：AA 智力指数 61 排第三，$3/$15 定价，对标 Opus 5.5"
               },
               "format": {
                 "zh": "动量 56 · 浪高 249",
@@ -596,9 +608,9 @@
             },
             {
               "label": {
-                "zh": "#6 OpenAI 发布 GPT-6.2 Astra 与 Sol：上线即遭首批差评，口碑两极",
-                "en": "#6 OpenAI 发布 GPT-6.2 Astra 与 Sol：上线即遭首批差评，口碑两极",
-                "ja": "#6 OpenAI 发布 GPT-6.2 Astra 与 Sol：上线即遭首批差评，口碑两极"
+                "zh": "#7 OpenAI 发布 GPT-6.2 Astra 与 Sol：上线即遭首批差评，口碑两极",
+                "en": "#7 OpenAI 发布 GPT-6.2 Astra 与 Sol：上线即遭首批差评，口碑两极",
+                "ja": "#7 OpenAI 发布 GPT-6.2 Astra 与 Sol：上线即遭首批差评，口碑两极"
               },
               "format": {
                 "zh": "动量 56 · 浪高 229",
@@ -608,9 +620,9 @@
             },
             {
               "label": {
-                "zh": "#7 美国收紧 AI 芯片远程访问管制：5 国列高风险，海外数据中心 90 天内须申请许可",
-                "en": "#7 美国收紧 AI 芯片远程访问管制：5 国列高风险，海外数据中心 90 天内须申请许可",
-                "ja": "#7 美国收紧 AI 芯片远程访问管制：5 国列高风险，海外数据中心 90 天内须申请许可"
+                "zh": "#8 美国收紧 AI 芯片远程访问管制：5 国列高风险，海外数据中心 90 天内须申请许可",
+                "en": "#8 美国收紧 AI 芯片远程访问管制：5 国列高风险，海外数据中心 90 天内须申请许可",
+                "ja": "#8 美国收紧 AI 芯片远程访问管制：5 国列高风险，海外数据中心 90 天内须申请许可"
               },
               "format": {
                 "zh": "动量 56 · 浪高 221",
@@ -620,9 +632,9 @@
             },
             {
               "label": {
-                "zh": "#8 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年",
-                "en": "#8 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年",
-                "ja": "#8 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年"
+                "zh": "#9 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年",
+                "en": "#9 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年",
+                "ja": "#9 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年"
               },
               "format": {
                 "zh": "动量 56 · 浪高 191",
@@ -632,9 +644,9 @@
             },
             {
               "label": {
-                "zh": "#9 ChatGPT Wallet：Agent 开始替你花钱",
-                "en": "#9 ChatGPT Wallet：Agent 开始替你花钱",
-                "ja": "#9 ChatGPT Wallet：Agent 开始替你花钱"
+                "zh": "#10 ChatGPT Wallet：Agent 开始替你花钱",
+                "en": "#10 ChatGPT Wallet：Agent 开始替你花钱",
+                "ja": "#10 ChatGPT Wallet：Agent 开始替你花钱"
               },
               "format": {
                 "zh": "动量 51 · 浪高 209",
@@ -644,9 +656,9 @@
             },
             {
               "label": {
-                "zh": "#10 Gemini 4 Hydrogen 持续发酵",
-                "en": "#10 Gemini 4 Hydrogen 持续发酵",
-                "ja": "#10 Gemini 4 Hydrogen 持续发酵"
+                "zh": "#11 Gemini 4 Hydrogen 持续发酵",
+                "en": "#11 Gemini 4 Hydrogen 持续发酵",
+                "ja": "#11 Gemini 4 Hydrogen 持续发酵"
               },
               "format": {
                 "zh": "动量 51 · 浪高 176",
@@ -656,9 +668,9 @@
             },
             {
               "label": {
-                "zh": "#11 Inkling 2 Mini 升温：HN 141→937 分，HF likes 97→1,050，团队亲自下场回帖",
-                "en": "#11 Inkling 2 Mini 升温：HN 141→937 分，HF likes 97→1,050，团队亲自下场回帖",
-                "ja": "#11 Inkling 2 Mini 升温：HN 141→937 分，HF likes 97→1,050，团队亲自下场回帖"
+                "zh": "#12 Inkling 2 Mini 升温：HN 141→937 分，HF likes 97→1,050，团队亲自下场回帖",
+                "en": "#12 Inkling 2 Mini 升温：HN 141→937 分，HF likes 97→1,050，团队亲自下场回帖",
+                "ja": "#12 Inkling 2 Mini 升温：HN 141→937 分，HF likes 97→1,050，团队亲自下场回帖"
               },
               "format": {
                 "zh": "动量 51 · 浪高 176",
@@ -668,9 +680,9 @@
             },
             {
               "label": {
-                "zh": "#12 United 航空禁 AI agent 订票",
-                "en": "#12 United 航空禁 AI agent 订票",
-                "ja": "#12 United 航空禁 AI agent 订票"
+                "zh": "#13 United 航空禁 AI agent 订票",
+                "en": "#13 United 航空禁 AI agent 订票",
+                "ja": "#13 United 航空禁 AI agent 订票"
               },
               "format": {
                 "zh": "动量 51 · 浪高 171",
@@ -680,9 +692,9 @@
             },
             {
               "label": {
-                "zh": "#13 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta",
-                "en": "#13 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta",
-                "ja": "#13 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta"
+                "zh": "#14 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta",
+                "en": "#14 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta",
+                "ja": "#14 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta"
               },
               "format": {
                 "zh": "动量 51 · 浪高 171",
@@ -692,9 +704,9 @@
             },
             {
               "label": {
-                "zh": "#14 SpaceX 星舰 Flight 15 首次接住飞船",
-                "en": "#14 SpaceX 星舰 Flight 15 首次接住飞船",
-                "ja": "#14 SpaceX 星舰 Flight 15 首次接住飞船"
+                "zh": "#15 SpaceX 星舰 Flight 15 首次接住飞船",
+                "en": "#15 SpaceX 星舰 Flight 15 首次接住飞船",
+                "ja": "#15 SpaceX 星舰 Flight 15 首次接住飞船"
               },
               "format": {
                 "zh": "动量 51 · 浪高 171",
@@ -704,9 +716,9 @@
             },
             {
               "label": {
-                "zh": "#15 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题",
-                "en": "#15 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题",
-                "ja": "#15 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题"
+                "zh": "#16 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题",
+                "en": "#16 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题",
+                "ja": "#16 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题"
               },
               "format": {
                 "zh": "动量 51 · 浪高 171",
@@ -716,9 +728,9 @@
             },
             {
               "label": {
-                "zh": "#16 欧美基础设施连环中断：Apple 服务、NSA 机密内网、微软 365 接连宕机",
-                "en": "#16 欧美基础设施连环中断：Apple 服务、NSA 机密内网、微软 365 接连宕机",
-                "ja": "#16 欧美基础设施连环中断：Apple 服务、NSA 机密内网、微软 365 接连宕机"
+                "zh": "#17 欧美基础设施连环中断：Apple 服务、NSA 机密内网、微软 365 接连宕机",
+                "en": "#17 欧美基础设施连环中断：Apple 服务、NSA 机密内网、微软 365 接连宕机",
+                "ja": "#17 欧美基础设施连环中断：Apple 服务、NSA 机密内网、微软 365 接连宕机"
               },
               "format": {
                 "zh": "动量 51 · 浪高 146",
@@ -728,26 +740,14 @@
             },
             {
               "label": {
-                "zh": "#17 微软 365 全球宕机进入第二天",
-                "en": "#17 微软 365 全球宕机进入第二天",
-                "ja": "#17 微软 365 全球宕机进入第二天"
+                "zh": "#18 微软 365 全球宕机进入第二天",
+                "en": "#18 微软 365 全球宕机进入第二天",
+                "ja": "#18 微软 365 全球宕机进入第二天"
               },
               "format": {
                 "zh": "动量 51 · 浪高 110",
                 "en": "Momentum 51 · heat 110",
                 "ja": "勢い 51 · 浪高 110"
-              }
-            },
-            {
-              "label": {
-                "zh": "#18 HD Moore 200 万金丝雀实验：HN 269 分，更多跟进出炉",
-                "en": "#18 HD Moore 200 万金丝雀实验：HN 269 分，更多跟进出炉",
-                "ja": "#18 HD Moore 200 万金丝雀实验：HN 269 分，更多跟进出炉"
-              },
-              "format": {
-                "zh": "动量 49 · 浪高 156",
-                "en": "Momentum 49 · heat 156",
-                "ja": "勢い 49 · 浪高 156"
               }
             },
             {

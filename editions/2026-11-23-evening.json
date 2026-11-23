@@ -1,0 +1,278 @@
+{
+  "date": "2026-11-23",
+  "items": [
+    {
+      "action": "写 tweet，写“认证通过、质疑并存、结论未决”，别写成已获奖，也别写成已被证伪。",
+      "body": "Masullo 11 月 22 日在 Baez 博客发文回应（HN 208 分/139 评）；Lean 形式化进度图帖 HN 228 分/168 评，另有 1,700 万行证明代码的可视化 Treemap（74 分）。维基百科“Riemann hypothesis”昨日第 8，205,793 次浏览，较昨日第 5/388,288 回落。Lean 与 Mathlib 11 月 21 日联合声明认证通过；Nielsen 在 PhilArchive 的质疑至今未获回应，Polymarket 11 月 22 日总结了争议；克雷研究所仍列未解。口径仍是“认证通过、质疑并存、结论未决”。",
+      "i18n": {
+        "en": {
+          "action": "Write a tweet saying \"certified, but challenged — no verdict yet\"; do not present it as a prize already won or as already debunked.",
+          "body": "Masullo responded on Baez's blog on November 22 (208 points / 139 comments on Hacker News); a progress map of the Lean formalization drew 228 points / 168 comments, plus a treemap visualization of the 17-million-line proof code (74 points). Wikipedia's \"Riemann hypothesis\" ranked 8th yesterday with 205,793 views, down from 5th / 388,288 the day before. The Lean and Mathlib joint statement of November 21 certified the proof; Nielsen's challenge on PhilArchive is still unanswered, and Polymarket summarized the dispute on November 22; the Clay Institute still lists the problem as unsolved. The line remains: certified, but challenged — no verdict yet.",
+          "title": "Riemann Hypothesis proof claim: Masullo responds, Nielsen's challenge still unanswered"
+        },
+        "ja": {
+          "action": "ツイートを書く。「認証は通過したが異議も出ており、結論はまだ出ていない」とし、受賞済みとも反証済みとも書かない。",
+          "body": "マスッロ氏は11月22日にバエズ氏のブログで反論した（Hacker Newsで208ポイント／139コメント）。Leanによる形式化の進捗図は228ポイント／168コメント、1,700万行の証明コードを可視化したツリーマップも74ポイントを集めた。ウィキペディアの「Riemann hypothesis」は昨日8位で205,793ビューと、前日の5位／388,288から後退した。LeanとMathlibは11月21日の共同声明で認証が通過したと発表。ニールセン氏がPhilArchiveに投稿した異議にはまだ回答がなく、Polymarketが11月22日に論争をまとめた。クレイ研究所は依然として未解決としており、「認証は通過したが異議も出ており、結論はまだ出ていない」という立場は変わらない。",
+          "title": "リーマン予想の証明主張：マスッロ氏が反論、ニールセンの異議にはまだ回答なし"
+        }
+      },
+      "is_new": false,
+      "level": "must",
+      "links": [
+        "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
+        "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+        "https://math.mit.edu/~drew/grh/"
+      ],
+      "sources": [
+        "Hacker News",
+        "Wikipedia",
+        "Lean"
+      ],
+      "title": "黎曼猜想证明声称：Masullo 回应出炉，Nielsen 质疑仍未回应",
+      "plugins": {
+        "momentum": {
+          "score": 67
+        }
+      }
+    },
+    {
+      "action": "仅记录，等 .exe 放出后的实测再判断。",
+      "body": "GitHub 17,661 stars，创建 2 天，日均 8,830.5，仍居日榜第 1；今早 13,830，约 12 小时增加 3,831。Xbox2Windows 1,368 stars（今早 1,271）。维基百科 GTA VI 昨日第 5，308,867 次浏览。HN 出现《GTA 6 鸟类图鉴》帖 482 分/241 评。.exe 称 11 月 23 日放出，本期未核实是否已放出；游戏仍不能启动。",
+      "i18n": {
+        "en": {
+          "action": "Just record it; judge again after the .exe is released and tested.",
+          "body": "Leonida has 17,661 stars on GitHub, created 2 days ago, averaging 8,830.5 per day, still No. 1 on the daily trending list; it was 13,830 this morning, up 3,831 in about 12 hours. Xbox2Windows has 1,368 stars (1,271 this morning). Wikipedia's Grand Theft Auto VI ranked 5th yesterday with 308,867 views. A \"Birds of GTA 6\" field-guide post on Hacker News drew 482 points / 241 comments. The .exe was promised for November 23, which this edition has not verified; the game still cannot launch.",
+          "title": "Leonida: 17,661 stars, still No. 1 on GitHub daily trending; .exe promised for today"
+        },
+        "ja": {
+          "action": ".exeが公開され実測が出てから判断するため、記録のみとする。",
+          "body": "GitHubで17,661スター、作成から2日で1日平均8,830.5、デイリートレンド1位を維持。今朝は13,830で、約12時間で3,831増加した。Xbox2Windowsは1,368スター（今朝1,271）。ウィキペディアのGrand Theft Auto VIは昨日5位で308,867ビュー。Hacker Newsには『GTA 6の鳥類図鑑』の投稿があり482ポイント／241コメント。.exeは11月23日の公開とされていたが、本稿では未確認。ゲームは依然として起動できない。",
+          "title": "Leonida：17,661スターでGitHubデイリー1位を維持、.exeは本日公開予定"
+        }
+      },
+      "is_new": false,
+      "level": "must",
+      "links": [
+        "https://github.com/ItsNotRexed/Leonida",
+        "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+        "https://videocardz.com/newz/gta-vi-pc-efforts-have-already-kicked-off-with-multiple-xbox-emulation-projects-underway"
+      ],
+      "sources": [
+        "GitHub",
+        "Wikipedia",
+        "Hacker News"
+      ],
+      "title": "Leonida：17,661 stars 仍居 GitHub 日榜第 1，.exe 称今日放出",
+      "plugins": {
+        "momentum": {
+          "score": 41
+        }
+      }
+    },
+    {
+      "action": "写 tweet：重点是 OpenRouter 11 月 22 日的执法动作（3 家下架、125 端点取消 ZDR），提醒用过 OpenRouter MiniMax 路由的读者检查 11 月 21 日邮件并轮换密钥。",
+      "body": "OpenRouter 11 月 22 日公布执法行动：下架 3 家推理供应商，125 个模型端点取消零数据保留（ZDR）资格，通知全部可能受影响客户，并把金丝雀检测改为常态化测试。Together AI 11 月 21 日 CEO 署名安全公告：6–7 月 serverless 提示样本被未授权下载，涉 5 枚金丝雀凭证；Phala 11 月 10 日初步报告称，10 月 21 日–11 月 8 日经 OpenRouter 转发的 DeepSeek V4 Flash 请求应视为已暴露。Ars Technica 与 dev.to 跟进。研究本身数字不变：7–11 月近 200 万条带唯一秘密的提示，至少 3 家托管商被攻破。",
+      "i18n": {
+        "en": {
+          "action": "Write a tweet focused on OpenRouter's November 22 enforcement (3 providers off-boarded, 125 endpoints losing ZDR), reminding readers who used OpenRouter's MiniMax routes to check the November 21 email and rotate keys.",
+          "body": "OpenRouter announced enforcement actions on November 22: three inference providers off-boarded, 125 model endpoints stripped of Zero Data Retention (ZDR) eligibility, all potentially affected customers notified, and canary testing turned into ongoing checks. Together AI published a CEO-signed security notice on November 21: serverless prompt samples from June–July were downloaded without authorization, involving five canary credentials; Phala's preliminary report of November 10 says DeepSeek V4 Flash requests routed via OpenRouter between October 21 and November 8 should be treated as exposed. Ars Technica and dev.to followed up. The study's own numbers are unchanged: nearly two million prompts carrying unique secrets between July and November, with at least three hosting providers breached.",
+          "title": "HD Moore canary experiment: OpenRouter off-boards 3 providers, strips 125 endpoints of zero-retention status"
+        },
+        "ja": {
+          "action": "ツイートを書く。OpenRouterの11月22日の執行措置（3社の排除、125エンドポイントのZDR剥奪）を中心に、OpenRouterのMiniMax経路を使った読者には11月21日のメールを確認して鍵をローテーションするよう呼びかける。",
+          "body": "OpenRouterは11月22日に執行措置を発表した。推論プロバイダー3社を排除し、125のモデルエンドポイントからゼロデータ保持（ZDR）の資格を剥奪、影響の可能性がある全顧客に通知し、カナリア検出を常態化した。Together AIは11月21日にCEO署名のセキュリティ公告を出し、6〜7月のserverlessプロンプトのサンプルが無断でダウンロードされ、5件のカナリア認証情報が関与したと発表した。Phalaの11月10日の初報では、10月21日〜11月8日にOpenRouter経由で転送されたDeepSeek V4 Flashへのリクエストは漏洩したものとして扱うべきだという。Ars Technicaとdev.toが追った。研究自体の数字は変わらない。7〜11月に固有の秘密を含むプロンプト約200万件を送り、少なくとも3社のホスティング事業者が侵害された。",
+          "title": "HDムーアのカナリア実験：OpenRouterが3社を排除、125エンドポイントのゼロ保持資格を剥奪"
+        }
+      },
+      "is_new": false,
+      "level": "must",
+      "links": [
+        "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+        "https://dev.to/frankchu/2m-canary-prompts-caught-3-providers-stealing-data-2n01",
+        "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
+      ],
+      "sources": [
+        "OpenRouter",
+        "Ars Technica",
+        "dev.to",
+        "Hacker News"
+      ],
+      "title": "HD Moore 金丝雀实验：OpenRouter 下架 3 家供应商、125 个端点取消零保留资格",
+      "plugins": {
+        "momentum": {
+          "score": 57
+        }
+      }
+    },
+    {
+      "action": "仅记录；本地跑模型前先看 r/LocalLLaMA 当日实测帖。",
+      "body": "HF likes 4,841→5,180（+339）；unsloth GGUF 下载 805,993，与今早相同（疑为抓取口径未更新）；HF 原版下载 23,543。HN 入门指南帖 470 分/197 评；r/LocalLLaMA 实测帖持续：Godot agent 任务 23 分钟完成（另两款本地模型 1–2 小时未完成）、vLLM 移植 2×3090 约 196–200 tok/s、12GB 手机 3 tok/s。涨势较首日放缓。",
+      "i18n": {
+        "en": {
+          "action": "Just record it; check that day's hands-on threads on r/LocalLLaMA before running the model locally.",
+          "body": "Hugging Face likes rose from 4,841 to 5,180 (+339); Unsloth's GGUF downloads are unchanged at 805,993 versus this morning (possibly a stale fetch); the original Hugging Face release has 23,543 downloads. A beginner's guide on Hacker News drew 470 points / 197 comments; hands-on threads on r/LocalLLaMA continue: a Godot agent task finished in 23 minutes (two other local models failed after 1–2 hours), a vLLM port runs at about 196–200 tok/s on 2x3090, and 3 tok/s on a 12GB phone. Growth has slowed from launch day.",
+          "title": "Inkling 2 Mini: 5,180 Hugging Face likes; community testing continues, growth slowing"
+        },
+        "ja": {
+          "action": "記録のみ。ローカルで実行する前に、その日のr/LocalLLaMAの実測スレッドを確認する。",
+          "body": "Hugging Faceのいいねは4,841から5,180へ（+339）。UnslothのGGUFダウンロードは805,993で今朝と同じ（取得が更新されていない可能性あり）。Hugging Faceのオリジナル版のダウンロードは23,543。Hacker Newsの入門ガイドは470ポイント／197コメント。r/LocalLLaMAの実測スレッドは継続中で、Godotのエージェントタスクが23分で完了（他の2つのローカルモデルは1〜2時間で未完了）、vLLM移植版は2x3090で約196〜200 tok/s、12GBのスマートフォンで3 tok/s。伸びは初日より鈍化している。",
+          "title": "Inkling 2 Mini：HFのいいね5,180件、コミュニティの実測は継続、伸びは鈍化"
+        }
+      },
+      "is_new": false,
+      "level": "must",
+      "links": [
+        "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+        "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+        "https://openrouter.ai/thinkingmachines/inkling-2-mini"
+      ],
+      "sources": [
+        "Hugging Face",
+        "Hacker News",
+        "Reddit",
+        "OpenRouter"
+      ],
+      "title": "Inkling 2 Mini：HF likes 5,180，社区实测持续、涨势放缓",
+      "plugins": {
+        "momentum": {
+          "score": 46
+        }
+      }
+    },
+    {
+      "action": "仅记录，等今晚美股开盘价再判断。",
+      "body": "11 月 19 日上市：发行价 $83，开盘 $111.50（+34%），首日收 $97.17（+17%），募资 $81.3B 为史上最大 IPO；11 月 20 日再跌 8.5% 至 $88.91，仅比发行价高约 7%。WSJ 11 月 23 日《What Comes Next After Anthropic's Historic IPO》、TechCrunch 早期投资者长文跟进；法兰克福上市股份今日 +3.1% 至 83.7 欧元。美股今晚 23:30 JST 开盘再看。",
+      "i18n": {
+        "en": {
+          "action": "Just record it; judge again after tonight's US market open.",
+          "body": "Listed on November 19: IPO price $83, opened at $111.50 (+34%), closed day one at $97.17 (+17%), raising $81.3B in the largest IPO ever; on November 20 it fell another 8.5% to $88.91, only about 7% above the IPO price. The Wall Street Journal's November 23 piece \"What Comes Next After Anthropic's Historic IPO\" and a TechCrunch feature on early investors followed up; the Frankfurt-listed shares rose 3.1% today to 83.7 euros. Watch the US open tonight at 23:30 JST.",
+          "title": "Anthropic IPO: closed day one at $97.17, then fell 8.5% on Friday to $88.91"
+        },
+        "ja": {
+          "action": "記録のみ。今夜の米国市場の寄り付きを見てから判断する。",
+          "body": "11月19日に上場した。公開価格83ドルに対し初値は111.50ドル（+34％）、初日終値は97.17ドル（+17％）で、調達額813億ドルは史上最大のIPOだった。11月20日にはさらに8.5％下落して88.91ドルとなり、公開価格を約7％上回る水準にとどまった。ウォール・ストリート・ジャーナルの11月23日付「What Comes Next After Anthropic's Historic IPO」や、TechCrunchの初期投資家特集が続報を出した。フランクフルト上場株は本日3.1％高の83.7ユーロ。米国市場は今夜23:30 JSTに開場する。",
+          "title": "AnthropicのIPO：初日は97.17ドルで引け、金曜にさらに8.5％安の88.91ドル"
+        }
+      },
+      "is_new": false,
+      "level": "watch",
+      "links": [
+        "https://longbridge.com/en/news/306424215",
+        "https://www.freemalaysiatoday.com/category/business/2026/11/23/anthropic-wipeout-leaves-wall-street-questioning-ai-trade"
+      ],
+      "sources": [
+        "WSJ",
+        "TechCrunch",
+        "Google News"
+      ],
+      "title": "Anthropic IPO：首日收 $97.17，周五再跌 8.5% 至 $88.91",
+      "plugins": {
+        "momentum": {
+          "score": 77
+        }
+      }
+    },
+    {
+      "action": "立项观察：agent swarm 的预算+审批+裁判模式值得抄作业；自己产品若做多 agent 协作，可参考其“任务协议”写法。",
+      "body": "11 月 17 日发布：用户定目标、成功标准、预算与审批规则，agent swarm 规划、构建、测试、迭代，独立 AI 裁判按标准验收。自报案例：监控平台 DataCat 两天、$3,000 预算建成，NumPy 任务 19x 提速（均为 Replit 自报，未独立验证）。11 月 22 日登 Product Hunt 当日榜。定价未公布，需联系销售。",
+      "i18n": {
+        "en": {
+          "action": "Watch as a project idea: the swarm's budget-plus-approvals-plus-judge model is worth borrowing; if your own product does multi-agent work, study its mission-agreement format.",
+          "body": "Launched November 17: the user sets a goal, success criteria, a budget, and approval rules; an agent swarm plans, builds, tests, and iterates, with an independent AI judge verifying against the criteria. The self-reported showcase: monitoring platform DataCat built in two days within a $3,000 budget, with a 19x speedup on NumPy tasks (all Replit's own claims, not independently verified). It appeared on Product Hunt's daily list on November 22. Pricing is unpublished; contact sales.",
+          "title": "Replit Missions: set a goal, a budget, and approval rules for an agent swarm"
+        },
+        "ja": {
+          "action": "企画として観察する。エージェント群の「予算＋承認＋審査役」という型は参考になる。自社製品でマルチエージェント協調をやるなら、その「ミッション合意書」の書き方を参照する。",
+          "body": "11月17日に公開された。ユーザーが目標、成功基準、予算、承認ルールを定め、エージェント群が計画・構築・テスト・反復を行い、独立したAI審査役が基準に照らして検証する。自社発表の事例では、監視プラットフォームDataCatを2日間・3,000ドルの予算で構築し、NumPyタスクで19倍の高速化を達成したという（いずれもReplitの自社発表で、独立検証なし）。11月22日にProduct Huntのデイリーランキングに登場した。価格は未公表で、営業への問い合わせが必要。",
+          "title": "Replit Missions：エージェント群に目標・予算・承認ルールを設定"
+        }
+      },
+      "is_new": true,
+      "level": "watch",
+      "links": [
+        "https://replit.com/blog/introducing-replit-missions",
+        "https://www.producthunt.com/products/replit"
+      ],
+      "sources": [
+        "Replit",
+        "Product Hunt"
+      ],
+      "title": "Replit Missions：给 agent swarm 定目标、预算与审批规则",
+      "plugins": {
+        "momentum": {
+          "score": 36
+        }
+      }
+    },
+    {
+      "action": "仅记录。",
+      "body": "Apple 的图像与视频全分辨率度量深度估计模型（arXiv 2611.26603）：HF likes 今早 269，晚报 1,065，约 12 小时翻约 4 倍；HF 页面仍无下载数。量级尚小，继续观察。",
+      "i18n": {
+        "en": {
+          "action": "Just record it.",
+          "body": "Apple's full-resolution metric depth-estimation model for images and video (arXiv 2611.26603): Hugging Face likes went from 269 this morning to 1,065 this evening, about 4x in 12 hours; the Hugging Face page still shows no downloads. Still small in scale; keep watching.",
+          "title": "DepthPro2: Hugging Face likes jumped 269 to 1,065, about 4x"
+        },
+        "ja": {
+          "action": "記録のみ。",
+          "body": "Appleの画像・動画向け全解像度メートル深度推定モデル（arXiv 2611.26603）。Hugging Faceのいいねは今朝の269から夕刊では1,065へと、約12時間で約4倍になった。Hugging Faceページにはまだダウンロード数はない。規模はまだ小さく、引き続き観察する。",
+          "title": "DepthPro2：HFのいいねが269から1,065へ、約4倍"
+        }
+      },
+      "is_new": false,
+      "level": "echo",
+      "links": [
+        "https://huggingface.co/apple/DepthPro2",
+        "https://arxiv.org/abs/2611.26603"
+      ],
+      "sources": [
+        "Hugging Face",
+        "arXiv"
+      ],
+      "title": "DepthPro2：HF likes 269→1,065，约 4 倍",
+      "plugins": {
+        "momentum": {
+          "score": 36
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "AAPL"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "action": "仅记录。",
+      "body": "HN 247 分/106 评：把完整 macOS GUI 用户空间搬到 Linux 上运行的实验项目。单源，技术猎奇向。",
+      "i18n": {
+        "en": {
+          "action": "Just record it.",
+          "body": "247 points / 106 comments on Hacker News: an experimental project that runs the complete macOS GUI userspace on Linux. Single source; a technical curiosity.",
+          "title": "XNU Linux: the full macOS GUI userspace running on Linux"
+        },
+        "ja": {
+          "action": "記録のみ。",
+          "body": "Hacker Newsで247ポイント／106コメント。macOSのGUIユーザー空間一式をLinux上で動かす実験プロジェクト。単独の情報源で、技術的な好奇心向けの話題。",
+          "title": "XNU Linux：macOSのGUIユーザー空間一式をLinux上で実行"
+        }
+      },
+      "is_new": true,
+      "level": "echo",
+      "links": [
+        "https://github.com/AFK-surf/xnulinux"
+      ],
+      "sources": [
+        "Hacker News"
+      ],
+      "title": "XNU Linux：完整 macOS GUI 用户空间跑在 Linux 上",
+      "plugins": {
+        "momentum": {
+          "score": 31
+        }
+      }
+    }
+  ]
+}

@@ -598,3 +598,24 @@
 - SpaceX 最大 AI 云 | 2026-11-23 早报 | 2026-11-23 早报 | SemiAnalysis | 🆕🌱（未入选正文：单源通讯，未核实） | 待复盘
 - Foundation Future Industries 欠薪 | 2026-11-23 早报 | 2026-11-23 早报 | CNBC | 🆕🌱（未入选正文：11 月 22 日，人形机器人创业公司错过发薪、医保追溯终止，单源） | 待复盘
 - 其余在册话题 | 各首次发现时间见上文 | 2026-11-23 早报 | 见上文 | 平，无新动静（Gemini 4 Neon、Claude Fable 5.2 / Mythos 5.2、Qwen4-Max、Gemini 4 Carbon 未见新动静；Genie 4、微软 MAI Code 2、Codeberg 域名事件、OpenAI 对抗蒸馏未见新消息；S2Arm 3,815 stars、lastbook 2,946 stars、yogurt 2,961 stars，缓慢上涨，维持 🌱） | 待复盘
+
+## 2026-11-23 晚报（18:00 JST）
+- 黎曼猜想证明声称（Claude 参与） | 2026-11-21 早报 | 2026-11-23 晚报 | Hacker News, Wikipedia, Lean, Medium | 🔥→🔥（涨：Masullo 11 月 22 日 Baez 博客回应，HN 208 分/139 评；Lean 形式化进度图帖 228 分/168 评；Treemap 可视化 74 分；维基“Riemann hypothesis”昨日第 8，205,793 次浏览，较昨日第 5/388,288 回落；Nielsen 质疑仍未回应，Polymarket 11 月 22 日总结争议；克雷仍列未解） | 待复盘
+- Leonida | 2026-11-22 早报 | 2026-11-23 晚报 | GitHub, Wikipedia, Hacker News | 🔥→🔥（涨：13,830 → 17,661 stars，2 天日均 8,830.5，仍 GitHub 日榜第 1；Xbox2Windows 1,271 → 1,368 stars；维基 GTA VI 昨日第 5，308,867 次浏览；HN《GTA 6 鸟类图鉴》482 分/241 评；.exe 称今日放出，未核实；仍不能启动） | 待复盘
+- HD Moore 200 万金丝雀实验 | 2026-11-22 晚报 | 2026-11-23 晚报 | OpenRouter, Ars Technica, dev.to, Hacker News | 🔥→🔥（涨：OpenRouter 11 月 22 日执法行动——下架 3 家供应商、125 个端点取消 ZDR 资格、通知全部可能受影响客户、金丝雀检测常态化；Together AI 11 月 21 日 CEO 署名安全公告，6–7 月 serverless 提示样本被下载，涉 5 枚金丝雀凭证；Phala 11 月 10 日初步报告） | 待复盘
+- Thinking Machines Lab Inkling 2 Mini | 2026-11-21 早报 | 2026-11-23 晚报 | Hugging Face, Hacker News, Reddit, OpenRouter | 🔥→🔥（微涨：HF likes 4,841 → 5,180；unsloth GGUF 下载 805,993 未动，疑抓取口径未更新；HN 入门指南 470 分/197 评；r/LocalLLaMA 实测持续：Godot agent 任务 23 分钟完成、vLLM 移植 2×3090 约 196–200 tok/s、12GB 手机 3 tok/s） | 待复盘
+- Anthropic IPO | 2026-11-11 试点早报 | 2026-11-23 晚报 | WSJ, TechCrunch, Google News, Finnhub | 🔥→👀（降级：首日收 $97.17，周五再跌 8.5% 至 $88.91，仅比 $83 发行价高约 7%；WSJ 11 月 23 日后续、TC 早期投资者长文；法兰克福上市股份今日 +3.1% 至 83.7 欧元；美股今晚 23:30 JST 开盘） | 待复盘
+- Replit Missions | 2026-11-23 晚报 | 2026-11-23 晚报 | Replit, Product Hunt | 🆕👀（11 月 17 日发布：目标+预算+审批规则，agent swarm 规划/构建/测试/迭代，独立 AI 裁判验收；自报 DataCat 两天、$3,000 预算建成，NumPy 19x，未独立验证；11 月 22 日登 PH 当日榜；定价未公布） | 待复盘
+- Depth Pro 2 | 2026-11-22 早报 | 2026-11-23 晚报 | Hugging Face, arXiv | 🌱→🌱（涨：HF likes 269 → 1,065，约 12 小时翻约 4 倍；仍无下载数） | 待复盘
+- XNU Linux | 2026-11-23 晚报 | 2026-11-23 晚报 | Hacker News | 🆕🌱（HN 247 分/106 评：完整 macOS GUI 用户空间跑在 Linux 上；单源） | 待复盘
+- OpenAI "Perplexity and Intelligence" | 2026-11-23 早报 | 2026-11-23 晚报 | OpenAI, Hacker News, TechCrunch | 👀→👀（涨：HN 333→573 分/216→394 评；TC 11 月 22 日跟进 Pachocki 呼吁设限） | 待复盘
+- fast-anything | 2026-11-23 早报 | 2026-11-23 晚报 | GitHub, Hacker News | 👀→👀（涨：1,729 → 2,439 stars，1 天日均 2,439） | 待复盘
+- rust-anything | 2026-11-19 早报 | 2026-11-23 晚报 | GitHub | 👀→👀（涨：7,915 → 8,288 stars，6 天日均 1,381.3） | 待复盘
+- Delta 航班大面积延误 | 2026-11-23 早报 | 2026-11-23 晚报 | WSJ, CNN, FlightAware | 👀→凉（已解决：周日 1,600+ 架次延误，约半数主线航班，6% 取消；ALIS 配载系统周日下午恢复；与 11 月 13 日 FAA 停飞无关） | 待复盘
+- 胰腺癌新药 daraxonrasib | 2026-11-22 晚报 | 2026-11-23 晚报 | Hacker News, The Guardian | 🌱→凉（掉出 HN 前 30，无新消息） | 待复盘
+- 美股 AI 交易大回调 | 2026-11-22 早报 | 2026-11-23 晚报 | Reuters, Google News | 🔥→🔥（平：周一美股未开盘；路透称欧股在科技主导大跌后反弹） | 待复盘
+- 黄仁勋辞职 | 2026-11-12 晚报 | 2026-11-23 晚报 | NYT, TechCrunch, Google News | 🔥→🔥（平，无新消息；12 月 1 日国会作证在即） | 待复盘
+- Perplexity Decider v1.3 / Flash v1.3 | 2026-11-13 早报 | 2026-11-23 晚报 | Perplexity 官方博客, Hacker News, The Decoder | 👀→👀（平，无新动静） | 待复盘
+- GPT-6.2 Astra and Sol | 2026-11-18 早报 | 2026-11-23 晚报 | OpenAI 官方博客, Hacker News, OpenRouter, X, Reddit | 🔥→🔥（平，无新官方消息） | 待复盘
+- Gemini 4 Hydrogen + Antigravity Orchestrator | 2026-11-13 早报 | 2026-11-23 晚报 | blog.google, HN, Google News, Product Hunt, OpenRouter, Bluesky | 🔥→🔥（平，无新官方数字） | 待复盘
+- 其余在册话题 | 各首次发现时间见上文 | 2026-11-23 晚报 | 见上文 | 平，无新动静（Qwen3.8-27B likes 20,878→21,624；GestaltX 8,804→8,829 stars；deepseek-ai/chat-demo 5,277→5,321 stars；腾讯 Hy4 Flash HF likes 615→630；MiniMax H3-Image、Gemini 4 Carbon/Neon、Claude Fable 5.2 / Mythos 5.2、Qwen4-Max、Gemini Decisions API、United 航空禁 AI agent 订票、AlphaProof Code、Gemini Robotics 2.5 + AlphaGenome 2、Claude Sheets / Whiteboards / Meetings / Data 未见新动静） | 待复盘
