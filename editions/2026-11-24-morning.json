@@ -1,0 +1,294 @@
+{
+  "date": "2026-11-24",
+  "items": [
+    {
+      "action": "写 tweet：复职 + 股价是最强组合；提醒下周参议院作证与独立调查仍在继续，别写成风波已结束。",
+      "body": "英伟达董事会 11 月 23 日一致投票，恢复黄仁勋总裁、CEO 与董事职务，立即生效；距 11 月 12 日辞职仅 11 天。消息公布后 NVDA 周一盘中涨逾 30%（约 164–165 美元），市值增加逾 9,000 亿美元；纳斯达克涨逾 6%、标普 +4.6%、道指涨 1,400 点。HN 主帖 1,545 分/2,666 评；X 上 @nvidianewsroom 官宣帖 1 小时内 15 万+ likes、680 万浏览，techtwitter 当日第 1 话题；员工在总部英雄般迎接他回归。背景未变：特朗普与财长贝森特公开施压董事会；独立调查仍在继续；黄仁勋下周赴参议院作证；众议院议员批评复职是“品格失败”。",
+      "i18n": {
+        "en": {
+          "action": "Write a tweet: the reinstatement plus the stock move is the strongest combination; note that next week's Senate testimony and the independent investigation are still pending — do not present the saga as over.",
+          "body": "Nvidia's board voted unanimously on November 23 to reinstate Jensen Huang as president, CEO, and director, effective immediately — just 11 days after his resignation on November 12. NVDA rose more than 30% intraday on Monday (about $164–165), adding over $900 billion in market value; the Nasdaq rose more than 6%, the S&P 500 gained 4.6%, and the Dow climbed 1,400 points. The Hacker News thread drew 1,545 points / 2,666 comments; on X, the @nvidianewsroom announcement passed 150,000 likes and 6.8 million views within about an hour, and it was the day's No. 1 topic on techtwitter; employees greeted him like a hero back at headquarters. The backdrop is unchanged: Trump and Treasury Secretary Bessent publicly pressed the board; the independent investigation continues; Huang testifies before the Senate next week; House members called the reinstatement a \"failure of character.\"",
+          "title": "Jensen Huang reinstated: board votes unanimously, NVDA up more than 30% intraday on Monday"
+        },
+        "ja": {
+          "action": "ツイートを書く。復職と株価の組み合わせが最も強い。来週の上院証言と独立調査はまだ続いていることに触れ、騒動が終わったとは書かない。",
+          "body": "エヌビディアの取締役会は11月23日、全会一致でジェンスン・フアン氏を社長兼CEO兼取締役に復職させ、即日発効した。11月12日の辞任からわずか11日後のことだ。発表を受けてNVDAは月曜に一時30％超上昇（約164〜165ドル）し、時価総額は9,000億ドル超増加した。ナスダックは6％超上昇、S&P 500は4.6％高、ダウは1,400ポイント高。Hacker Newsのスレッドは1,545ポイント／2,666コメント。Xでは@nvidianewsroomの発表が約1時間で15万超のいいねと680万ビューを集め、techtwitterでその日の話題1位となった。本社では従業員が英雄のように迎えた。背景は変わらない。トランプ氏とベッセント財務長官が取締役会に公然と圧力をかけた。独立調査は継続中で、フアン氏は来週上院で証言する。下院議員は復職を「人格の失敗」と批判した。",
+          "title": "ジェンスン・フアン氏が復職：取締役会が全会一致、NVDAは月曜に一時30％超高"
+        }
+      },
+      "is_new": false,
+      "level": "must",
+      "links": [
+        "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+        "https://www.reuters.com/legal/transactional/huangs-stunning-nvidia-return-sparks-relief-battered-ai-trade-2026-11-23/",
+        "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/"
+      ],
+      "sources": [
+        "Hacker News",
+        "CNBC",
+        "Reuters",
+        "The Verge",
+        "TechCrunch",
+        "Google News",
+        "Mastodon",
+        "Bluesky",
+        "X"
+      ],
+      "title": "黄仁勋复职：董事会一致投票请回，NVDA 周一盘中涨逾 30%",
+      "plugins": {
+        "momentum": {
+          "score": 100
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "NVDA"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "action": "写 tweet：点出“循环 transformer 成主线”，提醒无旗舰 benchmark、权重未放，别写成已开源。",
+      "body": "11 月 23 日发布：28 层 GLM-5 底座循环 2 次，750B 参数，1M 上下文，自称智能可比 2T–3T 参数模型；视觉能力加入，面向“广义编程”。HN 941 分/315 评；The Decoder、dev.to 两篇解读、r/LocalLLaMA 跟进；X 上 @zai_org 官宣，Z.ai 负责人称内部评测较 GLM-5.3 大幅提升。注意：官方未公布旗舰 benchmark 表（仅 30B 消融实验），权重与公开 API 待定；目前仅 GLM Coding Plan、ZCode 与 Z.ai Chat 可用；自报峰值 70–80 tok/s、非高峰 200 tok/s。循环 transformer 成 11 月主线：Inkling 2 Mini 同架构路线。",
+      "i18n": {
+        "en": {
+          "action": "Write a tweet: note that the loop transformer is now the main thread of November, and flag that there is no flagship benchmark table and no released weights — do not present it as open source.",
+          "body": "Released November 23: 28 layers of the GLM-5 base looped twice, 750B parameters, a 1M-token context window, with Z.ai claiming intelligence comparable to 2T–3T-parameter models; vision is added, aimed at \"generalized coding.\" It drew 941 points / 315 comments on Hacker News; The Decoder, two dev.to explainers, and r/LocalLLaMA followed up; @zai_org announced it on X, and a Z.ai lead said internal evals show a big jump over GLM-5.3. Caveats: no flagship benchmark table has been published (only a 30B ablation), and weights and a public API are still pending; it is available only through the GLM Coding Plan, ZCode, and Z.ai Chat for now; self-reported throughput is 70–80 tokens/s at peak and 200 tokens/s off-peak. The loop transformer is now November's main thread: Inkling 2 Mini follows the same architectural line.",
+          "title": "GLM-5.4: Z.ai's first loop-transformer flagship, 750B parameters, claimed comparable to 2T–3T"
+        },
+        "ja": {
+          "action": "ツイートを書く。「ループ・トランスフォーマーが主軸になった」と指摘しつつ、フラッグシップのベンチマーク表がなく重みも未公開であることに触れ、オープンソース化されたとは書かない。",
+          "body": "11月23日に公開された。GLM-5ベースの28層を2回ループさせ、750Bパラメータ、コンテキスト100万トークンで、Z.aiは2T〜3Tパラメータ級の知能に匹敵すると主張している。視覚機能も追加され、「汎用コーディング」を目指す。Hacker Newsで941ポイント／315コメント。The Decoder、dev.toの解説2本、r/LocalLLaMAが追った。Xでは@zai_orgが発表し、Z.aiの責任者は内部評価でGLM-5.3から大幅に向上したと述べている。注意点として、フラッグシップのベンチマーク表は未公開（30Bのアブレーションのみ）で、重みと公開APIは未定。現時点ではGLM Coding Plan、ZCode、Z.ai Chatでのみ利用可能。自社発表のスループットはピーク時70〜80トークン／秒、非ピーク時200トークン／秒。ループ・トランスフォーマーは11月の主軸となった。Inkling 2 Miniも同じアーキテクチャ路線である。",
+          "title": "GLM-5.4：Z.ai初のループ・トランスフォーマー旗艦、750Bパラメータで2T〜3T級を主張"
+        }
+      },
+      "is_new": true,
+      "level": "must",
+      "links": [
+        "https://z.ai/blog/glm-5.4",
+        "https://the-decoder.com/z-ai-follows-openai-into-loop-transformer-territory-with-its-new-750b-flagship-model/",
+        "https://dev.to/amananandrai/loop-transformers-thinking-deeper-without-getting-bigger-glm-54-inkling-2-mini-501m"
+      ],
+      "sources": [
+        "Hacker News",
+        "The Decoder",
+        "dev.to",
+        "Reddit",
+        "X",
+        "目录站"
+      ],
+      "title": "GLM-5.4：Z.ai 首个循环 Transformer 旗舰，750B 参数号称可比 2T–3T",
+      "plugins": {
+        "momentum": {
+          "score": 56
+        }
+      }
+    },
+    {
+      "action": "仅记录，等 .exe 真实性核实与实测再判断，别转发所谓“已能玩”的说法。",
+      "body": "GitHub 30,856 stars，创建 3 天，日均 10,285；昨晚 17,661，约 12 小时增加 13,195，仍居日榜第 1。Cyberleek 称泄露版 Xbox 构建的 .exe 已于 11 月 23 日放出；多位 Leonida 贡献者核对哈希，但 12 个 DLL 签名不匹配未核实；截至 11 月 23 日没有任何项目在 PC 上画出 GTA 6 的一帧画面。维基百科 GTA VI 升至热读榜第 2。游戏仍不能启动，仓库不含游戏文件。",
+      "i18n": {
+        "en": {
+          "action": "Just record it; judge again after the .exe's authenticity is verified and tested — do not repeat claims that the game is already playable.",
+          "body": "Leonida has 30,856 stars on GitHub, created 3 days ago, averaging 10,285 per day; it was 17,661 last evening, up 13,195 in about 12 hours, still No. 1 on the daily trending list. Cyberleek claims the .exe from the leaked Xbox build was released on November 23; several Leonida contributors checked hashes, but a 12-DLL signature mismatch is unverified, and as of November 23 no project has drawn a single frame of GTA 6 on a PC. Wikipedia's Grand Theft Auto VI rose to No. 2 on the most-read list. The game still cannot launch, and the repository contains no game files.",
+          "title": "Leonida: 30,856 stars, still No. 1 on GitHub daily trending; .exe reportedly out, authenticity unverified"
+        },
+        "ja": {
+          "action": "記録のみ。.exeの真偽が確認され実測が出てから判断する。「もう遊べる」という話は転載しない。",
+          "body": "GitHubで30,856スター、作成から3日で1日平均10,285。昨夜は17,661で、約12時間で13,195増加し、デイリートレンド1位を維持している。Cyberleekは流出したXboxビルドの.exeが11月23日に公開されたと主張している。複数のLeonidaコントリビューターがハッシュを照合したが、12個のDLLの署名不一致は未確認で、11月23日時点でPC上にGTA 6の画面を1フレームでも描いたプロジェクトはない。ウィキペディアのGrand Theft Auto VIは閲覧数ランキング2位に上昇した。ゲームは依然として起動できず、リポジトリにゲームファイルは含まれていない。",
+          "title": "Leonida：30,856スターでGitHubデイリー1位を維持、.exeは公開されたとされるが真偽は未確認"
+        }
+      },
+      "is_new": false,
+      "level": "must",
+      "links": [
+        "https://github.com/ItsNotRexed/Leonida",
+        "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/"
+      ],
+      "sources": [
+        "GitHub",
+        "Hacker News",
+        "Wikipedia"
+      ],
+      "title": "Leonida：30,856 stars 仍居 GitHub 日榜第 1，.exe 称已放出、真实性未核实",
+      "plugins": {
+        "momentum": {
+          "score": 41
+        }
+      }
+    },
+    {
+      "action": "仅记录，等 Nielsen 回应或克雷表态再写 tweet。",
+      "body": "Masullo 回应后无新决定性进展：dev.to 梳理 AI 审计员与 Lean bug 追踪器三日发现；MathOverflow 连续提问——对抗性证明作者的残余信任假设、如何人工验证海量 AI 数学输出；Latent Space 称“两次独立证明”。维基百科“Riemann hypothesis”仍居热读榜前 5。Lean 与 Mathlib 11 月 21 日联合声明认证通过；Nielsen 质疑至今未回应；克雷研究所仍列未解。口径不变：认证通过、质疑并存、结论未决。",
+      "i18n": {
+        "en": {
+          "action": "Just record it; write a tweet only after Nielsen responds or the Clay Institute speaks.",
+          "body": "No decisive development since Masullo's response: dev.to summarized what AI auditors and the Lean bug tracker found in three days; MathOverflow kept asking — the residual trust assumptions against a deliberately adversarial proof author, and how to human-verify enormous AI math output; Latent Space spoke of \"two independent proofs.\" Wikipedia's \"Riemann hypothesis\" is still in the top 5 most-read pages. The Lean and Mathlib joint statement of November 21 certified the proof; Nielsen's challenge is still unanswered; the Clay Institute still lists the problem as unsolved. The line is unchanged: certified, but challenged — no verdict yet.",
+          "title": "Riemann Hypothesis proof claim: no decisive development, downgraded to watch"
+        },
+        "ja": {
+          "action": "記録のみ。ニールセン氏の回答かクレイ研究所の見解が出てからツイートする。",
+          "body": "マスッロ氏の反論以降、決定的な進展はない。dev.toはAI監査員とLeanのバグトラッカーが3日間で見つけた内容をまとめ、MathOverflowでは敵対的な証明者に対する残存する信頼の前提や、膨大なAI数学出力を人間がどう検証するかといった質問が続いた。Latent Spaceは「2件の独立した証明」に言及している。ウィキペディアの「Riemann hypothesis」は依然として閲覧数上位5位以内にある。LeanとMathlibは11月21日の共同声明で認証が通過したと発表。ニールセン氏の異議にはまだ回答がなく、クレイ研究所は依然として未解決としている。「認証は通過したが異議も出ており、結論はまだ出ていない」という立場は変わらない。",
+          "title": "リーマン予想の証明主張：決定的な進展なし、注目へ格下げ"
+        }
+      },
+      "is_new": false,
+      "level": "watch",
+      "links": [
+        "https://dev.to/axrisi/riemann-hypothesis-draft-by-masullo-what-ai-auditors-and-a-lean-bug-tracker-found-in-three-days-14cj",
+        "https://mathoverflow.net/questions/518109/after-the-lean-verification-of-the-riemann-hypothesis-proof-what-residual-trust",
+        "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/"
+      ],
+      "sources": [
+        "dev.to",
+        "Stack Exchange",
+        "Wikipedia",
+        "Latent Space"
+      ],
+      "title": "黎曼猜想证明声称：无新决定性进展，降为关注",
+      "plugins": {
+        "momentum": {
+          "score": 63
+        }
+      }
+    },
+    {
+      "action": "仅记录；大厂买“AI 优化技术”补芯片短板，值得放进芯片竞争观察。",
+      "body": "亚马逊以 75 亿美元收购以色列 AI 优化技术公司 Decart 的技术与团队（TechCrunch 首发；彭博、CNBC、CTech、以色列时报跟进），为对外销售 Trainium 芯片铺路。Decart 做 AI 推理优化，团队并入亚马逊。",
+      "i18n": {
+        "en": {
+          "action": "Just record it; a big vendor buying AI-optimization tech to close a chip gap is worth keeping in the chip-competition watchlist.",
+          "body": "Amazon is acquiring Israeli AI-optimization startup Decart's technology and team for $7.5 billion (first reported by TechCrunch; Bloomberg, CNBC, CTech, and the Times of Israel followed up), paving the way to sell its Trainium chips. Decart works on AI inference optimization; its team joins Amazon.",
+          "title": "Amazon to acquire Israeli AI-optimization startup Decart for $7.5 billion"
+        },
+        "ja": {
+          "action": "記録のみ。大手が「AI最適化技術」を買ってチップの弱点を補う動きとして、チップ競争の観察対象に入れる。",
+          "body": "アマゾンがイスラエルのAI最適化技術企業Decartの技術とチームを75億ドルで買収する（TechCrunchが最初に報じ、ブルームバーグ、CNBC、CTech、タイムズ・オブ・イスラエルが続いた）。Trainiumチップの外販への布石となる。DecartはAI推論の最適化を手がけており、チームはアマゾンに加わる。",
+          "title": "アマゾン、イスラエルのAI最適化企業Decartを75億ドルで買収へ"
+        }
+      },
+      "is_new": true,
+      "level": "watch",
+      "links": [
+        "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+      ],
+      "sources": [
+        "TechCrunch",
+        "Google News"
+      ],
+      "title": "亚马逊 75 亿美元收购以色列 AI 优化技术公司 Decart",
+      "plugins": {
+        "momentum": {
+          "score": 36
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "AMZN"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "action": "立项观察：agent 从“写代码”走向“走完 PR 全流程”；自己若用 Claude Code，可试 /ship 跑一次小 PR。",
+      "body": "11 月 23 日发布 beta：Code Review（已 GA）+ 两个新 agent——PR Steward（修失败的 CI、合并冲突与评审意见）与 Claude Approvals（按团队写在仓库里的政策文件自动批准常规改动）；Claude Code 新增 /ship 命令，一键推分支、开 PR、审阅并跟进反馈。面向 Team/Enterprise 的 GitHub 仓库，按 token 计费；企业组织可领至少 10,000 美元额度（2027 年 1 月 15 日前认领）。Anthropic 官方博客首发，The Verge、9to5Mac、Digital Trends 跟进，X 上 @ClaudeDevs 官宣。",
+      "i18n": {
+        "en": {
+          "action": "Watch as a project idea: agents are moving from writing code to running the whole PR flow; if you use Claude Code, try /ship on one small PR.",
+          "body": "Launched in beta on November 23: Code Review (already generally available) plus two new agents — PR Steward (fixes failing CI, merge conflicts, and review feedback) and Claude Approvals (auto-approves routine changes under a policy file the team keeps in the repo); Claude Code gains a /ship command that pushes the branch, opens the PR, reviews it, and follows up on feedback in one go. It targets GitHub repos on Team and Enterprise plans and is billed per token; enterprise organizations can claim at least $10,000 in credits (by January 15, 2027). Anthropic's official blog announced it first, with The Verge, 9to5Mac, and Digital Trends following up and @ClaudeDevs posting on X.",
+          "title": "Claude Ship: Anthropic lets Claude review, fix, and approve pull requests itself"
+        },
+        "ja": {
+          "action": "企画として観察する。エージェントは「コードを書く」から「PRの全工程を回す」へ進んでいる。Claude Codeを使っているなら、小さなPRで/shipを一度試してみる。",
+          "body": "11月23日にベータ版として公開された。Code Review（すでにGA）に加え、2つの新しいエージェントが登場した。PR Steward（失敗したCI、コンフリクト、レビュー指摘を修正）とClaude Approvals（チームがリポジトリに置いたポリシーファイルに基づき定型的な変更を自動承認）である。Claude Codeには/shipコマンドが追加され、ブランチのプッシュ、PRの作成、レビュー、フィードバック対応を一度に行える。Team／EnterpriseプランのGitHubリポジトリ向けで、トークン課金。企業組織は少なくとも10,000ドル分のクレジットを受け取れる（2027年1月15日までに請求）。Anthropicの公式ブログが最初に発表し、The Verge、9to5Mac、Digital Trendsが続き、Xでは@ClaudeDevsが告知した。",
+          "title": "Claude Ship：AnthropicがClaudeにPRのレビュー・修正・承認を任せる"
+        }
+      },
+      "is_new": true,
+      "level": "watch",
+      "links": [
+        "https://claude.com/resources/articles/introducing-claude-ship",
+        "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"
+      ],
+      "sources": [
+        "Anthropic",
+        "The Verge",
+        "9to5Mac",
+        "Digital Trends",
+        "X"
+      ],
+      "title": "Claude Ship：Anthropic 让 Claude 自己审 PR、修 PR、批 PR",
+      "plugins": {
+        "momentum": {
+          "score": 99
+        }
+      }
+    },
+    {
+      "action": "仅记录；独立引擎浏览器值得长期观察。",
+      "body": "独立浏览器 Ladybird 宣布进入 alpha（ladybird.org）；HN 941 分/253 评，Lobsters 首页。Ladybird 从零自研浏览器引擎，不用 Chromium/WebKit 内核。",
+      "i18n": {
+        "en": {
+          "action": "Just record it; an independent-engine browser is worth watching long term.",
+          "body": "Independent browser Ladybird has entered alpha (ladybird.org); it drew 941 points / 253 comments on Hacker News and reached the Lobsters front page. Ladybird builds its browser engine from scratch instead of using a Chromium or WebKit core.",
+          "title": "Ladybird enters alpha: a new milestone for the independent browser"
+        },
+        "ja": {
+          "action": "記録のみ。独立エンジンのブラウザとして長期的に観察する価値がある。",
+          "body": "独立ブラウザのLadybirdがアルファ版に入った（ladybird.org）。Hacker Newsで941ポイント／253コメントを集め、Lobstersのトップページにも載った。LadybirdはChromiumやWebKitのカーネルを使わず、ブラウザエンジンをゼロから自作している。",
+          "title": "Ladybirdがアルファ版へ：独立ブラウザの新たな節目"
+        }
+      },
+      "is_new": true,
+      "level": "watch",
+      "links": [
+        "https://ladybird.org/posts/alpha/"
+      ],
+      "sources": [
+        "Hacker News",
+        "Lobsters"
+      ],
+      "title": "Ladybird 进入 alpha：独立浏览器新里程碑",
+      "plugins": {
+        "momentum": {
+          "score": 36
+        }
+      }
+    },
+    {
+      "action": "仅记录。",
+      "body": "HN 571 分/237 评（昨晚 247 分/106 评，翻倍还多）；GitHub 新面孔：把完整 macOS GUI 用户空间搬到 Linux 上运行的实验项目。单源，技术猎奇向。",
+      "i18n": {
+        "en": {
+          "action": "Just record it.",
+          "body": "571 points / 237 comments on Hacker News (247 points / 106 comments last evening — more than doubled); a new face on GitHub: an experimental project that runs the complete macOS GUI userspace on Linux. Single source; a technical curiosity.",
+          "title": "XNU Linux: 571 points on Hacker News, the full macOS GUI userspace on Linux"
+        },
+        "ja": {
+          "action": "記録のみ。",
+          "body": "Hacker Newsで571ポイント／237コメント（昨夜は247ポイント／106コメントで、倍以上に増加）。GitHubの新顔で、macOSのGUIユーザー空間一式をLinux上で動かす実験プロジェクト。単独の情報源で、技術的な好奇心向けの話題。",
+          "title": "XNU Linux：Hacker Newsで571ポイント、macOSのGUIユーザー空間一式をLinux上で実行"
+        }
+      },
+      "is_new": false,
+      "level": "echo",
+      "links": [
+        "https://github.com/AFK-surf/xnulinux"
+      ],
+      "sources": [
+        "Hacker News",
+        "GitHub"
+      ],
+      "title": "XNU Linux：HN 571 分，完整 macOS GUI 用户空间跑在 Linux 上",
+      "plugins": {
+        "momentum": {
+          "score": 36
+        }
+      }
+    }
+  ]
+}

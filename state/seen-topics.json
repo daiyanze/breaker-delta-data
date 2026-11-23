@@ -2280,7 +2280,7 @@
     {
       "name": "黎曼猜想证明声称（Claude 参与）",
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "sources": [
         "Hacker News",
         "Scientific American",
@@ -2296,7 +2296,9 @@
         "Lean",
         "dev.to",
         "MIT",
-        "The Guardian"
+        "The Guardian",
+        "Stack Exchange",
+        "Latent Space"
       ],
       "history": [
         {
@@ -2322,6 +2324,10 @@
         {
           "date": "2026-11-23",
           "grade": "must"
+        },
+        {
+          "date": "2026-11-24",
+          "grade": "watch"
         }
       ],
       "review": {
@@ -2532,7 +2538,7 @@
     {
       "name": "Leonida",
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "sources": [
         "GitHub",
         "Destructoid",
@@ -2559,6 +2565,10 @@
         },
         {
           "date": "2026-11-23",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-24",
           "grade": "must"
         }
       ],
@@ -2803,13 +2813,18 @@
     {
       "name": "XNU Linux",
       "first_seen": "2026-11-23",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "sources": [
-        "Hacker News"
+        "Hacker News",
+        "GitHub"
       ],
       "history": [
         {
           "date": "2026-11-23",
+          "grade": "echo"
+        },
+        {
+          "date": "2026-11-24",
           "grade": "echo"
         }
       ],
@@ -2818,6 +2833,125 @@
         "result": null,
         "checked_on": null,
         "_first_seen": "2026-11-23"
+      }
+    },
+    {
+      "name": "黄仁勋复职",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "sources": [
+        "Hacker News",
+        "CNBC",
+        "Reuters",
+        "The Verge",
+        "TechCrunch",
+        "Google News",
+        "Mastodon",
+        "Bluesky",
+        "X"
+      ],
+      "history": [
+        {
+          "date": "2026-11-24",
+          "grade": "must"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-24"
+      }
+    },
+    {
+      "name": "GLM-5.4",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "sources": [
+        "Hacker News",
+        "The Decoder",
+        "dev.to",
+        "Reddit",
+        "X",
+        "目录站"
+      ],
+      "history": [
+        {
+          "date": "2026-11-24",
+          "grade": "must"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-24"
+      }
+    },
+    {
+      "name": "亚马逊收购 Decart",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "sources": [
+        "TechCrunch",
+        "Google News"
+      ],
+      "history": [
+        {
+          "date": "2026-11-24",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-24"
+      }
+    },
+    {
+      "name": "Claude Ship",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "sources": [
+        "Anthropic",
+        "The Verge",
+        "9to5Mac",
+        "Digital Trends",
+        "X"
+      ],
+      "history": [
+        {
+          "date": "2026-11-24",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-24"
+      }
+    },
+    {
+      "name": "Ladybird 进入 alpha",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "sources": [
+        "Hacker News",
+        "Lobsters"
+      ],
+      "history": [
+        {
+          "date": "2026-11-24",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-24"
       }
     }
   ]
