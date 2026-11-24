@@ -2918,12 +2918,20 @@
         "The Verge",
         "9to5Mac",
         "Digital Trends",
-        "X"
+        "X",
+        "Product Hunt",
+        "TechCrunch",
+        "Bluesky",
+        "目录站"
       ],
       "history": [
         {
           "date": "2026-11-24",
           "grade": "watch"
+        },
+        {
+          "date": "2026-11-24",
+          "grade": "must"
         }
       ],
       "review": {
@@ -2939,12 +2947,147 @@
       "last_seen": "2026-11-24",
       "sources": [
         "Hacker News",
-        "Lobsters"
+        "Lobsters",
+        "Bluesky"
       ],
       "history": [
         {
           "date": "2026-11-24",
           "grade": "watch"
+        },
+        {
+          "date": "2026-11-24",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-24"
+      }
+    },
+    {
+      "name": "Shirudo",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "sources": [
+        "OpenAI",
+        "Cisco",
+        "The Wall Street Journal",
+        "The Hacker News",
+        "Morningstar"
+      ],
+      "history": [
+        {
+          "date": "2026-11-24",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-24"
+      }
+    },
+    {
+      "name": "弗吉尼亚与俄勒冈两州起诉 SpaceX（Grok）",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "sources": [
+        "Reuters",
+        "Associated Press",
+        "Al Jazeera",
+        "Engadget",
+        "South China Morning Post"
+      ],
+      "history": [
+        {
+          "date": "2026-11-24",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-24"
+      }
+    },
+    {
+      "name": "Kagi Mail 公开 beta",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "sources": [
+        "Hacker News",
+        "Bluesky"
+      ],
+      "history": [
+        {
+          "date": "2026-11-24",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-24"
+      }
+    },
+    {
+      "name": "LeCun 在 X 上指责 Amodei",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "sources": [
+        "Hacker News",
+        "X"
+      ],
+      "history": [
+        {
+          "date": "2026-11-24",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-24"
+      }
+    },
+    {
+      "name": "Supertake 融资 2,000 万美元",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "sources": [
+        "TechCrunch"
+      ],
+      "history": [
+        {
+          "date": "2026-11-24",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-24"
+      }
+    },
+    {
+      "name": "5,400 个恶意 npm 包",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "sources": [
+        "Databricks"
+      ],
+      "history": [
+        {
+          "date": "2026-11-24",
+          "grade": "echo"
         }
       ],
       "review": {

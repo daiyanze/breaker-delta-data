@@ -630,3 +630,24 @@
 - Ladybird 进入 alpha | 2026-11-24 早报 | 2026-11-24 早报 | Hacker News, Lobsters | 🆕👀（独立浏览器进入 alpha；HN 941 分/253 评，Lobsters 首页；自研引擎，不用 Chromium/WebKit 内核） | 待复盘
 - XNU Linux | 2026-11-23 晚报 | 2026-11-24 早报 | Hacker News, GitHub | 🌱→🌱（涨：HN 247→571 分/106→237 评；GitHub 新面孔；完整 macOS GUI 用户空间跑在 Linux 上；单源） | 待复盘
 - 其余在册话题 | 各首次发现时间见上文 | 2026-11-24 早报 | 见上文 | 平/涨，无新动静（Anthropic IPO：周一盘中约 $87.6，-1.5%，仅比 $83 发行价高约 5.5%，与纳指 +6% 背离；期权首日上市；ProShares 杠杆 ETF ANTU/ANTY 上线；Inkling 2 Mini：HF likes 5,180→5,445，下载 23,543→41,888，unsloth GGUF 805,993→1,292,888，r/LocalLLaMA 实测持续；Gemini 4 Neon：平，X 热议持续，techtwitter 当日第 2；Qwen3.8-27B likes 21,671，下载 6,185,088；DepthPro2 likes 1,136；fast-anything 3,058 stars、rust-anything 8,653 stars、GestaltX 8,859 stars、linger 4,165 stars、neonclipping 2,298 stars，缓慢上涨；Kagi Mail 公开 beta：HN 231 分/177 评，单源未入选；Gemini 4 Carbon/Hydrogen、GPT-6.2、Qwen4-Max、Claude Fable 5.2、Gemini Decisions API 等未见新动静） | 待复盘
+
+## 2026-11-24 晚报（18:00 JST）
+- Claude Ship | 2026-11-24 早报 | 2026-11-24 晚报 | Anthropic, The Verge, 9to5Mac, Digital Trends, X, Product Hunt, TechCrunch, Bluesky, 目录站 | 👀→🔥（升级：登 Product Hunt 当日新品，TechCrunch/The Verge 跟进，Bluesky 开发者圈讨论，目录站 ai-bot.cn 收录） | 待复盘
+- Shirudo | 2026-11-24 晚报 | 2026-11-24 晚报 | OpenAI, Cisco, The Wall Street Journal, The Hacker News, Morningstar | 🆕👀（11 月 23 日发布：开源 eBPF 运行时，agent 写临时防护“shield”挡漏洞利用路径，无需重启，须人工批准；演示中 Codex 生成的 shield 挡住针对 Elasticsearch 的 Java4Shell 攻击；基于 Tetragon 改写，BSD 2-Clause，pre-release） | 待复盘
+- 弗吉尼亚与俄勒冈两州起诉 SpaceX（Grok） | 2026-11-24 晚报 | 2026-11-24 晚报 | Reuters, Associated Press, Al Jazeera, Engadget, South China Morning Post | 🆕👀（11 月 23 日：两州首次就 Grok 起诉，指控“spicy mode”可把真人照片生成性化图片/视频涉未成年人；援引 CCDH 研究：2025 年 12 月–2026 年 1 月 Grok 生成并发布数百万张性化图片，其中 2 万多张涉未成年人；此前已有十余起个人诉讼） | 待复盘
+- Ladybird 进入 alpha | 2026-11-24 早报 | 2026-11-24 晚报 | Hacker News, Lobsters, Bluesky | 👀→👀（涨：HN 941→1,877 分/253→432 评，仍居首页；Lobsters 首页；Simon Willison 在 Bluesky 发帖试用） | 待复盘
+- Kagi Mail 公开 beta | 2026-11-24 晚报 | 2026-11-24 晚报 | Hacker News, Bluesky | 🆕👀（HN 231→417 分/177→334 评；60 天免费试用） | 待复盘
+- LeCun 在 X 上指责 Amodei | 2026-11-24 晚报 | 2026-11-24 晚报 | Hacker News, X | 🆕🌱（HN 1,622 分/911 评：LeCun 称 Amodei 炒作危险以便让开源模型非法化；单源，观点交锋） | 待复盘
+- Supertake 融资 2,000 万美元 | 2026-11-24 晚报 | 2026-11-24 晚报 | TechCrunch | 🆕🌱（单源：AI agent 把市场预测变成股票投资组合） | 待复盘
+- 5,400 个恶意 npm 包 | 2026-11-24 晚报 | 2026-11-24 晚报 | Databricks | 🆕🌱（单源：Databricks 博客研究 2026 年供应链风险） | 待复盘
+- 黄仁勋复职 | 2026-11-24 早报 | 2026-11-24 晚报 | Hacker News, CNBC, Reuters, The Verge, TechCrunch, Google News, Mastodon, Bluesky, X, Financial Times | 🔥→🔥（涨：HN 1,545→2,524 分/2,666→3,453 评；FT 称特朗普在复职消息后从英伟达股票赚取高达 1,500 万美元；The Verge 称特朗普策划复出；员工总部英雄般迎接；Megaspeed 或进美国黑名单；独立调查继续，12 月 1 日参议院作证在即） | 待复盘
+- GLM-5.4 | 2026-11-24 早报 | 2026-11-24 晚报 | Hacker News, The Decoder, dev.to, Reddit, X, 目录站 | 🔥→🔥（涨：HN 941→1,116 分/315→362 评；r/LocalLLaMA 实测帖：编码强、写作弱，336 评；权重与公开 API 仍待定） | 待复盘
+- Leonida | 2026-11-22 早报 | 2026-11-24 晚报 | GitHub, Hacker News, Wikipedia | 🔥→🔥（涨：仍居 GitHub 日榜第 1；追踪器口径不一，约 2.6–3.1 万 stars，单日新增约 1.36 万；仍不能启动，.exe 真实性未核实，12 个 DLL 签名不匹配） | 待复盘
+- 黎曼猜想证明声称（Claude 参与） | 2026-11-21 早报 | 2026-11-24 晚报 | dev.to, Stack Exchange, Wikipedia, Latent Space | 👀→👀（平：无新决定性进展；维基仍居热读榜前列；Nielsen 质疑未回应，克雷仍列未解） | 待复盘
+- 亚马逊收购 Decart | 2026-11-24 早报 | 2026-11-24 晚报 | TechCrunch, Google News | 👀→👀（平，无新消息） | 待复盘
+- Anthropic IPO | 2026-11-11 试点早报 | 2026-11-24 晚报 | Reddit r/technology, 新闻简报, Google News, HN, The Decoder, NYT | 👀→👀（平：美股未开盘，无新价；早报约 $87.6，-1.5%） | 待复盘
+- Inkling 2 Mini | 2026-11-21 早报 | 2026-11-24 晚报 | Hacker News, Hugging Face, Reddit, OpenRouter | 🔥→🔥（平：HF likes 5,445→5,587，下载 41,888 未动，疑抓取口径未更新；r/LocalLLaMA 实测：agentic coding 0.22，弱于 Qwen3.8-27B 的 0.34–0.39） | 待复盘
+- XNU Linux | 2026-11-23 晚报 | 2026-11-24 晚报 | Hacker News, GitHub | 🌱→凉（未见于本期 HN 前 30） | 待复盘
+- rust-anything | 2026-11-19 早报 | 2026-11-24 晚报 | GitHub | 👀→👀（微涨：8,653→8,921 stars，仍单源） | 待复盘
+- Qwen3.8 模型家族 | 2026-11-13 早报 | 2026-11-24 晚报 | Hugging Face | 👀→👀（平：Qwen3.8-27B likes 21,671→21,692） | 待复盘
+- 其余在册话题 | 各首次发现时间见上文 | 2026-11-24 晚报 | 见上文 | 平，无新动静（Gemini 4 Carbon/Hydrogen、GPT-6.2、Qwen4-Max、Claude Fable 5.2、Gemini Decisions API、HD Moore 金丝雀实验未见新动静；Meta Muse Ember 仍只见于 OpenRouter/App Store，维持凉） | 待复盘
