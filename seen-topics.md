@@ -651,3 +651,39 @@
 - rust-anything | 2026-11-19 早报 | 2026-11-24 晚报 | GitHub | 👀→👀（微涨：8,653→8,921 stars，仍单源） | 待复盘
 - Qwen3.8 模型家族 | 2026-11-13 早报 | 2026-11-24 晚报 | Hugging Face | 👀→👀（平：Qwen3.8-27B likes 21,671→21,692） | 待复盘
 - 其余在册话题 | 各首次发现时间见上文 | 2026-11-24 晚报 | 见上文 | 平，无新动静（Gemini 4 Carbon/Hydrogen、GPT-6.2、Qwen4-Max、Claude Fable 5.2、Gemini Decisions API、HD Moore 金丝雀实验未见新动静；Meta Muse Ember 仍只见于 OpenRouter/App Store，维持凉） | 待复盘
+
+## 2026-11-25 早报（06:00 JST）
+- Anthropic IPO | 2026-11-11 试点早报 | 2026-11-25 早报 | Hacker News, Reuters, TechCrunch, Barron's, WSJ | 👀→🔥（升级：上市 4 天破发——周二盘中最低 $75.61，收跌约 9% 至 $79.69，市值跌破 $1 万亿；较开盘 $111.50 跌约 29%；WSJ 称首日市值 $750 亿以上大公司里第二快破发，仅次于 Facebook；Amodei 兄妹套现约 $5.61 亿；摩根士丹利绿鞋行权完毕、稳价结束；HN 232 分/485 评） | 待复盘
+- Leonida | 2026-11-22 早报 | 2026-11-25 早报 | GitHub, Hacker News, Wikipedia | 🔥→🔥（涨：同主题新仓库继续爆发——VIctory 0 天 10,935 stars、xcl 4 天 7,683 stars（日均 1,921）、portwatch-vi 2 天 2,591 stars，另有 leonida 续作、Xbox2Windows、xbox-emulator 同日上榜；HN《GTA 6 Running on Windows》147 分/181 评；维基 GTA VI 昨日第 5、266,240 浏览；仍不能启动） | 待复盘
+- 黄仁勋复职 | 2026-11-24 早报 | 2026-11-25 早报 | WIRED, NYT, FT, Guardian, CNBC, AP, Reuters, BBC | 🔥→🔥（涨：复职后首次全员会道歉，承认违反行为准则、“非常严重的个人错误”、正在接受治疗；NVDA 周二收跌 5.9% 至 $155.38，盘中一度跌 9% 至 $150.50；标普跌约 1%、纳指跌约 2.1%，标普朝 9 个交易日里第 8 跌走去；FT/Guardian 称特朗普借复职赚高达 $1,500 万；黄仁勋称回归非特朗普施压；12 月 1 日参议院作证在即） | 待复盘
+- GPT-6.2 Astra and Sol | 2026-11-18 早报 | 2026-11-25 早报 | Simon Willison, OpenAI, Interesting Engineering | 🔥→🔥（涨：Astra 做科研两例——22 分钟解开 1808 年耶鲁素描本作者之谜；两位业余天文学家用 Astra/Codex 覆盖约 1,900 万颗恒星找出 49 颗系外行星候选，Kepler 数据 200+ 信号；均未证实） | 待复盘
+- Tidal 禁 AI 生成音乐 | 2026-11-25 早报 | 2026-11-25 早报 | TechCrunch, The Verge, Ars Technica, Variety, Pitchfork, MBW, Mastodon | 🆕👀（12 月 9 日起删除全部纯 AI 生成曲目，年底前删约 2,900 万首，每天拒约 8–8.5 万首；过去 90 天 43% 上传为纯 AI 生成，11 月 6 日单日超 60%；2,700 万首占曲库 6.3%，96% 近 3 个月零播放；94% 来自 Suno；Mastodon 当日 216 账号） | 待复盘
+- 黎曼猜想证明声称（Claude 参与） | 2026-11-21 早报 | 2026-11-25 早报 | Ars Technica, WIRED, The Economist, Scientific American, The Decoder, Wikipedia, MathOverflow | 👀→👀（涨：新一波主流报道——Ars 梳理现状，WIRED、经济学人、SciAm 同日跟进；Alpöge 坚持证明成立、承认发布过程“愚蠢的失误”；维基昨日第 11、157,845 浏览；Nielsen 质疑仍未回应，克雷仍列未解） | 待复盘
+- Meta Muse 进 Instagram DM | 2026-11-25 早报 | 2026-11-25 早报 | TechCrunch, BBC | 🆕👀（11 月 24 日：Muse 直接进 Instagram DM；同日英国上线，面向 18+ 用户） | 待复盘
+- Epochal | 2026-11-25 早报 | 2026-11-25 早报 | Bloomberg, Unite.AI, AI Weekly | 🆕🌱（11 月 24 日：三位 xAI 创始成员创立，目标“超人预测”agent；Zhang 个人投资 $1 亿；首款产品 Time Portal 让 agent 浏览指定历史日期的存档互联网，索引超 1 万亿页；自报 347 个预测问题复现相关性 0.98，未独立验证） | 待复盘
+- Thinking Machines Lab Inkling 2 Mini | 2026-11-21 早报 | 2026-11-25 早报 | Hugging Face | 🔥→🔥（涨：HF likes 5,587→5,747，下载 41,888→69,042；unsloth GGUF 下载 1,292,888→1,913,407；r/LocalLLaMA 实测持续） | 待复盘
+- Thinking Machines Lab Inkling 2 Small | 2026-11-13 早报 | 2026-11-25 早报 | Hugging Face | 👀→👀（涨：HF likes 683→1,470，下载 48,974→67,132） | 待复盘
+- rust-anything | 2026-11-19 早报 | 2026-11-25 早报 | GitHub | 👀→👀（微涨：8,921→9,170 stars，8 天日均 1,146；单源） | 待复盘
+- fast-anything | 2026-11-23 早报 | 2026-11-25 早报 | GitHub | 👀→👀（涨：3,058→3,561 stars，3 天日均 1,187；单源） | 待复盘
+- deepseek-ai/chat-demo | 2026-11-15 晚报 | 2026-11-25 早报 | GitHub | 🌱→🌱（微涨：5,321→5,395 stars，12 天日均 450） | 待复盘
+- simplexai-labs/linger | 2026-11-23 早报 | 2026-11-25 早报 | GitHub | 🌱→🌱（微涨：4,165→4,344 stars，14 天日均 310） | 待复盘
+- 腾讯 Hy4 Flash | 2026-11-17 早报 | 2026-11-25 早报 | Hugging Face, OpenRouter | 👀→👀（微涨：HF likes 630→677，下载 6,617→9,167） | 待复盘
+- Depth Pro 2 | 2026-11-22 早报 | 2026-11-25 早报 | Hugging Face | 🌱→🌱（微涨：HF likes 1,136→1,186） | 待复盘
+- Qwen3.8 模型家族 | 2026-11-13 早报 | 2026-11-25 早报 | Hugging Face | 👀→👀（微涨：Qwen3.8-27B likes 21,692→21,731；下载为 30 天滚动口径，6,185,088→6,122,057，不展开） | 待复盘
+- MiniMax H3-Image | 2026-11-11 试点早报 | 2026-11-25 早报 | Hugging Face | 👀→👀（涨：HF likes 1,735→2,526，下载 952,024→1,003,202，破百万） | 待复盘
+- DeepSeek dsh-superagent + V4.1-Flash-1017 | 2026-11-12 晚报 | 2026-11-25 早报 | Hugging Face | 🔥→🔥（涨：V4.1-Flash-1017 HF likes 5,711→6,660，下载 434,013→536,179） | 待复盘
+- 百度 ERNIE-5.5-Flash-Preview | 2026-11-25 早报 | 2026-11-25 早报 | Hugging Face, OpenRouter | 🆕🌱（HF 新面孔 + OpenRouter 免费上架；likes 248、下载 75，量级尚小；未入选正文） | 待复盘
+- Claude Artifacts 桌面应用 | 2026-11-25 早报 | 2026-11-25 早报 | The Decoder | 🆕🌱（单源：Artifacts 变 macOS/Windows 独立桌面应用；未入选正文） | 待复盘
+- Check Point 安全管理服务器入侵 | 2026-11-25 早报 | 2026-11-25 早报 | Hacker News, GreyNoise | 🆕🌱（HN 217 分/83 评：针对 Check Point 安全管理服务器的主动入侵行动；未入选正文） | 待复盘
+- Meta SAM 3 | 2026-11-25 早报 | 2026-11-25 早报 | Hugging Face | 🆕🌱（迟到发现：11 月中旬前后发布，今晨 HF 8,110 likes / 178 万下载；文本提示概念分割 + 视频追踪；未入选正文） | 待复盘
+- Lightricks LTX-2.5 | 2026-11-25 早报 | 2026-11-25 早报 | Hugging Face | 🆕🌱（迟到发现：今晨 HF 13,299 likes / 302 万下载，发布日期未核实；未入选正文） | 待复盘
+- Amazon Bedrock Trusted Access API（Claude） | 2026-11-25 早报 | 2026-11-25 早报 | AWS | 🆕🌱（单源：AWS 博客 11 月 24 日，企业级 Claude 接入 API + Frontier Safeguards；未入选正文） | 待复盘
+- unkernel / trynix | 2026-11-25 早报 | 2026-11-25 早报 | Hacker News, Lobsters, GitHub | 🆕🌱（HN 890 分/333 评 + Lobsters 78 分：Linux 编译成 WebAssembly 在浏览器跑，GUI 程序可用，自报比 qemu-wasm 快 2–32 倍；GitHub pithings/unkernel 1,559 stars；未入选正文） | 待复盘
+- 微软 / Outlook 全球宕机 | 2026-11-13 早报 | 2026-11-25 早报 | Reuters, Hacker News | 👀→凉（新后续：微软宣布 Code Red，路透引内部备忘录；事件本身已结束，维持凉） | 待复盘
+- Ladybird 进入 alpha | 2026-11-24 早报 | 2026-11-25 早报 | — | 👀→👀（平：未见于本期 HN 前 30，无新数字） | 待复盘
+- Kagi Mail 公开 beta | 2026-11-24 晚报 | 2026-11-25 早报 | — | 👀→👀（平：未见于本期 HN 前 30，无新数字） | 待复盘
+- GLM-5.4 | 2026-11-24 早报 | 2026-11-25 早报 | — | 🔥→🔥（平：未见于本期 HF 前 50 与 HN 前 30，无新数字；权重与公开 API 仍待定） | 待复盘
+- Claude Ship | 2026-11-24 早报 | 2026-11-25 早报 | Product Hunt | 🔥→🔥（平：仍在 PH 当日榜，无新数字） | 待复盘
+- Gemini 4 Neon | 2026-11-19 晚报 | 2026-11-25 早报 | OpenRouter | 🔥→🔥（平：OpenRouter 仍在列；Google 博客推“5 位 builder 用 Neon 做的东西”，无新数字） | 待复盘
+- Qwen4-Max Preview + Qwen Code 1.0 | 2026-11-12 早报 | 2026-11-25 早报 | — | 🔥→🔥（平：预览今日退役，未见新消息） | 待复盘
+- 其余在册话题 | 各首次发现时间见上文 | 2026-11-25 早报 | 见上文 | 平，无新动静（Gemini 4 Carbon/Hydrogen、Claude Fable 5.2 / Mythos 5.2、Gemini Decisions API、HD Moore 金丝雀实验、美国收紧 AI 芯片远程访问管制、加州总检察长起诉 OpenAI、美国多家大银行在线服务中断、弗吉尼亚与俄勒冈两州起诉 SpaceX、Shirudo、Replit Missions、亚马逊收购 Decart 未见新消息；GestaltX、HGhub、DIYgod/pinky、agent-autoloop、kiri 未见于本期 GitHub 日榜，维持凉） | 待复盘

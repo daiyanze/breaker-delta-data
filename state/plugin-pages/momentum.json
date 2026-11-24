@@ -22,26 +22,26 @@
           "items": [
             {
               "label": {
-                "zh": "#1 黄仁勋 / Nvidia 风波",
-                "en": "#1 黄仁勋 / Nvidia 风波",
-                "ja": "#1 黄仁勋 / Nvidia 风波"
+                "zh": "#1 Anthropic IPO",
+                "en": "#1 Anthropic IPO",
+                "ja": "#1 Anthropic IPO"
               },
               "format": {
-                "zh": "动量 100 · 浪高 264",
-                "en": "Momentum 100 · heat 264",
-                "ja": "勢い 100 · 浪高 264"
+                "zh": "动量 100 · 浪高 184",
+                "en": "Momentum 100 · heat 184",
+                "ja": "勢い 100 · 浪高 184"
               }
             },
             {
               "label": {
-                "zh": "#2 Anthropic IPO",
-                "en": "#2 Anthropic IPO",
-                "ja": "#2 Anthropic IPO"
+                "zh": "#2 黄仁勋 / Nvidia 风波",
+                "en": "#2 黄仁勋 / Nvidia 风波",
+                "ja": "#2 黄仁勋 / Nvidia 风波"
               },
               "format": {
-                "zh": "动量 99 · 浪高 171",
-                "en": "Momentum 99 · heat 171",
-                "ja": "勢い 99 · 浪高 171"
+                "zh": "动量 92 · 浪高 236",
+                "en": "Momentum 92 · heat 236",
+                "ja": "勢い 92 · 浪高 236"
               }
             },
             {
@@ -130,9 +130,21 @@
             },
             {
               "label": {
-                "zh": "#10 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年",
-                "en": "#10 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年",
-                "ja": "#10 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年"
+                "zh": "#10 Tidal 全面封禁 AI 生成音乐：12 月 9 日起删 2,900 万首",
+                "en": "#10 Tidal 全面封禁 AI 生成音乐：12 月 9 日起删 2,900 万首",
+                "ja": "#10 Tidal 全面封禁 AI 生成音乐：12 月 9 日起删 2,900 万首"
+              },
+              "format": {
+                "zh": "动量 56 · 浪高 211",
+                "en": "Momentum 56 · heat 211",
+                "ja": "勢い 56 · 浪高 211"
+              }
+            },
+            {
+              "label": {
+                "zh": "#11 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年",
+                "en": "#11 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年",
+                "ja": "#11 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年"
               },
               "format": {
                 "zh": "动量 56 · 浪高 191",
@@ -142,9 +154,21 @@
             },
             {
               "label": {
-                "zh": "#11 ChatGPT Wallet：Agent 开始替你花钱",
-                "en": "#11 ChatGPT Wallet：Agent 开始替你花钱",
-                "ja": "#11 ChatGPT Wallet：Agent 开始替你花钱"
+                "zh": "#12 黎曼猜想：WIRED、经济学人、Ars 新一波报道，Alpöge 承认发布失误",
+                "en": "#12 黎曼猜想：WIRED、经济学人、Ars 新一波报道，Alpöge 承认发布失误",
+                "ja": "#12 黎曼猜想：WIRED、经济学人、Ars 新一波报道，Alpöge 承认发布失误"
+              },
+              "format": {
+                "zh": "动量 56 · 浪高 186",
+                "en": "Momentum 56 · heat 186",
+                "ja": "勢い 56 · 浪高 186"
+              }
+            },
+            {
+              "label": {
+                "zh": "#13 ChatGPT Wallet：Agent 开始替你花钱",
+                "en": "#13 ChatGPT Wallet：Agent 开始替你花钱",
+                "ja": "#13 ChatGPT Wallet：Agent 开始替你花钱"
               },
               "format": {
                 "zh": "动量 51 · 浪高 209",
@@ -154,9 +178,9 @@
             },
             {
               "label": {
-                "zh": "#12 Shirudo：OpenAI 与 Cisco 开源 eBPF 安全运行时，agent 写“盾”挡漏洞",
-                "en": "#12 Shirudo：OpenAI 与 Cisco 开源 eBPF 安全运行时，agent 写“盾”挡漏洞",
-                "ja": "#12 Shirudo：OpenAI 与 Cisco 开源 eBPF 安全运行时，agent 写“盾”挡漏洞"
+                "zh": "#14 Shirudo：OpenAI 与 Cisco 开源 eBPF 安全运行时，agent 写“盾”挡漏洞",
+                "en": "#14 Shirudo：OpenAI 与 Cisco 开源 eBPF 安全运行时，agent 写“盾”挡漏洞",
+                "ja": "#14 Shirudo：OpenAI 与 Cisco 开源 eBPF 安全运行时，agent 写“盾”挡漏洞"
               },
               "format": {
                 "zh": "动量 51 · 浪高 187",
@@ -166,9 +190,9 @@
             },
             {
               "label": {
-                "zh": "#13 Claude Ship：登 Product Hunt 当日新品，从关注升为必看",
-                "en": "#13 Claude Ship：登 Product Hunt 当日新品，从关注升为必看",
-                "ja": "#13 Claude Ship：登 Product Hunt 当日新品，从关注升为必看"
+                "zh": "#15 Claude Ship：登 Product Hunt 当日新品，从关注升为必看",
+                "en": "#15 Claude Ship：登 Product Hunt 当日新品，从关注升为必看",
+                "ja": "#15 Claude Ship：登 Product Hunt 当日新品，从关注升为必看"
               },
               "format": {
                 "zh": "动量 51 · 浪高 184",
@@ -178,9 +202,9 @@
             },
             {
               "label": {
-                "zh": "#14 Gemini 4 Hydrogen 持续发酵",
-                "en": "#14 Gemini 4 Hydrogen 持续发酵",
-                "ja": "#14 Gemini 4 Hydrogen 持续发酵"
+                "zh": "#16 Gemini 4 Hydrogen 持续发酵",
+                "en": "#16 Gemini 4 Hydrogen 持续发酵",
+                "ja": "#16 Gemini 4 Hydrogen 持续发酵"
               },
               "format": {
                 "zh": "动量 51 · 浪高 176",
@@ -190,9 +214,9 @@
             },
             {
               "label": {
-                "zh": "#15 Inkling 2 Mini 升温：HN 141→937 分，HF likes 97→1,050，团队亲自下场回帖",
-                "en": "#15 Inkling 2 Mini 升温：HN 141→937 分，HF likes 97→1,050，团队亲自下场回帖",
-                "ja": "#15 Inkling 2 Mini 升温：HN 141→937 分，HF likes 97→1,050，团队亲自下场回帖"
+                "zh": "#17 Inkling 2 Mini 升温：HN 141→937 分，HF likes 97→1,050，团队亲自下场回帖",
+                "en": "#17 Inkling 2 Mini 升温：HN 141→937 分，HF likes 97→1,050，团队亲自下场回帖",
+                "ja": "#17 Inkling 2 Mini 升温：HN 141→937 分，HF likes 97→1,050，团队亲自下场回帖"
               },
               "format": {
                 "zh": "动量 51 · 浪高 176",
@@ -202,9 +226,9 @@
             },
             {
               "label": {
-                "zh": "#16 United 航空禁 AI agent 订票",
-                "en": "#16 United 航空禁 AI agent 订票",
-                "ja": "#16 United 航空禁 AI agent 订票"
+                "zh": "#18 United 航空禁 AI agent 订票",
+                "en": "#18 United 航空禁 AI agent 订票",
+                "ja": "#18 United 航空禁 AI agent 订票"
               },
               "format": {
                 "zh": "动量 51 · 浪高 171",
@@ -214,9 +238,9 @@
             },
             {
               "label": {
-                "zh": "#17 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta",
-                "en": "#17 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta",
-                "ja": "#17 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta"
+                "zh": "#19 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta",
+                "en": "#19 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta",
+                "ja": "#19 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta"
               },
               "format": {
                 "zh": "动量 51 · 浪高 171",
@@ -226,33 +250,9 @@
             },
             {
               "label": {
-                "zh": "#18 SpaceX 星舰 Flight 15 首次接住飞船",
-                "en": "#18 SpaceX 星舰 Flight 15 首次接住飞船",
-                "ja": "#18 SpaceX 星舰 Flight 15 首次接住飞船"
-              },
-              "format": {
-                "zh": "动量 51 · 浪高 171",
-                "en": "Momentum 51 · heat 171",
-                "ja": "勢い 51 · 浪高 171"
-              }
-            },
-            {
-              "label": {
-                "zh": "#19 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题",
-                "en": "#19 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题",
-                "ja": "#19 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题"
-              },
-              "format": {
-                "zh": "动量 51 · 浪高 171",
-                "en": "Momentum 51 · heat 171",
-                "ja": "勢い 51 · 浪高 171"
-              }
-            },
-            {
-              "label": {
-                "zh": "#20 弗吉尼亚与俄勒冈两州起诉 SpaceX：Grok 被指生成涉未成年人性化图片",
-                "en": "#20 弗吉尼亚与俄勒冈两州起诉 SpaceX：Grok 被指生成涉未成年人性化图片",
-                "ja": "#20 弗吉尼亚与俄勒冈两州起诉 SpaceX：Grok 被指生成涉未成年人性化图片"
+                "zh": "#20 SpaceX 星舰 Flight 15 首次接住飞船",
+                "en": "#20 SpaceX 星舰 Flight 15 首次接住飞船",
+                "ja": "#20 SpaceX 星舰 Flight 15 首次接住飞船"
               },
               "format": {
                 "zh": "动量 51 · 浪高 171",
@@ -279,26 +279,26 @@
           "items": [
             {
               "label": {
-                "zh": "#1 黄仁勋 / Nvidia 风波",
-                "en": "#1 黄仁勋 / Nvidia 风波",
-                "ja": "#1 黄仁勋 / Nvidia 风波"
+                "zh": "#1 Anthropic IPO",
+                "en": "#1 Anthropic IPO",
+                "ja": "#1 Anthropic IPO"
               },
               "format": {
-                "zh": "动量 100 · 浪高 264",
-                "en": "Momentum 100 · heat 264",
-                "ja": "勢い 100 · 浪高 264"
+                "zh": "动量 100 · 浪高 184",
+                "en": "Momentum 100 · heat 184",
+                "ja": "勢い 100 · 浪高 184"
               }
             },
             {
               "label": {
-                "zh": "#2 Anthropic IPO",
-                "en": "#2 Anthropic IPO",
-                "ja": "#2 Anthropic IPO"
+                "zh": "#2 黄仁勋 / Nvidia 风波",
+                "en": "#2 黄仁勋 / Nvidia 风波",
+                "ja": "#2 黄仁勋 / Nvidia 风波"
               },
               "format": {
-                "zh": "动量 99 · 浪高 171",
-                "en": "Momentum 99 · heat 171",
-                "ja": "勢い 99 · 浪高 171"
+                "zh": "动量 92 · 浪高 236",
+                "en": "Momentum 92 · heat 236",
+                "ja": "勢い 92 · 浪高 236"
               }
             },
             {
@@ -387,9 +387,21 @@
             },
             {
               "label": {
-                "zh": "#10 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年",
-                "en": "#10 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年",
-                "ja": "#10 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年"
+                "zh": "#10 Tidal 全面封禁 AI 生成音乐：12 月 9 日起删 2,900 万首",
+                "en": "#10 Tidal 全面封禁 AI 生成音乐：12 月 9 日起删 2,900 万首",
+                "ja": "#10 Tidal 全面封禁 AI 生成音乐：12 月 9 日起删 2,900 万首"
+              },
+              "format": {
+                "zh": "动量 56 · 浪高 211",
+                "en": "Momentum 56 · heat 211",
+                "ja": "勢い 56 · 浪高 211"
+              }
+            },
+            {
+              "label": {
+                "zh": "#11 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年",
+                "en": "#11 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年",
+                "ja": "#11 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年"
               },
               "format": {
                 "zh": "动量 56 · 浪高 191",
@@ -399,9 +411,21 @@
             },
             {
               "label": {
-                "zh": "#11 ChatGPT Wallet：Agent 开始替你花钱",
-                "en": "#11 ChatGPT Wallet：Agent 开始替你花钱",
-                "ja": "#11 ChatGPT Wallet：Agent 开始替你花钱"
+                "zh": "#12 黎曼猜想：WIRED、经济学人、Ars 新一波报道，Alpöge 承认发布失误",
+                "en": "#12 黎曼猜想：WIRED、经济学人、Ars 新一波报道，Alpöge 承认发布失误",
+                "ja": "#12 黎曼猜想：WIRED、经济学人、Ars 新一波报道，Alpöge 承认发布失误"
+              },
+              "format": {
+                "zh": "动量 56 · 浪高 186",
+                "en": "Momentum 56 · heat 186",
+                "ja": "勢い 56 · 浪高 186"
+              }
+            },
+            {
+              "label": {
+                "zh": "#13 ChatGPT Wallet：Agent 开始替你花钱",
+                "en": "#13 ChatGPT Wallet：Agent 开始替你花钱",
+                "ja": "#13 ChatGPT Wallet：Agent 开始替你花钱"
               },
               "format": {
                 "zh": "动量 51 · 浪高 209",
@@ -411,9 +435,9 @@
             },
             {
               "label": {
-                "zh": "#12 Shirudo：OpenAI 与 Cisco 开源 eBPF 安全运行时，agent 写“盾”挡漏洞",
-                "en": "#12 Shirudo：OpenAI 与 Cisco 开源 eBPF 安全运行时，agent 写“盾”挡漏洞",
-                "ja": "#12 Shirudo：OpenAI 与 Cisco 开源 eBPF 安全运行时，agent 写“盾”挡漏洞"
+                "zh": "#14 Shirudo：OpenAI 与 Cisco 开源 eBPF 安全运行时，agent 写“盾”挡漏洞",
+                "en": "#14 Shirudo：OpenAI 与 Cisco 开源 eBPF 安全运行时，agent 写“盾”挡漏洞",
+                "ja": "#14 Shirudo：OpenAI 与 Cisco 开源 eBPF 安全运行时，agent 写“盾”挡漏洞"
               },
               "format": {
                 "zh": "动量 51 · 浪高 187",
@@ -423,9 +447,9 @@
             },
             {
               "label": {
-                "zh": "#13 Claude Ship：登 Product Hunt 当日新品，从关注升为必看",
-                "en": "#13 Claude Ship：登 Product Hunt 当日新品，从关注升为必看",
-                "ja": "#13 Claude Ship：登 Product Hunt 当日新品，从关注升为必看"
+                "zh": "#15 Claude Ship：登 Product Hunt 当日新品，从关注升为必看",
+                "en": "#15 Claude Ship：登 Product Hunt 当日新品，从关注升为必看",
+                "ja": "#15 Claude Ship：登 Product Hunt 当日新品，从关注升为必看"
               },
               "format": {
                 "zh": "动量 51 · 浪高 184",
@@ -435,9 +459,9 @@
             },
             {
               "label": {
-                "zh": "#14 Gemini 4 Hydrogen 持续发酵",
-                "en": "#14 Gemini 4 Hydrogen 持续发酵",
-                "ja": "#14 Gemini 4 Hydrogen 持续发酵"
+                "zh": "#16 Gemini 4 Hydrogen 持续发酵",
+                "en": "#16 Gemini 4 Hydrogen 持续发酵",
+                "ja": "#16 Gemini 4 Hydrogen 持续发酵"
               },
               "format": {
                 "zh": "动量 51 · 浪高 176",
@@ -447,9 +471,9 @@
             },
             {
               "label": {
-                "zh": "#15 Inkling 2 Mini 升温：HN 141→937 分，HF likes 97→1,050，团队亲自下场回帖",
-                "en": "#15 Inkling 2 Mini 升温：HN 141→937 分，HF likes 97→1,050，团队亲自下场回帖",
-                "ja": "#15 Inkling 2 Mini 升温：HN 141→937 分，HF likes 97→1,050，团队亲自下场回帖"
+                "zh": "#17 Inkling 2 Mini 升温：HN 141→937 分，HF likes 97→1,050，团队亲自下场回帖",
+                "en": "#17 Inkling 2 Mini 升温：HN 141→937 分，HF likes 97→1,050，团队亲自下场回帖",
+                "ja": "#17 Inkling 2 Mini 升温：HN 141→937 分，HF likes 97→1,050，团队亲自下场回帖"
               },
               "format": {
                 "zh": "动量 51 · 浪高 176",
@@ -459,9 +483,9 @@
             },
             {
               "label": {
-                "zh": "#16 United 航空禁 AI agent 订票",
-                "en": "#16 United 航空禁 AI agent 订票",
-                "ja": "#16 United 航空禁 AI agent 订票"
+                "zh": "#18 United 航空禁 AI agent 订票",
+                "en": "#18 United 航空禁 AI agent 订票",
+                "ja": "#18 United 航空禁 AI agent 订票"
               },
               "format": {
                 "zh": "动量 51 · 浪高 171",
@@ -471,9 +495,9 @@
             },
             {
               "label": {
-                "zh": "#17 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta",
-                "en": "#17 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta",
-                "ja": "#17 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta"
+                "zh": "#19 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta",
+                "en": "#19 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta",
+                "ja": "#19 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta"
               },
               "format": {
                 "zh": "动量 51 · 浪高 171",
@@ -483,33 +507,9 @@
             },
             {
               "label": {
-                "zh": "#18 SpaceX 星舰 Flight 15 首次接住飞船",
-                "en": "#18 SpaceX 星舰 Flight 15 首次接住飞船",
-                "ja": "#18 SpaceX 星舰 Flight 15 首次接住飞船"
-              },
-              "format": {
-                "zh": "动量 51 · 浪高 171",
-                "en": "Momentum 51 · heat 171",
-                "ja": "勢い 51 · 浪高 171"
-              }
-            },
-            {
-              "label": {
-                "zh": "#19 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题",
-                "en": "#19 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题",
-                "ja": "#19 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题"
-              },
-              "format": {
-                "zh": "动量 51 · 浪高 171",
-                "en": "Momentum 51 · heat 171",
-                "ja": "勢い 51 · 浪高 171"
-              }
-            },
-            {
-              "label": {
-                "zh": "#20 弗吉尼亚与俄勒冈两州起诉 SpaceX：Grok 被指生成涉未成年人性化图片",
-                "en": "#20 弗吉尼亚与俄勒冈两州起诉 SpaceX：Grok 被指生成涉未成年人性化图片",
-                "ja": "#20 弗吉尼亚与俄勒冈两州起诉 SpaceX：Grok 被指生成涉未成年人性化图片"
+                "zh": "#20 SpaceX 星舰 Flight 15 首次接住飞船",
+                "en": "#20 SpaceX 星舰 Flight 15 首次接住飞船",
+                "ja": "#20 SpaceX 星舰 Flight 15 首次接住飞船"
               },
               "format": {
                 "zh": "动量 51 · 浪高 171",
@@ -536,26 +536,26 @@
           "items": [
             {
               "label": {
-                "zh": "#1 黄仁勋 / Nvidia 风波",
-                "en": "#1 黄仁勋 / Nvidia 风波",
-                "ja": "#1 黄仁勋 / Nvidia 风波"
+                "zh": "#1 Anthropic IPO",
+                "en": "#1 Anthropic IPO",
+                "ja": "#1 Anthropic IPO"
               },
               "format": {
-                "zh": "动量 100 · 浪高 264",
-                "en": "Momentum 100 · heat 264",
-                "ja": "勢い 100 · 浪高 264"
+                "zh": "动量 100 · 浪高 184",
+                "en": "Momentum 100 · heat 184",
+                "ja": "勢い 100 · 浪高 184"
               }
             },
             {
               "label": {
-                "zh": "#2 Anthropic IPO",
-                "en": "#2 Anthropic IPO",
-                "ja": "#2 Anthropic IPO"
+                "zh": "#2 黄仁勋 / Nvidia 风波",
+                "en": "#2 黄仁勋 / Nvidia 风波",
+                "ja": "#2 黄仁勋 / Nvidia 风波"
               },
               "format": {
-                "zh": "动量 99 · 浪高 171",
-                "en": "Momentum 99 · heat 171",
-                "ja": "勢い 99 · 浪高 171"
+                "zh": "动量 92 · 浪高 236",
+                "en": "Momentum 92 · heat 236",
+                "ja": "勢い 92 · 浪高 236"
               }
             },
             {
@@ -644,9 +644,21 @@
             },
             {
               "label": {
-                "zh": "#10 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年",
-                "en": "#10 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年",
-                "ja": "#10 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年"
+                "zh": "#10 Tidal 全面封禁 AI 生成音乐：12 月 9 日起删 2,900 万首",
+                "en": "#10 Tidal 全面封禁 AI 生成音乐：12 月 9 日起删 2,900 万首",
+                "ja": "#10 Tidal 全面封禁 AI 生成音乐：12 月 9 日起删 2,900 万首"
+              },
+              "format": {
+                "zh": "动量 56 · 浪高 211",
+                "en": "Momentum 56 · heat 211",
+                "ja": "勢い 56 · 浪高 211"
+              }
+            },
+            {
+              "label": {
+                "zh": "#11 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年",
+                "en": "#11 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年",
+                "ja": "#11 哈佛研究：美国 403 个超大规模数据中心用电约等于密歇根州全年"
               },
               "format": {
                 "zh": "动量 56 · 浪高 191",
@@ -656,9 +668,21 @@
             },
             {
               "label": {
-                "zh": "#11 ChatGPT Wallet：Agent 开始替你花钱",
-                "en": "#11 ChatGPT Wallet：Agent 开始替你花钱",
-                "ja": "#11 ChatGPT Wallet：Agent 开始替你花钱"
+                "zh": "#12 黎曼猜想：WIRED、经济学人、Ars 新一波报道，Alpöge 承认发布失误",
+                "en": "#12 黎曼猜想：WIRED、经济学人、Ars 新一波报道，Alpöge 承认发布失误",
+                "ja": "#12 黎曼猜想：WIRED、经济学人、Ars 新一波报道，Alpöge 承认发布失误"
+              },
+              "format": {
+                "zh": "动量 56 · 浪高 186",
+                "en": "Momentum 56 · heat 186",
+                "ja": "勢い 56 · 浪高 186"
+              }
+            },
+            {
+              "label": {
+                "zh": "#13 ChatGPT Wallet：Agent 开始替你花钱",
+                "en": "#13 ChatGPT Wallet：Agent 开始替你花钱",
+                "ja": "#13 ChatGPT Wallet：Agent 开始替你花钱"
               },
               "format": {
                 "zh": "动量 51 · 浪高 209",
@@ -668,9 +692,9 @@
             },
             {
               "label": {
-                "zh": "#12 Shirudo：OpenAI 与 Cisco 开源 eBPF 安全运行时，agent 写“盾”挡漏洞",
-                "en": "#12 Shirudo：OpenAI 与 Cisco 开源 eBPF 安全运行时，agent 写“盾”挡漏洞",
-                "ja": "#12 Shirudo：OpenAI 与 Cisco 开源 eBPF 安全运行时，agent 写“盾”挡漏洞"
+                "zh": "#14 Shirudo：OpenAI 与 Cisco 开源 eBPF 安全运行时，agent 写“盾”挡漏洞",
+                "en": "#14 Shirudo：OpenAI 与 Cisco 开源 eBPF 安全运行时，agent 写“盾”挡漏洞",
+                "ja": "#14 Shirudo：OpenAI 与 Cisco 开源 eBPF 安全运行时，agent 写“盾”挡漏洞"
               },
               "format": {
                 "zh": "动量 51 · 浪高 187",
@@ -680,9 +704,9 @@
             },
             {
               "label": {
-                "zh": "#13 Claude Ship：登 Product Hunt 当日新品，从关注升为必看",
-                "en": "#13 Claude Ship：登 Product Hunt 当日新品，从关注升为必看",
-                "ja": "#13 Claude Ship：登 Product Hunt 当日新品，从关注升为必看"
+                "zh": "#15 Claude Ship：登 Product Hunt 当日新品，从关注升为必看",
+                "en": "#15 Claude Ship：登 Product Hunt 当日新品，从关注升为必看",
+                "ja": "#15 Claude Ship：登 Product Hunt 当日新品，从关注升为必看"
               },
               "format": {
                 "zh": "动量 51 · 浪高 184",
@@ -692,9 +716,9 @@
             },
             {
               "label": {
-                "zh": "#14 Gemini 4 Hydrogen 持续发酵",
-                "en": "#14 Gemini 4 Hydrogen 持续发酵",
-                "ja": "#14 Gemini 4 Hydrogen 持续发酵"
+                "zh": "#16 Gemini 4 Hydrogen 持续发酵",
+                "en": "#16 Gemini 4 Hydrogen 持续发酵",
+                "ja": "#16 Gemini 4 Hydrogen 持续发酵"
               },
               "format": {
                 "zh": "动量 51 · 浪高 176",
@@ -704,9 +728,9 @@
             },
             {
               "label": {
-                "zh": "#15 Inkling 2 Mini 升温：HN 141→937 分，HF likes 97→1,050，团队亲自下场回帖",
-                "en": "#15 Inkling 2 Mini 升温：HN 141→937 分，HF likes 97→1,050，团队亲自下场回帖",
-                "ja": "#15 Inkling 2 Mini 升温：HN 141→937 分，HF likes 97→1,050，团队亲自下场回帖"
+                "zh": "#17 Inkling 2 Mini 升温：HN 141→937 分，HF likes 97→1,050，团队亲自下场回帖",
+                "en": "#17 Inkling 2 Mini 升温：HN 141→937 分，HF likes 97→1,050，团队亲自下场回帖",
+                "ja": "#17 Inkling 2 Mini 升温：HN 141→937 分，HF likes 97→1,050，团队亲自下场回帖"
               },
               "format": {
                 "zh": "动量 51 · 浪高 176",
@@ -716,9 +740,9 @@
             },
             {
               "label": {
-                "zh": "#16 United 航空禁 AI agent 订票",
-                "en": "#16 United 航空禁 AI agent 订票",
-                "ja": "#16 United 航空禁 AI agent 订票"
+                "zh": "#18 United 航空禁 AI agent 订票",
+                "en": "#18 United 航空禁 AI agent 订票",
+                "ja": "#18 United 航空禁 AI agent 订票"
               },
               "format": {
                 "zh": "动量 51 · 浪高 171",
@@ -728,9 +752,9 @@
             },
             {
               "label": {
-                "zh": "#17 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta",
-                "en": "#17 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta",
-                "ja": "#17 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta"
+                "zh": "#19 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta",
+                "en": "#19 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta",
+                "ja": "#19 AI 开始替你打电话、开会：Meta Muse 代打电话付费上线 + Claude Meetings 正式 beta"
               },
               "format": {
                 "zh": "动量 51 · 浪高 171",
@@ -740,33 +764,9 @@
             },
             {
               "label": {
-                "zh": "#18 SpaceX 星舰 Flight 15 首次接住飞船",
-                "en": "#18 SpaceX 星舰 Flight 15 首次接住飞船",
-                "ja": "#18 SpaceX 星舰 Flight 15 首次接住飞船"
-              },
-              "format": {
-                "zh": "动量 51 · 浪高 171",
-                "en": "Momentum 51 · heat 171",
-                "ja": "勢い 51 · 浪高 171"
-              }
-            },
-            {
-              "label": {
-                "zh": "#19 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题",
-                "en": "#19 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题",
-                "ja": "#19 美国多家大银行在线服务中断：Chase 报告 4,614 份，称系技术问题"
-              },
-              "format": {
-                "zh": "动量 51 · 浪高 171",
-                "en": "Momentum 51 · heat 171",
-                "ja": "勢い 51 · 浪高 171"
-              }
-            },
-            {
-              "label": {
-                "zh": "#20 弗吉尼亚与俄勒冈两州起诉 SpaceX：Grok 被指生成涉未成年人性化图片",
-                "en": "#20 弗吉尼亚与俄勒冈两州起诉 SpaceX：Grok 被指生成涉未成年人性化图片",
-                "ja": "#20 弗吉尼亚与俄勒冈两州起诉 SpaceX：Grok 被指生成涉未成年人性化图片"
+                "zh": "#20 SpaceX 星舰 Flight 15 首次接住飞船",
+                "en": "#20 SpaceX 星舰 Flight 15 首次接住飞船",
+                "ja": "#20 SpaceX 星舰 Flight 15 首次接住飞船"
               },
               "format": {
                 "zh": "动量 51 · 浪高 171",

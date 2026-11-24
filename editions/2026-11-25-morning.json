@@ -1,0 +1,308 @@
+{
+  "date": "2026-11-25",
+  "items": [
+    {
+      "action": "仅记录；AI 估值回调的风向标，留意周三 PCE 数据后的走势。",
+      "body": "周二盘中最低 $75.61，收跌约 9% 至 $79.69，市值跌破 $1 万亿；较 11 月 19 日开盘 $111.50 跌约 29%，较首日收盘 $97.17 跌约 18%。上市仅 4 个交易日，WSJ 称在首日市值 $750 亿以上的大公司里，Anthropic 是第二快跌回发行价的，仅次于上市次日即破发的 Facebook。Amodei 兄妹 IPO 期间套现约 $5.61 亿，Dario 售 3,378,378 股约 $2.8 亿；摩根士丹利已行使全部 1.47 亿股绿鞋，稳价操作结束。周一收盘 $87.64，错过英伟达复职带动的 AI 反弹。",
+      "i18n": {
+        "en": {
+          "action": "Just record it; a bellwether for the AI valuation pullback — watch how it trades after Wednesday's PCE data.",
+          "body": "Shares hit an intraday low of $75.61 on Tuesday and closed down about 9% at $79.69, pushing market value below $1 trillion — about 29% below the November 19 opening price of $111.50 and about 18% below the first-day close of $97.17. Only four trading days after listing, the Wall Street Journal notes that among companies worth over $75 billion on day one, Anthropic is the second-fastest to fall back to its IPO price, behind only Facebook, which broke issue on its second day. Dario Amodei and his sister Daniela sold about $561 million of stock around the IPO — Dario sold 3,378,378 shares, about $280 million — and Morgan Stanley has exercised the full 147-million-share greenshoe, ending stabilization. Monday's close was $87.64, missing the Nvidia-led AI rally.",
+          "title": "Anthropic breaks below its $83 IPO price: below issue in 4 trading days, market value under $1 trillion"
+        },
+        "ja": {
+          "action": "記録のみ。AIバリュエーション調整の先行指標として、水曜日のPCE発表後の動きを見る。",
+          "body": "火曜日は一時75.61ドルまで下げ、約9％安の79.69ドルで引け、時価総額は1兆ドルを割った。11月19日の初値111.50ドルから約29％安、初日終値97.17ドルから約18％安。上場からわずか4営業日で、ウォール・ストリート・ジャーナルによれば初日時価総額750億ドル以上の企業では、Facebook（上場翌日に公開価格割れ）に次ぐ速さでの破発となった。アモデイCEOと妹ダニエラ氏はIPOに際して計約5億6,100万ドル相当を売却した。ダリオ氏は3,378,378株（約2億8,000万ドル）を売却し、モルガン・スタンレーは1億4,700万株のグリーンシューをすべて行使し、株価安定操作は終了した。月曜終値は87.64ドルで、エヌビディア復帰によるAI株の反発に乗り遅れた。",
+          "title": "Anthropicが公開価格83ドルを割り込む：上場4日で破発、時価総額1兆ドル割れ"
+        }
+      },
+      "is_new": false,
+      "level": "must",
+      "links": [
+        "https://www.reuters.com/business/anthropic-breaks-below-83-ipo-price-debut-rally-unravels-2026-11-24/",
+        "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+        "https://www.barrons.com/articles/anthropic-stock-sinks-below-ipo-price-555c757e"
+      ],
+      "sources": [
+        "Hacker News",
+        "Reuters",
+        "TechCrunch",
+        "Barron's",
+        "The Wall Street Journal"
+      ],
+      "title": "Anthropic 跌破 $83 发行价：上市 4 天破发，市值跌破 $1 万亿",
+      "plugins": {
+        "momentum": {
+          "score": 100
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "ANT"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "action": "仅记录；开发者文化现象，留意 .exe 放出后是否真能跑起来。",
+      "body": "Leonida 本体昨日约 2.6–3.1 万 stars 后，同主题新仓库继续爆发：VIctory（Marvisak/VIctory，尝试在 PC 上跑 GTA VI）0 天 10,935 stars；xcl-dev/xcl（Xbox Series 兼容层，Windows 原生跑主机游戏代码）4 天 7,683 stars，日均 1,921；portwatch-vi（GTA VI 上 PC 进度追踪器）2 天 2,591 stars；另有 leonida 续作、Xbox2Windows、xbox-emulator 同日上榜。HN《GTA 6 Running on Windows》147 分/181 评；维基 GTA VI 昨日第 5、266,240 浏览。截至 11 月 23 日仍无项目在 PC 上画出一帧，.exe 真实性未核实。",
+      "i18n": {
+        "en": {
+          "action": "Just record it; a developer-culture phenomenon — watch whether anything actually runs once the promised .exe appears.",
+          "body": "After Leonida itself reached roughly 26,000–31,000 stars yesterday, sibling projects keep exploding: VIctory (Marvisak/VIctory, an attempt to run GTA VI on PC) gained 10,935 stars in 0 days; xcl-dev/xcl (an Xbox Series compatibility layer that runs console game code natively on Windows) reached 7,683 stars in 4 days, 1,921 per day; portwatch-vi (a live tracker of GTA VI-on-PC progress) reached 2,591 stars in 2 days; a Leonida continuation, Xbox2Windows, and xbox-emulator trended the same day. 'GTA 6 Running on Windows' scored 147 points / 181 comments on Hacker News, and GTA VI ranked 5th on Wikipedia's most-read list with 266,240 views. As of November 23, no project had rendered a single frame on PC, and the authenticity of the promised .exe is unverified.",
+          "title": "GTA VI-on-PC cluster explodes: VIctory gains 10,935 stars in a day, six related repos trending together"
+        },
+        "ja": {
+          "action": "記録のみ。開発者文化の現象として、.exe公開後に実際に動くかどうかを見る。",
+          "body": "Leonida本体が昨日約2.6万〜3.1万スターに達した後、同テーマの新しいリポジトリがさらに伸びている。VIctory（Marvisak/VIctory、GTA VIをPCで動かす試み）は0日で10,935スター。xcl-dev/xcl（Xbox Series互換レイヤー、コンソールのゲームコードをWindowsでネイティブ実行）は4日で7,683スター、1日平均1,921。portwatch-vi（GTA VIのPC移植進捗トラッカー）は2日で2,591スター。Leonidaの続編、Xbox2Windows、xbox-emulatorも同日ランクインした。Hacker Newsの「GTA 6 Running on Windows」は147ポイント／181コメント、ウィキペディアの閲覧数ランキングでGTA VIは5位（266,240回）。11月23日時点でPC上で1フレームも描画できたプロジェクトはなく、予告された.exeの真偽も未確認である。",
+          "title": "GTA VIのPC移植クラスタが爆発：VIctoryが1日で10,935スター、同テーマ6件が同時ランクイン"
+        }
+      },
+      "is_new": false,
+      "level": "must",
+      "links": [
+        "https://github.com/Marvisak/VIctory",
+        "https://github.com/xcl-dev/xcl"
+      ],
+      "sources": [
+        "GitHub",
+        "Hacker News",
+        "Wikipedia"
+      ],
+      "title": "GTA VI 上 PC 集群爆发：VIctory 一天 10,935 stars，6 个同主题仓库同上榜",
+      "plugins": {
+        "momentum": {
+          "score": 41
+        }
+      }
+    },
+    {
+      "action": "仅记录；12 月 1 日参议院作证是下一个节点。",
+      "body": "复职后首次全员会：黄仁勋道歉，承认违反公司行为准则、“非常严重的个人错误”、正在接受治疗（WIRED）。NVDA 周二收跌 5.9% 至 $155.38，盘中一度跌 9% 至 $150.50，回吐周一 +31.5%（收 $165.05）涨幅的一部分；美股周二早盘标普跌约 1%、纳指跌约 2.1%（AP），标普朝着 9 个交易日里第 8 次下跌走去。FT 与 Guardian：特朗普被曝借复职消息从英伟达股票赚取高达 $1,500 万；BBC：美国政界质疑特朗普在复职中的角色；CNBC：特朗普因此事在华盛顿陷入孤立，连盟友也要求调查。黄仁勋称回归不是因为特朗普施压，是董事会“评估全部情况”后决定；称英伟达不需要继任计划。独立调查继续，12 月 1 日参议院作证在即。",
+      "i18n": {
+        "en": {
+          "action": "Just record it; Senate testimony on December 1 is the next milestone.",
+          "body": "At his first all-hands since being reinstated, Jensen Huang apologized, admitting he violated Nvidia's code of conduct and made 'very serious personal mistakes,' and said he is in therapy (WIRED). Nvidia fell 5.9% on Tuesday to close at $155.38, dipping as much as 9% to $150.50 intraday, giving back part of Monday's 31.5% surge (close $165.05); the S&P 500 fell about 1% and the Nasdaq about 2.1% in Tuesday morning trading (AP), with the S&P heading toward its eighth loss in nine sessions. The Financial Times and The Guardian report Trump made up to $15 million on Nvidia stock around the reinstatement; the BBC says US politicians are questioning Trump's role, and CNBC says Trump is isolated in Washington over the move, with even allies calling for a probe. Huang says he returned not because of Trump pressure but because the board 'evaluated the entire situation,' and says Nvidia needs no succession plan. The independent investigation continues; Senate testimony is set for December 1.",
+          "title": "Jensen Huang reinstatement, day two: apologizes at all-hands, says he is in therapy; Nvidia gives back 5.9%"
+        },
+        "ja": {
+          "action": "記録のみ。12月1日の上院証言が次の節目。",
+          "body": "復職後初の全社集会で、フアン氏は謝罪し、社内の行動規範に違反したこと、「非常に深刻な個人的過ち」を認め、治療を受けていると述べた（WIRED）。エヌビディアは火曜日に5.9％安の155.38ドルで引け、一時は9％安の150.50ドルまで下げた。月曜の31.5％高（終値165.05ドル）の一部を吐き出した。火曜午前の米株はS&P500が約1％安、ナスダックが約2.1％安（AP）で、S&P500は9営業日で8回目の下落に向かった。フィナンシャル・タイムズとガーディアンによれば、トランプ氏は復職の報を受けてエヌビディア株で最大1,500万ドルを得た。BBCは米政界が復職におけるトランプ氏の役割を疑問視していると報じ、CNBCは同氏がワシントンで孤立し、盟友からも調査を求められていると伝えた。フアン氏は、復帰はトランプ氏の圧力によるものではなく、取締役会が「状況全体を評価した」結果だとし、エヌビディアに後継者計画は不要と述べた。独立調査は継続中で、12月1日の上院証言が控えている。",
+          "title": "フアン復職の続報：全社集会で謝罪、治療中と明かす。エヌビディアは火曜5.9％安"
+        }
+      },
+      "is_new": false,
+      "level": "must",
+      "links": [
+        "https://www.reuters.com/business/retail-consumer/nvidia-slips-investors-assess-risks-surrounding-huangs-return-ceo-2026-11-24/",
+        "https://ktbb.com/post/?p=1563997"
+      ],
+      "sources": [
+        "WIRED",
+        "The New York Times",
+        "Financial Times",
+        "The Guardian",
+        "CNBC",
+        "Associated Press",
+        "Reuters",
+        "BBC"
+      ],
+      "title": "黄仁勋复职后续：全员会道歉称接受治疗，NVDA 周二回吐 5.9%",
+      "plugins": {
+        "momentum": {
+          "score": 92
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "NVDA"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "action": "写 tweet 候选：Astra 做科研的两个案例具体、可核实，适合做一条。",
+      "body": "Simon Willison 转述历史学家 Mark Humphries：GPT-6.2 Astra 仅凭极少提示，22 分钟内确认耶鲁 Beinecke 图书馆一本 1808 年匿名素描本的作者为 Chabot 子爵，并预测一份旅行日记可证实，事后证实。OpenAI 官方博客：两位业余天文学家用 Astra 与 Codex 分析 NASA 望远镜数据，覆盖约 1,900 万颗恒星，找出 49 颗系外行星候选；另一项搜索在 Kepler 数据中找到 200+ 信号，含 2 个获 SETI 研究员关注的候选；均未证实，需独立验证。",
+      "i18n": {
+        "en": {
+          "action": "Tweet candidate: the two Astra-for-science cases are concrete and verifiable — worth one post.",
+          "body": "Historian Mark Humphries, as relayed by Simon Willison, says GPT-6.2 Astra identified the creator of an anonymous 1808 sketchbook held at Yale's Beinecke Library in just 22 minutes with minimal prompting — naming the vicomte de Chabot — and predicted a travel diary would confirm it, which it did. OpenAI's official blog reports two amateur astronomers used Astra and Codex to analyze NASA telescope data covering about 19 million stars, finding 49 exoplanet candidates; a separate search of Kepler data found more than 200 signals, including two candidates that drew attention from a SETI Institute astronomer. None is confirmed yet; independent verification is still needed.",
+          "title": "GPT-6.2 Astra does science: solves an 1808 sketchbook mystery in 22 minutes, finds 49 exoplanet candidates"
+        },
+        "ja": {
+          "action": "ツイート候補。Astraの科学活用の2事例は具体的で検証可能であり、1本のツイートに適している。",
+          "body": "サイモン・ウィリソン氏が伝えた歴史家マーク・ハンフリーズ氏の報告によれば、GPT-6.2 Astraは最小限のプロンプトだけで、イェール大学バイネッケ図書館所蔵の1808年の匿名スケッチブックの作者をわずか22分で特定した。シャボー子爵と断定し、旅行日記が裏付けると予測したところ、その通りだった。OpenAIの公式ブログによれば、アマチュア天文学者2人がAstraとCodexでNASAの望遠鏡データを分析し、約1,900万個の恒星を対象に系外惑星候補49件を発見した。別の探索ではケプラーのデータから200件超の信号が見つかり、そのうち2件はSETI研究所の天文学者の注目を集めた。いずれも未確認で、独立した検証が必要である。",
+          "title": "GPT-6.2 Astraが科学で活躍：1808年のスケッチブックの謎を22分で解明、系外惑星候補49件"
+        }
+      },
+      "is_new": false,
+      "level": "must",
+      "links": [
+        "https://openai.com/index/searching-for-distant-planets-with-astra",
+        "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+        "https://interestingengineering.com/ai-robotics/amateur-astronomers-openai-49-planet-candidates"
+      ],
+      "sources": [
+        "Simon Willison",
+        "OpenAI",
+        "Interesting Engineering"
+      ],
+      "title": "GPT-6.2 Astra 做科研：22 分钟解开 1808 年素描本之谜，49 颗系外行星候选",
+      "plugins": {
+        "momentum": {
+          "score": 41
+        }
+      }
+    },
+    {
+      "action": "内容创作观察样本；AI slop 治理从标注走向删除，留意 Spotify/Deezer 是否跟进。",
+      "body": "12 月 9 日起删除全部纯 AI 生成曲目，年底前删约 2,900 万首；每天将拒约 8–8.5 万首新上传。过去 90 天 43% 的上传曲目为纯 AI 生成，11 月 6 日单日超 60%。2,700 万首（占曲库 6.3%）已打 AI 标签，其中 96% 近 3 个月零播放；94% 的 AI 标签曲目来自 Suno。已自动下架 6.5 万+ 首涉嫌冒充艺人名字的 AI 曲目。6 月起已去收益化，12 月 9 日升级为全面删除；AI 辅助制作的曲目仍可保留。",
+      "i18n": {
+        "en": {
+          "action": "A content-creation observation sample; AI-slop governance is moving from labeling to deletion — watch whether Spotify or Deezer follow.",
+          "body": "From December 9, Tidal will delete all wholly AI-generated tracks — about 29 million by the end of the year — and reject roughly 80,000–85,000 new uploads per day. Over the past 90 days, 43% of tracks uploaded to the platform were fully AI-generated, and on November 6 the share topped 60% in a single day. About 27 million tracks (6.3% of the catalog) already carry an AI tag, and 96% of them had zero streams in the last three months; 94% of AI-tagged tracks are attributed to Suno. More than 65,000 AI tracks have already been taken down automatically on suspicion of impersonating artist names. Tidal began demonetizing AI tracks in June; December 9 turns labeling into full removal. Tracks where AI only assisted production stay.",
+          "title": "Tidal bans fully AI-generated music: 29 million tracks to be deleted from December 9"
+        },
+        "ja": {
+          "action": "コンテンツ制作の観察事例。AIスロップ対策が表示から削除へ進んだ。SpotifyやDeezerが追随するかどうかを見る。",
+          "body": "12月9日から、完全にAIで生成された楽曲をすべて削除する。年内に約2,900万曲が削除され、新規アップロードは1日あたり約8万〜8.5万曲が却下される見込み。過去90日間にアップロードされた楽曲の43％が完全なAI生成物で、11月6日には1日で60％を超えた。約2,700万曲（カタログの6.3％）にはすでにAIタグが付いており、そのうち96％は過去3か月で再生回数がゼロだった。AIタグ付き楽曲の94％はSuno製である。アーティスト名のなりすましが疑われるAI楽曲は、すでに6万5,000曲超が自動で削除された。6月から収益化停止を実施していたが、12月9日からは表示から削除へと踏み込む。AIを補助的に使った楽曲は残される。",
+          "title": "TidalがAI生成音楽を全面禁止：12月9日から2,900万曲を削除"
+        }
+      },
+      "is_new": true,
+      "level": "watch",
+      "links": [
+        "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+        "https://www.musicbusinessworldwide.com/tidal-bans-fully-ai-generated-music-from-its-platform/"
+      ],
+      "sources": [
+        "TechCrunch",
+        "The Verge",
+        "Ars Technica",
+        "Variety",
+        "Pitchfork",
+        "Music Business Worldwide",
+        "Mastodon"
+      ],
+      "title": "Tidal 全面封禁 AI 生成音乐：12 月 9 日起删 2,900 万首",
+      "plugins": {
+        "momentum": {
+          "score": 56
+        }
+      }
+    },
+    {
+      "action": "仅记录；等 Nielsen 或克雷研究所回应再判断。",
+      "body": "Ars 11 月 24 日发文梳理争议现状；WIRED、经济学人、Scientific American（Alpöge 人物特写）同日跟进。The Decoder：Alpöge 坚持证明成立，同时承认发布过程有“愚蠢的失误”。维基“Riemann hypothesis”昨日第 11、157,845 浏览；MathOverflow 仍在追问残余信任假设。Nielsen 质疑仍未回应；克雷研究所仍列未解。",
+      "i18n": {
+        "en": {
+          "action": "Just record it; judge again once Nielsen or the Clay Institute responds.",
+          "body": "Ars Technica published a status check on November 24, and WIRED, The Economist, and Scientific American (a profile of Levent Alpöge) followed the same day. The Decoder reports Alpöge stands by the proof while admitting 'stupid things' in the rollout. 'Riemann hypothesis' ranked 11th on Wikipedia's most-read list with 157,845 views, and MathOverflow is still probing the residual trust assumptions. Nielsen's challenge remains unanswered, and the Clay Institute still lists the problem as unsolved.",
+          "title": "Riemann hypothesis: a new wave of mainstream coverage as Alpöge admits rollout mistakes"
+        },
+        "ja": {
+          "action": "記録のみ。ニールセン氏かクレイ研究所の反応を待って判断する。",
+          "body": "Ars Technicaが11月24日に現状を整理する記事を出し、同日WIRED、エコノミスト、サイエンティフィック・アメリカン（レヴェント・アルポーゲ氏の人物特集）が続いた。The Decoderによれば、アルポーゲ氏は証明は正しいと主張する一方、公開の過程で「愚かな失策」があったと認めた。ウィキペディアの閲覧数ランキングで「リーマン予想」は11位（157,845回）。MathOverflowでは残る信頼の前提がなお議論されている。ニールセン氏の異議にはまだ回答がなく、クレイ研究所は未解決のまま掲載している。",
+          "title": "リーマン予想：WIRED、エコノミスト、Arsが新たに報道、アルポーゲ氏が公開の失策を認める"
+        }
+      },
+      "is_new": false,
+      "level": "watch",
+      "links": [
+        "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
+        "https://the-decoder.com/anthropic-researcher-stands-by-his-ai-assisted-riemann-proof-but-owns-up-to-stupid-things-in-the-rollout/"
+      ],
+      "sources": [
+        "Ars Technica",
+        "WIRED",
+        "The Economist",
+        "Scientific American",
+        "The Decoder",
+        "Wikipedia",
+        "MathOverflow"
+      ],
+      "title": "黎曼猜想：WIRED、经济学人、Ars 新一波报道，Alpöge 承认发布失误",
+      "plugins": {
+        "momentum": {
+          "score": 56
+        }
+      }
+    },
+    {
+      "action": "仅记录；对照 11 月 20 日隐私事故，看 Meta 的修复动作。",
+      "body": "TechCrunch 11 月 24 日：Muse 直接进 Instagram DM。BBC 同日：Muse 在英国上线，面向 18+ 用户。背景：11 月 20 日隐私事故（路透调查：Muse 读未授权加密私信、发错对象、编造购买信息）；Muse 下载 1,000 万+ 次。",
+      "i18n": {
+        "en": {
+          "action": "Just record it; compare against the November 20 privacy incident and watch what Meta fixes.",
+          "body": "TechCrunch reported on November 24 that Muse is coming directly into Instagram DMs. The BBC reported the same day that Muse has launched in the UK for users aged 18 and over. Background: the November 20 privacy incident (a Reuters investigation found Muse reading unauthorized encrypted messages, sending to the wrong chats, and inventing purchase details); Muse has been downloaded more than 10 million times.",
+          "title": "Meta Muse moves into Instagram DMs and launches in the UK"
+        },
+        "ja": {
+          "action": "記録のみ。11月20日のプライバシー事故と照らし、Metaの是正措置を見る。",
+          "body": "TechCrunchが11月24日に報じたところによれば、MuseはInstagramのDMに直接入る。BBCも同日、Museが英国で18歳以上のユーザー向けに提供開始したと報じた。背景として、11月20日のプライバシー事故がある（ロイターの調査で、Museが無許可で暗号化された私信を読み、誤った相手に送信し、購入情報をでっち上げていたことが判明）。Museのダウンロード数は1,000万回を超えている。",
+          "title": "MetaのMuseがInstagramのDMへ、英国でも提供開始"
+        }
+      },
+      "is_new": false,
+      "level": "watch",
+      "links": [
+        "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/"
+      ],
+      "sources": [
+        "TechCrunch",
+        "BBC"
+      ],
+      "title": "Meta Muse 进 Instagram DM、在英国上线",
+      "plugins": {
+        "momentum": {
+          "score": 36
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "META"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "action": "仅记录；预测 agent 的新方向，等独立验证再评估。",
+      "body": "Bloomberg 11 月 24 日：三位 xAI 创始成员 Guodong Zhang、Zihang Dai、Manuel Kroiss 创立 Epochal，做能实现“超人预测”的 AI agent；Zhang 个人投资 $1 亿，无外部投资人。首款产品 Time Portal 让 agent 浏览指定历史日期的存档互联网，搜索索引超 1 万亿页，90 天建成。自报：在 347 个 Kalshi 与 Polymarket 实时预测问题上复现，相关性 0.98，live-web 对照仅 0.16；未独立验证。三人于 2026 年 2 月 xAI 与 SpaceX 合并后离职。",
+      "i18n": {
+        "en": {
+          "action": "Just record it; a new direction for prediction agents — judge again once independently verified.",
+          "body": "Bloomberg reported on November 24 that three xAI co-founders — Guodong Zhang, Zihang Dai, and Manuel Kroiss — have launched Epochal to build AI agents capable of 'superhuman prediction'; Zhang personally invested $100 million, with no outside investors. The first product, Time Portal, lets agents browse the archived internet as of a specific past date, over a search index of more than one trillion pages, built in 90 days. Epochal says replaying 347 live Kalshi and Polymarket forecasting questions through Time Portal reached a 0.98 correlation with outcomes, versus 0.16 using the live web; the result is self-reported and unverified. The trio left xAI after its February 2026 merger with SpaceX.",
+          "title": "Epochal: three xAI co-founders build 'superhuman prediction' agents, launch Time Portal"
+        },
+        "ja": {
+          "action": "記録のみ。予測エージェントの新しい方向性として、独立した検証を待って評価する。",
+          "body": "ブルームバーグが11月24日に報じたところによれば、xAIの創業メンバー3人（グオドン・チャン、ジハン・ダイ、マヌエル・クロイス）がEpochalを設立し、「超人的予測」が可能なAIエージェントを作る。チャン氏が個人で1億ドルを出資し、外部投資家はいない。最初の製品Time Portalは、エージェントが特定の過去の日付時点のアーカイブされたインターネットを閲覧できるもので、検索インデックスは1兆ページ超、90日で構築された。同社によれば、KalshiとPolymarketのライブ予測問題347件をTime Portalで再現したところ、結果との相関は0.98で、ライブウェブを使った場合の0.16を大きく上回った。自己申告の結果であり、独立した検証はまだない。3人は2026年2月のxAIとSpaceXの合併後に退社した。",
+          "title": "Epochal：xAI創業メンバー3人が「超人的予測」エージェントへ、Time Portalを公開"
+        }
+      },
+      "is_new": true,
+      "level": "echo",
+      "links": [
+        "https://www.unite.ai/epochal-launches-time-portal-to-test-forecasting-ai-on-web-history/",
+        "https://aiweekly.co/alerts/three-xai-co-founders-launch-epochal-with-100m-from-zhang"
+      ],
+      "sources": [
+        "Bloomberg",
+        "Unite.AI",
+        "AI Weekly"
+      ],
+      "title": "Epochal：三位 xAI 创始成员做“超人预测”agent，首发 Time Portal",
+      "plugins": {
+        "momentum": {
+          "score": 41
+        }
+      }
+    }
+  ]
+}
