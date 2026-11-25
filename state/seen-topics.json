@@ -16,6 +16,10 @@
         {
           "date": "2026-11-25",
           "grade": "must"
+        },
+        {
+          "date": "2026-11-25",
+          "grade": "must"
         }
       ],
       "review": {
@@ -112,6 +116,10 @@
         {
           "date": "2026-11-23",
           "grade": "watch"
+        },
+        {
+          "date": "2026-11-25",
+          "grade": "must"
         },
         {
           "date": "2026-11-25",
@@ -232,7 +240,7 @@
     {
       "name": "Qwen4-Max Preview + Qwen Code 1.0",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-25",
       "sources": [
         "Reddit",
         "Qwen 官方博客",
@@ -255,6 +263,10 @@
         },
         {
           "date": "2026-11-18",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-25",
           "grade": "must"
         }
       ],
@@ -451,6 +463,10 @@
         },
         {
           "date": "2026-11-18",
+          "grade": "watch"
+        },
+        {
+          "date": "2026-11-25",
           "grade": "watch"
         },
         {
@@ -1351,6 +1367,10 @@
         {
           "date": "2026-11-25",
           "grade": "must"
+        },
+        {
+          "date": "2026-11-25",
+          "grade": "must"
         }
       ],
       "review": {
@@ -1486,6 +1506,10 @@
         },
         {
           "date": "2026-11-18",
+          "grade": "watch"
+        },
+        {
+          "date": "2026-11-25",
           "grade": "watch"
         },
         {
@@ -1806,6 +1830,10 @@
         {
           "date": "2026-11-25",
           "grade": "watch"
+        },
+        {
+          "date": "2026-11-25",
+          "grade": "watch"
         }
       ],
       "review": {
@@ -1878,7 +1906,7 @@
     {
       "name": "Gemini 4 Neon",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-25",
       "sources": [
         "DeepMind 官方博客",
         "Hacker News",
@@ -1891,6 +1919,10 @@
       "history": [
         {
           "date": "2026-11-19",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-25",
           "grade": "must"
         }
       ],
@@ -2343,7 +2375,8 @@
         "Ars Technica",
         "WIRED",
         "The Decoder",
-        "MathOverflow"
+        "MathOverflow",
+        "The Wall Street Journal"
       ],
       "history": [
         {
@@ -2372,6 +2405,10 @@
         },
         {
           "date": "2026-11-24",
+          "grade": "watch"
+        },
+        {
+          "date": "2026-11-25",
           "grade": "watch"
         },
         {
@@ -2422,6 +2459,10 @@
         },
         {
           "date": "2026-11-23",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-25",
           "grade": "must"
         },
         {
@@ -2622,6 +2663,10 @@
         },
         {
           "date": "2026-11-24",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-25",
           "grade": "must"
         },
         {
@@ -2845,6 +2890,10 @@
         {
           "date": "2026-11-25",
           "grade": "watch"
+        },
+        {
+          "date": "2026-11-25",
+          "grade": "watch"
         }
       ],
       "review": {
@@ -2929,6 +2978,10 @@
         {
           "date": "2026-11-25",
           "grade": "must"
+        },
+        {
+          "date": "2026-11-25",
+          "grade": "must"
         }
       ],
       "review": {
@@ -2941,7 +2994,7 @@
     {
       "name": "GLM-5.4",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "sources": [
         "Hacker News",
         "The Decoder",
@@ -2953,6 +3006,10 @@
       "history": [
         {
           "date": "2026-11-24",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-25",
           "grade": "must"
         }
       ],
@@ -2987,7 +3044,7 @@
     {
       "name": "Claude Ship",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "sources": [
         "Anthropic",
         "The Verge",
@@ -3007,6 +3064,10 @@
         {
           "date": "2026-11-24",
           "grade": "must"
+        },
+        {
+          "date": "2026-11-25",
+          "grade": "must"
         }
       ],
       "review": {
@@ -3019,7 +3080,7 @@
     {
       "name": "Ladybird 进入 alpha",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "sources": [
         "Hacker News",
         "Lobsters",
@@ -3032,6 +3093,10 @@
         },
         {
           "date": "2026-11-24",
+          "grade": "watch"
+        },
+        {
+          "date": "2026-11-25",
           "grade": "watch"
         }
       ],
@@ -3093,7 +3158,7 @@
     {
       "name": "Kagi Mail 公开 beta",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "sources": [
         "Hacker News",
         "Bluesky"
@@ -3101,6 +3166,10 @@
       "history": [
         {
           "date": "2026-11-24",
+          "grade": "watch"
+        },
+        {
+          "date": "2026-11-25",
           "grade": "watch"
         }
       ],
@@ -3183,9 +3252,15 @@
         "Variety",
         "Pitchfork",
         "Music Business Worldwide",
-        "Mastodon"
+        "Mastodon",
+        "The Guardian",
+        "Forbes"
       ],
       "history": [
+        {
+          "date": "2026-11-25",
+          "grade": "watch"
+        },
         {
           "date": "2026-11-25",
           "grade": "watch"
@@ -3210,6 +3285,10 @@
         {
           "date": "2026-11-25",
           "grade": "watch"
+        },
+        {
+          "date": "2026-11-25",
+          "grade": "watch"
         }
       ],
       "review": {
@@ -3229,6 +3308,10 @@
         "AI Weekly"
       ],
       "history": [
+        {
+          "date": "2026-11-25",
+          "grade": "echo"
+        },
         {
           "date": "2026-11-25",
           "grade": "echo"
@@ -3287,12 +3370,20 @@
       "first_seen": "2026-11-25",
       "last_seen": "2026-11-25",
       "sources": [
-        "The Decoder"
+        "The Decoder",
+        "Anthropic",
+        "X",
+        "9to5Mac",
+        "The Verge"
       ],
       "history": [
         {
           "date": "2026-11-25",
           "grade": "echo"
+        },
+        {
+          "date": "2026-11-25",
+          "grade": "must"
         }
       ],
       "review": {
@@ -3311,6 +3402,10 @@
         "GreyNoise"
       ],
       "history": [
+        {
+          "date": "2026-11-25",
+          "grade": "echo"
+        },
         {
           "date": "2026-11-25",
           "grade": "echo"
@@ -3391,6 +3486,111 @@
         "Hacker News",
         "Lobsters",
         "GitHub"
+      ],
+      "history": [
+        {
+          "date": "2026-11-25",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-25"
+      }
+    },
+    {
+      "name": "MCP SDK 月下载超 7 亿",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "sources": [
+        "Anthropic",
+        "The Decoder",
+        "VectorWire",
+        "BlockEdge"
+      ],
+      "history": [
+        {
+          "date": "2026-11-25",
+          "grade": "must"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-25"
+      }
+    },
+    {
+      "name": "Ternary Bonsai 2.5 27B",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "sources": [
+        "Hacker News",
+        "Hugging Face",
+        "GIGAZINE"
+      ],
+      "history": [
+        {
+          "date": "2026-11-25",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-25"
+      }
+    },
+    {
+      "name": "Amazon AI agent 利用 0-day",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "sources": [
+        "Ars Technica"
+      ],
+      "history": [
+        {
+          "date": "2026-11-25",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-25"
+      }
+    },
+    {
+      "name": "iOS 26.2.x 零点击漏洞",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "sources": [
+        "Bluesky"
+      ],
+      "history": [
+        {
+          "date": "2026-11-25",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-25"
+      }
+    },
+    {
+      "name": "AI agent 搞不定日常生活",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "sources": [
+        "TechCrunch"
       ],
       "history": [
         {

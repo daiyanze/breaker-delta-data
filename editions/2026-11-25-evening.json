@@ -1,0 +1,205 @@
+{
+  "date": "2026-11-25",
+  "items": [
+    {
+      "action": "写 tweet 候选：Claude 做的工具第一次能离开聊天框住进桌面，三档权限是关键提醒，适合做一条。",
+      "body": "11 月 24 日 Anthropic 发布“Install as app”beta：Claude 桌面端（Mac/Windows）里任何 artifact 点一下就能装成独立桌面应用，自带图标与窗口，无需打包签名，用 Claude 账号登录；可发通知、进菜单栏/系统托盘、注册全局快捷键。三档权限，最高“整机完全访问”可不经逐次确认运行程序、读写删文件，Anthropic 事先不审核应用，只给自己或同组织做的应用开完全访问。免费版起全档位可用（企业版需管理员开启）；需联网并登录 Claude 桌面端才能打开，Linux/网页/移动端暂不支持。X 上 @ClaudeDevs 官方帖据第三方汇总 9 小时内超 4.6 万 likes；9to5Mac、The Verge、Notebookcheck、GIGAZINE、Neowin 同日跟进。今早雷达仅单源记为苗头，本期多源共振升级。",
+      "i18n": {
+        "en": {
+          "action": "Tweet candidate: the first time a tool Claude builds can leave the chat window and live on the desktop — the three permission tiers are the key caveat. Worth one post.",
+          "body": "On November 24, Anthropic shipped 'Install as app' in beta: any artifact in Claude for Mac or Windows can be installed as a standalone desktop app with its own icon and window — no packaging or signing, signed in with your Claude account. Apps can send notifications, live in the menu bar or system tray, and register global shortcuts. There are three permission tiers; the highest, 'Full access to this computer,' can run programs and read, change, or delete files without asking each time, and Anthropic does not review apps before installation — full access is only available for apps you made yourself or, on Team and Enterprise, apps made inside your organization. The beta covers every plan from Free up (Enterprise needs an admin to switch it on); apps need an internet connection and a signed-in Claude Desktop to open, and Linux, web, and mobile are not supported yet. The @ClaudeDevs launch post on X passed 46,000 likes within about nine hours, according to a third-party roundup, and 9to5Mac, The Verge, Notebookcheck, GIGAZINE, and Neowin covered it the same day. This morning's radar logged it as a single-source echo; tonight's multi-source resonance upgrades it.",
+          "title": "Claude Artifacts become desktop apps: 'Install as app' lands November 24, launch post passes 46,000 likes in 9 hours"
+        },
+        "ja": {
+          "action": "ツイート候補。Claudeが作ったツールが初めてチャットを離れてデスクトップに住むようになった。3段階の権限が注意点で、1本のツイートに適している。",
+          "body": "11月24日、Anthropicは「Install as app」をベータで公開した。Mac/Windows版Claudeのあらゆるartifactを、パッケージ化や署名なしに、独自のアイコンとウィンドウを持つ独立したデスクトップアプリとしてインストールできる。Claudeアカウントでログインして使う。通知の送信、メニューバー／システムトレイへの常駐、グローバルショートカットの登録が可能。権限は3段階で、最上位の「このコンピュータへのフルアクセス」は、その都度の確認なしにプログラムの実行やファイルの読み書き・削除ができる。Anthropicはアプリを事前に審査しない。フルアクセスは自分で作ったもの、またはTeam/Enterpriseでは同じ組織内のものに限られる。Freeを含む全プランが対象（Enterpriseは管理者の有効化が必要）。開くにはインターネット接続とClaude Desktopへのログインが必要で、Linux、ウェブ、モバイルは未対応。Xの@ClaudeDevs公式投稿は第三者の集計によれば約9時間で4万6,000いいねを超え、9to5Mac、The Verge、Notebookcheck、GIGAZINE、Neowinが同日報じた。今朝のレーダーは単一情報源の兆しとして記録したが、今夜は複数情報源の共鳴により格上げとなった。",
+          "title": "Claude Artifactsがデスクトップアプリに：「Install as app」が11月24日公開、公式投稿は9時間で4.6万いいね"
+        }
+      },
+      "is_new": false,
+      "level": "must",
+      "links": [
+        "https://claude.com/resources/articles/install-as-app",
+        "https://9to5mac.com/2026/11/24/anthropic-just-gave-claude-users-a-new-way-to-make-mac-apps/"
+      ],
+      "sources": [
+        "Anthropic",
+        "X",
+        "9to5Mac",
+        "The Verge",
+        "Notebookcheck",
+        "GIGAZINE"
+      ],
+      "title": "Claude Artifacts 变桌面 App：11 月 24 日上线“Install as app”，X 官方帖 9 小时 4.6 万赞",
+      "plugins": {
+        "momentum": {
+          "score": 56
+        }
+      }
+    },
+    {
+      "action": "深入研究：MCP 正从“接工具”变成“跑长任务”的底座，与 agent 自主化直接相关，留意 Skills over MCP 的实测。",
+      "body": "Anthropic 11 月 24 日宣布：MCP SDK 月下载超 7 亿，2025 年 11 月约 9,000 万，一年约 8 倍；Claude 可用 MCP 连接器 1 万+。协议同步扩容：Tasks（服务器后台跑长任务、完事再回禀）与 Elicitation（中途停下来向用户追问缺失信息）正式 GA；Skills over MCP 公开 beta，服务器可随工具附上指导 Claude 走多步流程的 skill；文件上传即将上线，Claude 可直接把 PDF/表格/图片传给 MCP 服务器。The Decoder、VectorWire、BlockEdge 等多家报道。",
+      "i18n": {
+        "en": {
+          "action": "Dig deeper: MCP is turning from a way to 'plug in tools' into the substrate for long-running work — directly relevant to agent autonomy. Watch for hands-on reports on Skills over MCP.",
+          "body": "Anthropic announced on November 24 that monthly downloads of the MCP SDKs now exceed 700 million — up from about 90 million in November 2025, roughly an eightfold rise in a year — with more than 10,000 MCP connectors available for Claude. The protocol is expanding alongside: Tasks (a server runs a long job in the background and reports back when done) and Elicitation (a running job can pause and ask the user for missing details) are now generally available; Skills over MCP is in public beta, letting servers attach skills that guide Claude through multi-step workflows; file uploads are coming soon, so Claude will be able to pass PDFs, spreadsheets, and images directly to MCP servers. Covered by The Decoder, VectorWire, BlockEdge, and others.",
+          "title": "MCP passes 700 million monthly downloads: up about 8x in a year, with Tasks and Elicitation GA and Skills over MCP in beta"
+        },
+        "ja": {
+          "action": "深掘りする。MCPは「ツールを接続する」ものから「長時間の仕事を回す」基盤へ変わりつつあり、エージェントの自律化に直結する。Skills over MCPの実測に注目。",
+          "body": "Anthropicは11月24日、MCP SDKの月間ダウンロード数が7億件を超えたと発表した。2025年11月の約9,000万件から1年で約8倍で、Claudeで利用できるMCPコネクターは1万件超。プロトコルも拡張された。Tasks（サーバーが長時間のジョブをバックグラウンドで実行し、完了後に報告）とElicitation（実行中のジョブが止まってユーザーに不足情報を尋ねる）が正式提供開始。Skills over MCPは公開ベータで、サーバーはツールとともにClaudeを複数ステップの作業へ導くスキルを添付できる。ファイルアップロードも近日提供予定で、ClaudeがPDFや表、画像をMCPサーバーへ直接渡せるようになる。The Decoder、VectorWire、BlockEdgeなどが報じた。",
+          "title": "MCPの月間ダウンロード数が7億件超：1年で約8倍、TasksとElicitationが正式提供、Skills over MCPがベータ入り"
+        }
+      },
+      "is_new": true,
+      "level": "must",
+      "links": [
+        "https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/"
+      ],
+      "sources": [
+        "Anthropic",
+        "The Decoder",
+        "VectorWire",
+        "BlockEdge"
+      ],
+      "title": "MCP 月下载超 7 亿：一年涨约 8 倍，Tasks 与 Elicitation GA、Skills over MCP 进 beta",
+      "plugins": {
+        "momentum": {
+          "score": 46
+        }
+      }
+    },
+    {
+      "action": "仅记录；本地 agent 方向的新选项，等独立实测再评估。",
+      "body": "PrismML 11 月 24 日发布 Ternary Bonsai 2.5 27B：Qwen3.8-27B 底座，权重只取 -1/0/+1 三值，1.76 bits/权重，整模型 5.93GB（FP16 原版约 53.8GB），Apache 2.0；面向长程 agent 任务，自报 DeepSWE v1.1 与 Terminal-Bench 2.1 上接近未压缩底座；GGUF 与 Apple Silicon 版 MLX 已上 Hugging Face。HN 437 分/137 评，GIGAZINE 跟进。",
+      "i18n": {
+        "en": {
+          "action": "Just record it; a new option for local agents — judge again once independent tests land.",
+          "body": "PrismML released Ternary Bonsai 2.5 27B on November 24: built on Qwen3.8-27B, its weights take only three values, -1, 0, or +1, at 1.76 bits per weight — the whole model is 5.93 GB, against about 53.8 GB for the FP16 original — under Apache 2.0. It targets long-horizon agent work, and the company says it comes close to the uncompressed base on DeepSWE v1.1 and Terminal-Bench 2.1. GGUF and Apple Silicon MLX builds are on Hugging Face. It scored 437 points / 137 comments on Hacker News, and GIGAZINE covered it.",
+          "title": "Ternary Bonsai 2.5 27B: ternary quantization squeezes 27B into 5.9 GB, 437 points on Hacker News"
+        },
+        "ja": {
+          "action": "記録のみ。ローカルエージェントの新たな選択肢として、独立した実測を待って評価する。",
+          "body": "PrismMLは11月24日、Ternary Bonsai 2.5 27Bを公開した。Qwen3.8-27Bを土台とし、重みは-1/0/+1の3値のみで、1重みあたり1.76ビット、モデル全体は5.93GB（FP16版は約53.8GB）、Apache 2.0。長期的エージェント作業向けで、同社によればDeepSWE v1.1とTerminal-Bench 2.1で非圧縮の土台に近い性能を示す。GGUFとApple Silicon向けMLX版がHugging Faceにある。Hacker Newsで437ポイント／137コメント、GIGAZINEが報じた。",
+          "title": "Ternary Bonsai 2.5 27B：三値量子化で27Bを5.9GBに圧縮、Hacker Newsで437ポイント"
+        }
+      },
+      "is_new": true,
+      "level": "watch",
+      "links": [
+        "https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+        "https://prismml.com/news/bonsai-2-5-27b"
+      ],
+      "sources": [
+        "Hacker News",
+        "Hugging Face",
+        "GIGAZINE"
+      ],
+      "title": "Ternary Bonsai 2.5 27B：三值量化把 27B 压进 5.9GB，HN 437 分",
+      "plugins": {
+        "momentum": {
+          "score": 41
+        }
+      }
+    },
+    {
+      "action": "仅记录；agent 安全攻防的新注脚，等更多细节。",
+      "body": "Ars Technica 11 月 24 日：Amazon 称黑客的 AI agent 几乎无需人工输入就找到并利用了一个 0-day 漏洞。单源，细节未披露。",
+      "i18n": {
+        "en": {
+          "action": "Just record it; a new footnote in agent security offense and defense — wait for more detail.",
+          "body": "Ars Technica reported on November 24 that, according to Amazon, hackers' AI agents found and exploited a zero-day vulnerability with little human input. Single source; no details disclosed.",
+          "title": "Amazon: hackers' AI agents found and exploited a zero-day with little human input"
+        },
+        "ja": {
+          "action": "記録のみ。エージェントによる攻撃と防御の新たな注記として、詳細を待つ。",
+          "body": "Ars Technicaが11月24日に報じたところによれば、Amazonは、ハッカーのAIエージェントがほとんど人手を介さずにゼロデイ脆弱性を見つけて悪用したと述べている。単一情報源で、詳細は未公開。",
+          "title": "Amazon：ハッカーのAIエージェントがほぼ人手なしでゼロデイを発見・悪用"
+        }
+      },
+      "is_new": true,
+      "level": "echo",
+      "links": [
+        "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/"
+      ],
+      "sources": [
+        "Ars Technica"
+      ],
+      "title": "Amazon：黑客的 AI agent 几乎无需人工就找到并利用了 0-day",
+      "plugins": {
+        "momentum": {
+          "score": 31
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "AMZN"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "action": "仅记录；自己设备先更新。",
+      "body": "Bluesky 上安全提醒：未更新到 iOS 26.2.x 的 iPhone/iPad 面临已被观察到的主动零点击攻击；苹果支持文档列出受影响版本，iOS 18.x 仍在用者同样在险。单源。",
+      "i18n": {
+        "en": {
+          "action": "Just record it; update your own devices first.",
+          "body": "A security warning circulating on Bluesky says iPhones and iPads not yet updated to iOS 26.2.x face actively observed zero-click exploits; Apple's support document lists the affected versions, and devices still on iOS 18.x are also at risk. Single source.",
+          "title": "Apple warns: zero-click exploits observed in the wild against devices below iOS 26.2.x — update now"
+        },
+        "ja": {
+          "action": "記録のみ。自分のデバイスを先に更新する。",
+          "body": "Blueskyで広がっているセキュリティ警告によれば、iOS 26.2.xに未更新のiPhone/iPadは、実際に観測されているゼロクリック攻撃にさらされている。Appleのサポート文書が対象バージョンを示し、iOS 18.xのままの端末も危険だという。単一情報源。",
+          "title": "Appleが警告：iOS 26.2.x未満の端末にゼロクリック攻撃を確認、至急更新を"
+        }
+      },
+      "is_new": true,
+      "level": "echo",
+      "links": [
+        "https://support.apple.com/en-us/125884"
+      ],
+      "sources": [
+        "Bluesky"
+      ],
+      "title": "苹果警告：iOS 26.2.x 以下设备面临已被利用的零点击漏洞，提醒立即更新",
+      "plugins": {
+        "momentum": {
+          "score": 31
+        }
+      }
+    },
+    {
+      "action": "仅记录；agent 落地难度的又一注脚。",
+      "body": "TechCrunch 11 月 24 日：即便最好的 AI agent 在日常任务上仍然吃力。单源，未披露具体评测数字。",
+      "i18n": {
+        "en": {
+          "action": "Just record it; another footnote on how hard agents are to land in everyday life.",
+          "body": "TechCrunch reported on November 24 that even the best AI agents still struggle with everyday tasks. Single source; no specific benchmark numbers disclosed.",
+          "title": "TechCrunch: even the best AI agents struggle with everyday life"
+        },
+        "ja": {
+          "action": "記録のみ。エージェントを日常に落とし込む難しさを示すもう一つの注記。",
+          "body": "TechCrunchが11月24日に報じたところによれば、最良のAIエージェントでさえ日常のタスクには依然として苦労している。単一情報源で、具体的な評価数値は示されていない。",
+          "title": "TechCrunch：最良のAIエージェントでさえ日常生活では苦戦"
+        }
+      },
+      "is_new": true,
+      "level": "echo",
+      "links": [
+        "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/"
+      ],
+      "sources": [
+        "TechCrunch"
+      ],
+      "title": "TechCrunch：即便最好的 AI agent 也搞不定日常生活",
+      "plugins": {
+        "momentum": {
+          "score": 31
+        }
+      }
+    }
+  ]
+}
