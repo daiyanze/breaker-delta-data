@@ -22,26 +22,26 @@
           "items": [
             {
               "label": {
-                "zh": "#1 Anthropic IPO",
-                "en": "#1 Anthropic IPO",
-                "ja": "#1 Anthropic IPO"
-              },
-              "format": {
-                "zh": "动量 100 · 浪高 184",
-                "en": "Momentum 100 · heat 184",
-                "ja": "勢い 100 · 浪高 184"
-              }
-            },
-            {
-              "label": {
-                "zh": "#2 黄仁勋 / Nvidia 风波",
-                "en": "#2 黄仁勋 / Nvidia 风波",
-                "ja": "#2 黄仁勋 / Nvidia 风波"
+                "zh": "#1 黄仁勋 / Nvidia 风波",
+                "en": "#1 黄仁勋 / Nvidia 风波",
+                "ja": "#1 黄仁勋 / Nvidia 风波"
               },
               "format": {
                 "zh": "动量 92 · 浪高 236",
                 "en": "Momentum 92 · heat 236",
                 "ja": "勢い 92 · 浪高 236"
+              }
+            },
+            {
+              "label": {
+                "zh": "#2 Anthropic IPO",
+                "en": "#2 Anthropic IPO",
+                "ja": "#2 Anthropic IPO"
+              },
+              "format": {
+                "zh": "动量 84 · 浪高 128",
+                "en": "Momentum 84 · heat 128",
+                "ja": "勢い 84 · 浪高 128"
               }
             },
             {
@@ -279,26 +279,26 @@
           "items": [
             {
               "label": {
-                "zh": "#1 Anthropic IPO",
-                "en": "#1 Anthropic IPO",
-                "ja": "#1 Anthropic IPO"
-              },
-              "format": {
-                "zh": "动量 100 · 浪高 184",
-                "en": "Momentum 100 · heat 184",
-                "ja": "勢い 100 · 浪高 184"
-              }
-            },
-            {
-              "label": {
-                "zh": "#2 黄仁勋 / Nvidia 风波",
-                "en": "#2 黄仁勋 / Nvidia 风波",
-                "ja": "#2 黄仁勋 / Nvidia 风波"
+                "zh": "#1 黄仁勋 / Nvidia 风波",
+                "en": "#1 黄仁勋 / Nvidia 风波",
+                "ja": "#1 黄仁勋 / Nvidia 风波"
               },
               "format": {
                 "zh": "动量 92 · 浪高 236",
                 "en": "Momentum 92 · heat 236",
                 "ja": "勢い 92 · 浪高 236"
+              }
+            },
+            {
+              "label": {
+                "zh": "#2 Anthropic IPO",
+                "en": "#2 Anthropic IPO",
+                "ja": "#2 Anthropic IPO"
+              },
+              "format": {
+                "zh": "动量 84 · 浪高 128",
+                "en": "Momentum 84 · heat 128",
+                "ja": "勢い 84 · 浪高 128"
               }
             },
             {
@@ -536,26 +536,26 @@
           "items": [
             {
               "label": {
-                "zh": "#1 Anthropic IPO",
-                "en": "#1 Anthropic IPO",
-                "ja": "#1 Anthropic IPO"
-              },
-              "format": {
-                "zh": "动量 100 · 浪高 184",
-                "en": "Momentum 100 · heat 184",
-                "ja": "勢い 100 · 浪高 184"
-              }
-            },
-            {
-              "label": {
-                "zh": "#2 黄仁勋 / Nvidia 风波",
-                "en": "#2 黄仁勋 / Nvidia 风波",
-                "ja": "#2 黄仁勋 / Nvidia 风波"
+                "zh": "#1 黄仁勋 / Nvidia 风波",
+                "en": "#1 黄仁勋 / Nvidia 风波",
+                "ja": "#1 黄仁勋 / Nvidia 风波"
               },
               "format": {
                 "zh": "动量 92 · 浪高 236",
                 "en": "Momentum 92 · heat 236",
                 "ja": "勢い 92 · 浪高 236"
+              }
+            },
+            {
+              "label": {
+                "zh": "#2 Anthropic IPO",
+                "en": "#2 Anthropic IPO",
+                "ja": "#2 Anthropic IPO"
+              },
+              "format": {
+                "zh": "动量 84 · 浪高 128",
+                "en": "Momentum 84 · heat 128",
+                "ja": "勢い 84 · 浪高 128"
               }
             },
             {

@@ -717,3 +717,25 @@
 - MiniMax H3-Image | 2026-11-11 试点早报 | 2026-11-25 晚报 | Hugging Face | 👀→👀（平：HF likes 2,526→2,531，下载 1,003,202 未动） | 待复盘
 - Qwen3.8 模型家族 | 2026-11-13 早报 | 2026-11-25 晚报 | Hugging Face | 👀→👀（平：Qwen3.8-27B likes 21,731→21,744） | 待复盘
 - 其余在册话题 | 各首次发现时间见上文 | 2026-11-25 晚报 | 见上文 | 平，无新动静（Gemini 4 Carbon/Hydrogen、Claude Fable 5.2 / Mythos 5.2、Gemini Decisions API、HD Moore 金丝雀实验、美国收紧 AI 芯片远程访问管制、加州总检察长起诉 OpenAI、美国多家大银行在线服务中断、弗吉尼亚与俄勒冈两州起诉 SpaceX、Shirudo、Replit Missions、亚马逊收购 Decart、微软 MAI Code 2、Genie 4 未见新消息） | 待复盘
+
+## 2026-11-26 早报（06:00 JST）
+- 「Factoring in P」传闻 | 2026-11-26 早报 | 2026-11-26 早报 | Hacker News, X, Reddit, Google Research, OpenAI | 🆕🔥（Aaronson 11 月 24 日晚博客留言称听到很多传闻但不知可信度，同时几乎肯定实验室握有密码学重磅炸弹；@AndrewCurran_ 称传闻已流传约 10 天，@kimmonismus 转发 1,557 likes；HN 三帖同日冲榜：传闻帖 388 分/272 评、Aaronson 博客帖 377 分/239 评、Cogentic 论文帖 390 分/302 评；OpenAI 矩阵乘法指数 9/4 预印本 HN 966 分/538 评全场最高；Anthropic 与 OpenAI 本周各自发布 VP≠VNP 证明；Google Cogentic 新增 6 篇论文；关键澄清：Google 因式分解论文是无条件 L_N[1/3] 时间，不等于多项式时间；两家公司均未回应） | 待复盘
+- Anthropic IPO | 2026-11-11 试点早报 | 2026-11-26 早报 | Reuters, Google News, X | 🔥→🔥（跌：周二收 $79.69 后周三盘中触 $74，较开盘 $111.50 跌约 34%；需收于 $75.645 以上保住 1 万亿美元市值；纳指 100 较峰值跌 19.5% 逼近熊市线） | 待复盘
+- Leonida | 2026-11-22 早报 | 2026-11-26 早报 | GitHub, Hacker News | 🔥→🔥（涨：VIctory 11,817→12,499 stars；新增 victory-fork 1 天 2,979 stars、leonida 1 天 2,301 stars、Belobug AMD 版 0 天 1,605 stars；portwatch-vi 2,591→3,877、xcl 8,038→8,273；仍不能启动） | 待复盘
+- SpaceX Starmind | 2026-11-26 早报 | 2026-11-26 早报 | Reuters, The Wall Street Journal, TechCrunch, Al Jazeera, USA Today | 🆕👀（11 月 25 日 FCC 批准最多 100 万颗太阳能轨道 AI 数据中心卫星，美国史上首次；首星 2033 年 11 月 25 日前，10% 2035 年、50% 2038 年、全部 2040 年；目前在轨卫星总数约 1.7 万颗，Starlink 约 1.1 万颗；SpaceX 称 2027 年首发） | 待复盘
+- 1Password 安全事件 | 2026-11-26 早报 | 2026-11-26 早报 | Hacker News, TechCrunch, 1Password | 🆕👀（11 月 19 日发现、11 月 25 日披露：攻击者经员工企业 GitHub 账号推恶意代码，下载部分客户姓名/邮箱/账户元数据及部分邀请/恢复邮件 token，数量未披露；保险库未被访问；邀请/恢复码 6 位数字改 10 位字母数字；HN 715 分/296 评） | 待复盘
+- 华为美国刑事案定罪 | 2026-11-26 早报 | 2026-11-26 早报 | Reuters, CNN, The Wall Street Journal, Fox Business | 🆕👀（布鲁克林陪审团 11 月 24 日：12 项罪名 10 项成立，银行欺诈、电汇欺诈、违反伊朗制裁、共谋窃取商业秘密等；敲诈勒索与妨碍司法无罪；审判两个多月，检方 60+ 证人；量刑 2027 年 9 月 14 日） | 待复盘
+- Upstage Solar 4.5 | 2026-11-26 早报 | 2026-11-26 早报 | OpenRouter | 🆕🌱（单源：Solar Mini 4.5 Preview 与 Solar Pro 4 Contributor 11 月 24 日上架，上下文 524,288 tokens） | 待复盘
+- SenseNova-Loop-9B | 2026-11-26 早报 | 2026-11-26 早报 | Hugging Face, Latent Space | 🆕🌱（HF 新面孔：likes 741、下载 3,268；32 层中 24 层循环两次，GAIA 69.90 超 Qwen3.8-27B 的 66.99，4-bit 约 4.9GB，Apache 2.0） | 待复盘
+- 黄仁勋复职 | 2026-11-24 早报 | 2026-11-26 早报 | TechCrunch, The Verge | 🔥→🔥（平：TechCrunch 11 月 25 日称员工可能不会忘记其违反行为准则；无新股价数字） | 待复盘
+- GPT-6.2 Astra and Sol | 2026-11-18 早报 | 2026-11-26 早报 | Hacker News | 🔥→🔥（平：新增 code golf 小帖 11 分，无新数字；蛋白设计博客已计入昨晚） | 待复盘
+- Thinking Machines Lab Inkling 2 Mini | 2026-11-21 早报 | 2026-11-26 早报 | Hugging Face | 🔥→🔥（涨：HF likes 5,856→5,993，下载 69,042→96,527） | 待复盘
+- rust-anything | 2026-11-19 早报 | 2026-11-26 早报 | GitHub | 👀→👀（微涨：9,380→9,566 stars，9 天日均 1,063；单源） | 待复盘
+- fast-anything | 2026-11-23 早报 | 2026-11-26 早报 | GitHub | 👀→👀（涨：3,756→3,924 stars，4 天日均 981；单源） | 待复盘
+- Tidal 禁 AI 生成音乐 | 2026-11-25 早报 | 2026-11-26 早报 | The Guardian | 👀→👀（平：Guardian 11 月 25 日仍在报道，12 月 9 日删除不变） | 待复盘
+- 黎曼猜想证明声称（Claude 参与） | 2026-11-21 早报 | 2026-11-26 早报 | Scientific American | 👀→👀（平：SciAm 11 月 25 日新文称证明“苦乐参半”；Nielsen 质疑仍未回应，克雷仍列未解） | 待复盘
+- Meta Muse 进 Instagram DM | 2026-11-25 早报 | 2026-11-26 早报 | The Verge, The Decoder | 👀→👀（涨：新增亚马逊与 Meta 洽谈解除 Muse 在亚马逊商城的屏蔽） | 待复盘
+- GLM-5.4 | 2026-11-24 早报 | 2026-11-26 早报 | — | 🔥→🔥（平：未见于本期 HF 前 50 与 HN 前 30，无新数字；权重与公开 API 仍待定） | 待复盘
+- Qwen3.8 模型家族 | 2026-11-13 早报 | 2026-11-26 早报 | Hugging Face | 👀→👀（微涨：Qwen3.8-27B likes 21,744→21,800） | 待复盘
+- DeepSeek dsh-superagent + V4.1-Flash-1017 | 2026-11-12 晚报 | 2026-11-26 早报 | Hugging Face | 🔥→🔥（微涨：V4.1-Flash-1017 HF likes 6,666→6,699，下载 536,179→550,396） | 待复盘
+- 其余在册话题 | 各首次发现时间见上文 | 2026-11-26 早报 | 见上文 | 平，无新动静（Gemini 4 Carbon/Hydrogen、Claude Fable 5.2 / Mythos 5.2、Gemini Decisions API、HD Moore 金丝雀实验、美国收紧 AI 芯片远程访问管制、加州总检察长起诉 OpenAI、美国多家大银行在线服务中断、弗吉尼亚与俄勒冈两州起诉 SpaceX、Shirudo、Replit Missions、亚马逊收购 Decart、Claude Artifacts 桌面应用、MCP、Ternary Bonsai 2.5、Epochal、MiniMax H3-Image、Check Point 入侵、Ladybird、Kagi Mail、Claude Ship、Qwen4-Max Preview 未见新消息） | 待复盘

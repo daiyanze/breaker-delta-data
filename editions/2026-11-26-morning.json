@@ -1,0 +1,291 @@
+{
+  "date": "2026-11-26",
+  "items": [
+    {
+      "action": "仅记录并追踪：传闻未证实，不要据此写确定性判断；等两家实验室或 Aaronson 的后续表态。",
+      "body": "11 月 25 日 X 与 HN 同时发酵一则传闻：OpenAI 或 Anthropic 可能已握有多项式时间整数因式分解算法，将动摇 RSA 加密。源头是量子计算学家 Scott Aaronson 11 月 24 日晚在其博客评论区的留言——他称听到“很多很多传闻”，但不知道该信几分，同时“几乎肯定”实验室确实握有一枚或多枚密码学重磅炸弹，具体性质可能经传话失真；X 账号 @AndrewCurran_ 称传闻已流传约 10 天，@kimmonismus 的转发帖获 1,557 likes。HN 上三帖同日冲榜：传闻帖 388 分/272 评、Aaronson 博客帖 377 分/239 评、Google Cogentic 论文帖 390 分/302 评。传闻有真实的数学周打底：OpenAI 发布预印本称矩阵乘法指数恰为 9/4（HN 966 分/538 评，全场最高），Anthropic 与 OpenAI 本周各自发布 VP≠VNP 证明（OpenAI 称结果得自 11 月 6 日），Google 的 Cogentic 证明系统同日新增 6 篇论文。但关键澄清：Google 的因式分解论文标题是“无条件 L_N[1/3] 时间”，与数域筛同量级，新意只在“无条件”而非更快，不等于多项式时间、不破解任何密码；OpenAI 的 9/4 证明 Lean 形式化仅覆盖无除法电路，且自注“部分未形式化结果可能有问题”。两家公司均未回应传闻。",
+      "i18n": {
+        "en": {
+          "action": "Just record and track it: the rumor is unconfirmed, so don't write anything definitive about it. Wait for a follow-up from either lab or from Aaronson.",
+          "body": "On November 25, a rumor spread across X and Hacker News at the same time: OpenAI or Anthropic may already hold a polynomial-time algorithm for factoring integers, which would shake RSA encryption. The source is a comment quantum computing researcher Scott Aaronson left on his blog on the evening of November 24 — he said he has heard \"many, many rumors\" but does not know how much to credit them, while being \"virtually certain\" the labs do hold one or more cryptography bombshells, though their exact nature may have been distorted through a game of Telephone. On X, @AndrewCurran_ said the rumor has circulated for about ten days, and a repost by @kimmonismus drew 1,557 likes. Three Hacker News threads climbed the front page the same day: the rumor thread at 388 points / 272 comments, Aaronson's blog post at 377 / 239, and Google's Cogentic papers at 390 / 302. The rumor sits on a real week of math results: OpenAI posted a preprint claiming the matrix multiplication exponent is exactly 9/4 (966 points / 538 comments, the day's top post), Anthropic and OpenAI each published a VP versus VNP proof this week (OpenAI says its result dates to November 6), and Google's Cogentic proving system added six papers the same day. The key correction: Google's factoring paper is titled \"Unconditional Integer Factorization in Time L_N[1/3, O(1)]\" — the same magnitude as the number field sieve, with the novelty being \"unconditional\" rather than faster. It is not polynomial time and breaks no cryptography. OpenAI's 9/4 proof is formalized in Lean only for division-free circuits, and the paper itself notes that \"some of the unformalized results could have issues.\" Neither company has responded to the rumor.",
+          "title": "\"Factoring in P\" rumor: a lab may hold polynomial-time factoring that would break RSA — still unconfirmed"
+        },
+        "ja": {
+          "action": "記録して追跡するのみ。噂は未確認のため、断定的な判断は書かない。両研究所または Aaronson の続報を待つ。",
+          "body": "11月25日、X と Hacker News で同時に噂が広がった。OpenAI または Anthropic が多項式時間の整数因数分解アルゴリズムを握っているかもしれず、RSA 暗号が揺らぐというものだ。発信源は量子計算研究者 Scott Aaronson が 11月24日夜に自身のブログのコメント欄に残した書き込みで、「非常に多くの噂」を聞いたがどれほど信じてよいか分からないとしつつ、研究所が暗号に関する重大な成果を確かに握っていることは「ほぼ確実」で、ただしその正確な内容は伝言ゲームで歪んでいる可能性があると述べた。X では @AndrewCurran_ が噂は約10日前から流れているとし、@kimmonismus の転載投稿は 1,557 いいねを得た。Hacker News では同日3件が上位に上がった。噂のスレッドが 388 ポイント/272 コメント、Aaronson のブログ投稿が 377/239、Google の Cogentic 論文が 390/302 だ。噂の背後には本物の「数学の週」がある。OpenAI は行列乗算の指数がちょうど 9/4 であるとするプレプリントを公開し（966 ポイント/538 コメントで当日トップ）、Anthropic と OpenAI は今週それぞれ VP≠VNP の証明を発表し（OpenAI は結果を 11月6日に得たとする）、Google の Cogentic 証明システムも同日6本の論文を追加した。ただし重要な訂正がある。Google の因数分解論文のタイトルは「Unconditional Integer Factorization in Time L_N[1/3, O(1)]」で、数体ふるい法と同じオーダーであり、新しさは「無条件」である点であって高速化ではない。多項式時間ではなく、いかなる暗号も破らない。OpenAI の 9/4 の証明は Lean による形式化が除算なし回路に限られ、論文自身が「形式化されていない結果の一部に問題がある可能性がある」と注記している。両社とも噂に回答していない。",
+          "title": "「Factoring in P」の噂：研究所が RSA を破る多項式時間の因数分解を握っている可能性——未確認"
+        }
+      },
+      "is_new": true,
+      "level": "must",
+      "links": [
+        "https://news.ycombinator.com/item?id=50643065",
+        "https://scottaaronson.blog/?p=10379",
+        "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+        "https://github.com/google-research/google-research/tree/master/cogentic_research_papers"
+      ],
+      "sources": [
+        "Hacker News",
+        "X",
+        "Reddit",
+        "Google Research",
+        "OpenAI"
+      ],
+      "title": "「Factoring in P」传闻：OpenAI 或 Anthropic 或已握有多项式时间因式分解，RSA 告急？仍未证实",
+      "plugins": {
+        "momentum": {
+          "score": 84
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "NVDA"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "action": "仅记录：等收盘价确认是否守住万亿市值线。",
+      "body": "Anthropic 上市第 5 个交易日继续破发：周二收跌约 9% 至 $79.69 后，周三盘中跌至 $74（Reuters）；较 11 月 19 日开盘 $111.50 跌约 34%，较 $83 发行价跌约 11%。按测算，收盘需守住 $75.645 才能保住 1 万亿美元市值。抛售不只 Anthropic 一家：纳斯达克 100 较峰值跌 19.5%，逼近熊市线（Hedgeye，X）；BBC、WSJ、Yahoo Finance 同日报道 AI 股抛售加剧、英伟达领跌。",
+      "i18n": {
+        "en": {
+          "action": "Just record it: wait for the close to confirm whether the $1 trillion market value holds.",
+          "body": "Anthropic kept falling below its IPO price on its fifth trading day: after closing down about 9% at $79.69 on Tuesday, it fell to $74 intraday on Wednesday (Reuters) — about 34% below its November 19 open of $111.50 and about 11% below its $83 offer price. By one calculation, it must close above $75.645 to keep a $1 trillion market value. The sell-off is not Anthropic alone: the Nasdaq 100 is down 19.5% from its peak, nearing bear-market territory (Hedgeye, on X), and the BBC, the Wall Street Journal, and Yahoo Finance all reported the same day that the AI stock rout deepened, led by Nvidia.",
+          "title": "Anthropic IPO falls again: $74 intraday, about 34% below its open, $1 trillion market value at risk"
+        },
+        "ja": {
+          "action": "記録のみ。終値で1兆ドルの時価総額を維持できるか確認する。",
+          "body": "Anthropic は上場5営業日目も公開価格割れが続いた。火曜日に約9%安の 79.69 ドルで引けた後、水曜日には一時 74 ドルまで下げた（Reuters）。11月19日の初値 111.50 ドルからは約34%安、公開価格 83 ドルからは約11%安だ。試算では、終値で 75.645 ドルを守らなければ時価総額1兆ドルを維持できない。売りは Anthropic だけではない。ナスダック100は高値から 19.5% 下落し、弱気相場入りに近づいている（Hedgeye、X）。BBC、ウォール・ストリート・ジャーナル、Yahoo Finance も同日、エヌビディア主導で AI 株の売りが深まったと報じた。",
+          "title": "Anthropic の IPO がさらに下落：一時74ドル、初値から約34%安、時価総額1兆ドルが危うい"
+        }
+      },
+      "is_new": false,
+      "level": "must",
+      "links": [
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMmNMM0doWElDVk9BdjNGZnJHakNCUFg1blQzSlk0eW9zeVduV3ZKcEtJd0hpUkxDMVhnRE9rY1lLUzF1eENZaFh0SUNKbmRjanN3YWtZakZud2RYUnlSRkk5b1RZT2VfbFJPXzhZVEVyYnFnRHBwYVlGdFQzaEt2Z2VjaGVXWUE0Qmd5bjZYandmR2M2QXBSY2tKem80OGNlSzh3?oc=5"
+      ],
+      "sources": [
+        "Reuters",
+        "Google News",
+        "X"
+      ],
+      "title": "Anthropic IPO 再跌：周三盘中触 $74，较开盘跌约 34%，1 万亿美元市值告急",
+      "plugins": {
+        "momentum": {
+          "score": 84
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "NVDA"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "action": "仅记录：等可启动的独立验证再评估。",
+      "body": "GTA VI 上 PC 主题仓库群继续爆发：Marvisak/VIctory 1 天 12,499 stars（昨日 11,817）；同日新上榜 victory-fork 1 天 2,979 stars、ubiquitarianism/leonida 1 天 2,301 stars、Belobug/VIctory-Belobug-AMD 0 天 1,605 stars；portwatch-vi 3 天 3,877 stars（昨日 2,591）、xcl 5 天 8,273 stars。仍不能启动：此前核查称 .exe 真实性未核实，12 个 DLL 签名不匹配。",
+      "i18n": {
+        "en": {
+          "action": "Just record it: wait for an independent verification that it actually launches before judging it.",
+          "body": "The cluster of repositories bringing GTA VI to PC keeps exploding: Marvisak/VIctory reached 12,499 stars in one day (11,817 yesterday); newly listed the same day were victory-fork at 2,979 stars in one day, ubiquitarianism/leonida at 2,301 in one day, and Belobug/VIctory-Belobug-AMD at 1,605 in zero days. portwatch-vi stands at 3,877 stars in three days (2,591 yesterday) and xcl at 8,273 in five days. It still does not launch: an earlier check found the .exe unverified and 12 DLL signatures mismatched.",
+          "title": "Leonida cluster explodes again: VIctory gains 12,499 stars in a day, three new forks list the same day"
+        },
+        "ja": {
+          "action": "記録のみ。実際に起動できるという独立した検証が出てから評価する。",
+          "body": "GTA VI を PC に移植するリポジトリ群の爆発が続いている。Marvisak/VIctory は1日で 12,499 スター（昨日は 11,817）。同日新たにランクインしたのは victory-fork が1日で 2,979 スター、ubiquitarianism/leonida が1日で 2,301 スター、Belobug/VIctory-Belobug-AMD が0日で 1,605 スター。portwatch-vi は3日で 3,877 スター（昨日は 2,591）、xcl は5日で 8,273 スターだ。依然として起動はしない。これまでの検証では .exe の真正性は未確認で、12 個の DLL の署名が不一致だった。",
+          "title": "Leonida クラスターが再び爆発：VIctory が1日で 12,499 スター、同日に3つの新フォークがランクイン"
+        }
+      },
+      "is_new": false,
+      "level": "must",
+      "links": [
+        "https://github.com/Marvisak/VIctory"
+      ],
+      "sources": [
+        "GitHub",
+        "Hacker News"
+      ],
+      "title": "Leonida 集群再爆发：VIctory 一天 12,499 stars，3 个新分叉同日上榜",
+      "plugins": {
+        "momentum": {
+          "score": 36
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "AMD"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "action": "立项观察：轨道算力是 AI 基建的新变量，留意 Starship 发射成本与天文界反对声音。",
+      "body": "美国 FCC 11 月 25 日批准 SpaceX 的 Starmind 星座：最多部署 100 万颗太阳能轨道 AI 数据中心卫星，处理海量数据供地面使用；FCC 称这是美国历史上首次批准天基数据中心星座。部署时限：首星 2033 年 11 月 25 日前，10% 2035 年、50% 2038 年、全部 2040 年，否则授权作废。对比：目前在轨卫星总数约 1.7 万颗，Starlink 约 1.1 万颗。SpaceX 称计划 2027 年发射首批、2028 年起扩大部署。Reuters、WSJ、TechCrunch、Al Jazeera、USA Today、Gizmodo 同日报道。",
+      "i18n": {
+        "en": {
+          "action": "Watch as a project idea: orbital compute is a new variable in AI infrastructure. Keep an eye on Starship launch costs and pushback from astronomers.",
+          "body": "The U.S. FCC approved SpaceX's Starmind constellation on November 25: up to one million solar-powered orbital AI data-center satellites, processing vast amounts of data for use on Earth. The FCC called it the first authorization in U.S. history for a space-based data-center constellation. Deployment deadlines: the first satellite by November 25, 2033, 10% by 2035, 50% by 2038, and the full constellation by 2040, or the authorization becomes void. For comparison, about 17,000 satellites are in orbit today, including about 11,000 Starlink satellites. SpaceX says it plans to launch the first batch in 2027 and expand deployment from 2028. Reuters, the Wall Street Journal, TechCrunch, Al Jazeera, USA Today, and Gizmodo all covered it the same day.",
+          "title": "SpaceX's Starmind wins FCC approval: one million orbital AI data-center satellites"
+        },
+        "ja": {
+          "action": "プロジェクト候補として観察する。軌道上の計算能力は AI インフラの新たな変数だ。Starship の打ち上げコストと天文学界の反対に注目。",
+          "body": "米 FCC は 11月25日、SpaceX の Starmind 衛星群を承認した。最大100万基の太陽光発電式の軌道上 AI データセンター衛星を展開し、大量のデータを処理して地上で利用する。FCC によれば、宇宙空間にデータセンターを置く衛星群の承認は米国史上初だ。配備期限は、初号機が 2033年11月25日まで、10% が 2035年、50% が 2038年、全体が 2040年までで、守れなければ承認は無効になる。比較として、現在軌道上にある衛星は総数で約1万7,000基、うち Starlink が約1万1,000基だ。SpaceX は 2027年に最初の打ち上げ、2028年から展開拡大を計画しているという。Reuters、ウォール・ストリート・ジャーナル、TechCrunch、アルジャジーラ、USA Today、Gizmodo が同日そろって報じた。",
+          "title": "SpaceX の Starmind が FCC の承認を取得：100万基の軌道上 AI データセンター衛星へ"
+        }
+      },
+      "is_new": true,
+      "level": "watch",
+      "links": [
+        "https://www.reuters.com/business/media-telecom/us-authorizes-spacex-deploy-1-million-satellites-data-centers-space-2026-11-25/",
+        "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/"
+      ],
+      "sources": [
+        "Reuters",
+        "The Wall Street Journal",
+        "TechCrunch",
+        "Al Jazeera",
+        "USA Today"
+      ],
+      "title": "SpaceX Starmind 获 FCC 批准：100 万颗轨道 AI 数据中心卫星",
+      "plugins": {
+        "momentum": {
+          "score": 51
+        }
+      }
+    },
+    {
+      "action": "仅记录：提醒身边用 1Password 的朋友警惕冒充官方的恢复邮件。",
+      "body": "1Password 11 月 25 日披露：11 月 19 日发现攻击者进入一名员工的企业 GitHub 账号，复制私有源码、进入 CI/CD 系统并向后端服务推送恶意代码，下载了部分客户的姓名、邮箱、账户标识、创建与上次登录时间、公开密钥、SRP 协议参数及部分邀请/恢复邮件中的 token；受影响客户数量未披露。保险库内容、保险库密钥、恢复密钥及应用均未受影响，公司称无需用户改密码或换密钥；邀请/恢复码已从 6 位数字改为 10 位字母数字。HN 715 分/296 评，TechCrunch 跟进。主要风险是针对性钓鱼。",
+      "i18n": {
+        "en": {
+          "action": "Just record it: warn friends who use 1Password to watch out for fake account-recovery emails.",
+          "body": "1Password disclosed on November 25 that on November 19 it found an attacker inside an employee's corporate GitHub account. The attacker copied private source code, reached the CI/CD system, and pushed malicious code to backend services, downloading names, email addresses, account identifiers, account creation and last sign-in times, public keys, SRP protocol parameters, and tokens from some invitation and account-recovery emails for a subset of customers; the number of affected customers was not disclosed. Vault contents, vault keys, recovery keys, and the apps were all unaffected, and the company says users do not need to change passwords or rotate keys. Invitation and recovery codes have been lengthened from six numeric digits to ten alphanumeric characters. The story scored 715 points / 296 comments on Hacker News, and TechCrunch covered it. The main risk now is targeted phishing.",
+          "title": "1Password security incident: an employee's GitHub account was compromised, some customer names and emails leaked, vaults untouched"
+        },
+        "ja": {
+          "action": "記録のみ。1Password を使っている友人に、公式を装った復旧メールへの注意を促す。",
+          "body": "1Password は 11月25日、11月19日に従業員の企業向け GitHub アカウントへの侵入を確認したと発表した。攻撃者は非公開のソースコードをコピーし、CI/CD システムに入り、バックエンドサービスに悪意のあるコードを送り込んで、一部の顧客の氏名、メールアドレス、アカウント識別子、作成日時と最終ログイン日時、公開鍵、SRP プロトコルのパラメーター、一部の招待・復旧メールに含まれるトークンをダウンロードした。影響を受けた顧客数は公表されていない。保管庫の中身、保管庫の鍵、復旧キー、アプリはいずれも影響を受けておらず、同社はパスワード変更や鍵の交換は不要としている。招待・復旧コードは 6桁の数字から 10桁の英数字に変更された。Hacker News では 715 ポイント/296 コメント、TechCrunch も報じた。当面の主なリスクは標的型フィッシングだ。",
+          "title": "1Password のセキュリティ事案：従業員の GitHub アカウントが侵害され、一部顧客の氏名とメールが流出、保管庫は無事"
+        }
+      },
+      "is_new": true,
+      "level": "watch",
+      "links": [
+        "https://1password.com/blog/update-on-nov-2026-security-incident",
+        "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/"
+      ],
+      "sources": [
+        "Hacker News",
+        "TechCrunch",
+        "1Password"
+      ],
+      "title": "1Password 安全事件：员工 GitHub 账号被盗，部分客户姓名邮箱外泄，保险库未动",
+      "plugins": {
+        "momentum": {
+          "score": 41
+        }
+      }
+    },
+    {
+      "action": "仅记录：中美科技竞争的法律线，可作社会观察素材。",
+      "body": "布鲁克林联邦陪审团 11 月 24 日裁决：华为及三家子公司 12 项刑事罪名中 10 项成立，包括银行欺诈、电汇欺诈、违反伊朗制裁、共谋窃取美国公司商业秘密与洗钱共谋；敲诈勒索共谋与妨碍司法共谋两项无罪。审判持续两个多月，检方传唤 60 多名证人、辩方 15 名。量刑定于 2027 年 9 月 14 日，面临罚款、没收与赔偿。案件始于 2018 年，孟晚舟同年 12 月在加拿大被捕。Reuters、CNN、WSJ、Fox Business 同日报道。",
+      "i18n": {
+        "en": {
+          "action": "Just record it: a legal marker in the U.S.-China technology rivalry, useful as social-observation material.",
+          "body": "A federal jury in Brooklyn ruled on November 24 that Huawei and three subsidiaries were guilty on 10 of 12 criminal counts, including bank fraud, wire fraud, violating sanctions on Iran, conspiring to steal trade secrets from U.S. companies, and money-laundering conspiracy. The jury acquitted them on two counts: racketeering conspiracy and conspiracy to obstruct justice. The trial lasted more than two months, with prosecutors calling more than 60 witnesses and the defense calling 15. Sentencing is set for September 14, 2027, with fines, forfeiture, and restitution on the table. The case began in 2018, when Meng Wanzhou was arrested in Canada that December. Reuters, CNN, the Wall Street Journal, and Fox Business all covered it the same day.",
+          "title": "Huawei convicted in U.S. criminal trial: guilty on 10 of 12 counts, sentencing set for September 2027"
+        },
+        "ja": {
+          "action": "記録のみ。米中テクノロジー競争における法的な節目であり、社会観察の素材になる。",
+          "body": "ブルックリン連邦地裁の陪審は 11月24日、ファーウェイと子会社3社について、刑事12件のうち10件で有罪と評決した。銀行詐欺、電信詐欺、イラン制裁違反、米企業の営業秘密窃取の共謀、資金洗浄の共謀などが含まれる。恐喝の共謀と司法妨害の共謀の2件は無罪となった。裁判は2か月以上続き、検察側は60人超、弁護側は15人の証人を呼んだ。量刑は 2027年9月14日に言い渡される予定で、罰金、没収、賠償が科される可能性がある。事件は 2018年に始まり、同年12月に孟晩舟がカナダで逮捕された。Reuters、CNN、ウォール・ストリート・ジャーナル、Fox Business が同日そろって報じた。",
+          "title": "ファーウェイ、米刑事裁判で有罪：12件中10件で有罪、量刑は2027年9月"
+        }
+      },
+      "is_new": true,
+      "level": "watch",
+      "links": [
+        "https://www.reuters.com/legal/litigation/chinas-huawei-convicted-us-criminal-trial-stemming-iran-business-2026-11-24/"
+      ],
+      "sources": [
+        "Reuters",
+        "CNN",
+        "The Wall Street Journal",
+        "Fox Business"
+      ],
+      "title": "华为美国刑事案：12 项罪名 10 项成立，量刑定于 2027 年 9 月",
+      "plugins": {
+        "momentum": {
+          "score": 46
+        }
+      }
+    },
+    {
+      "action": "仅记录。",
+      "body": "Upstage 的 Solar Mini 4.5（Preview）与 Solar Pro 4 Contributor 11 月 24 日上架 OpenRouter，上下文均为 524,288 tokens。单源。",
+      "i18n": {
+        "en": {
+          "action": "Just record it.",
+          "body": "Upstage's Solar Mini 4.5 (Preview) and Solar Pro 4 Contributor were listed on OpenRouter on November 24, each with a context window of 524,288 tokens. Single source.",
+          "title": "Upstage Solar Mini 4.5 and Solar Pro 4 listed on OpenRouter"
+        },
+        "ja": {
+          "action": "記録のみ。",
+          "body": "Upstage の Solar Mini 4.5（Preview）と Solar Pro 4 Contributor が 11月24日に OpenRouter に掲載された。コンテキストはいずれも 524,288 トークン。単一情報源。",
+          "title": "Upstage の Solar Mini 4.5 / Solar Pro 4 が OpenRouter に掲載"
+        }
+      },
+      "is_new": true,
+      "level": "echo",
+      "links": [
+        "https://openrouter.ai/upstage/solar-mini-4-5"
+      ],
+      "sources": [
+        "OpenRouter"
+      ],
+      "title": "Upstage Solar Mini 4.5 / Solar Pro 4 上架 OpenRouter",
+      "plugins": {
+        "momentum": {
+          "score": 31
+        }
+      }
+    },
+    {
+      "action": "仅记录。",
+      "body": "商汤 SenseNova-Loop-9B 登上 HF 新面孔：likes 741、下载 3,268；32 层中 24 层循环两次，GAIA 69.90 分超 Qwen3.8-27B 的 66.99，4-bit 约 4.9GB，Apache 2.0。单源为主（HF + Latent Space 转述）。",
+      "i18n": {
+        "en": {
+          "action": "Just record it.",
+          "body": "SenseTime's SenseNova-Loop-9B appeared among Hugging Face's new faces: 741 likes and 3,268 downloads. It loops the middle 24 of its 32 layers twice, scores 69.90 on GAIA against 66.99 for Qwen3.8-27B, is about 4.9 GB at 4-bit, and is released under Apache 2.0. Mostly a single source (Hugging Face, with a Latent Space recap).",
+          "title": "SenseNova-Loop-9B: a looped-layer small model that beats Qwen3.8-27B on GAIA"
+        },
+        "ja": {
+          "action": "記録のみ。",
+          "body": "商湯の SenseNova-Loop-9B が Hugging Face の新着に登場した。いいね 741、ダウンロード 3,268。32層のうち24層を2回繰り返し、GAIA で 69.90 点と Qwen3.8-27B の 66.99 を上回る。4ビットで約 4.9GB、Apache 2.0 だ。ほぼ単一情報源（Hugging Face と Latent Space の紹介）。",
+          "title": "SenseNova-Loop-9B：ループ層の小モデルが GAIA で Qwen3.8-27B を上回る"
+        }
+      },
+      "is_new": true,
+      "level": "echo",
+      "links": [
+        "https://huggingface.co/sensenova/SenseNova-Loop-9B"
+      ],
+      "sources": [
+        "Hugging Face",
+        "Latent Space"
+      ],
+      "title": "SenseNova-Loop-9B：循环层小模型，GAIA 超 Qwen3.8-27B",
+      "plugins": {
+        "momentum": {
+          "score": 36
+        }
+      }
+    }
+  ]
+}

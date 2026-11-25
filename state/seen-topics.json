@@ -20,6 +20,10 @@
         {
           "date": "2026-11-25",
           "grade": "must"
+        },
+        {
+          "date": "2026-11-25",
+          "grade": "must"
         }
       ],
       "review": {
@@ -70,7 +74,8 @@
         "The Verge",
         "MarketWatch",
         "Barron's",
-        "The Wall Street Journal"
+        "The Wall Street Journal",
+        "X"
       ],
       "history": [
         {
@@ -116,6 +121,10 @@
         {
           "date": "2026-11-23",
           "grade": "watch"
+        },
+        {
+          "date": "2026-11-25",
+          "grade": "must"
         },
         {
           "date": "2026-11-25",
@@ -1371,6 +1380,10 @@
         {
           "date": "2026-11-25",
           "grade": "must"
+        },
+        {
+          "date": "2026-11-25",
+          "grade": "must"
         }
       ],
       "review": {
@@ -1506,6 +1519,10 @@
         },
         {
           "date": "2026-11-18",
+          "grade": "watch"
+        },
+        {
+          "date": "2026-11-25",
           "grade": "watch"
         },
         {
@@ -1825,6 +1842,10 @@
         },
         {
           "date": "2026-11-22",
+          "grade": "watch"
+        },
+        {
+          "date": "2026-11-25",
           "grade": "watch"
         },
         {
@@ -2414,6 +2435,10 @@
         {
           "date": "2026-11-25",
           "grade": "watch"
+        },
+        {
+          "date": "2026-11-25",
+          "grade": "watch"
         }
       ],
       "review": {
@@ -2459,6 +2484,10 @@
         },
         {
           "date": "2026-11-23",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-25",
           "grade": "must"
         },
         {
@@ -2663,6 +2692,10 @@
         },
         {
           "date": "2026-11-24",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-25",
           "grade": "must"
         },
         {
@@ -2894,6 +2927,10 @@
         {
           "date": "2026-11-25",
           "grade": "watch"
+        },
+        {
+          "date": "2026-11-25",
+          "grade": "watch"
         }
       ],
       "review": {
@@ -2982,6 +3019,10 @@
         {
           "date": "2026-11-25",
           "grade": "must"
+        },
+        {
+          "date": "2026-11-25",
+          "grade": "must"
         }
       ],
       "review": {
@@ -3006,6 +3047,10 @@
       "history": [
         {
           "date": "2026-11-24",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-25",
           "grade": "must"
         },
         {
@@ -3264,6 +3309,10 @@
         {
           "date": "2026-11-25",
           "grade": "watch"
+        },
+        {
+          "date": "2026-11-25",
+          "grade": "watch"
         }
       ],
       "review": {
@@ -3279,9 +3328,15 @@
       "last_seen": "2026-11-25",
       "sources": [
         "TechCrunch",
-        "BBC"
+        "BBC",
+        "The Verge",
+        "The Decoder"
       ],
       "history": [
+        {
+          "date": "2026-11-25",
+          "grade": "watch"
+        },
         {
           "date": "2026-11-25",
           "grade": "watch"
@@ -3591,6 +3646,140 @@
       "last_seen": "2026-11-25",
       "sources": [
         "TechCrunch"
+      ],
+      "history": [
+        {
+          "date": "2026-11-25",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-25"
+      }
+    },
+    {
+      "name": "「Factoring in P」传闻",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "sources": [
+        "Hacker News",
+        "X",
+        "Reddit",
+        "Google Research",
+        "OpenAI"
+      ],
+      "history": [
+        {
+          "date": "2026-11-25",
+          "grade": "must"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-25"
+      }
+    },
+    {
+      "name": "SpaceX Starmind",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "sources": [
+        "Reuters",
+        "The Wall Street Journal",
+        "TechCrunch",
+        "Al Jazeera",
+        "USA Today"
+      ],
+      "history": [
+        {
+          "date": "2026-11-25",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-25"
+      }
+    },
+    {
+      "name": "1Password 安全事件",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "sources": [
+        "Hacker News",
+        "TechCrunch",
+        "1Password"
+      ],
+      "history": [
+        {
+          "date": "2026-11-25",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-25"
+      }
+    },
+    {
+      "name": "华为美国刑事案定罪",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "sources": [
+        "Reuters",
+        "CNN",
+        "The Wall Street Journal",
+        "Fox Business"
+      ],
+      "history": [
+        {
+          "date": "2026-11-25",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-25"
+      }
+    },
+    {
+      "name": "Upstage Solar 4.5",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "sources": [
+        "OpenRouter"
+      ],
+      "history": [
+        {
+          "date": "2026-11-25",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-25"
+      }
+    },
+    {
+      "name": "SenseNova-Loop-9B",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "sources": [
+        "Hugging Face",
+        "Latent Space"
       ],
       "history": [
         {
