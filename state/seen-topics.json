@@ -1082,7 +1082,7 @@
     {
       "name": "FBI 警告 Artex AI 黑客工具",
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-26",
       "sources": [
         "TechCrunch",
         "The Register",
@@ -1093,6 +1093,10 @@
         {
           "date": "2026-11-17",
           "grade": "watch"
+        },
+        {
+          "date": "2026-11-26",
+          "grade": "echo"
         }
       ],
       "review": {
@@ -2519,6 +2523,10 @@
         {
           "date": "2026-11-26",
           "grade": "must"
+        },
+        {
+          "date": "2026-11-26",
+          "grade": "must"
         }
       ],
       "review": {
@@ -2726,6 +2734,10 @@
         },
         {
           "date": "2026-11-25",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-26",
           "grade": "must"
         },
         {
@@ -3706,11 +3718,17 @@
         "OpenAI",
         "Scott Aaronson",
         "Cointelegraph",
-        "The Guardian"
+        "The Guardian",
+        "Ars Technica",
+        "The Decoder"
       ],
       "history": [
         {
           "date": "2026-11-25",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-26",
           "grade": "must"
         },
         {
@@ -3728,17 +3746,25 @@
     {
       "name": "SpaceX Starmind",
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "sources": [
         "Reuters",
         "The Wall Street Journal",
         "TechCrunch",
         "Al Jazeera",
-        "USA Today"
+        "USA Today",
+        "BBC",
+        "CNN",
+        "The Guardian",
+        "Mastodon"
       ],
       "history": [
         {
           "date": "2026-11-25",
+          "grade": "watch"
+        },
+        {
+          "date": "2026-11-26",
           "grade": "watch"
         }
       ],
@@ -3913,6 +3939,71 @@
         {
           "date": "2026-11-26",
           "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-26"
+      }
+    },
+    {
+      "name": "Nvidia 暂停向东南亚发货 AI 服务器",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "sources": [
+        "Financial Times",
+        "TechCrunch",
+        "Reuters"
+      ],
+      "history": [
+        {
+          "date": "2026-11-26",
+          "grade": "must"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-26"
+      }
+    },
+    {
+      "name": "SAP 拟裁员 10,000+ 人",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "sources": [
+        "Bloomberg",
+        "Reuters"
+      ],
+      "history": [
+        {
+          "date": "2026-11-26",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-26"
+      }
+    },
+    {
+      "name": "Character.AI 拍卖用户聊天记录",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "sources": [
+        "California AG",
+        "TechCrunch",
+        "Gizmodo"
+      ],
+      "history": [
+        {
+          "date": "2026-11-26",
+          "grade": "watch"
         }
       ],
       "review": {

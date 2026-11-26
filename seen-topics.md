@@ -739,3 +739,32 @@
 - Qwen3.8 模型家族 | 2026-11-13 早报 | 2026-11-26 早报 | Hugging Face | 👀→👀（微涨：Qwen3.8-27B likes 21,744→21,800） | 待复盘
 - DeepSeek dsh-superagent + V4.1-Flash-1017 | 2026-11-12 晚报 | 2026-11-26 早报 | Hugging Face | 🔥→🔥（微涨：V4.1-Flash-1017 HF likes 6,666→6,699，下载 536,179→550,396） | 待复盘
 - 其余在册话题 | 各首次发现时间见上文 | 2026-11-26 早报 | 见上文 | 平，无新动静（Gemini 4 Carbon/Hydrogen、Claude Fable 5.2 / Mythos 5.2、Gemini Decisions API、HD Moore 金丝雀实验、美国收紧 AI 芯片远程访问管制、加州总检察长起诉 OpenAI、美国多家大银行在线服务中断、弗吉尼亚与俄勒冈两州起诉 SpaceX、Shirudo、Replit Missions、亚马逊收购 Decart、Claude Artifacts 桌面应用、MCP、Ternary Bonsai 2.5、Epochal、MiniMax H3-Image、Check Point 入侵、Ladybird、Kagi Mail、Claude Ship、Qwen4-Max Preview 未见新消息） | 待复盘
+
+## 2026-11-26 晚报（18:00 JST）【补记：本节由 2026-11-27 早报执行时据 editions/2026-11-26-evening.json 回填，上一期执行未写回】
+- 「Factoring in P」传闻 | 2026-11-26 早报 | 2026-11-26 晚报 | Hacker News, X, Scott Aaronson, Cointelegraph, The Guardian | 🔥→🔥（涨：Aaronson 11 月 25 日正式发帖，称实验室“几乎肯定”握有密码学重磅炸弹，P≠NP 信心 95%→96%；HN 主帖 1,459 分/1,269 评，约 4 倍；Ledger CTO 称另闻 ECDSA 被破、Ring-LWE 有缺陷；仍无公开证据） | 待复盘
+- Leonida | 2026-11-22 早报 | 2026-11-26 晚报 | GitHub | 🔥→🔥（涨：VIctory 12,499→12,842 stars；Belobug AMD 版 0 天 1,700 stars；victory-fork 1 天 3,164 stars；leonida 续作 2 天 2,398 stars；portwatch-vi 3,877→4,662；xcl 8,273→8,399；仍不能启动） | 待复盘
+- Anthropic IPO | 2026-11-11 试点早报 | 2026-11-26 晚报 | Barron's, Investor's Business Daily, Finnhub | 🔥→🔥（涨：周三收 $82.79，涨 1.1%；盘中最低 $73.85、最高 $85.92，振幅约 16%；盘中一度跌破万亿线，收盘市值约 $1.11T；盘后 $84.25；周四感恩节休市） | 待复盘
+- GPT-6.2 计费乌龙 | 2026-11-18 早报 | 2026-11-26 晚报 | X, Hacker News | 🔥→👀（降：Astra 额度消耗快 40%，OpenAI 修计费错误所致；另破 code golf 纪录） | 待复盘
+- Pax by Pydantic | 2026-11-26 晚报 | 2026-11-26 晚报 | Product Hunt, Pydantic | 🆕👀（官方终端 coding agent，全部插件化） | 待复盘
+- NVIDIA Nemotron-Labs-Image-30B-A3B | 2026-11-26 晚报 | 2026-11-26 晚报 | Hugging Face, Reddit | 🆕👀（悄悄开源权重） | 待复盘
+- 苹果连发两个新模型：DepthPro2 与 FastFrames-L | 2026-11-26 晚报 | 2026-11-26 晚报 | Hugging Face | 🆕🌱（单源：上架 HF） | 待复盘
+- 小米 MiMo-V2.6-Flash-MOPD | 2026-11-26 晚报 | 2026-11-26 晚报 | OpenRouter | 🆕🌱（单源：上架 OpenRouter，百万上下文） | 待复盘
+
+## 2026-11-27 早报（06:00 JST）
+- 「Factoring in P」传闻 | 2026-11-26 早报 | 2026-11-27 早报 | Hacker News, Scott Aaronson, Ars Technica, The Decoder | 🔥→🔥（涨：Aaronson 博客帖 HN 1,459→1,933 分/1,269→1,769 评，仍为当日最高；GRH 精简 Lean 证明 lsernau/grh-lean 上 HN 536 分/338 评，0 天约 822 stars；Ars Technica 与 The Decoder 跟进；仍无公开证据） | 待复盘
+- Leonida | 2026-11-22 早报 | 2026-11-27 早报 | GitHub | 🔥→🔥（涨：VIctory 12,842→13,248 stars，2 天日均 6,624；26,503 个 RDNA2 shader 已转 SPIR-V，仍不能启动；新增 avatarmanz/VIctory-7900XTX 0 天 1,819 stars；Belobug AMD 版 1,700→2,417；victory-fork 3,264；portwatch-vi 4,662→5,556；xcl 8,399→8,577） | 待复盘
+- Nvidia 暂停向东南亚发货 AI 服务器 | 2026-11-27 早报 | 2026-11-27 早报 | Financial Times, TechCrunch, Reuters, Channel NewsAsia | 🆕🔥（FT 原发：Nvidia 通知 Dell 与 Supermicro，暂停向马来西亚、新加坡、泰国、印尼发货装有其芯片的服务器；美国 11 月 19 日生效新规，现有客户 90 天内需拿许可；是否暂缓未定；黄仁勋复职 3 天后；另标普考虑下调 Nvidia 信用评级） | 待复盘
+- Thinking Machines Lab Inkling 2 Mini | 2026-11-21 早报 | 2026-11-27 早报 | Hugging Face | 🔥→🔥（微涨：HF likes 5,993→6,222；unsloth GGUF 下载 1,913,407→2,445,633，+53 万；底座下载 96,527 未动） | 待复盘
+- SAP 拟裁员 10,000+ 人 | 2026-11-27 早报 | 2026-11-27 早报 | Bloomberg, Reuters | 🆕👀（Bloomberg 原发：SAP 考虑以 AI 为核心重组，裁员至少 10,000 人，约占全球 11.2 万员工的 9%，产品、工程、销售为重点；方案未定；2024 年已有约 10,000 人重组，耗资约 32 亿欧元） | 待复盘
+- Character.AI 拍卖用户聊天记录 | 2026-11-27 早报 | 2026-11-27 早报 | California AG, TechCrunch, Gizmodo | 🆕👀（42 位州检察长联合反对 Character.AI 在破产拍卖中出售 2,100 万+ 美国账户私人聊天记录，其中 210 万+ 未成年人；拍卖定于 12 月 1 日；唯一披露的竞标方 Smirks and Pangs，报价 1,000 万美元） | 待复盘
+- SpaceX Starmind | 2026-11-26 早报 | 2026-11-27 早报 | BBC, CNN, The Guardian, Mastodon | 👀→👀（涨：BBC、CNN、《卫报》新增报道与质疑文章；Mastodon 相关讨论 111–519 账号） | 待复盘
+- FBI 警告 Artex AI 黑客工具 | 2026-11-17 早报 | 2026-11-27 早报 | The Decoder | 🌱→🌱（涨：微软披露国家支持的黑客正用 ARTEX 框架自动化网络攻击；单源） | 待复盘
+- Anthropic IPO | 2026-11-11 试点早报 | 2026-11-27 早报 | — | 🔥→🔥（平：周四感恩节美股休市，无新价；周五开盘未到） | 待复盘
+- 黄仁勋复职 | 2026-11-24 早报 | 2026-11-27 早报 | The Guardian, TechCrunch | 🔥→🔥（涨：《卫报》称科技领袖庆祝复职、也有人保持沉默；Nvidia 暂停东南亚发货；标普考虑下调 Nvidia 信用评级） | 待复盘
+- 黎曼猜想证明声称（Claude 参与） | 2026-11-21 早报 | 2026-11-27 早报 | Ars Technica, The Decoder | 👀→👀（涨：新增 Ars Technica 与 The Decoder 报道；Nielsen 质疑仍无回应，克雷仍列未解） | 待复盘
+- Qwen3.8 模型家族 | 2026-11-13 早报 | 2026-11-27 早报 | Hugging Face | 👀→👀（微涨：Qwen3.8-27B likes 21,800→21,857） | 待复盘
+- DeepSeek dsh-superagent + V4.1-Flash-1017 | 2026-11-12 晚报 | 2026-11-27 早报 | Hugging Face | 🔥→🔥（微涨：V4.1-Flash-1017 HF likes 6,699→6,760） | 待复盘
+- rust-anything | 2026-11-19 早报 | 2026-11-27 早报 | GitHub | 👀→👀（涨：9,566→10,136 stars，10 天日均 1,014；单源） | 待复盘
+- fast-anything | 2026-11-23 早报 | 2026-11-27 早报 | GitHub | 👀→👀（涨：3,924→4,205 stars，5 天日均 841；单源） | 待复盘
+- 其余在册话题 | 各首次发现时间见上文 | 2026-11-27 早报 | 见上文 | 平，无新动静（Gemini 4 Carbon/Hydrogen、Claude Fable 5.2 / Mythos 5.2、Gemini Decisions API、HD Moore 金丝雀实验、美国收紧 AI 芯片远程访问管制、加州总检察长起诉 OpenAI、美国多家大银行在线服务中断、弗吉尼亚与俄勒冈两州起诉 SpaceX、Shirudo、Replit Missions、亚马逊收购 Decart、Claude Artifacts 桌面应用、MCP、Ternary Bonsai 2.5、Epochal、MiniMax H3-Image、Check Point 入侵、Ladybird、Kagi Mail、Claude Ship、Qwen4-Max Preview、GPT-6.2 Astra and Sol、GLM-5.4、Tidal 禁 AI 生成音乐、Meta Muse 进 Instagram DM、Pax by Pydantic、NVIDIA Nemotron-Labs-Image-30B-A3B、苹果 DepthPro2/FastFrames-L、Upstage Solar 4.5、SenseNova-Loop-9B 未见新消息） | 待复盘
+- 本期观察到但未入选正文 | 2026-11-27 早报 | 2026-11-27 早报 | Hacker News, GitHub | —（Moat：OpenRouter 替代品，HN 214 分/124 评，单源；Minipg：单文件 PostgreSQL 可执行文件，HN 277 分，单源；llama.cpp v1.1.0 发布，单源；OpenAI 合并 Chat 与 Work、重度用户更快触限，TechCrunch 单源；中国首部 AI 生成电影，《经济学人》单源） | 待复盘

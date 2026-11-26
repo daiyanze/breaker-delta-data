@@ -1,0 +1,300 @@
+{
+  "date": "2026-11-27",
+  "items": [
+    {
+      "action": "仅记录并追踪：仍是传闻，不要写确定性判断；等实验室或 Aaronson 拿出细节。",
+      "body": "Aaronson 博客帖 HN 冲至 1,933 分/1,769 评（晚报 1,459 分/1,269 评），仍为当日最高；GRH 广义黎曼猜想的精简 Lean 证明 lsernau/grh-lean 上 HN 536 分/338 评，0 天约 822 stars；Ars Technica 与 The Decoder 跟进报道。关键仍是：无任何公开证据，两家公司均未回应；Google 的因式分解论文仍是无条件 L_N[1/3] 时间，不等于多项式时间。",
+      "i18n": {
+        "en": {
+          "action": "Just record and track it: still a rumor, so don't write anything definitive. Wait for a lab or Aaronson to show details.",
+          "body": "Aaronson's blog post climbed to 1,933 points / 1,769 comments on Hacker News (1,459 / 1,269 in the evening report), still the day's top post; a shortened Lean proof of the Generalized Riemann Hypothesis, lsernau/grh-lean, reached 536 points / 338 comments, about 822 stars on day zero; Ars Technica and The Decoder picked it up. The key point stands: there is no public evidence, neither company has responded, and Google's factoring paper is still unconditional L_N[1/3] time — not polynomial time.",
+          "title": "\"Factoring in P\" rumor climbs again: Aaronson post at 1,933 points on HN; short GRH Lean proof at 536"
+        },
+        "ja": {
+          "action": "記録して追跡するのみ。依然として噂のため、断定的な判断は書かない。研究所または Aaronson が詳細を示すのを待つ。",
+          "body": "Aaronson のブログ投稿は Hacker News で 1,933 ポイント/1,769 コメントまで上昇し（夕刊時は 1,459/1,269）、依然として当日のトップとなった。一般リーマン予想の短縮版 Lean 証明 lsernau/grh-lean は 536 ポイント/338 コメント、初日で約 822 スターを獲得した。Ars Technica と The Decoder も取り上げた。重要な点は変わらない。公開された証拠はなく、両社とも回答していない。Google の因数分解論文も依然として無条件の L_N[1/3] 時間であり、多項式時間ではない。",
+          "title": "「Factoring in P」の噂がさらに拡大：Aaronson の投稿は HN で 1,933 ポイント、GRH の短縮 Lean 証明は 536"
+        }
+      },
+      "is_new": false,
+      "level": "must",
+      "links": [
+        "https://scottaaronson.blog/?p=10379",
+        "https://news.ycombinator.com/item?id=50646108",
+        "https://github.com/lsernau/grh-lean"
+      ],
+      "sources": [
+        "Hacker News",
+        "Scott Aaronson",
+        "Ars Technica",
+        "The Decoder"
+      ],
+      "title": "「Factoring in P」传闻再涨：Aaronson 博客帖 HN 1,933 分，GRH 精简 Lean 证明 536 分",
+      "plugins": {
+        "momentum": {
+          "score": 46
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "GOOGL"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "action": "仅记录：等一个真能跑起来的版本再深入。",
+      "body": "VIctory 12,842→13,248 stars（2 天，日均 6,624），目标是把 GTA VI 跑上 PC 的 Rust 静态重编译尝试，26,503 个 RDNA2 shader 已转 SPIR-V，但仍不能启动；集群继续扩：新增 avatarmanz/VIctory-7900XTX 0 天 1,819 stars，Belobug AMD 版 1,700→2,417 stars，victory-fork 3,264 stars，portwatch-vi 4,662→5,556 stars，xcl 8,399→8,577 stars。",
+      "i18n": {
+        "en": {
+          "action": "Just record it: wait for a version that actually boots before digging in.",
+          "body": "VIctory went from 12,842 to 13,248 stars (2 days, 6,624 per day). It is a Rust static-recompilation attempt to run GTA VI on PC; 26,503 RDNA2 shaders have been translated to SPIR-V, but it still does not boot. The cluster keeps growing: new avatarmanz/VIctory-7900XTX hit 1,819 stars on day zero, the Belobug AMD build went from 1,700 to 2,417 stars, victory-fork has 3,264 stars, portwatch-vi went from 4,662 to 5,556 stars, and xcl from 8,399 to 8,577 stars.",
+          "title": "Leonida cluster keeps climbing: VIctory at 13,248 stars, new 7900XTX build at 1,819 stars on day zero"
+        },
+        "ja": {
+          "action": "記録のみ。実際に起動する版が出てから深掘りする。",
+          "body": "VIctory は 12,842 から 13,248 スターへ（2日間、1日あたり 6,624）。GTA VI を PC で動かすための Rust による静的再コンパイルの試みで、26,503 個の RDNA2 シェーダーは SPIR-V に変換済みだが、依然として起動しない。クラスターはさらに拡大している。新規の avatarmanz/VIctory-7900XTX は初日で 1,819 スター、Belobug の AMD 版は 1,700 から 2,417 スター、victory-fork は 3,264 スター、portwatch-vi は 4,662 から 5,556 スター、xcl は 8,399 から 8,577 スターとなった。",
+          "title": "Leonida クラスターがさらに拡大：VIctory は 13,248 スター、新規の 7900XTX 版は初日で 1,819 スター"
+        }
+      },
+      "is_new": false,
+      "level": "must",
+      "links": [
+        "https://github.com/Marvisak/VIctory",
+        "https://github.com/avatarmanz/VIctory-7900XTX",
+        "https://github.com/4lwayz/portwatch-vi",
+        "https://github.com/xcl-dev/xcl"
+      ],
+      "sources": [
+        "GitHub"
+      ],
+      "title": "Leonida 集群继续涨：VIctory 13,248 stars，新增 7900XTX 版 0 天 1,819 stars",
+      "plugins": {
+        "momentum": {
+          "score": 31
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "AMD"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "action": "写 tweet / 深入研究：芯片管制收紧的执行面值得一条推文；关注 90 天许可期进展。",
+      "body": "《金融时报》原发，TechCrunch、Reuters、CNA 跟进：Nvidia 已通知 Dell 与 Supermicro 等代工方，暂停向马来西亚、新加坡、泰国、印尼四国发货装有其芯片的服务器，买家已被告知订单不会发出；起因是美国 11 月 19 日生效的新规，现有客户 90 天内需拿许可；是否暂缓未定。事发在黄仁勋复职 3 天后。另：标普考虑下调 Nvidia 信用评级，理由是治理与关键人物风险（TechCrunch）。",
+      "i18n": {
+        "en": {
+          "action": "Write a tweet / dig deeper: the enforcement side of tightening chip controls is worth a post; watch how the 90-day licensing window plays out.",
+          "body": "First reported by the Financial Times, followed by TechCrunch, Reuters, and CNA: Nvidia has told manufacturing partners including Dell and Supermicro to pause shipments of servers containing its chips to Malaysia, Singapore, Thailand, and Indonesia, and buyers have been told their orders will not ship. The trigger is a new US rule that took effect on November 19, giving existing customers 90 days to obtain a licence; whether the pause is temporary is unclear. It comes three days after Jensen Huang was reinstated. Also: S&P is considering a Nvidia credit downgrade, citing governance and key-man risks (TechCrunch).",
+          "title": "Nvidia pauses AI server shipments to four Southeast Asian countries; S&P weighs a credit downgrade"
+        },
+        "ja": {
+          "action": "ツイートを書く / 深掘りする。チップ規制強化の執行面は投稿する価値がある。90日間のライセンス猶予の行方に注目する。",
+          "body": "フィナンシャル・タイムズの報道を TechCrunch、ロイター、CNA が追った。Nvidia は Dell や Supermicro などの製造パートナーに、マレーシア、シンガポール、タイ、インドネシアの4か国向けに同社チップ搭載サーバーの出荷を停止するよう通知し、買い手には注文は出荷されないと伝えられた。きっかけは11月19日に発効した米国の新規則で、既存顧客は90日以内にライセンスを取得する必要がある。一時的なものかは不明。黄仁勲の復職から3日後の出来事だ。別件として、S&P はガバナンスとキーマンリスクを理由に Nvidia の格下げを検討している（TechCrunch）。",
+          "title": "Nvidia が東南アジア4か国への AI サーバー出荷を停止、S&P は格下げを検討"
+        }
+      },
+      "is_new": true,
+      "level": "must",
+      "links": [
+        "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370",
+        "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+        "https://www.reuters.com/world/asia-pacific/nvidia-halts-chip-shipments-southeast-asia-ft-reports-2026-11-26/"
+      ],
+      "sources": [
+        "Financial Times",
+        "TechCrunch",
+        "Reuters",
+        "Channel NewsAsia"
+      ],
+      "title": "Nvidia 暂停向东南亚四国发货 AI 服务器，标普考虑下调其信用评级",
+      "plugins": {
+        "momentum": {
+          "score": 76
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "NVDA"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "action": "仅记录：GGUF 下载跳涨值得留意，底座本身未动。",
+      "body": "HF likes 5,993→6,222（+229）；unsloth GGUF 下载 1,913,407→2,445,633（+53 万）；底座下载 96,527 未动。",
+      "i18n": {
+        "en": {
+          "action": "Just record it: the GGUF download jump is worth noting, though the base model itself did not move.",
+          "body": "Hugging Face likes went from 5,993 to 6,222 (+229); the unsloth GGUF build's downloads went from 1,913,407 to 2,445,633 (+530,000); base-model downloads were unchanged at 96,527.",
+          "title": "Inkling 2 Mini edges up: GGUF downloads jump by 530,000"
+        },
+        "ja": {
+          "action": "記録のみ。GGUF のダウンロード急増は注目に値するが、ベースモデル自体は動いていない。",
+          "body": "Hugging Face の likes は 5,993 から 6,222 へ（+229）。unsloth の GGUF 版ダウンロードは 1,913,407 から 2,445,633 へ（+53万）。ベースモデルのダウンロードは 96,527 のまま動いていない。",
+          "title": "Inkling 2 Mini が微増：GGUF ダウンロードが 53万件増加"
+        }
+      },
+      "is_new": false,
+      "level": "must",
+      "links": [
+        "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+        "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF"
+      ],
+      "sources": [
+        "Hugging Face"
+      ],
+      "title": "Inkling 2 Mini 微涨：GGUF 下载 +53 万",
+      "plugins": {
+        "momentum": {
+          "score": 31
+        }
+      }
+    },
+    {
+      "action": "仅记录：AI 重组裁员潮的社会观察。",
+      "body": "Bloomberg 原发，Reuters 等跟进：SAP 正考虑以 AI 为核心重组，裁员至少 10,000 人，约占全球 11.2 万员工的 9%，产品、工程、销售为重点；方案未定，数字可能随劳资谈判变化；2024 年 SAP 已有约 10,000 人重组，耗资约 32 亿欧元。",
+      "i18n": {
+        "en": {
+          "action": "Just record it: a social observation on the AI-restructuring layoff wave.",
+          "body": "First reported by Bloomberg, followed by Reuters and others: SAP is considering an AI-centred restructuring that would cut at least 10,000 jobs, about 9% of its 112,000-strong global workforce, with product, engineering, and sales in focus. The plan is not final and the number may change after labour negotiations; in 2024 SAP already restructured about 10,000 roles at a cost of roughly €3.2 billion.",
+          "title": "SAP weighs cutting at least 10,000 jobs in an AI restructuring"
+        },
+        "ja": {
+          "action": "記録のみ。AI による組織再編とレイオフの波についての社会観察。",
+          "body": "ブルームバーグの報道をロイターなどが追った。SAP は AI を中心とした組織再編を検討しており、少なくとも 10,000 人の削減を考えている。これは全世界の従業員 11万2,000 人の約 9% にあたり、製品、エンジニアリング、営業が中心となる。計画は未確定で、人数は労使交渉によって変わる可能性がある。2024 年にも SAP は約 10,000 人規模の再編を行い、約 32億ユーロを投じた。",
+          "title": "SAP が AI 再編で少なくとも 10,000 人の削減を検討"
+        }
+      },
+      "is_new": true,
+      "level": "watch",
+      "links": [
+        "https://www.reuters.com/technology/sap-considers-least-10000-job-cuts-ai-restructuring-bloomberg-reports-2026-11-26/",
+        "https://www.business-standard.com/companies/news/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring-126112601550_1.html"
+      ],
+      "sources": [
+        "Bloomberg",
+        "Reuters"
+      ],
+      "title": "SAP 拟裁至少 10,000 人，AI 重组",
+      "plugins": {
+        "momentum": {
+          "score": 36
+        }
+      }
+    },
+    {
+      "action": "仅记录：12 月 1 日拍卖前看法庭是否叫停。",
+      "body": "加州总检察长官方声明 + TechCrunch、Gizmodo：42 位州检察长联合反对 Character.AI 在破产拍卖中出售平台及 2,100 万+ 美国账户的私人聊天记录，其中 210 万+ 注册于未成年人，拍卖定于 12 月 1 日；唯一披露的竞标方 Smirks and Pangs（11 月 13 日注册，报价 1,000 万美元）；迪士尼 2,000 万美元授权交易此前也被反对。",
+      "i18n": {
+        "en": {
+          "action": "Just record it: watch whether the court blocks the sale before the December 1 auction.",
+          "body": "Per the California Attorney General's office, plus TechCrunch and Gizmodo: 42 state attorneys general are jointly opposing Character.AI's plan to sell its platform and the private chat histories of 21 million+ US accounts in a bankruptcy auction, including 2.1 million+ registered to minors; the auction is set for December 1. The only disclosed bidder is Smirks and Pangs (incorporated November 13, offering $10 million); Disney's $20 million licensing deal was previously opposed as well.",
+          "title": "42 state AGs move to block Character.AI's auction of users' private chats"
+        },
+        "ja": {
+          "action": "記録のみ。12月1日のオークションの前に裁判所が差し止めるかを見る。",
+          "body": "カリフォルニア州司法長官の公式発表と TechCrunch、Gizmodo によると、42 人の州司法長官が、Character.AI が破産オークションでプラットフォームと 2,100万人以上の米国アカウントのプライベートなチャット履歴を売却する計画に共同で反対している。そのうち 210万人以上が未成年者名義で、オークションは12月1日に予定されている。開示された唯一の入札者は Smirks and Pangs（11月13日設立、1,000万ドルを提示）。ディズニーの 2,000万ドルのライセンス契約も以前に反対された。",
+          "title": "42 州の司法長官が Character.AI のユーザー・チャット売却に反対"
+        }
+      },
+      "is_new": true,
+      "level": "watch",
+      "links": [
+        "https://oag.ca.gov/news/press-releases/attorney-general-bonta-opposes-asset-sale-characterai-amid-child-safety-concerns",
+        "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
+      ],
+      "sources": [
+        "California AG",
+        "TechCrunch",
+        "Gizmodo"
+      ],
+      "title": "Character.AI 拍卖用户聊天记录遭 42 州检察长反对",
+      "plugins": {
+        "momentum": {
+          "score": 41
+        }
+      }
+    },
+    {
+      "action": "仅记录：继续观察可行性质疑是否发酵。",
+      "body": "BBC、CNN、《卫报》新增报道与质疑文章；Mastodon 相关讨论 111–519 账号；首星 2027 年，10% 2035 年、50% 2038 年、全部 2040 年。",
+      "i18n": {
+        "en": {
+          "action": "Just record it: keep watching whether the feasibility doubts pick up.",
+          "body": "The BBC, CNN, and The Guardian added coverage and sceptical pieces; related discussion on Mastodon ran to 111–519 accounts; first satellite in 2027, 10% by 2035, 50% by 2038, all by 2040.",
+          "title": "SpaceX Starmind keeps fermenting: new coverage questions feasibility"
+        },
+        "ja": {
+          "action": "記録のみ。実現可能性への疑問が広がるかを引き続き見る。",
+          "body": "BBC、CNN、ガーディアンが報道と疑問を呈する記事を追加した。Mastodon での関連議論は 111〜519 アカウントにのぼった。初号機は 2027 年、10% が 2035 年、50% が 2038 年、全体が 2040 年の予定。",
+          "title": "SpaceX Starmind が引き続き発酵：新たな報道が実現可能性に疑問"
+        }
+      },
+      "is_new": false,
+      "level": "watch",
+      "links": [
+        "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+        "https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040"
+      ],
+      "sources": [
+        "BBC",
+        "CNN",
+        "The Guardian",
+        "Mastodon"
+      ],
+      "title": "SpaceX Starmind 继续发酵：新增报道质疑可行性",
+      "plugins": {
+        "momentum": {
+          "score": 46
+        }
+      }
+    },
+    {
+      "action": "仅记录。",
+      "body": "The Decoder 单源：微软披露国家支持的黑客正用 ARTEX AI 框架自动化网络攻击；ARTEX 11 月 17 日已报 FBI 警告（开源 AI 渗透测试框架被用于自动化攻击）。",
+      "i18n": {
+        "en": {
+          "action": "Just record it.",
+          "body": "Single source, The Decoder: Microsoft says state-backed hackers are using the ARTEX AI framework to automate cyberattacks; ARTEX was already reported on November 17 on an FBI warning (an open-source AI penetration-testing framework being used to automate attacks).",
+          "title": "Microsoft: state-backed hackers use ARTEX AI framework to automate attacks"
+        },
+        "ja": {
+          "action": "記録のみ。",
+          "body": "The Decoder の単独報道。Microsoft によると、国家の支援を受けたハッカーが ARTEX AI フレームワークを使ってサイバー攻撃を自動化している。ARTEX は11月17日に FBI の警告として既報（オープンソースの AI 侵入テスト・フレームワークが攻撃の自動化に使われている）。",
+          "title": "Microsoft：国家支援のハッカーが ARTEX AI フレームワークで攻撃を自動化"
+        }
+      },
+      "is_new": false,
+      "level": "echo",
+      "links": [
+        "https://the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks"
+      ],
+      "sources": [
+        "The Decoder"
+      ],
+      "title": "微软披露国家支持黑客用 ARTEX 框架自动化攻击",
+      "plugins": {
+        "momentum": {
+          "score": 31
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "MSFT"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
