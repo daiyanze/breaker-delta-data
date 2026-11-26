@@ -57,7 +57,7 @@
     {
       "name": "Anthropic IPO",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "sources": [
         "Reddit",
         "Google News",
@@ -75,7 +75,9 @@
         "MarketWatch",
         "Barron's",
         "The Wall Street Journal",
-        "X"
+        "X",
+        "Investor's Business Daily",
+        "Finnhub"
       ],
       "history": [
         {
@@ -132,6 +134,10 @@
         },
         {
           "date": "2026-11-25",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-26",
           "grade": "must"
         }
       ],
@@ -1352,7 +1358,7 @@
     {
       "name": "GPT-6.2 Astra and Sol",
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "sources": [
         "OpenAI 官方博客",
         "Hacker News",
@@ -1383,6 +1389,10 @@
         },
         {
           "date": "2026-11-25",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-26",
           "grade": "must"
         }
       ],
@@ -1815,7 +1825,7 @@
     {
       "name": "rust-anything",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "sources": [
         "GitHub"
       ],
@@ -1854,6 +1864,10 @@
         },
         {
           "date": "2026-11-25",
+          "grade": "watch"
+        },
+        {
+          "date": "2026-11-26",
           "grade": "watch"
         }
       ],
@@ -1927,7 +1941,7 @@
     {
       "name": "Gemini 4 Neon",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "sources": [
         "DeepMind 官方博客",
         "Hacker News",
@@ -1944,6 +1958,10 @@
         },
         {
           "date": "2026-11-25",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-26",
           "grade": "must"
         }
       ],
@@ -2451,7 +2469,7 @@
     {
       "name": "Thinking Machines Lab Inkling 2 Mini",
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "sources": [
         "Thinking Machines Lab",
         "Hugging Face",
@@ -2496,6 +2514,10 @@
         },
         {
           "date": "2026-11-25",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-26",
           "grade": "must"
         }
       ],
@@ -2661,7 +2683,7 @@
     {
       "name": "Leonida",
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "sources": [
         "GitHub",
         "Destructoid",
@@ -2704,6 +2726,10 @@
         },
         {
           "date": "2026-11-25",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-26",
           "grade": "must"
         }
       ],
@@ -2910,7 +2936,7 @@
     {
       "name": "fast-anything",
       "first_seen": "2026-11-22",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "sources": [
         "GitHub",
         "Hacker News"
@@ -2930,6 +2956,10 @@
         },
         {
           "date": "2026-11-25",
+          "grade": "watch"
+        },
+        {
+          "date": "2026-11-26",
           "grade": "watch"
         }
       ],
@@ -2989,7 +3019,7 @@
     {
       "name": "黄仁勋复职",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "sources": [
         "Hacker News",
         "CNBC",
@@ -3022,6 +3052,10 @@
         },
         {
           "date": "2026-11-25",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-26",
           "grade": "must"
         }
       ],
@@ -3663,17 +3697,24 @@
     {
       "name": "「Factoring in P」传闻",
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "sources": [
         "Hacker News",
         "X",
         "Reddit",
         "Google Research",
-        "OpenAI"
+        "OpenAI",
+        "Scott Aaronson",
+        "Cointelegraph",
+        "The Guardian"
       ],
       "history": [
         {
           "date": "2026-11-25",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-26",
           "grade": "must"
         }
       ],
@@ -3711,15 +3752,20 @@
     {
       "name": "1Password 安全事件",
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "sources": [
         "Hacker News",
         "TechCrunch",
-        "1Password"
+        "1Password",
+        "Lobsters"
       ],
       "history": [
         {
           "date": "2026-11-25",
+          "grade": "watch"
+        },
+        {
+          "date": "2026-11-26",
           "grade": "watch"
         }
       ],
@@ -3792,6 +3838,88 @@
         "result": null,
         "checked_on": null,
         "_first_seen": "2026-11-25"
+      }
+    },
+    {
+      "name": "Pax by Pydantic",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "sources": [
+        "Product Hunt",
+        "Pydantic"
+      ],
+      "history": [
+        {
+          "date": "2026-11-26",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-26"
+      }
+    },
+    {
+      "name": "NVIDIA Nemotron-Labs-Image-30B-A3B",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "sources": [
+        "Hugging Face",
+        "Reddit"
+      ],
+      "history": [
+        {
+          "date": "2026-11-26",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-26"
+      }
+    },
+    {
+      "name": "苹果 DepthPro2 / FastFrames-L",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "sources": [
+        "Hugging Face"
+      ],
+      "history": [
+        {
+          "date": "2026-11-26",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-26"
+      }
+    },
+    {
+      "name": "小米 MiMo-V2.6-Flash-MOPD",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "sources": [
+        "OpenRouter"
+      ],
+      "history": [
+        {
+          "date": "2026-11-26",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-26"
       }
     }
   ]

@@ -1,0 +1,295 @@
+{
+  "date": "2026-11-26",
+  "items": [
+    {
+      "action": "仅记录并追踪：仍是传闻，不要写确定性判断；等实验室或 Aaronson 拿出细节。",
+      "body": "Aaronson 11 月 25 日在博客正式发帖（此前只是评论区留言）：他称“几乎肯定”一家或两家实验室握有一枚或多枚密码学重磅炸弹，但具体性质“可能经传话失真”；同时把 P≠NP 成立的信心从 95% 上调至 96%，称首次感觉 P≠NP 的证明“可能不远了”。HN 上 Aaronson 博客帖冲至 1,459 分/1,269 评（早报时 377 分/239 评，约 4 倍），为当日最高。Ledger 首席技术官 Charles Guillemet 称还听到另外两则传闻：椭圆曲线密码（ECDSA）被破、Ring-LWE 有缺陷；Aaronson 本人未就 ECDSA 表态。Cointelegraph、CryptoBriefing、CryptoRank 等加密媒体跟进，《卫报》发评论文章。关键仍是：无任何公开证据，两家公司均未回应；Google 的因式分解论文仍是无条件 L_N[1/3] 时间，不等于多项式时间。",
+      "i18n": {
+        "en": {
+          "action": "Just record and track it: still a rumor, so don't write anything definitive. Wait for a lab or Aaronson to show details.",
+          "body": "On November 25, Aaronson posted formally on his blog (before this it was only a comment): he said he is \"virtually certain\" that one or both labs hold one or more cryptography bombshells, though their exact nature may have been \"distorted through a game of Telephone\"; he also raised his confidence that P ≠ NP holds from 95% to 96%, saying that for the first time he feels a proof of P ≠ NP \"might not be far off.\" On Hacker News, his blog post climbed to 1,459 points / 1,269 comments (377 / 239 in the morning report, about 4×), the day's top post. Ledger CTO Charles Guillemet said he has also heard two more rumors: elliptic-curve cryptography (ECDSA) broken, and a flaw in Ring-LWE; Aaronson himself has not commented on ECDSA. Crypto outlets including Cointelegraph, CryptoBriefing, and CryptoRank picked it up, and The Guardian ran an opinion piece. The key point stands: there is no public evidence, neither company has responded, and Google's factoring paper is still unconditional L_N[1/3] time — not polynomial time.",
+          "title": "\"Factoring in P\" rumor flares again: Aaronson posts that labs \"almost certainly\" hold cryptography bombshells; HN thread at 1,459 points"
+        },
+        "ja": {
+          "action": "記録して追跡するのみ。依然として噂のため、断定的な判断は書かない。研究所または Aaronson が詳細を示すのを待つ。",
+          "body": "Aaronson は11月25日、ブログに正式に投稿した（それまではコメント欄の書き込みだけだった）。1社または2社の研究所が暗号に関する重大な成果を1つ以上握っていることは「ほぼ確実」だが、その正確な内容は「伝言ゲームで歪んでいる可能性がある」と述べた。同時に、P≠NP が成り立つ確信を 95% から 96% に引き上げ、P≠NP の証明が「遠くないかもしれない」と初めて感じたという。Hacker News では同投稿が 1,459 ポイント/1,269 コメントまで上昇し（朝刊時は 377/239 で約4倍）、当日トップとなった。Ledger の CTO である Charles Guillemet は、さらに2つの噂も聞いたという。楕円曲線暗号（ECDSA）が破られたこと、Ring-LWE に欠陥があることだ。Aaronson 本人は ECDSA について言及していない。Cointelegraph、CryptoBriefing、CryptoRank などの暗号メディアが取り上げ、ガーディアンも論説を掲載した。重要な点は変わらない。公開された証拠はなく、両社とも回答していない。Google の因数分解論文も依然として無条件の L_N[1/3] 時間であり、多項式時間ではない。",
+          "title": "「Factoring in P」の噂が再燃：Aaronson が研究所は暗号の重大成果を「ほぼ確実に」握ると投稿、HN は 1,459 ポイント"
+        }
+      },
+      "is_new": false,
+      "level": "must",
+      "links": [
+        "https://scottaaronson.blog/?p=10379",
+        "https://news.ycombinator.com/item?id=50646108",
+        "https://cointelegraph.com/news/ai-labs-likely-sitting-on-cryptography-bombshells-computer-scientist-says"
+      ],
+      "sources": [
+        "Hacker News",
+        "X",
+        "Scott Aaronson",
+        "Cointelegraph",
+        "The Guardian"
+      ],
+      "title": "「Factoring in P」传闻再发酵：Aaronson 正式发帖称实验室“几乎肯定”握有密码学重磅炸弹，HN 主帖 1,459 分",
+      "plugins": {
+        "momentum": {
+          "score": 51
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "GOOGL"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "action": "仅记录：等一个真能跑起来的版本再深入。",
+      "body": "VIctory 12,499→12,842 stars（2 天，日均 6,421）；集群继续扩：Belobug 的 AMD 版 0 天 1,700 stars，victory-fork 1 天 3,164 stars，leonida 续作 2 天 2,398 stars，portwatch-vi 3,877→4,662 stars，xcl 8,273→8,399 stars。仍未见可启动的版本。",
+      "i18n": {
+        "en": {
+          "action": "Just record it: wait for a version that actually boots before digging in.",
+          "body": "VIctory went from 12,499 to 12,842 stars (2 days, 6,421 per day); the cluster keeps growing: Belobug's AMD build hit 1,700 stars on day zero, victory-fork 3,164 stars in 1 day, the leonida sequel 2,398 stars in 2 days, portwatch-vi 3,877 to 4,662 stars, and xcl 8,273 to 8,399 stars. Still no version that boots.",
+          "title": "Leonida cluster keeps climbing: VIctory at 12,842 stars, AMD build at 1,700 stars on day zero"
+        },
+        "ja": {
+          "action": "記録のみ。実際に起動する版が出てから深掘りする。",
+          "body": "VIctory は 12,499 から 12,842 スターへ（2日間、1日あたり 6,421）。クラスターはさらに拡大している。Belobug の AMD 版は初日で 1,700 スター、victory-fork は1日で 3,164 スター、leonida の続編は2日で 2,398 スター、portwatch-vi は 3,877 から 4,662 スター、xcl は 8,273 から 8,399 スターとなった。起動できる版は依然として見当たらない。",
+          "title": "Leonida クラスターがさらに拡大：VIctory は 12,842 スター、AMD 版は初日で 1,700 スター"
+        }
+      },
+      "is_new": false,
+      "level": "must",
+      "links": [
+        "https://github.com/Marvisak/VIctory",
+        "https://github.com/4lwayz/portwatch-vi",
+        "https://github.com/xcl-dev/xcl"
+      ],
+      "sources": [
+        "GitHub"
+      ],
+      "title": "Leonida 集群继续涨：VIctory 12,842 stars，AMD 版 0 天 1,700 stars",
+      "plugins": {
+        "momentum": {
+          "score": 31
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "AMD"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "action": "仅记录：等周五开盘看能否站稳 $83。",
+      "body": "周三收 $82.79，涨 1.1%（周二收 $81.91）；盘中最低 $73.85（较发行价低 11%）、最高 $85.92，振幅约 16%；按 $75.65 对应 1 万亿美元市值计，盘中一度跌破万亿线，收盘市值约 $1.11T，守住了；盘后 $84.25，回到 $83 发行价上方。周四感恩节美股休市，无新价。另：Amodei 回应 Axios，称“交出人类自由意志”的指控“荒谬”；Axios 另曝员工担心未发布模型太不安全而不宜发布。",
+      "i18n": {
+        "en": {
+          "action": "Just record it: wait for Friday's open to see whether it can hold $83.",
+          "body": "It closed Wednesday at $82.79, up 1.1% (Tuesday's close was $81.91); intraday low $73.85 (11% below the offer price), high $85.92, a swing of about 16%. At $75.65 a share the market value is $1 trillion, so it briefly fell below the trillion line intraday, but the close put the market value at about $1.11T — it held. After hours it was $84.25, back above the $83 offer price. US markets are closed Thursday for Thanksgiving, so there is no new price. Also: Amodei answered Axios, calling the accusation of \"surrendering human free will\" \"absurd\"; Axios separately reported employees fear unreleased models are too unsafe to release.",
+          "title": "Anthropic closes Wednesday at $82.79: briefly fell below the $1 trillion line intraday, then held it"
+        },
+        "ja": {
+          "action": "記録のみ。金曜日の寄り付きで 83 ドルを維持できるかを見る。",
+          "body": "水曜日は 82.79 ドルで引け、前日比 1.1% 高（火曜日は 81.91 ドル）。場中の安値は 73.85 ドル（公開価格より 11% 安）、高値は 85.92 ドルで、振れ幅は約 16%。75.65 ドルが時価総額1兆ドルに相当するため、場中は一時1兆ドルを割ったが、終値での時価総額は約 1.11兆ドルで維持した。時間外では 84.25 ドルとなり、公開価格 83 ドルを上回った。木曜日は感謝祭で米市場は休場のため、新しい株価はない。その他、Amodei は Axios に対し「人類の自由意志を明け渡す」との批判を「ばかげている」と反論した。Axios は別に、従業員が未公開モデルは安全でなく公開すべきでないと懸念していると報じた。",
+          "title": "Anthropic は水曜日に 82.79 ドルで引け：場中に一時1兆ドルを割るも終値で維持"
+        }
+      },
+      "is_new": false,
+      "level": "must",
+      "links": [
+        "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-wild-ride-nasdaq-nvidia-slash-losses-anthropic-higher/",
+        "https://aistockwire.com/blog/anthropic-ant-stock-climbs-back-above-83-ipo-price-cathie-wood-ark-november-2026"
+      ],
+      "sources": [
+        "Barron's",
+        "Investor's Business Daily",
+        "Finnhub"
+      ],
+      "title": "Anthropic 周三收 $82.79：盘中一度跌破万亿市值线，收盘守住",
+      "plugins": {
+        "momentum": {
+          "score": 87
+        }
+      }
+    },
+    {
+      "action": "写 tweet 候选：付费用户体感变化，适合一条短评。",
+      "body": "OpenAI 承认 GPT-6.2 上线时计费出错，多给了折扣，现已修正：同样工作量下，Astra 消耗计划额度比上周快 40%，Sol 快 25%；过往用量不补扣，Go/Plus/Pro/Business 用户各补一次额度重置。@thsottiaux 的帖子 11 月 26 日早 6:50 发出，200 万浏览、1.1 万 likes；HN 212 分/106 评。另一边：GPT-6.2 Astra 在 code golf 基准上首次打破 Google 员工纪录，HN 365 分/103 评。",
+      "i18n": {
+        "en": {
+          "action": "Tweet candidate: a change paying users will feel — good for one short comment.",
+          "body": "OpenAI admitted a billing error at the GPT-6.2 launch that gave too big a discount, now fixed: for the same work, Astra burns plan allowance 40% faster than last week, and Sol 25% faster. Past usage will not be back-charged, and Go / Plus / Pro / Business users each get one extra allowance reset. The post by @thsottiaux, published at 6:50 a.m. on November 26, has 2 million views and 11,000 likes; Hacker News gave it 212 points / 106 comments. Meanwhile, GPT-6.2 Astra became the first model to beat Googlers' code golf records, at 365 points / 103 comments on Hacker News.",
+          "title": "GPT-6.2 billing blunder: Astra burns plan allowance 40% faster; also breaks a code golf record"
+        },
+        "ja": {
+          "action": "ツイート候補：有料ユーザーの体感が変わる話で、短いコメント1件に適している。",
+          "body": "OpenAI は GPT-6.2 の提供開始時に請求の誤りがあり、割引が大きすぎたことを認め、修正済みだ。同じ作業量でも、Astra は先週より 40% 速く、Sol は 25% 速くプランの利用枠を消費する。過去の利用分は追加請求されず、Go/Plus/Pro/Business のユーザーには利用枠のリセットが1回ずつ追加される。@thsottiaux の投稿は11月26日午前6時50分に公開され、200万回表示、1.1万いいねを得た。Hacker News では 212 ポイント/106 コメントだった。一方、GPT-6.2 Astra はコードゴルフのベンチマークで初めて Google 社員の記録を破り、Hacker News で 365 ポイント/103 コメントとなった。",
+          "title": "GPT-6.2 の請求ミス：Astra は利用枠の消費が 40% 速く、コードゴルフ記録も更新"
+        }
+      },
+      "is_new": false,
+      "level": "watch",
+      "links": [
+        "https://twitter.com/thsottiaux/status/2125784147889393806",
+        "https://bjin.github.io/go-codegolf-benchmark/#leaderboard"
+      ],
+      "sources": [
+        "X",
+        "Hacker News"
+      ],
+      "title": "GPT-6.2 计费乌龙：Astra 额度消耗快 40%，另破 code golf 纪录",
+      "plugins": {
+        "momentum": {
+          "score": 36
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "GOOGL"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "action": "立项观察：值得装来试一次，与 Claude Code 对比。",
+      "body": "Pydantic 11 月 25 日发布 Pax（`pydantic-ai-pax`，PyPI 0.75.0），Pydantic AI 的官方终端 coding agent：基于 Pydantic AI Harness，coding agent、沙箱、MCP、Logfire 追踪全是插件；`--agent` 可跑自己的 Pydantic AI agent，可换任意模型；可导入 Claude Code 与 Codex 对话。Harness 1.0 预计约一个月后发布。Product Hunt 当日上线。",
+      "i18n": {
+        "en": {
+          "action": "Worth a trial install: try it once and compare with Claude Code.",
+          "body": "On November 25, Pydantic released Pax (`pydantic-ai-pax`, PyPI 0.75.0), the official terminal coding agent for Pydantic AI. Built on the Pydantic AI Harness, it treats the coding agent, sandboxes, MCP, and Logfire tracing all as plugins; `--agent` runs your own Pydantic AI agent, any model can be swapped in, and Claude Code and Codex conversations can be imported. Harness 1.0 is expected in about a month. It launched on Product Hunt the same day.",
+          "title": "Pax by Pydantic: the official terminal coding agent, everything a plugin"
+        },
+        "ja": {
+          "action": "試しに導入して、Claude Code と比較する価値がある。",
+          "body": "Pydantic は11月25日、Pax（`pydantic-ai-pax`、PyPI 0.75.0）を公開した。Pydantic AI の公式ターミナル・コーディングエージェントで、Pydantic AI Harness を基盤とする。コーディングエージェント、サンドボックス、MCP、Logfire トレーシングはすべてプラグインだ。`--agent` で自分の Pydantic AI エージェントを実行でき、任意のモデルに切り替えられ、Claude Code や Codex の会話をインポートできる。Harness 1.0 は約1か月後に公開予定。同日 Product Hunt にも登場した。",
+          "title": "Pax by Pydantic：公式ターミナル・コーディングエージェント、すべてがプラグイン"
+        }
+      },
+      "is_new": true,
+      "level": "watch",
+      "links": [
+        "https://pydantic.dev/articles/pax-harness-beta",
+        "https://www.producthunt.com/products/pydantic"
+      ],
+      "sources": [
+        "Product Hunt",
+        "Pydantic"
+      ],
+      "title": "Pax by Pydantic：官方终端 coding agent，全部插件化",
+      "plugins": {
+        "momentum": {
+          "score": 36
+        }
+      }
+    },
+    {
+      "action": "仅记录：等官方说明与实测再看。",
+      "body": "NVIDIA 在 Hugging Face 上架 Nemotron-Labs-Image-30B-A3B 开源权重（30B 参数图像模型），未见官方公告；HF likes 207、下载 218，刚上架；r/LocalLLaMA 当日 recap 置顶提及。",
+      "i18n": {
+        "en": {
+          "action": "Just record it: wait for an official note and hands-on tests.",
+          "body": "NVIDIA put open weights for Nemotron-Labs-Image-30B-A3B (a 30B-parameter image model) on Hugging Face, with no official announcement seen; it has 207 likes and 218 downloads on HF, just listed; the day's r/LocalLLaMA recap features it at the top.",
+          "title": "NVIDIA quietly open-sources weights for Nemotron-Labs-Image-30B-A3B"
+        },
+        "ja": {
+          "action": "記録のみ。公式の説明と実測を待つ。",
+          "body": "NVIDIA は Nemotron-Labs-Image-30B-A3B（300億パラメーターの画像モデル）のオープンウェイトを Hugging Face に公開したが、公式発表は見当たらない。HF ではいいね 207、ダウンロード 218 で、公開されたばかりだ。当日の r/LocalLLaMA の recap でもトップで取り上げられている。",
+          "title": "NVIDIA が Nemotron-Labs-Image-30B-A3B の重みをひっそり公開"
+        }
+      },
+      "is_new": true,
+      "level": "watch",
+      "links": [
+        "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B",
+        "https://www.aitopic.com/ainews-ai-assisted-math-proofs-land-including-claimed-tight-94-bound.html"
+      ],
+      "sources": [
+        "Hugging Face",
+        "Reddit"
+      ],
+      "title": "NVIDIA Nemotron-Labs-Image-30B-A3B 悄悄开源权重",
+      "plugins": {
+        "momentum": {
+          "score": 36
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "NVDA"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "action": "仅记录。",
+      "body": "苹果在 HF 上架 DepthPro2（深度估计，likes 1,264，下载 0，刚上架）与 FastFrames-L（视频帧相关，likes 633）。单源。",
+      "i18n": {
+        "en": {
+          "action": "Just record it.",
+          "body": "Apple listed DepthPro2 (depth estimation, 1,264 likes, 0 downloads, just listed) and FastFrames-L (video-frame related, 633 likes) on HF. Single source.",
+          "title": "Apple drops two new models: DepthPro2 and FastFrames-L land on HF"
+        },
+        "ja": {
+          "action": "記録のみ。",
+          "body": "Apple は DepthPro2（深度推定、いいね 1,264、ダウンロード 0、公開直後）と FastFrames-L（動画フレーム関連、いいね 633）を HF に公開した。単一の情報源。",
+          "title": "Apple が新モデル 2 件を公開：DepthPro2 と FastFrames-L が HF に登場"
+        }
+      },
+      "is_new": true,
+      "level": "echo",
+      "links": [
+        "https://huggingface.co/apple/DepthPro2",
+        "https://huggingface.co/apple/FastFrames-L"
+      ],
+      "sources": [
+        "Hugging Face"
+      ],
+      "title": "苹果连发两个新模型：DepthPro2 与 FastFrames-L 上架 HF",
+      "plugins": {
+        "momentum": {
+          "score": 31
+        }
+      }
+    },
+    {
+      "action": "仅记录。",
+      "body": "小米 MiMo-V2.6-Flash-MOPD 11 月 23 日上架 OpenRouter，上下文 1,048,576 tokens，输入 $0.50/百万 tokens。单源。",
+      "i18n": {
+        "en": {
+          "action": "Just record it.",
+          "body": "Xiaomi's MiMo-V2.6-Flash-MOPD was listed on OpenRouter on November 23, with a 1,048,576-token context and $0.50 per million input tokens. Single source.",
+          "title": "Xiaomi MiMo-V2.6-Flash-MOPD lands on OpenRouter with a million-token context"
+        },
+        "ja": {
+          "action": "記録のみ。",
+          "body": "Xiaomi の MiMo-V2.6-Flash-MOPD は11月23日に OpenRouter に掲載され、コンテキストは 1,048,576 トークン、入力は 100万トークンあたり 0.50 ドル。単一の情報源。",
+          "title": "Xiaomi の MiMo-V2.6-Flash-MOPD が OpenRouter に登場：100万トークンのコンテキスト"
+        }
+      },
+      "is_new": true,
+      "level": "echo",
+      "links": [
+        "https://openrouter.ai/xiaomi/mimo-v2.6-flash-mopd"
+      ],
+      "sources": [
+        "OpenRouter"
+      ],
+      "title": "小米 MiMo-V2.6-Flash-MOPD 上架 OpenRouter：百万上下文",
+      "plugins": {
+        "momentum": {
+          "score": 31
+        }
+      }
+    }
+  ]
+}
