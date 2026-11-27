@@ -3,7 +3,7 @@
     {
       "name": "DeepSeek dsh-superagent + V4.1-Flash-1017",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-27",
       "sources": [
         "GitHub",
         "Hugging Face"
@@ -23,6 +23,10 @@
         },
         {
           "date": "2026-11-25",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-27",
           "grade": "must"
         }
       ],
@@ -57,7 +61,7 @@
     {
       "name": "Anthropic IPO",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "sources": [
         "Reddit",
         "Google News",
@@ -138,6 +142,10 @@
         },
         {
           "date": "2026-11-26",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-27",
           "grade": "must"
         }
       ],
@@ -1082,12 +1090,13 @@
     {
       "name": "FBI 警告 Artex AI 黑客工具",
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "sources": [
         "TechCrunch",
         "The Register",
         "AWS",
-        "The Decoder"
+        "The Decoder",
+        "The Hacker News"
       ],
       "history": [
         {
@@ -1096,6 +1105,10 @@
         },
         {
           "date": "2026-11-26",
+          "grade": "echo"
+        },
+        {
+          "date": "2026-11-27",
           "grade": "echo"
         }
       ],
@@ -1522,7 +1535,7 @@
     {
       "name": "Qwen3.8 模型家族",
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-27",
       "sources": [
         "Hugging Face"
       ],
@@ -1545,6 +1558,10 @@
         },
         {
           "date": "2026-11-25",
+          "grade": "watch"
+        },
+        {
+          "date": "2026-11-27",
           "grade": "watch"
         }
       ],
@@ -1829,7 +1846,7 @@
     {
       "name": "rust-anything",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "sources": [
         "GitHub"
       ],
@@ -1872,6 +1889,10 @@
         },
         {
           "date": "2026-11-26",
+          "grade": "watch"
+        },
+        {
+          "date": "2026-11-27",
           "grade": "watch"
         }
       ],
@@ -2396,7 +2417,7 @@
     {
       "name": "黎曼猜想证明声称（Claude 参与）",
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-27",
       "sources": [
         "Hacker News",
         "Scientific American",
@@ -2461,6 +2482,10 @@
         {
           "date": "2026-11-25",
           "grade": "watch"
+        },
+        {
+          "date": "2026-11-27",
+          "grade": "watch"
         }
       ],
       "review": {
@@ -2473,7 +2498,7 @@
     {
       "name": "Thinking Machines Lab Inkling 2 Mini",
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "sources": [
         "Thinking Machines Lab",
         "Hugging Face",
@@ -2526,6 +2551,10 @@
         },
         {
           "date": "2026-11-26",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-27",
           "grade": "must"
         }
       ],
@@ -2691,7 +2720,7 @@
     {
       "name": "Leonida",
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "sources": [
         "GitHub",
         "Destructoid",
@@ -2742,6 +2771,10 @@
         },
         {
           "date": "2026-11-26",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-27",
           "grade": "must"
         }
       ],
@@ -2948,7 +2981,7 @@
     {
       "name": "fast-anything",
       "first_seen": "2026-11-22",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "sources": [
         "GitHub",
         "Hacker News"
@@ -2972,6 +3005,10 @@
         },
         {
           "date": "2026-11-26",
+          "grade": "watch"
+        },
+        {
+          "date": "2026-11-27",
           "grade": "watch"
         }
       ],
@@ -3171,11 +3208,12 @@
     {
       "name": "Ladybird 进入 alpha",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-27",
       "sources": [
         "Hacker News",
         "Lobsters",
-        "Bluesky"
+        "Bluesky",
+        "Ars Technica"
       ],
       "history": [
         {
@@ -3188,6 +3226,10 @@
         },
         {
           "date": "2026-11-25",
+          "grade": "watch"
+        },
+        {
+          "date": "2026-11-27",
           "grade": "watch"
         }
       ],
@@ -3335,7 +3377,7 @@
     {
       "name": "Tidal 禁 AI 生成音乐",
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-27",
       "sources": [
         "TechCrunch",
         "The Verge",
@@ -3358,6 +3400,10 @@
         },
         {
           "date": "2026-11-25",
+          "grade": "watch"
+        },
+        {
+          "date": "2026-11-27",
           "grade": "watch"
         }
       ],
@@ -3709,7 +3755,7 @@
     {
       "name": "「Factoring in P」传闻",
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "sources": [
         "Hacker News",
         "X",
@@ -3720,7 +3766,8 @@
         "Cointelegraph",
         "The Guardian",
         "Ars Technica",
-        "The Decoder"
+        "The Decoder",
+        "Lobsters"
       ],
       "history": [
         {
@@ -3733,6 +3780,10 @@
         },
         {
           "date": "2026-11-26",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-27",
           "grade": "must"
         }
       ],
@@ -3746,7 +3797,7 @@
     {
       "name": "SpaceX Starmind",
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "sources": [
         "Reuters",
         "The Wall Street Journal",
@@ -3756,7 +3807,8 @@
         "BBC",
         "CNN",
         "The Guardian",
-        "Mastodon"
+        "Mastodon",
+        "The Decoder"
       ],
       "history": [
         {
@@ -3765,6 +3817,10 @@
         },
         {
           "date": "2026-11-26",
+          "grade": "watch"
+        },
+        {
+          "date": "2026-11-27",
           "grade": "watch"
         }
       ],
@@ -3778,7 +3834,7 @@
     {
       "name": "1Password 安全事件",
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "sources": [
         "Hacker News",
         "TechCrunch",
@@ -3793,6 +3849,10 @@
         {
           "date": "2026-11-26",
           "grade": "watch"
+        },
+        {
+          "date": "2026-11-27",
+          "grade": "must"
         }
       ],
       "review": {
@@ -3951,7 +4011,7 @@
     {
       "name": "Nvidia 暂停向东南亚发货 AI 服务器",
       "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "sources": [
         "Financial Times",
         "TechCrunch",
@@ -3960,6 +4020,10 @@
       "history": [
         {
           "date": "2026-11-26",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-27",
           "grade": "must"
         }
       ],
@@ -3973,7 +4037,7 @@
     {
       "name": "SAP 拟裁员 10,000+ 人",
       "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "sources": [
         "Bloomberg",
         "Reuters"
@@ -3981,6 +4045,10 @@
       "history": [
         {
           "date": "2026-11-26",
+          "grade": "watch"
+        },
+        {
+          "date": "2026-11-27",
           "grade": "watch"
         }
       ],
@@ -3994,15 +4062,20 @@
     {
       "name": "Character.AI 拍卖用户聊天记录",
       "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "sources": [
         "California AG",
         "TechCrunch",
-        "Gizmodo"
+        "Gizmodo",
+        "Business Insider"
       ],
       "history": [
         {
           "date": "2026-11-26",
+          "grade": "watch"
+        },
+        {
+          "date": "2026-11-27",
           "grade": "watch"
         }
       ],
@@ -4011,6 +4084,132 @@
         "result": null,
         "checked_on": null,
         "_first_seen": "2026-11-26"
+      }
+    },
+    {
+      "name": "Claude Opus 5.6 A/B 测试传闻",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "sources": [
+        "X",
+        "TestingCatalog",
+        "Hacker News"
+      ],
+      "history": [
+        {
+          "date": "2026-11-27",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-27"
+      }
+    },
+    {
+      "name": "Axios：内部未发布模型可能无法安全发布",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "sources": [
+        "Axios",
+        "The Decoder",
+        "Decrypt"
+      ],
+      "history": [
+        {
+          "date": "2026-11-27",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-27"
+      }
+    },
+    {
+      "name": "Google Workspace MCP 服务器",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "sources": [
+        "Hacker News"
+      ],
+      "history": [
+        {
+          "date": "2026-11-27",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-27"
+      }
+    },
+    {
+      "name": "Moat",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "sources": [
+        "Hacker News"
+      ],
+      "history": [
+        {
+          "date": "2026-11-27",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-27"
+      }
+    },
+    {
+      "name": "“AI 在背后议论你”提示词",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "sources": [
+        "Hacker News"
+      ],
+      "history": [
+        {
+          "date": "2026-11-27",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-27"
+      }
+    },
+    {
+      "name": "GPT-6.2 计费乌龙",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "sources": [
+        "X",
+        "Hacker News",
+        "BleepingComputer"
+      ],
+      "history": [
+        {
+          "date": "2026-11-27",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-27"
       }
     }
   ]

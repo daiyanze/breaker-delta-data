@@ -768,3 +768,30 @@
 - fast-anything | 2026-11-23 早报 | 2026-11-27 早报 | GitHub | 👀→👀（涨：3,924→4,205 stars，5 天日均 841；单源） | 待复盘
 - 其余在册话题 | 各首次发现时间见上文 | 2026-11-27 早报 | 见上文 | 平，无新动静（Gemini 4 Carbon/Hydrogen、Claude Fable 5.2 / Mythos 5.2、Gemini Decisions API、HD Moore 金丝雀实验、美国收紧 AI 芯片远程访问管制、加州总检察长起诉 OpenAI、美国多家大银行在线服务中断、弗吉尼亚与俄勒冈两州起诉 SpaceX、Shirudo、Replit Missions、亚马逊收购 Decart、Claude Artifacts 桌面应用、MCP、Ternary Bonsai 2.5、Epochal、MiniMax H3-Image、Check Point 入侵、Ladybird、Kagi Mail、Claude Ship、Qwen4-Max Preview、GPT-6.2 Astra and Sol、GLM-5.4、Tidal 禁 AI 生成音乐、Meta Muse 进 Instagram DM、Pax by Pydantic、NVIDIA Nemotron-Labs-Image-30B-A3B、苹果 DepthPro2/FastFrames-L、Upstage Solar 4.5、SenseNova-Loop-9B 未见新消息） | 待复盘
 - 本期观察到但未入选正文 | 2026-11-27 早报 | 2026-11-27 早报 | Hacker News, GitHub | —（Moat：OpenRouter 替代品，HN 214 分/124 评，单源；Minipg：单文件 PostgreSQL 可执行文件，HN 277 分，单源；llama.cpp v1.1.0 发布，单源；OpenAI 合并 Chat 与 Work、重度用户更快触限，TechCrunch 单源；中国首部 AI 生成电影，《经济学人》单源） | 待复盘
+
+## 2026-11-27 晚报（18:00 JST）
+- Leonida | 2026-11-22 早报 | 2026-11-27 晚报 | GitHub | 🔥→🔥（涨：VIctory 13,248→13,548 stars；Belobug AMD 版约 3,600（早报 2,417，半天涨约 1,200）；portwatch-vi 约 6,100（早报 5,556）；victory-fork 约 3,300（早报 3,264）；7900XTX 版约 1,900（早报 1,819）；xcl 约 8,600（早报 8,577）；仍不能启动；GitHub 页面星标为约数显示） | 待复盘
+- 「Factoring in P」传闻 | 2026-11-26 早报 | 2026-11-27 晚报 | Hacker News, Lobsters | 🔥→🔥（涨：Aaronson 博客帖 HN 1,933→2,016 分/1,769→1,850 评，已不在首页前 30；Lobsters 新帖：GRH 精简 Lean 证明从 1,700 万行到 7.6 万行；仍无公开证据） | 待复盘
+- 1Password 安全事件 | 2026-11-26 早报 | 2026-11-27 晚报 | Hacker News, 1Password, TechCrunch | 👀→🔥（升级：HN 715→1,661 分/296→712 评，仍居首页；新增细节：攻击者还复制了部分私有源代码） | 待复盘
+- Claude Opus 5.6 A/B 测试传闻 | 2026-11-27 晚报 | 2026-11-27 晚报 | X, TestingCatalog, Hacker News | 🆕👀（11 月 24–25 日：多位 X 测试者称部分请求经“Opus 5.5 Extra”路由，输出明显强于 Opus 5.5；Anthropic 未确认，无模型 ID/价格/日期） | 待复盘
+- Axios：内部未发布模型可能无法安全发布 | 2026-11-27 晚报 | 2026-11-27 晚报 | Axios, The Decoder, Decrypt | 🆕👀（11 月 24 日 Axios，20 多位知情人士；本雷达 11 月 25–26 日两期均未收录，本次网页补扫补获） | 待复盘
+- Google Workspace MCP 服务器 | 2026-11-27 晚报 | 2026-11-27 晚报 | Hacker News | 🆕🌱（单源：HN 323 分/289 评；Gmail 的 MCP 不能发邮件） | 待复盘
+- Moat | 2026-11-27 晚报 | 2026-11-27 晚报 | Hacker News | 🆕🌱（单源：HN 214→281 分/124→155 评；OpenRouter 替代品） | 待复盘
+- “AI 在背后议论你”提示词 | 2026-11-27 晚报 | 2026-11-27 晚报 | Hacker News | 🆕🌱（单源：HN 158 分/55 评，2 小时内冲到首页第一） | 待复盘
+- Nvidia 暂停向东南亚发货 AI 服务器 | 2026-11-27 早报 | 2026-11-27 晚报 | Financial Times, TechCrunch, Reuters | 🔥→🔥（平：美股未开盘，无新价；标普下调评级考虑仍是 11 月 25 日消息） | 待复盘
+- Anthropic IPO | 2026-11-11 试点早报 | 2026-11-27 晚报 | Reuters, Google News | 🔥→🔥（平：感恩节休市后周五未开盘，无新价） | 待复盘
+- Thinking Machines Lab Inkling 2 Mini | 2026-11-21 早报 | 2026-11-27 晚报 | Hugging Face | 🔥→🔥（微涨：HF likes 6,222→6,337，下载 96,527 未动） | 待复盘
+- Qwen3.8 模型家族 | 2026-11-13 早报 | 2026-11-27 晚报 | Hugging Face | 👀→👀（微涨：Qwen3.8-27B likes 21,857→21,880） | 待复盘
+- DeepSeek dsh-superagent + V4.1-Flash-1017 | 2026-11-12 晚报 | 2026-11-27 晚报 | Hugging Face | 🔥→🔥（微涨：V4.1-Flash-1017 HF likes 6,760→6,773，下载 550,396 未动） | 待复盘
+- rust-anything | 2026-11-19 早报 | 2026-11-27 晚报 | GitHub | 👀→👀（微涨：约 10,500 stars，早报 10,136；单源） | 待复盘
+- fast-anything | 2026-11-23 早报 | 2026-11-27 晚报 | GitHub | 👀→👀（微涨：约 4,300 stars，早报 4,205；单源） | 待复盘
+- Ladybird 进入 alpha | 2026-11-24 早报 | 2026-11-27 晚报 | Hacker News, Ars Technica, Bluesky | 👀→👀（微涨：Ars 评测进 HN 榜 + Simon Willison 试用；已不在首页前 30） | 待复盘
+- FBI 警告 Artex AI 黑客工具 | 2026-11-17 早报 | 2026-11-27 晚报 | The Decoder, The Hacker News | 🌱→🌱（涨：瑞士确认 AI 辅助网络攻击攻破关键基础设施运营商；单源） | 待复盘
+- SAP 拟裁员 10,000+ 人 | 2026-11-27 早报 | 2026-11-27 晚报 | Bloomberg, Reuters | 👀→👀（平：仍在 Google News，无新数字） | 待复盘
+- Character.AI 拍卖用户聊天记录 | 2026-11-27 早报 | 2026-11-27 晚报 | TechCrunch, Business Insider | 👀→👀（平：Business Insider 跟进，无新数字） | 待复盘
+- SpaceX Starmind | 2026-11-26 早报 | 2026-11-27 晚报 | BBC, CNN, The Decoder | 👀→👀（平：CNN、The Decoder 仍在报道，无新数字） | 待复盘
+- 黎曼猜想证明声称（Claude 参与） | 2026-11-21 早报 | 2026-11-27 晚报 | Ars Technica, Scientific American | 👀→👀（平：SciAm 新文称证明“苦乐参半”；Nielsen 质疑仍无回应，克雷仍列未解） | 待复盘
+- Tidal 禁 AI 生成音乐 | 2026-11-25 早报 | 2026-11-27 晚报 | TechCrunch, The Verge, Ars Technica | 👀→👀（平：仍在多源发酵，12 月 9 日删除不变） | 待复盘
+- GPT-6.2 计费乌龙 | 2026-11-18 早报 | 2026-11-27 晚报 | X, Hacker News, BleepingComputer | 👀→👀（平：BleepingComputer 仍在报道 Astra 额度消耗快 40%） | 待复盘
+- 其余在册话题 | 各首次发现时间见上文 | 2026-11-27 晚报 | 见上文 | 平，无新动静（Gemini 4 Carbon/Hydrogen、Claude Fable 5.2 / Mythos 5.2、Gemini Decisions API、HD Moore 金丝雀实验、美国收紧 AI 芯片远程访问管制、加州总检察长起诉 OpenAI、美国多家大银行在线服务中断、弗吉尼亚与俄勒冈两州起诉 SpaceX、Shirudo、Replit Missions、亚马逊收购 Decart、Claude Artifacts 桌面应用、MCP、Ternary Bonsai 2.5、Epochal、MiniMax H3-Image、Check Point 入侵、Kagi Mail、Claude Ship、Qwen4-Max Preview、GPT-6.2 Astra and Sol、GLM-5.4、Meta Muse 进 Instagram DM、Pax by Pydantic、NVIDIA Nemotron-Labs-Image-30B-A3B、苹果 DepthPro2/FastFrames-L、Upstage Solar 4.5、SenseNova-Loop-9B 未见新消息） | 待复盘
+- 本期观察到但未入选正文 | 2026-11-27 晚报 | 2026-11-27 晚报 | Mistral 官方博客 | —（Mistral Large 4 “Le Chonk”权重早在 10 月 29 日已开源、Voxtral 3 为 10 月 20 日、Timestral 为 10 月 16 日发布，均非新消息；本雷达 10 月底未收录 Le Chonk，属覆盖缺口，不作 🆕 报道） | 待复盘
