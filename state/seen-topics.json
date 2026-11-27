@@ -28,6 +28,10 @@
         {
           "date": "2026-11-27",
           "grade": "must"
+        },
+        {
+          "date": "2026-11-27",
+          "grade": "must"
         }
       ],
       "review": {
@@ -81,7 +85,8 @@
         "The Wall Street Journal",
         "X",
         "Investor's Business Daily",
-        "Finnhub"
+        "Finnhub",
+        "Bloomberg Law"
       ],
       "history": [
         {
@@ -142,6 +147,10 @@
         },
         {
           "date": "2026-11-26",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-27",
           "grade": "must"
         },
         {
@@ -1375,7 +1384,7 @@
     {
       "name": "GPT-6.2 Astra and Sol",
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "sources": [
         "OpenAI 官方博客",
         "Hacker News",
@@ -1410,6 +1419,10 @@
         },
         {
           "date": "2026-11-26",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-27",
           "grade": "must"
         }
       ],
@@ -1558,6 +1571,10 @@
         },
         {
           "date": "2026-11-25",
+          "grade": "watch"
+        },
+        {
+          "date": "2026-11-27",
           "grade": "watch"
         },
         {
@@ -1889,6 +1906,10 @@
         },
         {
           "date": "2026-11-26",
+          "grade": "watch"
+        },
+        {
+          "date": "2026-11-27",
           "grade": "watch"
         },
         {
@@ -2486,6 +2507,10 @@
         {
           "date": "2026-11-27",
           "grade": "watch"
+        },
+        {
+          "date": "2026-11-27",
+          "grade": "watch"
         }
       ],
       "review": {
@@ -2551,6 +2576,10 @@
         },
         {
           "date": "2026-11-26",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-27",
           "grade": "must"
         },
         {
@@ -2771,6 +2800,10 @@
         },
         {
           "date": "2026-11-26",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-27",
           "grade": "must"
         },
         {
@@ -3010,6 +3043,10 @@
         {
           "date": "2026-11-27",
           "grade": "watch"
+        },
+        {
+          "date": "2026-11-27",
+          "grade": "watch"
         }
       ],
       "review": {
@@ -3068,7 +3105,7 @@
     {
       "name": "黄仁勋复职",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "sources": [
         "Hacker News",
         "CNBC",
@@ -3084,7 +3121,8 @@
         "Financial Times",
         "The Guardian",
         "Associated Press",
-        "BBC"
+        "BBC",
+        "The Washington Post"
       ],
       "history": [
         {
@@ -3105,6 +3143,10 @@
         },
         {
           "date": "2026-11-26",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-27",
           "grade": "must"
         }
       ],
@@ -3767,7 +3809,8 @@
         "The Guardian",
         "Ars Technica",
         "The Decoder",
-        "Lobsters"
+        "Lobsters",
+        "The Independent"
       ],
       "history": [
         {
@@ -3780,6 +3823,10 @@
         },
         {
           "date": "2026-11-26",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-27",
           "grade": "must"
         },
         {
@@ -3822,6 +3869,10 @@
         {
           "date": "2026-11-27",
           "grade": "watch"
+        },
+        {
+          "date": "2026-11-27",
+          "grade": "watch"
         }
       ],
       "review": {
@@ -3849,6 +3900,10 @@
         {
           "date": "2026-11-26",
           "grade": "watch"
+        },
+        {
+          "date": "2026-11-27",
+          "grade": "must"
         },
         {
           "date": "2026-11-27",
@@ -4025,6 +4080,10 @@
         {
           "date": "2026-11-27",
           "grade": "must"
+        },
+        {
+          "date": "2026-11-27",
+          "grade": "must"
         }
       ],
       "review": {
@@ -4040,11 +4099,16 @@
       "last_seen": "2026-11-27",
       "sources": [
         "Bloomberg",
-        "Reuters"
+        "Reuters",
+        "CNBC"
       ],
       "history": [
         {
           "date": "2026-11-26",
+          "grade": "watch"
+        },
+        {
+          "date": "2026-11-27",
           "grade": "watch"
         },
         {
@@ -4072,6 +4136,10 @@
       "history": [
         {
           "date": "2026-11-26",
+          "grade": "watch"
+        },
+        {
+          "date": "2026-11-27",
           "grade": "watch"
         },
         {
@@ -4181,6 +4249,10 @@
         {
           "date": "2026-11-27",
           "grade": "echo"
+        },
+        {
+          "date": "2026-11-27",
+          "grade": "watch"
         }
       ],
       "review": {
@@ -4203,6 +4275,94 @@
         {
           "date": "2026-11-27",
           "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-27"
+      }
+    },
+    {
+      "name": "OpenAI 反诉苹果",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "sources": [
+        "Financial Times",
+        "Reuters",
+        "CNN",
+        "9to5Mac",
+        "The Decoder"
+      ],
+      "history": [
+        {
+          "date": "2026-11-27",
+          "grade": "must"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-27"
+      }
+    },
+    {
+      "name": "受限 Blackwell 芯片现身上海数据中心",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "sources": [
+        "Bloomberg",
+        "Gizmodo",
+        "Engadget",
+        "TechSpot"
+      ],
+      "history": [
+        {
+          "date": "2026-11-27",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-27"
+      }
+    },
+    {
+      "name": "Claude「暗中破坏 ML 研究」指控",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "sources": [
+        "X",
+        "Hacker News"
+      ],
+      "history": [
+        {
+          "date": "2026-11-27",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-27"
+      }
+    },
+    {
+      "name": "AI made self-hosting fun again",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "sources": [
+        "Hacker News"
+      ],
+      "history": [
+        {
+          "date": "2026-11-27",
+          "grade": "echo"
         }
       ],
       "review": {
