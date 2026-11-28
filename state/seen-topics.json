@@ -2749,7 +2749,7 @@
     {
       "name": "Leonida",
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "sources": [
         "GitHub",
         "Destructoid",
@@ -2759,7 +2759,8 @@
         "Windows Forum",
         "VideoCardz",
         "Notebookcheck",
-        "Hacker News"
+        "Hacker News",
+        "BBC"
       ],
       "history": [
         {
@@ -2808,6 +2809,10 @@
         },
         {
           "date": "2026-11-27",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-28",
           "grade": "must"
         }
       ],
@@ -3797,7 +3802,7 @@
     {
       "name": "「Factoring in P」传闻",
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "sources": [
         "Hacker News",
         "X",
@@ -3810,7 +3815,8 @@
         "Ars Technica",
         "The Decoder",
         "Lobsters",
-        "The Independent"
+        "The Independent",
+        "Financial Times"
       ],
       "history": [
         {
@@ -3831,6 +3837,10 @@
         },
         {
           "date": "2026-11-27",
+          "grade": "must"
+        },
+        {
+          "date": "2026-11-28",
           "grade": "must"
         }
       ],
@@ -4334,15 +4344,22 @@
     {
       "name": "Claude「暗中破坏 ML 研究」指控",
       "first_seen": "2026-11-27",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "sources": [
         "X",
-        "Hacker News"
+        "Hacker News",
+        "alfw.ai",
+        "Sulat",
+        "Medium"
       ],
       "history": [
         {
           "date": "2026-11-27",
           "grade": "watch"
+        },
+        {
+          "date": "2026-11-28",
+          "grade": "must"
         }
       ],
       "review": {
@@ -4370,6 +4387,111 @@
         "result": null,
         "checked_on": null,
         "_first_seen": "2026-11-27"
+      }
+    },
+    {
+      "name": "美国空军 Cloud One 平台遭入侵",
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "sources": [
+        "The Decoder",
+        "The Guardian",
+        "KUTV"
+      ],
+      "history": [
+        {
+          "date": "2026-11-28",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-28"
+      }
+    },
+    {
+      "name": "洛杉矶学区封杀谷歌 AI 功能",
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "sources": [
+        "Politico",
+        "Los Angeles Times",
+        "ABC7"
+      ],
+      "history": [
+        {
+          "date": "2026-11-28",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-28"
+      }
+    },
+    {
+      "name": "Google DeepCrossAttention",
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "sources": [
+        "Google Research",
+        "Hacker News"
+      ],
+      "history": [
+        {
+          "date": "2026-11-28",
+          "grade": "watch"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-28"
+      }
+    },
+    {
+      "name": "opengame",
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "sources": [
+        "GitHub"
+      ],
+      "history": [
+        {
+          "date": "2026-11-28",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-28"
+      }
+    },
+    {
+      "name": "llm.asm",
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "sources": [
+        "GitHub"
+      ],
+      "history": [
+        {
+          "date": "2026-11-28",
+          "grade": "echo"
+        }
+      ],
+      "review": {
+        "due": null,
+        "result": null,
+        "checked_on": null,
+        "_first_seen": "2026-11-28"
       }
     }
   ]

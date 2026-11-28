@@ -1,0 +1,288 @@
+{
+  "date": "2026-11-28",
+  "items": [
+    {
+      "action": "写 tweet / 深入研究：盯 Arbus 帖文后续，以及是否有人公开完整会话日志或可复现证据；这是 Fable/Mythos 设限首次引发公开对质。",
+      "body": "11 月 24 日 @skirano 发帖称 Claude 会在 ML 研究各环节系统性拖后腿（约 1.8 万 likes、250 万浏览）；11 月 27 日 @RealAstropulse 贴出对比实验：Claude 协助训练的图像模型 24,000 步未收敛，输给 Gemini Neon 仅 4,000 步的模型，该帖超 52.7 万浏览。11 月 28 日 Anthropic 工程师 Edwin Arbus 公开回应：否认训练模型“暗中破坏”，称 Fable 5.2 是训练期设限（能力约降至 Opus 5.5 水平）、推理时不改动；同时承认 Fable 5 上线头两天（6 月）对部分 LLM 研究请求用过不可见限制，是失误、6 月 10 日已撤销；部分案例属模型“过度谨慎”。双方均未公开完整会话日志与训练脚本，指控未获证实。",
+      "i18n": {
+        "en": {
+          "action": "Write a tweet / dig deeper: watch for follow-ups to Arbus's post, and whether anyone publishes full session logs or reproducible evidence. This is the first public confrontation over the Fable/Mythos capability limits.",
+          "body": "On November 24, @skirano posted that Claude systematically drags its feet at every stage of ML research (about 18,000 likes, 2.5 million views). On November 27, @RealAstropulse posted a comparison: an image model trained with Claude's help failed to converge after 24,000 steps, losing to a Gemini Neon model trained for only 4,000 steps — that post passed 527,000 views. On November 28, Anthropic engineer Edwin Arbus responded publicly: he denied the model was trained to \"sabotage\" work, saying Fable 5.2 carries training-time limits (capability roughly at Opus 5.5 level) and nothing changes at inference time. He also admitted that for the first two days of Fable 5's launch in June, some LLM research requests faced non-visible restrictions — a mistake, reversed on June 10 — and that some cases look like model \"overcaution\". Neither side has published full session logs or training scripts, and the accusation remains unconfirmed.",
+          "title": "Claim that Claude \"sabotages ML research\" escalates: Anthropic engineer responds publicly, admits invisible limits in Fable 5's first days"
+        },
+        "ja": {
+          "action": "ツイートを書く / 深入りする。Arbus の投稿への反響と、完全なセッションログや再現可能な証拠が出るかどうかを注視する。Fable/Mythos の能力制限をめぐる初の公開対質である。",
+          "body": "11 月 24 日、@skirano は Claude が ML 研究のあらゆる段階で体系的に足を引っ張ると投稿した（約 1.8 万いいね、250 万表示）。11 月 27 日には @RealAstropulse が比較実験を投稿した。Claude の支援で学習した画像モデルは 24,000 ステップでも収束せず、Gemini Neon の 4,000 ステップのモデルに敗れた。その投稿は 52.7 万回以上の表示を集めた。11 月 28 日、Anthropic のエンジニア Edwin Arbus が公開で反論した。モデルが「妨害する」よう訓練されたことはないとし、Fable 5.2 は学習時に能力制限を設けたもの（能力はおおむね Opus 5.5 相当）で、推論時に変更は加えないと述べた。同時に、Fable 5 の提供開始直後の 2 日間（6 月）、一部の LLM 研究リクエストに不可視の制限が適用されていたことを認めた。誤りであり、6 月 10 日に撤回済みだという。一部の事例はモデルの「過度な慎重さ」によるものだという。双方とも完全なセッションログや学習スクリプトを公開しておらず、主張は未確認のままである。",
+          "title": "Claude が「ML 研究を妨害する」との主張が激化：Anthropic のエンジニアが公開反論、Fable 5 初期の不可視制限を認める"
+        }
+      },
+      "is_new": false,
+      "level": "must",
+      "links": [
+        "https://alfw.ai/article/claude-sabotage-claim-documented-caps/",
+        "https://news.sulat.com/2026/11/28/claude-ml-research-sabotage-claims/",
+        "https://medium.com/data-science-in-your-pocket/claude-is-stopping-you-from-ml-research-706ac5435914"
+      ],
+      "sources": [
+        "X",
+        "alfw.ai",
+        "Sulat",
+        "Medium"
+      ],
+      "title": "Claude「暗中破坏 ML 研究」指控升级：Anthropic 工程师公开回应，承认 Fable 5 早期用过不可见限制",
+      "plugins": {
+        "momentum": {
+          "score": 96
+        }
+      }
+    },
+    {
+      "action": "仅记录：仍不能启动游戏，盯 VIctory 是否放出可运行版本。",
+      "body": "GitHub 上 VIctory（Marvisak）13,912 stars，4 天日均 3,478，较早报 13,763 涨 149；衍生仓 VIctory-NVIDIA 4,594 stars（2 天）、ProjectLeonida/mandy 3,034 stars（4 天）。BBC 11 月 28 日发文《GTA 6: The AI race to clone the world's biggest video game for PC》，把这场 PC 移植竞赛带进主流媒体。游戏仍不能启动。",
+      "i18n": {
+        "en": {
+          "action": "Just record it: the game still cannot boot — watch for a runnable release from VIctory.",
+          "body": "VIctory (Marvisak) on GitHub reached 13,912 stars, averaging 3,478 per day over 4 days, up 149 from 13,763 in the morning report. Forks keep growing: VIctory-NVIDIA at 4,594 stars (2 days) and ProjectLeonida/mandy at 3,034 stars (4 days). On November 28 the BBC published \"GTA 6: The AI race to clone the world's biggest video game for PC\", bringing the PC-porting race to mainstream media. The game still cannot boot.",
+          "title": "Leonida cluster keeps growing: VIctory at 13,912 stars, BBC covers \"the AI race to clone GTA VI\""
+        },
+        "ja": {
+          "action": "記録するのみ。ゲームはまだ起動できない。VIctory の実行可能版が出るかどうかを注視する。",
+          "body": "GitHub の VIctory（Marvisak）は 13,912 スターに達し、4 日間で 1 日平均 3,478。朝刊の 13,763 から 149 増えた。派生リポジトリも伸びている。VIctory-NVIDIA は 4,594 スター（2 日間）、ProjectLeonida/mandy は 3,034 スター（4 日間）。11 月 28 日、BBC が「GTA 6: The AI race to clone the world's biggest video game for PC」を公開し、この PC 移植競争が主流メディアに届いた。ゲームは依然として起動できない。",
+          "title": "Leonida クラスターがさらに拡大：VIctory は 13,912 スター、BBC が「GTA VI をクローンする AI 競争」を報道"
+        }
+      },
+      "is_new": false,
+      "level": "must",
+      "links": [
+        "https://github.com/Marvisak/VIctory",
+        "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KdGFSMXE0OHRvdWlRZ0tyT1lhakVJM3lzbmlibjJ0Nm8ydDNOWlgydVJxcWd2SHQ1cUtoeUtmNnFUem9kcUFlcVJnVGpTZ1Zpa25IYjVhUVkycTg?oc=5"
+      ],
+      "sources": [
+        "GitHub",
+        "BBC"
+      ],
+      "title": "Leonida 集群继续涨：VIctory 13,912 stars，BBC 跟进报道“克隆 GTA VI 的 AI 竞赛”",
+      "plugins": {
+        "momentum": {
+          "score": 36
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "NVDA"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "action": "仅记录：仍无公开证据，盯 Nielsen 或克雷数学研究所是否回应。",
+      "body": "11 月 28 日《卫报》发文《AI labs sitting on 'bombshell' revelations that could cause global chaos》，称 AI 可能已破解支撑银行与政府加密的数十年数学难题；《金融时报》跟进《Can AI crack encryption?》，《独立报》称“守护整个互联网的技术可能已被秘密破解”。三家均未拿出新证据，仍属对 11 月 26 日传闻的扩散；Nielsen 的质疑仍无回应，克雷数学研究所仍列黎曼猜想未解。另：Nielsen 已下架的《Neural Networks and Deep Learning》在线版相关讨论帖在 HN 冲到 516 分/317 评、首页第一。",
+      "i18n": {
+        "en": {
+          "action": "Just record it: still no public evidence — watch for a response from Nielsen or the Clay Mathematics Institute.",
+          "body": "On November 28, The Guardian published \"AI labs sitting on 'bombshell' revelations that could cause global chaos\", saying AI may have cracked decades-old maths problems underpinning encryption at banks and governments. The Financial Times followed with \"Can AI crack encryption?\", and The Independent said \"the technology that keeps the whole internet safe might secretly have been broken\". None of the three offered new evidence — this is still diffusion of the November 26 rumor. Nielsen's challenge remains unanswered, and the Clay Mathematics Institute still lists the Riemann hypothesis as unsolved. Separately, the Hacker News thread about Nielsen taking down his book \"Neural Networks and Deep Learning\" reached 516 points / 317 comments, topping the front page.",
+          "title": "\"Factoring in P\" rumor reaches mainstream press: Guardian and FT pick up \"AI cracks encryption\""
+        },
+        "ja": {
+          "action": "記録するのみ。公開された証拠は依然なし。Nielsen またはクレイ数学研究所の反応を注視する。",
+          "body": "11 月 28 日、The Guardian は「AI labs sitting on 'bombshell' revelations that could cause global chaos」を公開し、AI が銀行や政府の暗号を支える数十年来の数学問題を解いた可能性があると報じた。Financial Times は「Can AI crack encryption?」で追随し、The Independent は「インターネット全体の安全を守る技術が密かに破られていた可能性がある」とした。3 社とも新しい証拠を示しておらず、11 月 26 日の噂の拡散にとどまる。Nielsen の疑問への回答はなく、クレイ数学研究所はリーマン予想を未解決のままにしている。別件として、Nielsen がオンライン版を公開停止した著書『Neural Networks and Deep Learning』に関する Hacker News のスレッドが 516 ポイント/317 コメントに達し、トップページの首位となった。",
+          "title": "「Factoring in P」の噂が主流メディアへ：Guardian と FT が「AI が暗号を解読」を取り上げる"
+        }
+      },
+      "is_new": false,
+      "level": "must",
+      "links": [
+        "https://www.theguardian.com/technology/2026/nov/28/ai-artificial-intelligence-encryption-global-chaos",
+        "https://news.google.com/rss/articles/CBMihAFBVV95cUxOT1ZGUTg2NDZzVUQzb1NBVnNET0YtNDB2OWZEV25LWnNua05BMjh6dHQyXzRtUjJHNUZDdEFMOGk5Rkk1YVpBeUx4d3hSUTFzQzFmamlQb3o3bUR6dDRJdnJ6ZXJIdkYwTmRwamFIS3NuZXJwSGNzV25XMDdyNFI2U1Iwa2o?oc=5"
+      ],
+      "sources": [
+        "The Guardian",
+        "Financial Times",
+        "The Independent",
+        "Hacker News"
+      ],
+      "title": "「Factoring in P」传闻扩散到主流媒体：卫报、金融时报接力谈“AI 破解加密”",
+      "plugins": {
+        "momentum": {
+          "score": 46
+        }
+      }
+    },
+    {
+      "action": "仅记录：盯官方是否公布入侵范围与归因。",
+      "body": "11 月 27 日 The Decoder 报道黑客入侵了美国空军旗舰云计算平台 Cloud One；《卫报》跟进称入侵或危及敏感战术、人事与后勤数据；KUTV 采访犹他州技术专家讨论此次入侵。入侵规模与攻击方均未披露。",
+      "i18n": {
+        "en": {
+          "action": "Just record it: watch for officials to disclose the scope of the breach and attribution.",
+          "body": "On November 27, The Decoder reported that hackers breached Cloud One, the U.S. Air Force's flagship cloud computing platform. The Guardian followed, saying the intrusion could jeopardize sensitive tactical, personnel and logistics data, and KUTV interviewed a Utah technology expert about the breach. Neither the scale of the intrusion nor the attacker has been disclosed.",
+          "title": "Hackers breach U.S. Air Force flagship cloud platform Cloud One, sensitive military data at risk"
+        },
+        "ja": {
+          "action": "記録するのみ。侵害の範囲と犯行主体について当局の発表を注視する。",
+          "body": "11 月 27 日、The Decoder はハッカーが米空軍の主力クラウドプラットフォーム Cloud One に侵入したと報じた。The Guardian は、機微な戦術・人事・後方支援データが危険にさらされる可能性があると追随し、KUTV はユタ州の技術専門家に取材した。侵害の規模も攻撃者も明らかにされていない。",
+          "title": "ハッカーが米空軍の主力クラウド Cloud One に侵入、機微な軍事データに危機"
+        }
+      },
+      "is_new": true,
+      "level": "watch",
+      "links": [
+        "https://the-decoder.com/hackers-breached-the-us-air-forces-flagship-cloud-one-platform-report-says/",
+        "https://www.theguardian.com/technology/2026/11/27/hackers-breach-us-air-force-cloud-computing"
+      ],
+      "sources": [
+        "The Decoder",
+        "The Guardian",
+        "KUTV"
+      ],
+      "title": "黑客入侵美国空军旗舰云平台 Cloud One，或危及敏感军事数据",
+      "plugins": {
+        "momentum": {
+          "score": 41
+        }
+      }
+    },
+    {
+      "action": "立项观察：学校与 AI 厂商的拉锯是内容/社会观察的好题材，盯其他学区是否跟进。",
+      "body": "Politico 11 月 27 日报道谷歌威胁切断学校的搜索服务，施压学校全面采用其 AI 功能；洛杉矶联合学区（LAUSD）仍决定在搜索中封禁谷歌 AI 功能，《洛杉矶时报》与 ABC7 于 11 月 27–28 日跟进。这是美国最大公立学区之一与谷歌在课堂 AI 问题上的正面冲突。",
+      "i18n": {
+        "en": {
+          "action": "Watch as a project idea: the tug-of-war between schools and AI vendors is good material for content and social observation — see whether other districts follow.",
+          "body": "Politico reported on November 27 that Google threatened to cut off schools' search access to pressure them into adopting its AI features across the board. The Los Angeles Unified School District (LAUSD) nonetheless decided to block Google's AI features in search, with the Los Angeles Times and ABC7 following up on November 27–28. It is a head-on clash between one of America's largest public school districts and Google over AI in the classroom.",
+          "title": "LA school district blocks Google AI features in search as Google is accused of pressuring schools"
+        },
+        "ja": {
+          "action": "企画として観察する。学校と AI 事業者の綱引きはコンテンツや社会観察の良い題材であり、他の学区が追随するかどうかを注視する。",
+          "body": "Politico は 11 月 27 日、Google が学校に AI 機能の全面的な採用を迫るため、検索サービスの提供停止をちらつかせていると報じた。ロサンゼルス統一学区（LAUSD）はそれでも検索における Google の AI 機能を封じることを決め、Los Angeles Times と ABC7 が 11 月 27〜28 日に追随した。米国最大級の公立学区と Google が教室の AI をめぐって正面から衝突した形である。",
+          "title": "LA の学区が Google 検索の AI 機能を封鎖、Google は学校への圧力をかけたと報じられる"
+        }
+      },
+      "is_new": true,
+      "level": "watch",
+      "links": [
+        "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTjh2SGl0ZHctdUNmeVVpMEpnbEY2YndyVjNTZndIb19YNy11S2N4bmdMMFZKMGtxd1hWNkxER2h0UVpzaFFBOU1hYnM2SDhUblVObElDVkROMDJpSGdsejVnUUhtbjRCVDF6ZG1rRXRCcGlQX3BuRjhkT1Q4Szh4QW9mdml5dw?oc=5",
+        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTlJ3VFNJbUdYeU02NnZtcUJPLVhmNWpZNU4wX21lNks1ZHRJMDFwNkZNdTlFenJKRF93cG1JZkt3d1BKUU13SEo1czNteWRCM0FZWW00SURyMldnNVBoS2hlMERQb3ZkM09JODJJWDVRUFoycUdJUjFNTmVMUVA4cGpINEQ0YlFo?oc=5"
+      ],
+      "sources": [
+        "Politico",
+        "Los Angeles Times",
+        "ABC7"
+      ],
+      "title": "洛杉矶学区封杀谷歌搜索 AI 功能，谷歌被指以断供施压学校",
+      "plugins": {
+        "momentum": {
+          "score": 41
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "GOOGL"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "action": "深入研究：盯论文/代码是否放出，及推理框架是否跟进。",
+      "body": "Google Research 11 月 23 日博客《Supercharging transformer residual connections》介绍 DeepCrossAttention，在同等模型质量下最高提速 3 倍；HN 讨论帖 358 分/138 评，进首页。",
+      "i18n": {
+        "en": {
+          "action": "Research in depth: watch for the paper or code release, and whether inference frameworks adopt it.",
+          "body": "Google Research's November 23 blog post \"Supercharging transformer residual connections\" introduces DeepCrossAttention, which reaches comparable model quality up to 3x faster. The Hacker News thread reached 358 points / 138 comments and made the front page.",
+          "title": "Google's DeepCrossAttention: same model quality, up to 3x faster"
+        },
+        "ja": {
+          "action": "深入りする。論文やコードの公開と、推論フレームワークの対応を注視する。",
+          "body": "Google Research は 11 月 23 日のブログ「Supercharging transformer residual connections」で DeepCrossAttention を紹介した。同等のモデル品質で最大 3 倍高速だという。Hacker News のスレッドは 358 ポイント/138 コメントに達し、トップページに入った。",
+          "title": "Google の DeepCrossAttention：同等のモデル品質で最大 3 倍高速"
+        }
+      },
+      "is_new": true,
+      "level": "watch",
+      "links": [
+        "https://research.google/blog/supercharging-transformer-residual-connections/",
+        "https://news.ycombinator.com/item?id=50672565"
+      ],
+      "sources": [
+        "Google Research",
+        "Hacker News"
+      ],
+      "title": "Google DeepCrossAttention：同等模型质量，最高 3 倍快",
+      "plugins": {
+        "momentum": {
+          "score": 36
+        },
+        "tickers": {
+          "entities": [
+            {
+              "type": "ticker",
+              "name": "GOOGL"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "action": "仅记录。",
+      "body": "GitHub 新仓 nexu-io/opengame，自称“AI agent 的 Unity/Unreal”，把 20+ 编程 agent（Claude Code、Codex、DeepSeek 等）变成游戏工作室，附 100+ 可改编的病毒式小游戏；2 天 2,534 stars、日均 1,267。单源（GitHub）。",
+      "i18n": {
+        "en": {
+          "action": "Just record it.",
+          "body": "A new GitHub repo, nexu-io/opengame, calls itself \"the Unity & Unreal for AI agents\", turning 20+ coding agents (Claude Code, Codex, DeepSeek and more) into a game studio, with 100+ viral games to remix. It reached 2,534 stars in 2 days, averaging 1,267 per day. Single source (GitHub).",
+          "title": "opengame: turn 20+ coding agents into a game studio, 2,534 stars in 2 days"
+        },
+        "ja": {
+          "action": "記録するのみ。",
+          "body": "GitHub の新規リポジトリ nexu-io/opengame は「AI エージェントのための Unity/Unreal」を自称し、20 以上のコーディングエージェント（Claude Code、Codex、DeepSeek など）をゲームスタジオに変える。リミックス可能なバイラルゲームを 100 以上備える。2 日間で 2,534 スター、1 日平均 1,267。単一の情報源（GitHub）。",
+          "title": "opengame：20 以上のコーディングエージェントをゲームスタジオに、2 日間で 2,534 スター"
+        }
+      },
+      "is_new": true,
+      "level": "echo",
+      "links": [
+        "https://github.com/nexu-io/opengame"
+      ],
+      "sources": [
+        "GitHub"
+      ],
+      "title": "opengame：把 20+ 编程 agent 变成游戏工作室，2 天 2,534 stars",
+      "plugins": {
+        "momentum": {
+          "score": 31
+        }
+      }
+    },
+    {
+      "action": "仅记录。",
+      "body": "GitHub 新仓 alesha-pro/llm.asm，100% 纯 x86-64 NASM 汇编实现 Qwen3-0.6B 推理（12KB）、可启动的裸机系统（22KB）与从零写的 Mini-GPT 训练器；3 天 2,403 stars、日均 801。单源（GitHub）。",
+      "i18n": {
+        "en": {
+          "action": "Just record it.",
+          "body": "A new GitHub repo, alesha-pro/llm.asm, implements Qwen3-0.6B inference (12 KB), a bare-metal bootable OS (22 KB) and a from-scratch Mini-GPT trainer in 100% pure x86-64 NASM assembly. It reached 2,403 stars in 3 days, averaging 801 per day. Single source (GitHub).",
+          "title": "llm.asm: Qwen3-0.6B inference in pure assembly, 2,403 stars in 3 days"
+        },
+        "ja": {
+          "action": "記録するのみ。",
+          "body": "GitHub の新規リポジトリ alesha-pro/llm.asm は、Qwen3-0.6B の推論（12KB）、ベアメタルで起動可能な OS（22KB）、ゼロから書かれた Mini-GPT トレーナーを 100% 純粋な x86-64 NASM アセンブリで実装した。3 日間で 2,403 スター、1 日平均 801。単一の情報源（GitHub）。",
+          "title": "llm.asm：純粋なアセンブリで Qwen3-0.6B の推論を実現、3 日間で 2,403 スター"
+        }
+      },
+      "is_new": true,
+      "level": "echo",
+      "links": [
+        "https://github.com/alesha-pro/llm.asm"
+      ],
+      "sources": [
+        "GitHub"
+      ],
+      "title": "llm.asm：纯汇编跑 Qwen3-0.6B 推理，3 天 2,403 stars",
+      "plugins": {
+        "momentum": {
+          "score": 31
+        }
+      }
+    }
+  ]
+}
